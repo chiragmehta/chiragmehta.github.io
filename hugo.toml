@@ -1,0 +1,4 @@
+baseURL = 'https://chiragmehta.github.io/'
+languageCode = 'en-us'
+title = 'LLaMatters by Chirag Mehta'
+theme = 'mini'

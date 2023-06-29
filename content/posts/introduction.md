@@ -1,3 +1,9 @@
+---
+title: "LLaMatters by Chirag"
+date: 2023-06-29T15:47:24-05:00
+draft: true
+---
+
 # LLaMatters by Chirag
 
 ## ChatGPT & Beyond
@@ -13,6 +19,6 @@ Tech has been my life and motivation for as long as I can remember but I was los
 
 PS: I'm typing this in Visual Studio Code with GitHub Co-Pilot enabled, and it keeps offering to write the next few sentences for me. It suggested "I'm not sure if I should be excited or scared." as the next sentence here. Wrong! As an optimist, I'm excited, and as a programmer, I'm thrilled.
 
-## Disclaimer 
+## Disclaimer
 
 I am deeply sensitive to the downsides of mass adoption of AI/GPT, especially to the creators whose works are sucked into these models and people whose careers will be replaced with even more automation. However, opining about such matters is well above my level of expertise and could in fact be more insulting than helpful. So I will leave that to the experts and focus on the practical use and applications of LLMs instead.
