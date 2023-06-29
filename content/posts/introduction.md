@@ -1,10 +1,10 @@
 ---
-title: "LLaMatters by Chirag"
+title: "LLaMatters by Chir.ag"
 date: 2023-06-29T15:47:24-05:00
-draft: true
+draft: false
 ---
 
-# LLaMatters by Chirag
+# LLaMatters by Chir.ag
 
 ## ChatGPT & Beyond
 
