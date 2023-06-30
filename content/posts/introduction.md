@@ -1,14 +1,15 @@
 ---
-title: "LLaMatters by Chir.ag"
+title: "Introduction"
 date: 2023-06-29T15:47:24-05:00
 draft: false
 ---
 
-# LLaMatters by Chir.ag
+# LLaMatters
 
 ## ChatGPT & Beyond
 
-As a user, ChatGPT is helpful. For most, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses. ChatGPT by OpenAI is a fantastic tool and at the moment, far ahead of its competitors, but it is just one way of using conversational language to interact with computers. There is so much more happening in this field, especially in online communities like [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA), that is redefining how we will eventually write and use software, but is not common-knowledge yet. With this blog, I hope to share my thoughts on where this field is going in non-programmer terms, how others could use or rather improve their use of these tools, and what I personally hope to get/make for myself.
+<!--begin-->
+As a user, ChatGPT is helpful. For many, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses. ChatGPT by OpenAI is a fantastic tool and at the moment, far ahead of its competitors, but it is just one way of using conversational language to interact with computers. There is so much more happening in this field, especially in online communities like [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA), that is redefining how we will eventually write and use software, but is not common-knowledge yet. With this blog, I hope to share my thoughts on where this field is going in non-programmer terms, how others could use or rather improve their use of these tools, and what I personally hope to get/make for myself.
 
 ## Background
 

@@ -1,0 +1,27 @@
+.main #single h1.title {
+    border-bottom: 1px solid #ccc;
+}
+
+.main .profile {
+    padding-bottom: 4em;
+}
+
+.main .profile h2 {
+    font-size: 1em;
+}
+
+.content h1 {
+    font-size: 1.8em;
+    border-bottom: 1px solid #ccc;
+}
+
+.content h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.content p {
+    margin-block-start: 0.5em;
+    margin-block-end: 2em;
+}
