@@ -1,10 +1,10 @@
 ---
-title: "Glossary: Acronyms, Definitions, Jargon"
+title: "Glossary"
 date: 2023-07-06T20:53:32-05:00
 draft: false
 ---
 
-# Glossary
+# Glossary: Acronyms, Definitions, Jargon
 
 <!--begin-->
 
