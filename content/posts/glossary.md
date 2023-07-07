@@ -10,7 +10,7 @@ draft: false
 
 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.
 
-Wikipedia's page of [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence) is thorough, especially for students and researchers, but does not include most of the new lingo you might find on [r/LocalLLaMA](https://reddit.com/r/localLLaMA/) or [HuggingFace](https://huggingface.co/) repos that could be essential for beginners.
+Wikipedia's [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence) is thorough, especially for students and researchers, but does not include most of the new lingo you might find on [r/LocalLLaMA](https://reddit.com/r/localLLaMA/) or [HuggingFace](https://huggingface.co/) repos that could be essential for beginners.
 
 I will do my best to maintain this list as a simple guide for those starting with LLMs. I am not aiming for accuracy or correctness but rather simplification and understanding.
 
