@@ -6,7 +6,16 @@
     <description>Recent content in Posts on LLaMatters by Chirag Mehta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 15:47:24 -0500</lastBuildDate><atom:link href="https://chiragmehta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 20:53:32 -0500</lastBuildDate><atom:link href="https://chiragmehta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary: Acronyms, Definitions, Jargon</title>
+      <link>https://chiragmehta.github.io/posts/glossary-acronyms-definitions-jargon/</link>
+      <pubDate>Thu, 06 Jul 2023 20:53:32 -0500</pubDate>
+      
+      <guid>https://chiragmehta.github.io/posts/glossary-acronyms-definitions-jargon/</guid>
+      <description>Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</description>
+    </item>
+    
     <item>
       <title>Introduction</title>
       <link>https://chiragmehta.github.io/posts/introduction/</link>
