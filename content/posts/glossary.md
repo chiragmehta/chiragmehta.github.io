@@ -44,13 +44,13 @@ For programmers in corporate environment, how great would it be to use a version
 
 **[GPT-Quantized](https://arxiv.org/abs/2210.17323)** is a smaller version of a larger LLM, simplified using quantization. LLMs contain billions of decimal "weights", akin to the strength of individual connections between the neurons in our brain, which are then used by the generative algorithm to output text. Since it takes more bytes to store 3.1415926535 than 3 or 3.14, and for many purposes, 3 is good enough, "quantizing" the more precise decimal from 3.1415926535 to 3 saves a lot of space and gives nearly the same quality of result.
 
-While in theory, quantization could affect the quality of long conversations, similar to Lorenz's experience with chopping off decimals in [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory#History), in practice, it makes little difference because LLM outputs are not deterministic. LLMs will give a slightly different answer each time for the same question, so by design they are not predictable. Quantizing the weights saves space, makes it possible to run LLMs on more hardware, and does not significantly reduce the quality of the responses.
+While in theory, quantization could affect the quality of long conversations, similar to Lorenz's experience with chopping off decimals in [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory#History), in practice, it makes little difference because LLM outputs are not deterministic. LLMs will give a slightly different answer each time for the same question, so by design they are not predictable. Quantizing the weights saves space, makes it possible to run LLMs on less powerful hardware, and does not significantly reduce the quality of the responses.
 
 LLM GPTQ models are designed to work best on Nvidia graphics cards (GPU) that support CUDA. If you do not have a GPU, GGML format might be a better option.
 
 ## GGML
 
-**[Georgi Gerganov ML](https://github.com/ggerganov/ggml)** is another way to quantize LLMs, with the aim to make them run efficiently and entirely on any sufficiently [powerful CPU](https://github.com/rustformers/llm/blob/main/crates/ggml/README.md).
+**[Georgi Gerganov ML](https://github.com/ggerganov/ggml)** is another way to quantize LLMs, with the aim to make them run efficiently and entirely on any decently [powerful CPU](https://github.com/rustformers/llm/blob/main/crates/ggml/README.md).
 
 So if you have an Nvidia GPU, use GPTQ version of LLMs. Otherwise, use GGML version, especially if you have Apple Silicon (M1/M2). If you have a different, more powerful graphics card or custom hardware with multiple CPUs and ton of RAM, you can try the original, non-quantized LLM models. I recommend sticking to quantized for personal, home-office, or small-business use. Beyond that you are on your own in the wild-west of LLMs.
 
