@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LLaMatters by Chirag Mehta</title>
-    <link>https://chiragmehta.github.io/posts/</link>
+    <link>https://llamatters.chir.ag/posts/</link>
     <description>Recent content in Posts on LLaMatters by Chirag Mehta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2023 20:53:32 -0500</lastBuildDate><atom:link href="https://chiragmehta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jul 2023 05:55:27 -0500</lastBuildDate><atom:link href="https://llamatters.chir.ag/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Glossary</title>
-      <link>https://chiragmehta.github.io/posts/glossary/</link>
-      <pubDate>Thu, 06 Jul 2023 20:53:32 -0500</pubDate>
+      <title>Readability: Using LLM to rewrite text to any comprehension level or length</title>
+      <link>https://llamatters.chir.ag/posts/readability/</link>
+      <pubDate>Thu, 13 Jul 2023 05:55:27 -0500</pubDate>
       
-      <guid>https://chiragmehta.github.io/posts/glossary/</guid>
-      <description>Glossary: Acronyms, Definitions, Jargon 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</description>
+      <guid>https://llamatters.chir.ag/posts/readability/</guid>
+      <description>Readability 🔗 For many years, I have wanted a simple slider or two that would allow me to adjust the readability level of any web page I am reading. While generally I want in-depth details on topics I care about, sometimes I just want the gist of it without technical jargon.</description>
+    </item>
+    
+    <item>
+      <title>Glossary: Acronyms, Definitions, Jargon</title>
+      <link>https://llamatters.chir.ag/posts/glossary/</link>
+      <pubDate>Sat, 01 Jul 2023 20:53:32 -0500</pubDate>
+      
+      <guid>https://llamatters.chir.ag/posts/glossary/</guid>
+      <description>Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://chiragmehta.github.io/posts/introduction/</link>
+      <link>https://llamatters.chir.ag/posts/introduction/</link>
       <pubDate>Thu, 29 Jun 2023 15:47:24 -0500</pubDate>
       
-      <guid>https://chiragmehta.github.io/posts/introduction/</guid>
+      <guid>https://llamatters.chir.ag/posts/introduction/</guid>
       <description>LLaMatters 🔗ChatGPT &amp;amp; Beyond 🔗 As a user, ChatGPT is helpful. For many, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses.</description>
     </item>
     

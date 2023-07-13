@@ -1,6 +1,7 @@
 ---
-title: "Agents"
-date: 2023-07-04T11:58:15-05:00
+slug: agents
+title: "DRAFT: Agents make LLMs awesome"
+date: 2023-07-12T11:58:15-05:00
 draft: true
 ---
 

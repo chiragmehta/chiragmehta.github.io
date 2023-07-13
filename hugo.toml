@@ -1,4 +1,4 @@
-baseURL = 'https://chiragmehta.github.io/'
+baseURL = 'https://llamatters.chir.ag/'
 languageCode = 'en-us'
 title = 'LLaMatters by Chirag Mehta'
 theme = 'mini'
@@ -23,7 +23,7 @@ timeZone = 'America/Chicago'
   showToc = true
 
 [permalinks]
-  posts = '/posts/:title/'
+  posts = '/posts/:slug/'
 
 [related]
   includeNewer = true

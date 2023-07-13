@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <title>Glossary | LLaMatters by Chirag Mehta</title>
+    <title>Glossary: Acronyms, Definitions, Jargon | LLaMatters by Chirag Mehta</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="Glossary: Acronyms, Definitions, Jargon 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.">
+<meta name="description" content="Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.">
 <meta name="generator" content="Hugo 0.114.1">
 
 
@@ -18,7 +18,7 @@
 
   
     
-    <link rel="stylesheet" href="https://chiragmehta.github.io/css/custom.css">
+    <link rel="stylesheet" href="https://llamatters.chir.ag/css/custom.css">
   
 
 
@@ -53,15 +53,15 @@
       
 
 <section id="single">
-    <h1 class="title">Glossary</h1>
+    <h1 class="title">Glossary: Acronyms, Definitions, Jargon</h1>
 
     <div class="tip">
-        <time datetime="2023-07-06 20:53:32 -0500 CDT">Jul 6, 2023</time>
+        <time datetime="2023-07-01 20:53:32 -0500 CDT">Jul 1, 2023</time>
         <span class="split">
           ·
         </span>
         <span>
-          1285 words
+          1287 words
         </span>
         <span class="split">
           ·
@@ -103,9 +103,9 @@
 
 
     <div class="content">
-      <h1 id="glossary-acronyms-definitions-jargon">Glossary: Acronyms, Definitions, Jargon <a href="#glossary-acronyms-definitions-jargon" class="anchor">🔗</a></h1><!-- raw HTML omitted -->
+      <h1 id="glossary">Glossary <a href="#glossary" class="anchor">🔗</a></h1><!-- raw HTML omitted -->
 <p>Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</p>
-<p>Wikipedia&rsquo;s <a href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence" target="_blank" rel="noopener">Glossary of artificial intelligence</a> is thorough, especially for students and researchers, but does not include most of the new lingo you might find on <a href="https://reddit.com/r/localLLaMA/" target="_blank" rel="noopener">r/LocalLLaMA</a> or <a href="https://huggingface.co/" target="_blank" rel="noopener">HuggingFace</a> repos that could be essential for beginners.</p>
+<p>Wikipedia has a thorough <a href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence" target="_blank" rel="noopener">Glossary of artificial intelligence</a>, and while it is useful for students and researchers, it does not include most of the new lingo you might find on <a href="https://reddit.com/r/localLLaMA/" target="_blank" rel="noopener">r/LocalLLaMA</a> or <a href="https://huggingface.co/" target="_blank" rel="noopener">HuggingFace</a> repos that could be essential for beginners.</p>
 <p>I will do my best to maintain this list as a simple guide for those starting with LLMs. I am not aiming for accuracy or correctness but rather simplification and understanding.</p>
 <h2 id="gpt">GPT <a href="#gpt" class="anchor">🔗</a></h2><p><strong><a href="https://en.wikipedia.org/wiki/Generative_pre-trained_transformer" target="_blank" rel="noopener">Generative Pre-trained Transformer</a></strong> is the &lsquo;GPT&rsquo; in OpenAI&rsquo;s <a href="https://openai.com/chatgpt" target="_blank" rel="noopener">ChatGPT</a>.</p>
 <p>GPT is an AI/ML tool trained to predict the next word in a sentence, similar to autocomplete on a phone keyboard. The learning algorithm (the T in GPT for <a href="https://en.wikipedia.org/wiki/Transformer_%28machine_learning_model%29" target="_blank" rel="noopener">Transformers</a> by <a href="https://arxiv.org/abs/1706.03762" target="_blank" rel="noopener">Google</a>), is pre-trained (the P in GPT) without supervision. Unsupervised training means the researchers do not specifically teach or guide it on how language works, what words or sentences mean, or how terms are tagged into categories. Researchers give a very large volume of text to the transformer algorithm, and similar to how a search engine or a database builds an index, the system goes through the entire text. But unlike search engines or databases, it does not keep an exact copy of the data or build an index for quick access, but rather calculates the probabilities of what word might come after the previous one.</p>
@@ -124,7 +124,7 @@
 <h2 id="lora">LoRA <a href="#lora" class="anchor">🔗</a></h2><p><strong><a href="https://github.com/microsoft/LoRA" target="_blank" rel="noopener">Low-Rank Adaptation of Large Language Models</a></strong> by Microsoft allows for cheap retraining of existing LLMs for specific tasks or datasets. It is extremely expensive to train large models from scratch, so LoRA allows fine-tuning of existing models to be better at very specific things. End-user tools like <a href="https://github.com/oobabooga/text-generation-webui" target="_blank" rel="noopener">OobaBooga</a> allow for loading one or more LoRAs to perform specialized tasks and even train new LoRAs.</p>
 <h2 id="qlora">QLoRA <a href="#qlora" class="anchor">🔗</a></h2><p><strong><a href="https://arxiv.org/abs/2305.14314" target="_blank" rel="noopener">Quantized LoRA</a></strong> is an algorithm that retrains a smaller <a href="https://github.com/artidoro/qlora" target="_blank" rel="noopener">quantized LLM using LoRA</a>. QLoRA is extremely powerful because it allows a smaller LLM, say with 13 billion parameters, to be retrained using Q&amp;A responses from a much larger model, say with 65+ billion parameters. This could make a smaller model perform certain tasks as well as a larger model, without retraining from scratch.</p>
 <h2 id="stable-diffusion-sd">Stable Diffusion (SD) <a href="#stable-diffusion-sd" class="anchor">🔗</a></h2><p><strong><a href="https://en.wikipedia.org/wiki/Stable_Diffusion" target="_blank" rel="noopener">Stable Diffusion</a></strong> by Stability AI is to <a href="https://en.wikipedia.org/wiki/Text-to-image_model" target="_blank" rel="noopener">text-to-image models</a> what LLaMA is to LLMs – the first major open model for general public to create images based on text. I absolutely love SD and recommend everyone <a href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank" rel="noopener">try it out</a>. If you want to learn how to use SD, pick up some tips &amp; tricks, or see what others are creating, check out <a href="https://www.reddit.com/r/StableDiffusion/" target="_blank" rel="noopener">r/StableDiffusion</a>.</p>
-<p>Popular cloud-based alternatives to SD for digital artists are <a href="https://www.midjourney.com/" target="_blank" rel="noopener">MidJourney</a>, <a href="https://openai.com/dall-e-2" target="_blank" rel="noopener">Dall-E</a>, and <a href="https://firefly.adobe.com/" target="_blank" rel="noopener">FireFly</a>.</p>
+<p>Popular cloud-based alternatives to SD for digital artists are <a href="https://www.midjourney.com/" target="_blank" rel="noopener">MidJourney</a>, <a href="https://openai.com/dall-e-2" target="_blank" rel="noopener">Dall-E</a>, and <a href="https://firefly.adobe.com/" target="_blank" rel="noopener">Firefly</a>.</p>
 <p>In addition to text-to-image, there are many new speech-to-text (i.e. speech recognition) solutions like <a href="https://openai.com/research/whisper" target="_blank" rel="noopener">Whisper</a> and <a href="https://www.assemblyai.com/" target="_blank" rel="noopener">Assembly.ai</a>. For text-to-speech, check out <a href="https://elevenlabs.io/" target="_blank" rel="noopener">ElevenLabs</a>, <a href="https://voice.ai/" target="_blank" rel="noopener">Voice.ai</a>, and <a href="https://mycroft.ai/mimic-3/" target="_blank" rel="noopener">Mimic</a>.</p>
 
     </div>

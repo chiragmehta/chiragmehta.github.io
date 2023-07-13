@@ -1,16 +1,17 @@
 ---
-title: "Glossary"
-date: 2023-07-06T20:53:32-05:00
+slug: glossary
+title: "Glossary: Acronyms, Definitions, Jargon"
+date: 2023-07-01T20:53:32-05:00
 draft: false
 ---
 
-# Glossary: Acronyms, Definitions, Jargon
+# Glossary
 
 <!--begin-->
 
 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.
 
-Wikipedia's [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence) is thorough, especially for students and researchers, but does not include most of the new lingo you might find on [r/LocalLLaMA](https://reddit.com/r/localLLaMA/) or [HuggingFace](https://huggingface.co/) repos that could be essential for beginners.
+Wikipedia has a thorough [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence), and while it is useful for students and researchers, it does not include most of the new lingo you might find on [r/LocalLLaMA](https://reddit.com/r/localLLaMA/) or [HuggingFace](https://huggingface.co/) repos that could be essential for beginners.
 
 I will do my best to maintain this list as a simple guide for those starting with LLMs. I am not aiming for accuracy or correctness but rather simplification and understanding.
 
@@ -66,6 +67,6 @@ So if you have an Nvidia GPU, use GPTQ version of LLMs. Otherwise, use GGML vers
 
 **[Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)** by Stability AI is to [text-to-image models](https://en.wikipedia.org/wiki/Text-to-image_model) what LLaMA is to LLMs – the first major open model for general public to create images based on text. I absolutely love SD and recommend everyone [try it out](https://huggingface.co/spaces/stabilityai/stable-diffusion). If you want to learn how to use SD, pick up some tips & tricks, or see what others are creating, check out [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/).
 
-Popular cloud-based alternatives to SD for digital artists are [MidJourney](https://www.midjourney.com/), [Dall-E](https://openai.com/dall-e-2), and [FireFly](https://firefly.adobe.com/).
+Popular cloud-based alternatives to SD for digital artists are [MidJourney](https://www.midjourney.com/), [Dall-E](https://openai.com/dall-e-2), and [Firefly](https://firefly.adobe.com/).
 
 In addition to text-to-image, there are many new speech-to-text (i.e. speech recognition) solutions like [Whisper](https://openai.com/research/whisper) and [Assembly.ai](https://www.assemblyai.com/). For text-to-speech, check out [ElevenLabs](https://elevenlabs.io/), [Voice.ai](https://voice.ai/), and [Mimic](https://mycroft.ai/mimic-3/).
