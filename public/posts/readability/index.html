@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <title>Readability: Using LLM to rewrite text to any comprehension level or length | LLaMatters by Chirag Mehta</title>
+    <title>Readability: Rewriting text to any comprehension level or length | LLaMatters by Chirag Mehta</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="Readability 🔗 For many years, I have wanted a simple slider or two that would allow me to adjust the readability level of any web page I am reading. While generally I want in-depth details on topics I care about, sometimes I just want the gist of it without technical jargon.">
+<meta name="description" content="Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overview of a topic. But sometimes the articles are too long or too technical. Simple Wikipedia helps, although it can still be pretty lengthy and not always simple enough.">
 <meta name="generator" content="Hugo 0.114.1">
 
 
@@ -53,7 +53,7 @@
       
 
 <section id="single">
-    <h1 class="title">Readability: Using LLM to rewrite text to any comprehension level or length</h1>
+    <h1 class="title">Readability: Rewriting text to any comprehension level or length</h1>
 
     <div class="tip">
         <time datetime="2023-07-13 05:55:27 -0500 CDT">Jul 13, 2023</time>
@@ -61,13 +61,13 @@
           ·
         </span>
         <span>
-          395 words
+          859 words
         </span>
         <span class="split">
           ·
         </span>
         <span>
-          2 minute read
+          5 minute read
         </span>
     </div>
 
@@ -82,6 +82,8 @@
           <div>
               <nav id="TableOfContents">
   <ul>
+    <li><a href="#readable-content-is-easier-to-comprehend"><em>Readable content is easier to comprehend</em></a></li>
+    <li><a href="#applications">Applications</a></li>
     <li><a href="#level">Level</a></li>
     <li><a href="#length">Length</a></li>
     <li><a href="#ux-preview">UX Preview</a></li>
@@ -99,8 +101,156 @@
 
 
     <div class="content">
-      <h1 id="readability">Readability <a href="#readability" class="anchor">🔗</a></h1><!-- raw HTML omitted -->
-<p>For many years, I have wanted a simple slider or two that would allow me to adjust the readability level of any web page I am reading. While generally I want in-depth details on topics I care about, sometimes I just want the gist of it without technical jargon. LLMs can make that happen. I think someday in the future, along with adjusting font-size and color, we will have two more sliders: level and length.</p>
+      <h1 id="need-for-simplicity">Need for simplicity <a href="#need-for-simplicity" class="anchor">🔗</a></h1><!-- raw HTML omitted -->
+<p>Wikipedia is a great resource for getting a quick overview of a topic. But sometimes the articles are too long or too technical. <a href="https://simple.wikipedia.org" target="_blank" rel="noopener">Simple Wikipedia</a> helps, although it can still be pretty <a href="https://simple.wikipedia.org/wiki/Cancer" target="_blank" rel="noopener">lengthy</a> and not always simple enough. Or it might be too simple, depending on what I am trying to learn. I&rsquo;ve always wanted to be able to choose the level of detail and length based on what I am looking. Sometimes when I am researching a new topic and come across 10 new terms, all linking to their own detailed Wikipedia pages, I just want to get a 50-100 word gist. Other times, I want to get a 1000-word summary of a topic I am sort of familiar with but don&rsquo;t know well enough.</p>
+<p>I have this same need for other text-based content like news articles and technical documents. And I believe a solution for this would improve readability and thus improve comprehension for everyone, not just me.</p>
+<h1 id="readability--comprehension">Readability &amp; Comprehension <a href="#readability--comprehension" class="anchor">🔗</a></h1><p>Readability refers to the ease with which a reader can read and understand a written text. It is influenced by factors such as sentence length, word complexity, and the structure of the text. Comprehension is the reader&rsquo;s ability to absorb and interpret the information presented in the text. The best way to explain any concept or information is to cater to the reader&rsquo;s level of understanding and prior knowledge. This can be achieved by using familiar language, breaking down complex ideas into smaller parts, and using examples or analogies that the reader can relate to.</p>
+<h2 id="readable-content-is-easier-to-comprehend"><em>Readable content is easier to comprehend</em> <a href="#readable-content-is-easier-to-comprehend" class="anchor">🔗</a></h2>
+<div style="text-align: center;">
+    <br>
+Slide to change reading level
+</div>
+
+
+
+<style>
+    .slider-content {
+        border-left: 4px solid #0594cb;
+    }
+
+    .slide-pane {
+        display: none;
+        padding: 0.5em 1em;
+        background: #eee;
+
+    }
+
+    .slide-title {
+        border-bottom: 1px solid #ccc;
+        padding: 0;
+        margin: 0;
+        margin-bottom: 1em;
+    }
+
+    p.slide-body {
+        margin: 1em;
+        padding: 0;
+    }
+
+    .slide-show {
+        display: block !important;
+    }
+</style>
+
+<script>
+    function setSlide(s) {
+        var v=document.getElementById(s).value;
+        Array.from(document.querySelectorAll('#read-level-content > div.slide-pane')).forEach(
+            div => { div.classList.remove('slide-show'); });
+        document.getElementById('read-level_' + v).classList.add('slide-show');
+    }
+</script>
+
+<div class="slider-wrapper">
+    <input type="range" value="0" min="0" max="8"
+        class="slider" id="read-level"
+        oninput="setSlide('read-level');"
+        onchange="setSlide('read-level');"
+        style="width:100%;">
+</div>
+<div class="slider-content" id="read-level-content">
+    
+
+
+
+<div class="slide-pane slide-show" id="read-level_0" title="2nd grade">
+    <h2 class="slide-title">2nd grade</h2>
+    <p class="slide-body" style="height:80px">
+        If you can easily understand what you&rsquo;re reading, it&rsquo;s good!
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_1" title="5th grade">
+    <h2 class="slide-title">5th grade</h2>
+    <p class="slide-body" style="height:80px">
+        When things are written in a way that&rsquo;s easy to understand, it&rsquo;s better for the reader.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_2" title="8th grade">
+    <h2 class="slide-title">8th grade</h2>
+    <p class="slide-body" style="height:80px">
+        Content that is written in a clear and simple way is easier for people to understand.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_3" title="10th grade">
+    <h2 class="slide-title">10th grade</h2>
+    <p class="slide-body" style="height:80px">
+        If the material you&rsquo;re reading is written in a clear and straightforward manner, it becomes easier to comprehend and interpret.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_4" title="12th grade">
+    <h2 class="slide-title">12th grade</h2>
+    <p class="slide-body" style="height:80px">
+        When content is written in a way that is easily understood, it facilitates comprehension and enhances the reader&rsquo;s ability to absorb the information.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_5" title="2nd year college">
+    <h2 class="slide-title">2nd year college</h2>
+    <p class="slide-body" style="height:80px">
+        Content that is written in a comprehensible manner promotes ease of understanding, thereby improving the reader&rsquo;s ability to process and retain the information.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_6" title="College Graduate">
+    <h2 class="slide-title">College Graduate</h2>
+    <p class="slide-body" style="height:80px">
+        Content that is articulated in a clear, concise, and comprehensible manner significantly eases the process of understanding, leading to better comprehension and retention of the information.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_7" title="PhD Student">
+    <h2 class="slide-title">PhD Student</h2>
+    <p class="slide-body" style="height:80px">
+        Readable content, characterized by clarity, conciseness, and comprehensibility, significantly enhances the reader&rsquo;s cognitive processing, leading to improved comprehension and information retention.
+    </p>
+</div>
+
+
+
+<div class="slide-pane" id="read-level_8" title="Expert in field">
+    <h2 class="slide-title">Expert in field</h2>
+    <p class="slide-body" style="height:80px">
+        Content that is presented in a highly readable format, characterized by linguistic clarity, conceptual conciseness, and contextual comprehensibility, optimizes the reader&rsquo;s cognitive processing capabilities, thereby facilitating superior comprehension and long-term retention of the information.
+    </p>
+</div>
+
+
+</div>
+
+<script>
+   setSlide("read-level");
+</script>
+<h2 id="applications">Applications <a href="#applications" class="anchor">🔗</a></h2><p>I think someday in the future, along with adjusting zoom-level, font-size, and color, we will have a couple of more sliders in every browser: level and length.</p>
+<p>// write about where it gets rendered - cost is on the local
+// write about selecting a piece of text and then selecting a level and length for explanation</p>
 <h2 id="level">Level <a href="#level" class="anchor">🔗</a></h2><p>Level is reading comprehension level, from 1st grade to 12th grade, from college first year to 20yr expert in field. Level can also automatically use sensible euphemisms for younger readers to reduce the details of gore, violence, or explicit verbiage.</p>
 <h2 id="length">Length <a href="#length" class="anchor">🔗</a></h2><p>Length is for specifying the number of words, from summary (50-100 words) to detailed (1000-1500 words). Length is about focusing on the core concepts of the text to best explain the material, and not just listing the &ldquo;Top 5 Things About&hellip;&rdquo;</p>
 <h2 id="ux-preview">UX Preview <a href="#ux-preview" class="anchor">🔗</a></h2><p>This is the current Mobile Safari Reader options panel:</p>

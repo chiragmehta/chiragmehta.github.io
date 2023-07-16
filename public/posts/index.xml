@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jul 2023 05:55:27 -0500</lastBuildDate><atom:link href="https://llamatters.chir.ag/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Readability: Using LLM to rewrite text to any comprehension level or length</title>
+      <title>Readability: Rewriting text to any comprehension level or length</title>
       <link>https://llamatters.chir.ag/posts/readability/</link>
       <pubDate>Thu, 13 Jul 2023 05:55:27 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/posts/readability/</guid>
-      <description>Readability 🔗 For many years, I have wanted a simple slider or two that would allow me to adjust the readability level of any web page I am reading. While generally I want in-depth details on topics I care about, sometimes I just want the gist of it without technical jargon.</description>
+      <description>Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overview of a topic. But sometimes the articles are too long or too technical. Simple Wikipedia helps, although it can still be pretty lengthy and not always simple enough.</description>
     </item>
     
     <item>

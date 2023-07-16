@@ -1,0 +1,54 @@
+{{ $contentID := print (.Get "name") "-content" }}
+
+<style>
+    .slider-content {
+        border-left: 4px solid #0594cb;
+    }
+
+    .slide-pane {
+        display: none;
+        padding: 0.5em 1em;
+        background: #eee;
+
+    }
+
+    .slide-title {
+        border-bottom: 1px solid #ccc;
+        padding: 0;
+        margin: 0;
+        margin-bottom: 1em;
+    }
+
+    p.slide-body {
+        margin: 1em;
+        padding: 0;
+    }
+
+    .slide-show {
+        display: block !important;
+    }
+</style>
+
+<script>
+    function setSlide(s) {
+        var v=document.getElementById(s).value;
+        Array.from(document.querySelectorAll('#{{ $contentID }} > div.slide-pane')).forEach(
+            div => { div.classList.remove('slide-show'); });
+        document.getElementById('{{ .Get "name" }}_' + v).classList.add('slide-show');
+    }
+</script>
+
+<div class="slider-wrapper">
+    <input type="range" value="0" min="0" max="{{ .Get "range" }}"
+        class="slider" id="{{ .Get "name" }}"
+        oninput="setSlide('{{ .Get "name" }}');"
+        onchange="setSlide('{{ .Get "name" }}');"
+        style="width:100%;">
+</div>
+<div class="slider-content" id="{{ $contentID }}">
+    {{ .Inner }}
+</div>
+
+<script>
+   setSlide("{{ .Get "name" }}");
+</script>
