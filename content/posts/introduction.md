@@ -23,7 +23,7 @@ On a sidenote, I'm typing this in Visual Studio Code with GitHub Co-Pilot enable
 
 ## Inspiration
 
-I wrote a now-archived (and undoubtedly obsolete) [tech blog](https://chir.ag/tech/) between 2005-2007 and have wanted to get back into it for many years but could not find a topic that excited me enough. I've delved into every hot new tech that has come along since then, from blockchain and home automation to serverless development and Arduino / Raspberry Pi, but didn't feel like I had much to contribute beyond an early adopter. But then I came across the articles below, and I was hooked. I knew I had to start writing again.
+I wrote a now-archived (and undoubtedly obsolete) [tech blog](https://chir.ag/tech/) between 2005-2007 and have wanted to get back into it for many years but could not find a topic that excited me enough. I've delved into every hot new tech that has come along since then, from blockchain and home automation to serverless development and Arduino / Raspberry Pi, but didn't feel like I had much to contribute beyond being an early adopter. But then I came across the articles below, and I was hooked. I knew I had to start writing again.
 
 - [Building god](https://www.strangeloopcanon.com/p/building-god) by Rohit Krishnan
 - [One Useful Things](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) by Prof. Ethan Mollick
