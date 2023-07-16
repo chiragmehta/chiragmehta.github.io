@@ -68,7 +68,7 @@ Content that is presented in a highly readable format, characterized by linguist
 
 ## Reading Level & Length
 
-Modern browsers like Safari and Chrome, book readers like Kindle, and word processors like MS Word and Google Docs make it easy to read text on a screen by letting the user set the zoom-level or font-size. Some even simplify the view by removing ads, sidebars, and other distractions, as well as using high contrast colors for the text and background. I think someday in the future, along with adjusting zoom-level, font-size, and color, we will have a couple of more sliders in every browser: level and length.
+Modern browsers like Safari and Chrome, e-book readers like Kindle, and word processors like MS Word and Google Docs make it easy to read text on a screen by letting the user set the zoom-level or font-size. Some even simplify the view by removing ads, sidebars, and other distractions, as well as using high contrast colors for the text and background. I think someday in the future, along with adjusting zoom-level, font-size, and colors, we will have a couple of more sliders in every reader: level and length.
 
 **Level** is reading comprehension level, from 1st grade to 12th grade, from college first year to 20-year expert in field. Level can also automatically use sensible euphemisms for younger readers to reduce the details of gore, violence, or explicit verbiage.
 
@@ -96,7 +96,7 @@ A similar user interface could also be shown when selecting any text. In additio
 
 At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [large language model (LLM)](/posts/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
 
-My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. With most laptops and phones having powerful graphics cards already, I think this is entirely possible in time.
+My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. With most laptops and phones having powerful graphics cards already, I think this is entirely possible in due time.
 
 ## Disclaimer for rewritten content
 
