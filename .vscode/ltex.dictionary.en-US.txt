@@ -21,3 +21,6 @@ LLM
 GPTQ
 EMRs
 LLM-based
+SuperHOT
+Kaio
+Mollick
