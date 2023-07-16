@@ -19,7 +19,16 @@ I have always loved languages, dictionaries, poetry, essays, word games, and cro
 ## Motivation
 Tech has been my life and motivation for as long as I can remember, but I was losing interest over the last decade. I was getting bored with the same old social media this, mobile notification that. But LLMs have reinvigorated my passion for tech, and I am excited to see where it goes. I hope you will join me on this journey.
 
-PS: I'm typing this in Visual Studio Code with GitHub Co-Pilot enabled, and it keeps offering to write the next few sentences for me. It suggested "I'm not sure if I should be excited or scared." as the next sentence here. Wrong! As an optimist, I'm excited, and as a programmer, I'm thrilled.
+On a sidenote, I'm typing this in Visual Studio Code with GitHub Co-Pilot enabled, and it keeps offering to write the next few sentences for me. It suggested "I'm not sure if I should be excited or scared." as the next sentence here. Wrong! As an optimist, I'm excited, and as a programmer, I'm thrilled.
+
+## Inspiration
+
+I was inspired to start this after reading two articles on this topic:
+
+- [Things I’m Learning While Training SuperHOT](https://kaiokendev.github.io/til) by Kaio Ken
+- [Building god](https://www.strangeloopcanon.com/p/building-god) by Rohit Krishnan
+
+---
 
 ## Disclaimer
 
