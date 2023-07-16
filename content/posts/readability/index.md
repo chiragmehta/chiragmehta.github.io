@@ -98,6 +98,8 @@ At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [larg
 
 My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. With most laptops and phones having powerful graphics cards already, I think this is entirely possible in due time.
 
+While major browsers might take many years to build this feature, popular news sites might start offering "Readability" options for their articles sooner. It would be akin to offering the same article in multiple languages.
+
 ## Disclaimer for rewritten content
 
 There should always be an option to view original source text and any rewritten text should be clearly highlighted. Thankfully, we already have those types of identifying markers and warnings when translating between languages today. LLMs can be used to perform *translations* within the same language to address varying comprehension levels at multiple word lengths and the same type of warnings should be shown.
