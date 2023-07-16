@@ -110,6 +110,4 @@ I think so. And that is why I spent $200 on GPT 4 API to rewrite these 5 Wikiped
 
 # Demo
 
-*Coming soon...*
-
----
+## Check out the: [Readability Demo](/posts/readability-demo)

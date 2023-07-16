@@ -25,3 +25,10 @@
     margin-block-start: 0.5em;
     margin-block-end: 2em;
 }
+
+#TableOfContents ul:first-of-type {
+    margin-bottom:0;
+}
+#TableOfContents ul + ul {
+    margin-top:0;
+}
