@@ -2,7 +2,7 @@
 
 <div class="slide-pane{{ if eq .Ordinal 0 }} slide-show{{ end }}" id="{{ .Parent.Get "name"}}_{{ .Ordinal }}" title="{{ $slideName }}">
     <h2 class="slide-title">{{ $slideName | markdownify }}</h2>
-    <p class="slide-body" style="height:{{ .Parent.Get "height"}}">
+    <p class="slide-body" style="min-height:{{ .Parent.Get "height"}}">
         {{ $.Inner | markdownify }}
     </p>
 </div>

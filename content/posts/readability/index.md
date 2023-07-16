@@ -15,16 +15,18 @@ I have this same need for other text-based content like news articles and techni
 
 # Readability & Comprehension
 
-Readability refers to the ease with which a reader can read and understand a written text. It is influenced by factors such as sentence length, word complexity, and the structure of the text. Comprehension is the reader's ability to absorb and interpret the information presented in the text. The best way to explain any concept or information is to cater to the reader's level of understanding and prior knowledge. This can be achieved by using familiar language, breaking down complex ideas into smaller parts, and using examples or analogies that the reader can relate to.
+**Readability** refers to the ease with which a reader can read and understand a written text. It is influenced by factors such as sentence length, word complexity, and the structure of the text.
 
-## *Readable content is easier to comprehend*
+**Comprehension** is the reader's ability to absorb and interpret the information presented in the text. The best way to explain any concept or information is to cater to the reader's level of understanding and prior knowledge. This can be achieved by using familiar language, breaking down complex ideas into smaller parts, and using examples or analogies that the reader can relate to.
+
+## *Readable content is easier to comprehend:*
 
 {{< center >}}
 \
 Slide to change reading level
 {{< /center >}}
 
-{{< slider name="read-level" range="8" height="80px" >}}
+{{< slider name="read-level" range="8" height="110px" >}}
 
 {{< slide name="2nd grade" >}}
 If you can easily understand what you're reading, it's good!
@@ -64,40 +66,45 @@ Content that is presented in a highly readable format, characterized by linguist
 
 {{< /slider >}}
 
-## Applications
+## Reading Level & Length
 
-I think someday in the future, along with adjusting zoom-level, font-size, and color, we will have a couple of more sliders in every browser: level and length.
+Modern browsers like Safari and Chrome, book readers like Kindle, and word processors like MS Word and Google Docs make it easy to read text on a screen by letting the user set the zoom-level or font-size. Some even simplify the view by removing ads, sidebars, and other distractions, as well as using high contrast colors for the text and background. I think someday in the future, along with adjusting zoom-level, font-size, and color, we will have a couple of more sliders in every browser: level and length.
 
-// write about where it gets rendered - cost is on the local
-// write about selecting a piece of text and then selecting a level and length for explanation
+**Level** is reading comprehension level, from 1st grade to 12th grade, from college first year to 20-year expert in field. Level can also automatically use sensible euphemisms for younger readers to reduce the details of gore, violence, or explicit verbiage.
 
-
-
-## Level
-Level is reading comprehension level, from 1st grade to 12th grade, from college first year to 20yr expert in field. Level can also automatically use sensible euphemisms for younger readers to reduce the details of gore, violence, or explicit verbiage.
-
-## Length
-Length is for specifying the number of words, from summary (50-100 words) to detailed (1000-1500 words). Length is about focusing on the core concepts of the text to best explain the material, and not just listing the "Top 5 Things About..."
+**Length** is for specifying the number of words, from summary (50-100 words) to detailed (1000-1500 words). Length is about focusing on the core concepts of the text to best explain the material, and not just listing the "Top 5 Things About..."
 
 ## UX Preview
 
 This is the current Mobile Safari Reader options panel:
 
-{{< figure src="safari-read.jpg" alt="Mobile Safari Readability options at present" width="390" >}}
+{{< style >}}
+    @media only screen and (max-width: 400px) {
+        figure { margin: 0; }
+    }
+{{< /style >}}
+
+{{< figure src="safari-read.jpg" alt="Mobile Safari Readability options at present" width="320" >}}
 
 This is what I hope to see someday, not just in Safari but in every browser:
 
-{{< figure src="safari-want.png" alt="Browser Readability options in future" width="390" >}}
+{{< figure src="safari-want.png" alt="Browser Readability options in future" width="320" >}}
+
+A similar user interface could also be shown when selecting any text. In addition to copy, share, web search, and define menu options, users could be offered an "Explain" option that would let them choose the level and length of the explanation.
 
 ## How this could work
 
-At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only large language model (LLM) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs and a number of local LLMs, but their results were not good enough, though I'm certain that will change with time. In fact, I am banking on it because I hope that in a few years (maybe 5-10), almost all consumer-level or above devices will have their own local LLM capable of re-explaining or rewriting any source content to best cater to the reader.
+At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [large language model (LLM)](/posts/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
 
-There should always be an option to view original source text and any altered/rewritten text should be clearly highlighted. Thankfully, we already have those types of identifying markers and warnings when translating between languages today. LLMs can perform translations within the same language to address varying comprehension levels at multiple detail lengths and the same type of warnings should be shown.
+My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. With most laptops and phones having powerful graphics cards already, I think this is entirely possible in time.
+
+## Disclaimer for rewritten content
+
+There should always be an option to view original source text and any rewritten text should be clearly highlighted. Thankfully, we already have those types of identifying markers and warnings when translating between languages today. LLMs can be used to perform *translations* within the same language to address varying comprehension levels at multiple word lengths and the same type of warnings should be shown.
 
 ## Would this actually work and be useful?
 
-I think so. And that is why I spent $500 on GPT 4 API to rewrite these 5 Wikipedia articles at different levels.
+I think so. And that is why I spent $200 on GPT 4 API to rewrite these 5 Wikipedia articles at different levels.
 
 # Demo
 
