@@ -1,3 +1,7 @@
+.main .item {
+    border-bottom:1px solid #eee;
+}
+
 .main #single h1.title {
     border-bottom: 1px solid #ccc;
 }

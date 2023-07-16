@@ -6,7 +6,7 @@ theme = 'mini'
 defaultContentLanguage = 'en'
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
-paginate = 3
+paginate = 10
 summaryLength = 40
 timeZone = 'America/Chicago'
 
