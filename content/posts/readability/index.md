@@ -11,7 +11,7 @@ draft: false
 
 Wikipedia is a great resource for getting a quick overview of a topic. But sometimes the articles are too long or too technical. [Simple Wikipedia](https://simple.wikipedia.org) helps, although it can still be pretty [lengthy](https://simple.wikipedia.org/wiki/Cancer) and not always simple enough. Or it might be too simple, depending on what I am trying to learn. I've always wanted to be able to choose the level of detail and length based on what I am looking. Sometimes when I am researching a new topic and come across 10 new terms, all linking to their own detailed Wikipedia pages, I just want to get a 50-100 word gist. Other times, I want to get a 1000-word summary of a topic I am sort of familiar with but don't know well enough.
 
-I have this same need for other text-based content like news articles and technical documents. And I believe a solution for this would improve readability and thus improve comprehension for everyone, not just me.
+I have this same need for other text-based content like news articles and technical documents. And I believe a solution for this would improve readability and thus improve comprehension for everyone.
 
 # Readability & Comprehension
 
@@ -96,9 +96,9 @@ A similar user interface could also be shown when selecting any text. In additio
 
 At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [large language model (LLM)](/posts/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
 
-My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. With most laptops and phones having powerful graphics cards already, I think this is entirely possible in due time.
+My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. It is already [possible](https://webllm.mlc.ai/) as a proof-of-concept using graphics cards on newer laptops and phones. Give it a few more years of innovation, and we'll wonder how we lived without it, like search engines and smartphones.
 
-While major browsers might take many years to build this feature, popular news sites might start offering "Readability" options for their articles sooner. It would be akin to offering the same article in multiple languages.
+While major browsers might take a few years to bundle this feature, popular news sites might start offering "Readability" options for their articles. It would be akin to offering the same article in multiple languages.
 
 ## Disclaimer for rewritten content
 
@@ -106,8 +106,10 @@ There should always be an option to view original source text and any rewritten 
 
 ## Would this actually work and be useful?
 
-I think so. And that is why I spent $200 on GPT 4 API to rewrite these 5 Wikipedia articles at different levels.
+I think so. And that is why I spent $12 on GPT 4 API to rewrite these 5 Wikipedia articles at 4 different levels and 3 different lengths each. Converting all [6.6 million articles](https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia) on English Wikipedia would cost about $10-15 million at this rate, not cheap but also not impossible.
+
+Dear OpenAI and Anthropic, please make en.wiki.openai.com or en.wiki.anthropic.com happen! Make it work like the demo below, with sliders.
 
 # Demo
 
-## Check out the: [Readability Demo](/posts/readability-demo)
+Check out the: **[Readability Demo](/posts/readability-demo)**
