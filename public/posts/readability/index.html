@@ -117,7 +117,7 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
 
     <div class="content">
       <h1 id="about-this-page">About this page <a href="#about-this-page" class="anchor">🔗</a></h1><p>This page explains why and how I made this <strong><a href="/posts/readability-demo">Readability Demo</a></strong>. Feel free to check it out first and then come back here.</p>
-<h1 id="need-for-simplicity">Need for simplicity <a href="#need-for-simplicity" class="anchor">🔗</a></h1><!-- raw HTML omitted -->
+<h1 id="need-for-simplicity">Need for simplicity <a href="#need-for-simplicity" class="anchor">🔗</a></h1><!--begin-->
 <p>Wikipedia is a great resource for getting a quick overview of a topic. But sometimes the articles are too long or too technical. <a href="https://simple.wikipedia.org" target="_blank" rel="noopener">Simple Wikipedia</a> helps, although it can still be pretty <a href="https://simple.wikipedia.org/wiki/Cancer" target="_blank" rel="noopener">lengthy</a> and not always simple enough. Or it might be too simple, depending on what I am trying to learn. I&rsquo;ve always wanted to be able to choose the level of detail and length based on what I am looking. Sometimes when I am researching a new topic and come across 10 new terms, all linking to their own detailed Wikipedia pages, I just want to get a 50-100 word gist. Other times, I want to get a 1000-word summary of a topic I am sort of familiar with but don&rsquo;t know well enough.</p>
 <p>I have this same need for other text-based content like news articles and technical documents. And I believe a solution for this would improve readability and thus improve comprehension for everyone.</p>
 <h1 id="readability--comprehension">Readability &amp; Comprehension <a href="#readability--comprehension" class="anchor">🔗</a></h1><p><strong>Readability</strong> refers to the ease with which a reader can read and understand a written text. It is influenced by factors such as sentence length, word complexity, and the structure of the text.</p>
@@ -163,7 +163,6 @@ Slide to change reading level
 <script>
     function setSlide(s) {
         var v=document.getElementById(s).value;
-        console.log(s, v);
         Array.from(document.querySelectorAll('#' + s + '-content > div.slide-pane')).forEach(
             div => { div.classList.remove('slide-show'); });
         document.getElementById(s + '_' + v).classList.add('slide-show');
@@ -351,7 +350,6 @@ Slide to change reading level
 <script>
     function setSlide(s) {
         var v=document.getElementById(s).value;
-        console.log(s, v);
         Array.from(document.querySelectorAll('#' + s + '-content > div.slide-pane')).forEach(
             div => { div.classList.remove('slide-show'); });
         document.getElementById(s + '_' + v).classList.add('slide-show');
@@ -450,7 +448,6 @@ Slide to change reading level
 <script>
     function setSlide(s) {
         var v=document.getElementById(s).value;
-        console.log(s, v);
         Array.from(document.querySelectorAll('#' + s + '-content > div.slide-pane')).forEach(
             div => { div.classList.remove('slide-show'); });
         document.getElementById(s + '_' + v).classList.add('slide-show');
@@ -549,7 +546,6 @@ Slide to change reading level
 <script>
     function setSlide(s) {
         var v=document.getElementById(s).value;
-        console.log(s, v);
         Array.from(document.querySelectorAll('#' + s + '-content > div.slide-pane')).forEach(
             div => { div.classList.remove('slide-show'); });
         document.getElementById(s + '_' + v).classList.add('slide-show');

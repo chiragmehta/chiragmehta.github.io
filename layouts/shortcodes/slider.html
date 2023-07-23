@@ -33,7 +33,6 @@
 <script>
     function setSlide(s) {
         var v=document.getElementById(s).value;
-        console.log(s, v);
         Array.from(document.querySelectorAll('#' + s + '-content > div.slide-pane')).forEach(
             div => { div.classList.remove('slide-show'); });
         document.getElementById(s + '_' + v).classList.add('slide-show');
