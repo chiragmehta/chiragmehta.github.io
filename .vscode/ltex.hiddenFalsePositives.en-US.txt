@@ -1,6 +1,0 @@
-{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI built an aggregator for online videos before YouTube wiped the floor clean.\\E$"}
-{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QI was writing Ajax code before it had a name.\\E$"}
-{"rule":"EXTREME_ADJECTIVES","sentence":"^\\QAlthough \"pretending\" to sound coherent and actually being coherent are two vastly different things philosophically, a machine that is really good at pretending is surprisingly useful for many practical purposes.\\E$"}
-{"rule":"GENERAL_XX","sentence":"^\\QStable Diffusion by Stability AI is to text-to-image models what LLaMA is to LLMs – the first major open model for general public to create images based on text.\\E$"}
-{"rule":"GENERAL_XX","sentence":"^\\QLarge Language Model Meta AI by Meta/Facebook opened the floodgates for LLMs that were previously not available to general public.\\E$"}
-{"rule":"BUNCH_OF","sentence":"^\\QLength is number of words, from\\E$"}
