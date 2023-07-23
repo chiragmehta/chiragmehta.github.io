@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Glossary | Acronyms, Definitions, Jargon | LLaMatters by Chirag Mehta</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="About this Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.">
+<meta name="generator" content="Hugo 0.114.1">
+
+
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+  
+    
+    <link rel="stylesheet" href="https://llamatters.chir.ag/css/custom.css">
+  
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+  
+  <a href="/"> <span class="arrow">←</span>Home</a>
+  
+  <a href="/posts">Archive</a>
+  <a href="/glossary">Glossary</a>
+  <a href="/about">About</a>
+
+  
+
+  
+  <a class="button" href="/posts/index.xml">Subscribe</a>
+  
+
+</nav>
+
+    <main class="main">
+      
+
+<section id="single">
+  <h1 class="title">Glossary</h1>
+  <h2 class="subtitle">Acronyms, Definitions, Jargon</h2>
+
+    <div class="tip">
+        <time datetime="2023-07-01 20:53:32 -0500 CDT">Jul 1, 2023</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          1297 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          7 minute read
+        </span>
+    </div>
+
+
+    
+        
+  
+    <aside class="toc">
+      <details>
+          <summary>Table of Contents
+          </summary>
+          <div>
+              <nav id="TableOfContents">
+  <ul>
+    <li><a href="#about-this-glossary">About this Glossary</a></li>
+    <li><a href="#large-language-models-llms">Large Language Models (LLMs)</a>
+      <ul>
+        <li><a href="#gpt">GPT</a></li>
+        <li><a href="#llm">LLM</a></li>
+        <li><a href="#llama">LLaMA</a></li>
+        <li><a href="#rlocalllama">r/LocalLLaMA</a></li>
+      </ul>
+    </li>
+    <li><a href="#llm-optimization">LLM Optimization</a>
+      <ul>
+        <li><a href="#gptq">GPTQ</a></li>
+        <li><a href="#ggml">GGML</a></li>
+        <li><a href="#lora">LoRA</a></li>
+        <li><a href="#qlora">QLoRA</a></li>
+      </ul>
+    </li>
+    <li><a href="#other-ai-tech">Other AI-tech</a>
+      <ul>
+        <li><a href="#stable-diffusion-sd">Stable Diffusion (SD)</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+          </div>
+      </details>
+    </aside>
+  
+
+
+    
+
+
+    <div class="content">
+      <h1 id="about-this-glossary">About this Glossary <a href="#about-this-glossary" class="anchor">🔗</a></h1><!--begin-->
+<p>Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</p>
+<p>Wikipedia has a thorough <a href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence" target="_blank" rel="noopener">Glossary of artificial intelligence</a>, and while it is useful for students and researchers, it does not include most of the new lingo you might find on <a href="https://reddit.com/r/localLLaMA/" target="_blank" rel="noopener">r/LocalLLaMA</a> or <a href="https://huggingface.co/" target="_blank" rel="noopener">HuggingFace</a> repos that could be essential for beginners.</p>
+<p>I will do my best to maintain this list as a simple guide for those starting with LLMs. I am not aiming for accuracy or correctness but rather simplification and understanding.</p>
+<h1 id="large-language-models-llms">Large Language Models (LLMs) <a href="#large-language-models-llms" class="anchor">🔗</a></h1><h2 id="gpt">GPT <a href="#gpt" class="anchor">🔗</a></h2><p><strong><a href="https://en.wikipedia.org/wiki/Generative_pre-trained_transformer" target="_blank" rel="noopener">Generative Pre-trained Transformer</a></strong> is the &lsquo;GPT&rsquo; in OpenAI&rsquo;s <a href="https://openai.com/chatgpt" target="_blank" rel="noopener">ChatGPT</a>.</p>
+<p>GPT is an AI/ML tool trained to predict the next word in a sentence, similar to autocomplete on a phone keyboard. The learning algorithm (the T in GPT for <a href="https://en.wikipedia.org/wiki/Transformer_%28machine_learning_model%29" target="_blank" rel="noopener">Transformers</a> by <a href="https://arxiv.org/abs/1706.03762" target="_blank" rel="noopener">Google</a>), is pre-trained (the P in GPT) without supervision. Unsupervised training means the researchers do not specifically teach or guide it on how language works, what words or sentences mean, or how terms are tagged into categories. Researchers give a very large volume of text to the transformer algorithm, and similar to how a search engine or a database builds an index, the system goes through the entire text. But unlike search engines or databases, it does not keep an exact copy of the data or build an index for quick access, but rather calculates the probabilities of what word might come after the previous one.</p>
+<p>As a result of doing this in a very clever way, it &ldquo;learns&rdquo; how sentence structures work in multiple languages, how singular and plural words work, and how grammar works in different dialects, styles, and contexts. The larger the dataset and the deeper the analysis of the dataset (called <a href="https://ai.stackexchange.com/questions/22673/what-exactly-are-the-parameters-in-gpt-3s-175-billion-parameters-and-how-are" target="_blank" rel="noopener">parameters</a>), the better the generative (the G in GPT) capabilities are. It&rsquo;s more about pattern recognition and repetition than actual reasoning. You are reading this and everything else on this blog because of GPT.</p>
+<h2 id="llm">LLM <a href="#llm" class="anchor">🔗</a></h2><p><strong><a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noopener">Large Language Models</a></strong> are AI/ML systems that are trained on a massive and varied volume of text. GPT is the most common algorithm used to train LLMs, but there are <a href="https://anujxagarwal.medium.com/llm-models-basics-and-bert-vs-gpt-two-titans-of-natural-language-processing-aa5dfa4c5717" target="_blank" rel="noopener">others</a> like <a href="https://en.wikipedia.org/wiki/BERT_%28language_model%29" target="_blank" rel="noopener">BERT</a> and <a href="https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html" target="_blank" rel="noopener">T5</a> by Google. <em>They show surprising new capabilities to generate creative text, solve basic math problems, answer reading comprehension questions, <a href="https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/" target="_blank" rel="noopener">and more</a></em>.</p>
+<p>I like to think of them as the essence of flowers –– what remains if you remove all water and plant fibers. While you can never get the original flower back, you can add water and oils to the essence to imitate the fragrance or blend the essences of multiple flowers and fruits to create a brand-new fragrance. LLMs are not search engine indexes and cannot quote back all the lines precisely from the books they scanned through. But they can paraphrase coherent, readable text that sounds like what a human would write given the same request.</p>
+<p>Although &ldquo;pretending&rdquo; to sound coherent and actually being coherent are two vastly different things <a href="https://plato.stanford.edu/entries/epistemology/" target="_blank" rel="noopener">philosophically</a>, a machine that is really good at pretending is surprisingly useful for many practical purposes. Hence, my keen interest in this field and the recent explosion of projects making local LLMs viable and competitive to cloud-based AI products like ChatGPT, <a href="https://bard.google.com" target="_blank" rel="noopener">Bard</a>, or <a href="https://www.anthropic.com/product" target="_blank" rel="noopener">Claude</a>.</p>
+<h2 id="llama">LLaMA <a href="#llama" class="anchor">🔗</a></h2><p><strong><a href="https://ai.facebook.com/blog/large-language-model-llama-meta-ai/" target="_blank" rel="noopener">Large Language Model Meta AI</a></strong> by Meta/Facebook opened the <a href="https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/" target="_blank" rel="noopener">floodgates</a> for LLMs that were previously not available to general public. They released an LLM model to researchers, the model leaked out, and the rest is history. I named this blog &lsquo;LLaMatters&rsquo; as a play on words: LLaMA + Matters.</p>
+<h2 id="rlocalllama">r/LocalLLaMA <a href="#rlocalllama" class="anchor">🔗</a></h2><p><strong><a href="https://www.reddit.com/r/LocalLLaMA/" target="_blank" rel="noopener">Subreddit for Local LLM</a></strong> is the hub for discussing local LLMs. &ldquo;Local&rdquo; refers to LLMs that you can run on hardware that you own and control, as opposed to cloud-based LLMs like ChatGPT or <a href="https://www.anthropic.com/product" target="_blank" rel="noopener">Claude</a> by Anthropic. Local LLMs work without internet, do not send data to any external entity, and can be customized to respond in exactly the way you want. They unleash the power of LLMs without hindrance, surveillance, or loss of privacy. Imagine having the power of a search engine and Wikipedia without having to rely on a network connection or worrying if the personal medical questions you ask could be used for targeted advertisements.</p>
+<p>For programmers in corporate environment, how great would it be to use a version of <a href="https://github.com/features/copilot" target="_blank" rel="noopener">Copilot</a> that is trained specifically on your codebase and does not leak any data outside your company servers! Local LLMs will eventually make that and a lot more possible, routine, and practically necessary.</p>
+<h1 id="llm-optimization">LLM Optimization <a href="#llm-optimization" class="anchor">🔗</a></h1><h2 id="gptq">GPTQ <a href="#gptq" class="anchor">🔗</a></h2><p><strong><a href="https://arxiv.org/abs/2210.17323" target="_blank" rel="noopener">GPT-Quantized</a></strong> is a smaller version of a larger LLM, simplified using quantization. LLMs contain billions of decimal &ldquo;weights&rdquo;, akin to the strength of individual connections between the neurons in our brain, which are then used by the generative algorithm to output text. Since it takes more bytes to store 3.1415926535 than 3 or 3.14, and for many purposes, 3 is good enough, &ldquo;quantizing&rdquo; the more precise decimal from 3.1415926535 to 3 saves a lot of space and gives nearly the same quality of result.</p>
+<p>While in theory, quantization could affect the quality of long conversations, similar to Lorenz&rsquo;s experience with chopping off decimals in <a href="https://en.wikipedia.org/wiki/Chaos_theory#History" target="_blank" rel="noopener">Chaos Theory</a>, in practice, it makes little difference because LLM outputs are not deterministic. LLMs will give a slightly different answer each time for the same question, so by design they are not predictable. Quantizing the weights saves space, makes it possible to run LLMs on less powerful hardware, and does not significantly reduce the quality of the responses.</p>
+<p>LLM GPTQ models are designed to work best on Nvidia graphics cards (GPU) that support CUDA. If you do not have a GPU, GGML format might be a better option.</p>
+<h2 id="ggml">GGML <a href="#ggml" class="anchor">🔗</a></h2><p><strong><a href="https://github.com/ggerganov/ggml" target="_blank" rel="noopener">Georgi Gerganov ML</a></strong> is another way to quantize LLMs, with the aim to make them run efficiently and entirely on any decently <a href="https://github.com/rustformers/llm/blob/main/crates/ggml/README.md" target="_blank" rel="noopener">powerful CPU</a>.</p>
+<p>So if you have an Nvidia GPU, use GPTQ version of LLMs. Otherwise, use GGML version, especially if you have Apple Silicon (M1/M2). If you have a different, more powerful graphics card or custom hardware with multiple CPUs and ton of RAM, you can try the original, non-quantized LLM models. I recommend sticking to quantized for personal, home-office, or small-business use. Beyond that you are on your own in the wild-west of LLMs.</p>
+<h2 id="lora">LoRA <a href="#lora" class="anchor">🔗</a></h2><p><strong><a href="https://github.com/microsoft/LoRA" target="_blank" rel="noopener">Low-Rank Adaptation of Large Language Models</a></strong> by Microsoft allows for cheap retraining of existing LLMs for specific tasks or datasets. It is extremely expensive to train large models from scratch, so LoRA allows fine-tuning of existing models to be better at very specific things. End-user tools like <a href="https://github.com/oobabooga/text-generation-webui" target="_blank" rel="noopener">OobaBooga</a> allow for loading one or more LoRAs to perform specialized tasks and even train new LoRAs.</p>
+<h2 id="qlora">QLoRA <a href="#qlora" class="anchor">🔗</a></h2><p><strong><a href="https://arxiv.org/abs/2305.14314" target="_blank" rel="noopener">Quantized LoRA</a></strong> is an algorithm that retrains a smaller <a href="https://github.com/artidoro/qlora" target="_blank" rel="noopener">quantized LLM using LoRA</a>. QLoRA is extremely powerful because it allows a smaller LLM, say with 13 billion parameters, to be retrained using Q&amp;A responses from a much larger model, say with 65+ billion parameters. This could make a smaller model perform certain tasks as well as a larger model, without retraining from scratch.</p>
+<h1 id="other-ai-tech">Other AI-tech <a href="#other-ai-tech" class="anchor">🔗</a></h1><h2 id="stable-diffusion-sd">Stable Diffusion (SD) <a href="#stable-diffusion-sd" class="anchor">🔗</a></h2><p><strong><a href="https://en.wikipedia.org/wiki/Stable_Diffusion" target="_blank" rel="noopener">Stable Diffusion</a></strong> by Stability AI is to <a href="https://en.wikipedia.org/wiki/Text-to-image_model" target="_blank" rel="noopener">text-to-image models</a> what LLaMA is to LLMs – the first major open model for general public to create images based on text. I absolutely love SD and recommend everyone <a href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank" rel="noopener">try it out</a>. If you want to learn how to use SD, pick up some tips &amp; tricks, or see what others are creating, check out <a href="https://www.reddit.com/r/StableDiffusion/" target="_blank" rel="noopener">r/StableDiffusion</a>.</p>
+<p>Popular cloud-based alternatives to SD for digital artists are <a href="https://www.midjourney.com/" target="_blank" rel="noopener">MidJourney</a>, <a href="https://openai.com/dall-e-2" target="_blank" rel="noopener">Dall-E</a>, and <a href="https://firefly.adobe.com/" target="_blank" rel="noopener">Firefly</a>.</p>
+<p>In addition to text-to-image, there are many new speech-to-text (i.e. speech recognition) solutions like <a href="https://openai.com/research/whisper" target="_blank" rel="noopener">Whisper</a> and <a href="https://www.assemblyai.com/" target="_blank" rel="noopener">Assembly.ai</a>. For text-to-speech, check out <a href="https://elevenlabs.io/" target="_blank" rel="noopener">ElevenLabs</a>, <a href="https://voice.ai/" target="_blank" rel="noopener">Voice.ai</a>, and <a href="https://mycroft.ai/mimic-3/" target="_blank" rel="noopener">Mimic</a>.</p>
+
+    </div>
+
+    
+
+    
+
+</section>
+
+
+    </main>
+
+    <footer id="footer">
+    
+        <div id="social">
+
+
+    <a class="symbol" href="https://github.com/chiragmehta" rel="me" target="_blank">
+        
+        <svg fill="#bbbbbb" width="28" height="28"  viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>Github</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social-Icons---Rounded-Black" transform="translate(-264.000000, -939.000000)">
+            <g id="Github" transform="translate(264.000000, 939.000000)">
+                <path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" id="Rounded" fill="#bbbbbb"></path>
+                <path d="M35.9985,13 C22.746,13 12,23.7870921 12,37.096644 C12,47.7406712 18.876,56.7718301 28.4145,59.9584121 C29.6145,60.1797862 30.0525,59.4358488 30.0525,58.7973276 C30.0525,58.2250681 30.0315,56.7100863 30.0195,54.6996482 C23.343,56.1558981 21.9345,51.4693938 21.9345,51.4693938 C20.844,48.6864054 19.2705,47.9454799 19.2705,47.9454799 C17.091,46.4500754 19.4355,46.4801943 19.4355,46.4801943 C21.843,46.6503662 23.1105,48.9634994 23.1105,48.9634994 C25.2525,52.6455377 28.728,51.5823398 30.096,50.9649018 C30.3135,49.4077535 30.9345,48.3460615 31.62,47.7436831 C26.2905,47.1352808 20.688,45.0691228 20.688,35.8361671 C20.688,33.2052792 21.6225,31.0547881 23.1585,29.3696344 C22.911,28.7597262 22.0875,26.3110578 23.3925,22.9934585 C23.3925,22.9934585 25.4085,22.3459017 29.9925,25.4632101 C31.908,24.9285993 33.96,24.6620468 36.0015,24.6515052 C38.04,24.6620468 40.0935,24.9285993 42.0105,25.4632101 C46.5915,22.3459017 48.603,22.9934585 48.603,22.9934585 C49.9125,26.3110578 49.089,28.7597262 48.8415,29.3696344 C50.3805,31.0547881 51.309,33.2052792 51.309,35.8361671 C51.309,45.0917119 45.6975,47.1292571 40.3515,47.7256117 C41.2125,48.4695491 41.9805,49.9393525 41.9805,52.1877301 C41.9805,55.4089489 41.9505,58.0067059 41.9505,58.7973276 C41.9505,59.4418726 42.3825,60.1918338 43.6005,59.9554002 C53.13,56.7627944 60,47.7376593 60,37.096644 C60,23.7870921 49.254,13 35.9985,13" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+    </a>
+
+
+</div>
+
+    
+
+    <div class="copyright">
+    
+        Copyright © 2023 Chirag Mehta
+    
+    </div>
+
+    
+</footer>
+
+
+
+  </body>
+</html>

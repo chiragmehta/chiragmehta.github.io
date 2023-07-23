@@ -1,0 +1,51 @@
+baseURL = 'https://llamatters.chir.ag/'
+languageCode = 'en-us'
+title = 'LLaMatters by Chirag Mehta'
+theme = 'mini'
+
+defaultContentLanguage = 'en'
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 40
+timeZone = 'America/Chicago'
+
+[params]
+  author = 'Chirag Mehta'
+  bio = 'Programmer | Software Consultant'
+  copyright = 'Copyright © 2023 Chirag Mehta'
+  customCSS = ['css/custom.css']
+  description = 'My thoughts on where all this large language model stuff is going'
+  enableRSS = true
+  GitHubUser = 'chiragmehta'
+  hiddenPostSummaryInHomePage = false
+  showPowerBy = false
+  showToc = true
+
+[permalinks]
+  posts = '/posts/:slug/'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  endLevel = 2
+  startLevel = 1
+
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+
+[[related.indices]]
+  applyFilter = false
+  name = 'fragmentrefs'
+  type = 'fragments'
+  weight = 80
+
+[social]
+  github = 'https://github.com/chiragmehta'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
