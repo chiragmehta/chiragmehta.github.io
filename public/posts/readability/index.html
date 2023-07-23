@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <title>Readability: Rewriting text to any comprehension level or length | LLaMatters by Chirag Mehta</title>
+    <title>Readability | LLaMatters by Chirag Mehta</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
@@ -39,7 +39,7 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
   <a href="/"> <span class="arrow">←</span>Home</a>
   
   <a href="/posts">Archive</a>
-  <a href="/posts/glossary">Glossary</a>
+  <a href="/glossary">Glossary</a>
   <a href="/about">About</a>
 
   
@@ -54,7 +54,8 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
       
 
 <section id="single">
-    <h1 class="title">Readability: Rewriting text to any comprehension level or length</h1>
+  <h1 class="title">Readability</h1>
+  <h2 class="subtitle">Rewriting text to any comprehension level or length</h2>
 
     <div class="tip">
         <time datetime="2023-07-13 05:55:27 -0500 CDT">Jul 13, 2023</time>
@@ -72,7 +73,7 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
         </span>
     </div>
 
-    
+
     
         
   
@@ -83,30 +84,26 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
           <div>
               <nav id="TableOfContents">
   <ul>
-    <li><a href="#readable-content-is-easier-to-comprehend"><em>Readable content is easier to comprehend:</em></a></li>
-    <li><a href="#reading-level--length">Reading Level &amp; Length</a></li>
-    <li><a href="#ux-preview">UX Preview</a></li>
-    <li><a href="#how-this-could-work">How this could work</a></li>
-    <li><a href="#disclaimer-for-rewritten-content">Disclaimer for rewritten content</a></li>
-    <li><a href="#would-this-actually-work-and-be-useful">Would this actually work and be useful?</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#selecting-parameters">Selecting parameters</a>
+    <li><a href="#about-this-page">About this page</a></li>
+    <li><a href="#need-for-simplicity">Need for simplicity</a></li>
+    <li><a href="#readability--comprehension">Readability &amp; Comprehension</a>
       <ul>
-        <li><a href="#level">Level</a></li>
-        <li><a href="#length">Length</a></li>
+        <li><a href="#readable-content-is-easier-to-comprehend">Readable content is easier to comprehend</a></li>
+        <li><a href="#reading-level--length">Reading Level &amp; Length</a></li>
+        <li><a href="#ux-preview">UX Preview</a></li>
+        <li><a href="#how-this-could-work">How this could work</a></li>
+        <li><a href="#disclaimer-for-rewritten-content">Disclaimer for rewritten content</a></li>
+        <li><a href="#would-this-actually-work-and-be-useful">Would this actually work and be useful?</a></li>
       </ul>
     </li>
-    <li><a href="#articles">Articles</a></li>
-    <li><a href="#system-prompts">System Prompts</a>
+    <li><a href="#how-i-made-the-demo">How I made the demo</a>
       <ul>
-        <li><a href="#prompts-for-50-100-words">Prompts for 50-100 words</a></li>
-        <li><a href="#prompts-for-500-750-words">Prompts for 500-750 words</a></li>
-        <li><a href="#prompts-for-1000-2000-words">Prompts for 1000-2000 words</a></li>
+        <li><a href="#selecting-parameters">Selecting parameters</a></li>
+        <li><a href="#articles">Articles</a></li>
+        <li><a href="#system-prompts">System Prompts</a></li>
+        <li><a href="#generate-demo">Generate Demo</a></li>
       </ul>
     </li>
-    <li><a href="#generate-demo">Generate Demo</a></li>
   </ul>
 </nav>
           </div>
@@ -125,9 +122,10 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
 <p>I have this same need for other text-based content like news articles and technical documents. And I believe a solution for this would improve readability and thus improve comprehension for everyone.</p>
 <h1 id="readability--comprehension">Readability &amp; Comprehension <a href="#readability--comprehension" class="anchor">🔗</a></h1><p><strong>Readability</strong> refers to the ease with which a reader can read and understand a written text. It is influenced by factors such as sentence length, word complexity, and the structure of the text.</p>
 <p><strong>Comprehension</strong> is the reader&rsquo;s ability to absorb and interpret the information presented in the text. The best way to explain any concept or information is to cater to the reader&rsquo;s level of understanding and prior knowledge. This can be achieved by using familiar language, breaking down complex ideas into smaller parts, and using examples or analogies that the reader can relate to.</p>
-<h2 id="readable-content-is-easier-to-comprehend"><em>Readable content is easier to comprehend:</em> <a href="#readable-content-is-easier-to-comprehend" class="anchor">🔗</a></h2>
+<h2 id="readable-content-is-easier-to-comprehend">Readable content is easier to comprehend <a href="#readable-content-is-easier-to-comprehend" class="anchor">🔗</a></h2>
 <div style="text-align: center;">
-    Slide to change reading level
+    <br>
+Slide to change reading level
 </div>
 
 
@@ -292,8 +290,8 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
 </figure>
 
 <p>A similar user interface could also be shown when selecting any text. In addition to copy, share, web search, and define menu options, users could be offered an &ldquo;Explain&rdquo; option that would let them choose the level and length of the explanation.</p>
-<h2 id="how-this-could-work">How this could work <a href="#how-this-could-work" class="anchor">🔗</a></h2><p>At present, <a href="https://openai.com/gpt-4" target="_blank" rel="noopener">ChatGPT 4</a> by OpenAI is the only AI <a href="/posts/glossary/#llm">large language model (LLM)</a> capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.</p>
-<p>My hope is that <a href="/posts/glossary/#rlocalllama">local LLMs</a> will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. It is already <a href="https://webllm.mlc.ai/" target="_blank" rel="noopener">possible</a> as a proof-of-concept using graphics cards on newer laptops and phones. Give it a few more years of innovation, and we&rsquo;ll wonder how we lived without it, like search engines and smartphones.</p>
+<h2 id="how-this-could-work">How this could work <a href="#how-this-could-work" class="anchor">🔗</a></h2><p>At present, <a href="https://openai.com/gpt-4" target="_blank" rel="noopener">ChatGPT 4</a> by OpenAI is the only AI <a href="/glossary/#llm">large language model (LLM)</a> capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.</p>
+<p>My hope is that <a href="/glossary/#rlocalllama">local LLMs</a> will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. It is already <a href="https://webllm.mlc.ai/" target="_blank" rel="noopener">possible</a> as a proof-of-concept using graphics cards on newer laptops and phones. Give it a few more years of innovation, and we&rsquo;ll wonder how we lived without it, like search engines and smartphones.</p>
 <p>While major browsers might take a few years to bundle this feature, popular news sites might start offering &ldquo;Readability&rdquo; options for their articles. It would be akin to offering the same article in multiple languages.</p>
 <h2 id="disclaimer-for-rewritten-content">Disclaimer for rewritten content <a href="#disclaimer-for-rewritten-content" class="anchor">🔗</a></h2><p>There should always be an option to view original source text and any rewritten text should be clearly highlighted. Thankfully, we already have those types of identifying markers and warnings when translating between languages today. LLMs can be used to perform <em>translations</em> within the same language to address varying comprehension levels at multiple word lengths and the same type of warnings should be shown.</p>
 <h2 id="would-this-actually-work-and-be-useful">Would this actually work and be useful? <a href="#would-this-actually-work-and-be-useful" class="anchor">🔗</a></h2><p>I think so. And that is why I spent $25 on GPT 4 API to rewrite these 5 Wikipedia articles at 4 different levels and 3 different lengths each. Converting all <a href="https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia" target="_blank" rel="noopener">6.6 million articles</a> on English Wikipedia would cost about $10-15 million at this rate, not cheap but also not impossible.</p>
@@ -617,7 +615,7 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
     </div>
 
     
-    
+
     
 
 </section>

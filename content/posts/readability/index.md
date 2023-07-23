@@ -1,6 +1,7 @@
 ---
 slug: "readability"
-title: "Readability: Rewriting text to any comprehension level or length"
+title: "Readability"
+subtitle: "Rewriting text to any comprehension level or length"
 date: 2023-07-13T05:55:27-05:00
 draft: false
 ---
@@ -23,9 +24,10 @@ I have this same need for other text-based content like news articles and techni
 
 **Comprehension** is the reader's ability to absorb and interpret the information presented in the text. The best way to explain any concept or information is to cater to the reader's level of understanding and prior knowledge. This can be achieved by using familiar language, breaking down complex ideas into smaller parts, and using examples or analogies that the reader can relate to.
 
-## *Readable content is easier to comprehend:*
+## Readable content is easier to comprehend
 
 {{< center >}}
+\
 Slide to change reading level
 {{< /center >}}
 
@@ -97,9 +99,9 @@ A similar user interface could also be shown when selecting any text. In additio
 
 ## How this could work
 
-At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [large language model (LLM)](/posts/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
+At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [large language model (LLM)](/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
 
-My hope is that [local LLMs](/posts/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. It is already [possible](https://webllm.mlc.ai/) as a proof-of-concept using graphics cards on newer laptops and phones. Give it a few more years of innovation, and we'll wonder how we lived without it, like search engines and smartphones.
+My hope is that [local LLMs](/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. It is already [possible](https://webllm.mlc.ai/) as a proof-of-concept using graphics cards on newer laptops and phones. Give it a few more years of innovation, and we'll wonder how we lived without it, like search engines and smartphones.
 
 While major browsers might take a few years to bundle this feature, popular news sites might start offering "Readability" options for their articles. It would be akin to offering the same article in multiple languages.
 

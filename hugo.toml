@@ -25,6 +25,10 @@ timeZone = 'America/Chicago'
 [permalinks]
   posts = '/posts/:slug/'
 
+[markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+
 [related]
   includeNewer = true
   threshold = 50

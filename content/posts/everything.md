@@ -1,6 +1,7 @@
 ---
 slug: everything-i-know
 title: "DRAFT: Everything I know about new AI"
+subtitle: "..."
 date: 2023-07-09T12:29:29-05:00
 draft: true
 ---

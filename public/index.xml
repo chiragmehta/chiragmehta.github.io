@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jul 2023 14:03:53 -0500</lastBuildDate><atom:link href="https://llamatters.chir.ag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DEMO - Readability: Rewriting text to any comprehension level or length</title>
+      <title>Readability Demo</title>
       <link>https://llamatters.chir.ag/posts/readability-demo/</link>
       <pubDate>Sun, 16 Jul 2023 14:03:53 -0500</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Readability: Rewriting text to any comprehension level or length</title>
+      <title>Readability</title>
       <link>https://llamatters.chir.ag/posts/readability/</link>
       <pubDate>Thu, 13 Jul 2023 05:55:27 -0500</pubDate>
       
@@ -27,12 +27,12 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
     </item>
     
     <item>
-      <title>Glossary: Acronyms, Definitions, Jargon</title>
-      <link>https://llamatters.chir.ag/posts/glossary/</link>
+      <title>Glossary</title>
+      <link>https://llamatters.chir.ag/glossary/</link>
       <pubDate>Sat, 01 Jul 2023 20:53:32 -0500</pubDate>
       
-      <guid>https://llamatters.chir.ag/posts/glossary/</guid>
-      <description>Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</description>
+      <guid>https://llamatters.chir.ag/glossary/</guid>
+      <description>About this Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overv
       <pubDate>Thu, 29 Jun 2023 15:47:24 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/posts/introduction/</guid>
-      <description>LLaMatters 🔗ChatGPT &amp;amp; Beyond 🔗 As a user, ChatGPT is helpful. For many, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses.</description>
+      <description>LLaMatters = LLaMa + Matters 🔗ChatGPT &amp;amp; Beyond 🔗 As a user, ChatGPT is helpful. For many, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses.</description>
     </item>
     
     <item>

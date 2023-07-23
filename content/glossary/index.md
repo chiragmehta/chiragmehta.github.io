@@ -1,11 +1,12 @@
 ---
 slug: glossary
-title: "Glossary: Acronyms, Definitions, Jargon"
+title: "Glossary"
+subtitle: "Acronyms, Definitions, Jargon"
 date: 2023-07-01T20:53:32-05:00
 draft: false
 ---
 
-# Glossary
+# About this Glossary
 
 <!--begin-->
 
@@ -14,6 +15,8 @@ Keeping up with new lingo used in the field of Large Language Models (LLMs), its
 Wikipedia has a thorough [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence), and while it is useful for students and researchers, it does not include most of the new lingo you might find on [r/LocalLLaMA](https://reddit.com/r/localLLaMA/) or [HuggingFace](https://huggingface.co/) repos that could be essential for beginners.
 
 I will do my best to maintain this list as a simple guide for those starting with LLMs. I am not aiming for accuracy or correctness but rather simplification and understanding.
+
+# Large Language Models (LLMs)
 
 ## GPT
 
@@ -41,6 +44,8 @@ Although "pretending" to sound coherent and actually being coherent are two vast
 
 For programmers in corporate environment, how great would it be to use a version of [Copilot](https://github.com/features/copilot) that is trained specifically on your codebase and does not leak any data outside your company servers! Local LLMs will eventually make that and a lot more possible, routine, and practically necessary.
 
+# LLM Optimization
+
 ## GPTQ
 
 **[GPT-Quantized](https://arxiv.org/abs/2210.17323)** is a smaller version of a larger LLM, simplified using quantization. LLMs contain billions of decimal "weights", akin to the strength of individual connections between the neurons in our brain, which are then used by the generative algorithm to output text. Since it takes more bytes to store 3.1415926535 than 3 or 3.14, and for many purposes, 3 is good enough, "quantizing" the more precise decimal from 3.1415926535 to 3 saves a lot of space and gives nearly the same quality of result.
@@ -62,6 +67,8 @@ So if you have an Nvidia GPU, use GPTQ version of LLMs. Otherwise, use GGML vers
 ## QLoRA
 
 **[Quantized LoRA](https://arxiv.org/abs/2305.14314)** is an algorithm that retrains a smaller [quantized LLM using LoRA](https://github.com/artidoro/qlora). QLoRA is extremely powerful because it allows a smaller LLM, say with 13 billion parameters, to be retrained using Q&A responses from a much larger model, say with 65+ billion parameters. This could make a smaller model perform certain tasks as well as a larger model, without retraining from scratch.
+
+# Other AI-tech
 
 ## Stable Diffusion (SD)
 

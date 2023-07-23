@@ -2,8 +2,24 @@
     border-bottom: 1px solid #eee;
 }
 
+.main .item h2.subtitle {
+    font-size: 1.1em;
+    font-style: italic;
+    color: #777;
+    margin: 0;
+}
+
 .main #single h1.title {
     border-bottom: 1px solid #ccc;
+    margin-bottom: 0;
+}
+
+.main #single h2.subtitle {
+    text-align: center;
+    font-size: 1.2em;
+    color: #777;
+    margin: 0;
+    margin-bottom: 1em;
 }
 
 .main .profile {
