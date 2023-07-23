@@ -1,5 +1,5 @@
 .main .item {
-    border-bottom:1px solid #eee;
+    border-bottom: 1px solid #eee;
 }
 
 .main #single h1.title {
@@ -25,14 +25,26 @@
     margin-bottom: 0;
 }
 
+.content h3 {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.content h3+ul,
+.content h3+ol {
+    margin-top: 0;
+}
+
 .content p {
     margin-block-start: 0.5em;
     margin-block-end: 2em;
 }
 
 #TableOfContents ul:first-of-type {
-    margin-bottom:0;
+    margin-bottom: 0;
 }
-#TableOfContents ul + ul {
-    margin-top:0;
+
+#TableOfContents ul+ul {
+    margin-top: 0;
 }

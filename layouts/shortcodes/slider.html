@@ -3,7 +3,7 @@
 <style>
     .slider-content {
         border-left: 4px solid #0594cb;
-        margin-bottom:0;
+        margin-bottom:2em;
     }
 
     .slide-pane {
@@ -40,15 +40,15 @@
     }
 </script>
 
-<div class="slider-content" id="{{ $contentID }}">
-    {{ .Inner }}
-</div>
 <div class="slider-wrapper">
     <input type="range" value="0" min="0" max="{{ .Get "range" }}"
         class="slider" id="{{ .Get "name" }}"
         oninput="setSlide('{{ .Get "name" }}');"
         onchange="setSlide('{{ .Get "name" }}');"
         style="width:100%;">
+</div>
+<div class="slider-content" id="{{ $contentID }}">
+    {{ .Inner }}
 </div>
 
 <script>

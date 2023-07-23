@@ -25,6 +25,10 @@ I have this same need for other text-based content like news articles and techni
 
 ## *Readable content is easier to comprehend:*
 
+{{< center >}}
+Slide to change reading level
+{{< /center >}}
+
 {{< slider name="read-level" range="8" height="110px" >}}
 
 {{< slide name="2nd grade" >}}
@@ -64,10 +68,6 @@ Content that is presented in a highly readable format, characterized by linguist
 {{< /slide >}}
 
 {{< /slider >}}
-
-{{< center >}}
-Slide to change reading level
-{{< /center >}}
 
 ## Reading Level & Length
 
@@ -119,13 +119,13 @@ Dear OpenAI and Anthropic, please make wiki.openai.com or wiki.anthropic.com hap
 
 After I experimented with rewriting text content in a lot of different ways with number of local and cloud LLM APIs for weeks, I settled on using specific grade level and length system prompts for ChatGPT 4 API. I ended up with 4 reading levels and 3 different word lengths. In addition to being expensive, GPT output was not substantially different for every grade level and due to the non-deterministic nature of output, sometimes grade 4-5 would be more complex than grade 6-7, or text limited to 50-100 words would be longer than text for 150-200 words. Here are the final parameters:
 
-### **Level**:
+### Level
 * 2nd Grade Student (age 7)
 * 8th Grade Student (age 13)
 * College Graduate (age 22)
 * Expert in Field (age 40)
 
-### **Length**:
+### Length
 * 50-100 words (1-3 sentences)
 * 500-750 words (3-4 short paragraphs in 2 sections)
 * 1000-2000 words (full length 4-5 pages, 20-25 long paragraphs in 5+ sections)
@@ -139,6 +139,12 @@ I tried out various combinations of the above parameters with a few different Wi
 When I said I tried out various combinations above, I meant I played around with detailed, custom prompts for each combination. Prompt just means what you want the GPT to do and how you want it to respond. I started with a generic "Rewrite the following text in 50-100 words (1-3 sentences) such that a 2nd Grade Student (age 7) can understand it." It sounds like it should work, but unfortunately it did not for most articles.
 
 Often the language in the response came out more complex or the length was unpredictable. LLMs just aren't good enough to read between the lines yet. You have to specify a lot more in a prompt - what should the tone of the output be? Funny or dry? How detailed should the factual information be? Should the response be broken up into various sections? And most importantly, who is the writer that GPT is pretending to be? A helpful school teacher, a prolific journalist, or an esteemed researcher? Each of them would write differently for each target audience. After a few weeks of fiddling around, this is what I came up with for each length.
+
+### Prompts for 50-100 words
+
+{{< center >}}
+Slide to change reading level
+{{< /center >}}
 
 {{< slider name="sys-len-0100" range="3" height="200px" >}}
 
@@ -160,11 +166,11 @@ In fewer than 100 words or 1-2 very short sentences, you will summarize and expl
 
 {{< /slider >}}
 
+### Prompts for 500-750 words
+
 {{< center >}}
 Slide to change reading level
 {{< /center >}}
-
-&nbsp;
 
 {{< slider name="sys-len-0500" range="3" height="200px" >}}
 
@@ -186,12 +192,11 @@ In about 500 words or 3 short paragraphs, you will summarize and explain the thr
 
 {{< /slider >}}
 
+### Prompts for 1000-2000 words
+
 {{< center >}}
 Slide to change reading level
 {{< /center >}}
-
-&nbsp;
-
 
 {{< slider name="sys-len-1000" range="3" height="200px" >}}
 
@@ -213,8 +218,10 @@ Using as many words, sentences, paragraphs, and sections as necessary, you will 
 
 {{< /slider >}}
 
-{{< center >}}
-Slide to change reading level
-{{< /center >}}
+## Generate Demo
 
-&nbsp;
+After my script downloaded 12 versions of each Wikipedia article and saved them to my local machine, one final script took all the outputs from all the articles and merged them into one large file that is used in the demo.
+
+This way if I want to add or replace articles, I can just regenerate the full demo automatically.
+
+If you want to see different versions of any specific Wikipedia article, please [let me know](https://chir.ag/contact.shtml).
