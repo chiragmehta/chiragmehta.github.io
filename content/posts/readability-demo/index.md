@@ -6,18 +6,8 @@ draft: false
 ---
 
 # About this demo
-- Scroll down to see the sample articles
-- **Move the sliders** to change reading *level* and *length*
-- Read more about this demo in my [full post here](/posts/readability).
+- Select the article from the dropdown below
+- Set the reading *level* and *length*
+- Read why and how I made this demo in my [full post here](/posts/readability).
 
 <!--begin-->
-
-# Arcology
-
-# Chandrayaan programme
-
-# Epistemology
-
-# Grand Ethiopian Renaissance Dam
-
-# Multiple sclerosis

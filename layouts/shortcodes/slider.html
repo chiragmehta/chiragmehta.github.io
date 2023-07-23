@@ -3,7 +3,7 @@
 <style>
     .slider-content {
         border-left: 4px solid #0594cb;
-        margin-bottom:2em;
+        margin-bottom:0;
     }
 
     .slide-pane {
@@ -33,21 +33,22 @@
 <script>
     function setSlide(s) {
         var v=document.getElementById(s).value;
-        Array.from(document.querySelectorAll('#{{ $contentID }} > div.slide-pane')).forEach(
+        console.log(s, v);
+        Array.from(document.querySelectorAll('#' + s + '-content > div.slide-pane')).forEach(
             div => { div.classList.remove('slide-show'); });
-        document.getElementById('{{ .Get "name" }}_' + v).classList.add('slide-show');
+        document.getElementById(s + '_' + v).classList.add('slide-show');
     }
 </script>
 
+<div class="slider-content" id="{{ $contentID }}">
+    {{ .Inner }}
+</div>
 <div class="slider-wrapper">
     <input type="range" value="0" min="0" max="{{ .Get "range" }}"
         class="slider" id="{{ .Get "name" }}"
         oninput="setSlide('{{ .Get "name" }}');"
         onchange="setSlide('{{ .Get "name" }}');"
         style="width:100%;">
-</div>
-<div class="slider-content" id="{{ $contentID }}">
-    {{ .Inner }}
 </div>
 
 <script>
