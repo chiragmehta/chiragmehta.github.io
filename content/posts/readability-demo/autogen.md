@@ -1,7 +1,9 @@
 # Readability Parameters
-<form id='demo-form'>
 <script>var LEVEL = {"G02":"2nd Grade Student (age 7)","G08":"8th Grade Student (age 13)","G16":"College Graduate (age 22)","G30":"Expert in Field (age 40)"};</script>
 <script>var LENGTH = {"W0100":"50 words (2 sentences)","W0500":"500 words (4 short paragraphs in 2 sections)","W1000":"2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)"};</script>
+<form id='demo-form'>
+<div class='row' style='display: flex; flex-direction: row; align-items: center;'>
+<label class='col' for='demo-article'>Article:</label>
 <select id='demo-article' oninput='updateText()' onchange='updateText()'>
 <option value='Arcology'>Arcology</option>
 <option value='Chandrayaan_programme'>Chandrayaan programme</option>
@@ -9,12 +11,34 @@
 <option value='Grand_Ethiopian_Renaissance_Dam'>Grand Ethiopian Renaissance Dam</option>
 <option value='Multiple_sclerosis'>Multiple sclerosis</option>
 </select>
-<label>Level:
-<input type='range' min='0' max='3' id='demo-lev' oninput='updateText()' onchange='updateText()'>
+</div>
+<div class='row' style='display: flex; flex-direction: row; align-items: center;'>
+<label class='col' for='demo-lev'>Level:</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G02' oninput='updateText()' onchange='updateText()'><span>2nd</span>
 </label>
-<label>Length:
-<input type='range' min='0' max='2' id='demo-len' oninput='updateText()' onchange='updateText()'>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G08' oninput='updateText()' onchange='updateText()'><span>8th</span>
 </label>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G16' oninput='updateText()' onchange='updateText()'><span>College</span>
+</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G30' oninput='updateText()' onchange='updateText()'><span>Expert</span>
+</label>
+</div>
+<div class='row' style='display: flex; flex-direction: row; align-items: center;'>
+<label class='col' for='demo-len'>Length:</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-len' value='W0100' oninput='updateText()' onchange='updateText()'><span>50-100</span>
+</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-len' value='W0500' oninput='updateText()' onchange='updateText()'><span>500-750</span>
+</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-len' value='W1000' oninput='updateText()' onchange='updateText()'><span>1000+</span>
+</label>
+</div>
 </form>
 
 <div class='slide-pane' id='Arcology-G02-W0100'>

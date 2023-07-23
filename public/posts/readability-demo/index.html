@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <title>Readability Demo | LLaMatters by Chirag Mehta</title>
+    <title>Readability Demo | Rewriting text to any comprehension level or length | LLaMatters by Chirag Mehta</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="About this demo 🔗 Select the article from the dropdown below Set the reading level and length Read why and how I made this demo in my full post here. Readability Parameters 🔗 Arcology Chandrayaan programme Epistemology Grand Ethiopian Renaissance Dam Multiple sclerosis Level: Length: 2nd Grade Student (age 7) 50 words (2 sentences) Arcology is a big word that means designing buildings to fit lots of people and be good for nature.">
+<meta name="description" content="About this demo 🔗 Select the article from the dropdown below Set the reading level and length Read why and how I made this demo in my full post here. Readability Parameters 🔗 Article: Arcology Chandrayaan programme Epistemology Grand Ethiopian Renaissance Dam Multiple sclerosis Level: 2nd 8th College Expert Length: 50-100 500-750 1000&#43; 2nd Grade Student (age 7) 50 words (2 sentences) Arcology is a big word that means designing buildings to fit lots of people and be good for nature.">
 <meta name="generator" content="Hugo 0.114.1">
 
 
@@ -62,7 +62,7 @@
           ·
         </span>
         <span>
-          34592 words
+          34600 words
         </span>
         <span class="split">
           ·
@@ -391,10 +391,14 @@
 <script>
     function updateText() {
         var art = document.getElementById('demo-article').value;
-        var lev_v = document.getElementById('demo-lev').value;
-        var len_v = document.getElementById('demo-len').value;
-        var lev = Object.keys(LEVEL)[lev_v];
-        var len = Object.keys(LENGTH)[len_v];
+
+        if(!document.querySelector('input[name="demo-lev"]:checked'))
+            document.getElementsByName('demo-lev')[0].checked = true;
+        var lev = document.querySelector('input[name="demo-lev"]:checked').value;
+
+        if(!document.querySelector('input[name="demo-len"]:checked'))
+            document.getElementsByName('demo-len')[0].checked = true;
+        var len = document.querySelector('input[name="demo-len"]:checked').value;
 
         Array.from(document.querySelectorAll('div.slide-show')).forEach(
             div => { div.classList.remove('slide-show'); });
@@ -404,11 +408,57 @@
 </script>
 <style>
 
+    div.tip, .toc {
+        display:none;
+    }
+
+    h1#readability-parameters {
+        margin-bottom:0;
+    }
+
     #demo-form {
         border:1px solid #dda;
-        padding:0.5em;
+        padding:0;
         background:#ffe;
         margin-bottom:2em;
+    }
+
+    #demo-form div.row {
+        margin:1em 0.5em;
+    }
+
+    #demo-form label.col {
+        min-width:25%;
+    }
+
+    #demo-form select#demo-article {
+        width:75%;
+        max-width:75%;
+    }
+
+    #demo-form .radio-btn {
+        display: inline-block;
+        margin:0;
+        margin-right:6px;
+        cursor: pointer;
+    }
+
+    #demo-form .radio-btn input {
+        display: none;
+    }
+
+    #demo-form .radio-btn span {
+        padding: 0.5em;
+        font-size:0.9em;
+        border: 1px solid #5badf0;
+        color: #333;
+        background-color: #fff;
+        transition: background-color .2s;
+    }
+
+    #demo-form .radio-btn input:checked + span {
+        background-color: #5badf0;
+        color: #fff;
     }
 
     .slide-pane {
@@ -447,9 +497,11 @@
         display: block !important;
     }
 </style>
-<h1 id="readability-parameters">Readability Parameters <a href="#readability-parameters" class="anchor">🔗</a></h1><form id='demo-form'>
-<script>var LEVEL = {"G02":"2nd Grade Student (age 7)","G08":"8th Grade Student (age 13)","G16":"College Graduate (age 22)","G30":"Expert in Field (age 40)"};</script>
+<h1 id="readability-parameters">Readability Parameters <a href="#readability-parameters" class="anchor">🔗</a></h1><script>var LEVEL = {"G02":"2nd Grade Student (age 7)","G08":"8th Grade Student (age 13)","G16":"College Graduate (age 22)","G30":"Expert in Field (age 40)"};</script>
 <script>var LENGTH = {"W0100":"50 words (2 sentences)","W0500":"500 words (4 short paragraphs in 2 sections)","W1000":"2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)"};</script>
+<form id='demo-form'>
+<div class='row' style='display: flex; flex-direction: row; align-items: center;'>
+<label class='col' for='demo-article'>Article:</label>
 <select id='demo-article' oninput='updateText()' onchange='updateText()'>
 <option value='Arcology'>Arcology</option>
 <option value='Chandrayaan_programme'>Chandrayaan programme</option>
@@ -457,12 +509,34 @@
 <option value='Grand_Ethiopian_Renaissance_Dam'>Grand Ethiopian Renaissance Dam</option>
 <option value='Multiple_sclerosis'>Multiple sclerosis</option>
 </select>
-<label>Level:
-<input type='range' min='0' max='3' id='demo-lev' oninput='updateText()' onchange='updateText()'>
+</div>
+<div class='row' style='display: flex; flex-direction: row; align-items: center;'>
+<label class='col' for='demo-lev'>Level:</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G02' oninput='updateText()' onchange='updateText()'><span>2nd</span>
 </label>
-<label>Length:
-<input type='range' min='0' max='2' id='demo-len' oninput='updateText()' onchange='updateText()'>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G08' oninput='updateText()' onchange='updateText()'><span>8th</span>
 </label>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G16' oninput='updateText()' onchange='updateText()'><span>College</span>
+</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-lev' value='G30' oninput='updateText()' onchange='updateText()'><span>Expert</span>
+</label>
+</div>
+<div class='row' style='display: flex; flex-direction: row; align-items: center;'>
+<label class='col' for='demo-len'>Length:</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-len' value='W0100' oninput='updateText()' onchange='updateText()'><span>50-100</span>
+</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-len' value='W0500' oninput='updateText()' onchange='updateText()'><span>500-750</span>
+</label>
+<label class='radio-btn'>
+<input type='radio' name='demo-len' value='W1000' oninput='updateText()' onchange='updateText()'><span>1000+</span>
+</label>
+</div>
 </form>
 <div class='slide-pane' id='Arcology-G02-W0100'>
 <div class='slide-param'>
@@ -1476,7 +1550,7 @@ Exploration of the Moon – Missions to the Moon</p>
 
 
     </main>
-    
+
     <footer id="footer">
     
         <div id="social">

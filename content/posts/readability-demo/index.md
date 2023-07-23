@@ -16,10 +16,14 @@ draft: false
 <script>
     function updateText() {
         var art = document.getElementById('demo-article').value;
-        var lev_v = document.getElementById('demo-lev').value;
-        var len_v = document.getElementById('demo-len').value;
-        var lev = Object.keys(LEVEL)[lev_v];
-        var len = Object.keys(LENGTH)[len_v];
+
+        if(!document.querySelector('input[name="demo-lev"]:checked'))
+            document.getElementsByName('demo-lev')[0].checked = true;
+        var lev = document.querySelector('input[name="demo-lev"]:checked').value;
+
+        if(!document.querySelector('input[name="demo-len"]:checked'))
+            document.getElementsByName('demo-len')[0].checked = true;
+        var len = document.querySelector('input[name="demo-len"]:checked').value;
 
         Array.from(document.querySelectorAll('div.slide-show')).forEach(
             div => { div.classList.remove('slide-show'); });
@@ -30,11 +34,57 @@ draft: false
 
 <style>
 
+    div.tip, .toc {
+        display:none;
+    }
+
+    h1#readability-parameters {
+        margin-bottom:0;
+    }
+
     #demo-form {
         border:1px solid #dda;
-        padding:0.5em;
+        padding:0;
         background:#ffe;
         margin-bottom:2em;
+    }
+
+    #demo-form div.row {
+        margin:1em 0.5em;
+    }
+
+    #demo-form label.col {
+        min-width:25%;
+    }
+
+    #demo-form select#demo-article {
+        width:75%;
+        max-width:75%;
+    }
+
+    #demo-form .radio-btn {
+        display: inline-block;
+        margin:0;
+        margin-right:6px;
+        cursor: pointer;
+    }
+
+    #demo-form .radio-btn input {
+        display: none;
+    }
+
+    #demo-form .radio-btn span {
+        padding: 0.5em;
+        font-size:0.9em;
+        border: 1px solid #5badf0;
+        color: #333;
+        background-color: #fff;
+        transition: background-color .2s;
+    }
+
+    #demo-form .radio-btn input:checked + span {
+        background-color: #5badf0;
+        color: #fff;
     }
 
     .slide-pane {

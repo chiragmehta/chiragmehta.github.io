@@ -7,51 +7,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jul 2023 14:03:53 -0500</lastBuildDate><atom:link href="https://llamatters.chir.ag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Readability Demo</title>
+      <title>Readability Demo | Rewriting text to any comprehension level or length</title>
       <link>https://llamatters.chir.ag/posts/readability-demo/</link>
       <pubDate>Sun, 16 Jul 2023 14:03:53 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/posts/readability-demo/</guid>
-      <description>About this demo 🔗 Select the article from the dropdown below Set the reading level and length Read why and how I made this demo in my full post here. Readability Parameters 🔗 Arcology Chandrayaan programme Epistemology Grand Ethiopian Renaissance Dam Multiple sclerosis Level: Length: 2nd Grade Student (age 7) 50 words (2 sentences) Arcology is a big word that means designing buildings to fit lots of people and be good for nature.</description>
+      
+      <description> </description>
+      
     </item>
     
+    
+    
     <item>
-      <title>Readability</title>
+      <title>Readability | Rewriting text to any comprehension level or length</title>
       <link>https://llamatters.chir.ag/posts/readability/</link>
       <pubDate>Thu, 13 Jul 2023 05:55:27 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/posts/readability/</guid>
-      <description>About this page 🔗This page explains why and how I made this Readability Demo. Feel free to check it out first and then come back here.
-Need for simplicity 🔗 Wikipedia is a great resource for getting a quick overview of a topic.</description>
+      
+      <description>Wikipedia is a great resource for getting a quick overview of a topic. But sometimes the articles are too long or too technical. Simple Wikipedia helps, although it can still be pretty lengthy and not always simple enough. Or it might be too simple, depending on what I am trying to learn. I&amp;amp;rsquo;ve always wanted to be able to choose the level of detail and length based on what I am looking. Sometimes when I am researching a new topic and come across 10 new terms, all linking to their own detailed Wikipedia pages, I just want to get a 50-100 word gist. Other times, I want to get a 1000-word summary of a topic I am sort of familiar with but don&amp;amp;rsquo;t know well enough.
+I have this same need for other text-based content like news articles and technical documents. And I believe a solution for this would improve readability and thus improve comprehension for everyone.
+Readability &amp;amp;amp; Comprehension 🔗Readability refers to the ease with which a reader can read and understand a written text. It is influenced by</description>
+      
     </item>
     
+    
+    
     <item>
-      <title>Glossary</title>
+      <title>Glossary | Acronyms, Definitions, Jargon</title>
       <link>https://llamatters.chir.ag/glossary/</link>
       <pubDate>Sat, 01 Jul 2023 20:53:32 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/glossary/</guid>
-      <description>About this Glossary 🔗 Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.</description>
+      
+      <description>Keeping up with new lingo used in the field of Large Language Models (LLMs), itself a small subset of the ever-expanding world of AI/ML, is difficult, because every day new research papers coin new terms for novel algorithms or approaches.
+Wikipedia has a thorough Glossary of artificial intelligence, and while it is useful for students and researchers, it does not include most of the new lingo you might find on r/LocalLLaMA or HuggingFace repos that could be essential for beginners.
+I will do my best to maintain this list as a simple guide for those starting with LLMs. I am not aiming for accuracy or correctness but rather simplification and understanding.
+Large Language Models (LLMs) 🔗GPT 🔗Generative Pre-trained Transformer is the &amp;amp;lsquo;GPT&amp;amp;rsquo; in OpenAI&amp;amp;rsquo;s ChatGPT.
+GPT is an AI/ML tool trained to predict the next word in a sentence, similar to autocomplete on a phone keyboard. The learning algorithm (the T in GPT for Transformers by Google), is pre-trained (the P in GPT) without supervision.</description>
+      
     </item>
     
+    
+    
     <item>
-      <title>Introduction</title>
+      <title>Introduction | Why you may want to follow this blog</title>
       <link>https://llamatters.chir.ag/posts/introduction/</link>
       <pubDate>Thu, 29 Jun 2023 15:47:24 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/posts/introduction/</guid>
-      <description>LLaMatters = LLaMa + Matters 🔗ChatGPT &amp;amp; Beyond 🔗 As a user, ChatGPT is helpful. For many, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses.</description>
+      
+      <description>As a user, ChatGPT is helpful. For many, it is an easy way to answer detailed questions or write essays and emails. But for those who wish to learn more, it can be a gateway into the world of large language models (LLMs), generative text, and context-aware responses. ChatGPT by OpenAI is a fantastic tool and at the moment, far ahead of its competitors, but it is just one way of using conversational language to interact with computers. There is so much more happening in this field, especially in online communities like r/LocalLLaMA, that is redefining how we will eventually write and use software, but is not common-knowledge yet. With this blog, I hope to share my thoughts on where this field is going in non-programmer terms, how others could use or rather improve their use of these tools, and what I personally hope to get/make for myself.
+Background 🔗I have always loved languages, dictionaries, poetry, essays, word games, and crossword puzzles. Years ago, I analyzed US Presidential speeches and built a</description>
+      
     </item>
     
+    
+    
     <item>
-      <title>About</title>
+      <title>About | Me</title>
       <link>https://llamatters.chir.ag/about/</link>
       <pubDate>Thu, 29 Jun 2023 11:53:57 -0500</pubDate>
       
       <guid>https://llamatters.chir.ag/about/</guid>
+      
       <description>I am Chirag Mehta, programmer from Woodstock, IL. I started this blog to share my thoughts and experience learning about large language models and generative text. Read more about that here.
 You can contact me via this form.</description>
+      
     </item>
     
   </channel>
