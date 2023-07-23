@@ -12,3 +12,5 @@ draft: false
 - Read why and how I made this demo in my [full post here](/posts/readability).
 
 <!--begin-->
+
+ {{% include "autogen.md" %}}
