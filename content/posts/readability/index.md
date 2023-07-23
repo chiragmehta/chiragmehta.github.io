@@ -226,4 +226,7 @@ After my script downloaded 12 versions of each Wikipedia article and saved them 
 
 This way if I want to add or replace articles, I can just regenerate the full demo automatically.
 
+Click here to see the **[Readability Demo](/posts/readability-demo)**.
+
+
 If you want to see different versions of any specific Wikipedia article, please [let me know](https://chir.ag/contact.shtml).
