@@ -11,8 +11,11 @@
 <option value='Bonsai_Kitten'>Bonsai Kitten</option>
 <option value='Camera_obscura'>Camera obscura</option>
 <option value='Chandrayaan_programme'>Chandrayaan programme</option>
+<option value='Cybernetics'>Cybernetics</option>
 <option value='Epistemology'>Epistemology</option>
+<option value='European_Union_legislative_procedure'>European Union legislative procedure</option>
 <option value='Grand_Ethiopian_Renaissance_Dam'>Grand Ethiopian Renaissance Dam</option>
+<option value='Hampi'>Hampi</option>
 <option value='Multiple_sclerosis'>Multiple sclerosis</option>
 <option value='MythBusters'>MythBusters</option>
 </select>
@@ -2273,6 +2276,385 @@ Exploration of the Moon – Missions to the Moon
 This document does not include any references.
 </div>
 </div>
+<div class='slide-pane' id='Cybernetics-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Cybernetics is like being the captain of a ship. The captain watches how the ship moves and makes changes to keep it on course, even when the wind or waves try to push it off. This is called feedback. Cybernetics is the study of these feedback systems, not just in ships, but in everything from machines to animals to groups of people. It helps us understand how things work and how to make them work better. The word "cybernetics" comes from an ancient Greek word meaning 'steersman', which is like a ship's captain.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Cybernetics
+
+Cybernetics is a big word, but it's not as scary as it sounds! It's all about how things work together, like a captain steering a ship. The captain watches where the ship is going and makes changes to the steering to keep the ship on course. This is a type of feedback, where the captain uses the information about where the ship is to decide what to do next. Cybernetics can be used to understand lots of different things, like how animals behave, how machines work, or how people learn and manage things. It can even help people from different areas work together because it gives them a common language to talk about how things work.
+
+# What Does "Cybernetics" Mean?
+
+The word "cybernetics" comes from an old Greek word, κυβερνητικης (kubernētikēs), which means "good at steering". In the old days, this word was used to talk about how people govern or lead others. The word was first used in the way we use it now by a group of researchers in 1947, including a man named Norbert Wiener. They decided to use this word to talk about their study of how control and communication work in both animals and machines. So, when you hear "cybernetics", you can think of it as the study of how things steer themselves.
+
+# Feedback: A Key Idea in Cybernetics
+
+One of the most important ideas in cybernetics is feedback. Feedback is when the outcome of an action is used to decide what to do next. It's like when you're playing a game and you learn from what happened last time to decide what move to make next. Feedback can be found in many places. For example, a thermostat in your house uses feedback to keep the temperature just right. When the temperature gets too hot or too cold, the thermostat tells the heater or air conditioner to turn on or off. This is a type of feedback because the thermostat uses the information about the temperature (the outcome of the heater or air conditioner's actions) to decide what to do next.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Cybernetics
+
+Hello, kids! Today, we're going to learn about a fascinating subject called 'Cybernetics'. It's a big word, but don't worry, we'll break it down and make it simple and fun to understand. Let's dive in!
+
+## What is Cybernetics?
+
+Cybernetics is like a big toolbox full of different tools that help us understand how things work and how they're connected. It's all about how things affect each other in a loop, like when you shout into a canyon and hear your echo. This is called a 'feedback loop'. 
+
+Imagine you're steering a ship. You turn the wheel to the right, and the ship starts moving right. But then, a strong wind pushes the ship to the left. You notice this and turn the wheel more to the right to keep the ship on course. This is an example of a feedback loop in cybernetics. 
+
+Cybernetics isn't just about ships or machines. It's also about how animals, people, and nature work. It's about learning, designing, managing, and much more. That's why it's used in many different areas, from biology to technology, and even in social systems like families or schools.
+
+## What Does 'Cybernetics' Mean?
+
+The word 'cybernetics' comes from an Ancient Greek word, κυβερνητικης (kubernētikēs), which means 'good at steering'. This word was used by Plato, an ancient Greek philosopher, to describe how people can be guided or governed. Later, in 1834, a French physicist named André-Marie Ampère used the word 'cybernétique' to describe the science of government.
+
+The word 'cybernetics' as we use it today was introduced by a man named Norbert Wiener and his research group in 1947. They chose this word because it reminded them of the idea of a governor or a steersman, guiding a ship or a system. 
+
+## How Does Feedback Work in Cybernetics?
+
+In cybernetics, feedback is like a conversation between different parts of a system. Let's go back to our ship example. The helmsperson (that's the person steering the ship) turns the wheel, and the ship moves. But then the wind or the waves push the ship off course. The helmsperson sees this and adjusts the steering. This is a feedback loop.
+
+Feedback loops are everywhere! In a thermostat, the device measures the room's temperature and turns the heater on or off to keep the room warm. In our bodies, our nervous system helps us move our hands and feet. In a conversation, we listen to what someone else says and then respond based on what we heard.
+
+## The History of Cybernetics
+
+### The First Wave
+
+Cybernetics started with people studying how feedback works in living creatures and machines. They had meetings called the Macy Conferences from 1946 to 1953, where they shared their ideas. Norbert Wiener, who we mentioned earlier, wrote a book called 'Cybernetics: Or Control and Communication in the Animal and the Machine' that helped spread these ideas.
+
+In the 1950s, cybernetics was mostly used in technical fields like engineering. But by the 1960s and 1970s, people started using cybernetics in many other areas. Some people focused on artificial intelligence, which is about making machines that can think like humans. Others studied how computers work, which led to the field of computer science.
+
+### The Second Wave
+
+In the 1960s, people started using cybernetics to study social systems, like families or societies. They also used it to understand how we learn and how we know things. This was called 'second-order cybernetics' or the 'cybernetics of cybernetics'. 
+
+During this time, cybernetics also started influencing art, design, and architecture. People used cybernetic ideas to create interactive artwork and buildings.
+
+### The Third Wave
+
+From the 1990s onwards, there has been a renewed interest in cybernetics. People are using cybernetic ideas to build smarter machines and to understand how technology affects society. They're also looking back at the history of cybernetics and finding new ways to use its ideas.
+
+## Key Ideas in Cybernetics
+
+There are many different ideas in cybernetics. Here are a few:
+
+- 'Autopoiesis': This is a fancy word that means 'self-making'. It's about how systems can create and maintain themselves.
+- 'Feedback': This is about how actions can affect future actions in a loop.
+- 'Double bind theory': This is about how confusing messages can create problems in relationships.
+- 'Perceptual control theory': This is about how we control our actions based on what we perceive or see.
+
+## Cybernetics in Different Fields
+
+Cybernetics is used in many different fields. It started with engineering and biology, but now it's used in social sciences like anthropology and sociology, in business management, in design, and in education. 
+
+For example, in Chile, they once used cybernetic ideas to manage their economy. In design, cybernetics is used to create interactive buildings and computer interfaces.
+
+## Cybernetics Today
+
+Today, there are many academic journals and societies that focus on cybernetics. They share new research and ideas about cybernetics. Some of these include the 'American Society for Cybernetics', the 'Cybernetics Society', and the 'IEEE Systems, Man, and Cybernetics Society'.
+
+So that's it, kids! That's a basic introduction to cybernetics. It's a big field with lots of interesting ideas, and it's used in many different areas. Remember, the key idea in cybernetics is feedback - how actions affect future actions in a loop. And remember, cybernetics is not just about machines or technology, it's also about animals, people, and nature.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Cybernetics is a broad field that studies circular causal processes such as feedback in various systems, including ecological, technological, biological, cognitive, and social. It was named by Norbert Wiener after the process of steering a ship, where the helmsman adjusts their steering based on the observed effects, allowing for a steady course despite disturbances. Cybernetics has been defined in various ways, reflecting its diverse conceptual base, but it is generally concerned with control and communication in both animals and machines. The term "cybernetics" comes from the Ancient Greek word for "steering" and was coined in 1947 by a research group involving Wiener.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Cybernetics
+Cybernetics is a broad field that focuses on circular causal processes like feedback. An example of this is steering a ship, where the helmsman adjusts their steering based on the observed effect, allowing the ship to maintain a steady course despite disturbances such as wind or tides. Cybernetics can be applied to various systems including ecological, technological, biological, cognitive, and social systems. It also intersects with other fields due to its transdisciplinary nature, making it influential and open to diverse interpretations.
+
+# Defining Cybernetics
+There are many definitions of cybernetics, reflecting its rich conceptual base. Norbert Wiener, who named the field, defined it as the study of control and communication in animals and machines. The Macy cybernetics conferences defined it as the study of circular causal and feedback mechanisms in biological and social systems. Other definitions range from "the art of governing or the science of government" to "the science and art of understanding". These varying definitions highlight the breadth and depth of the field.
+
+# The Origin of the Term Cybernetics
+The term cybernetics comes from the Ancient Greek term κυβερνητικης (kubernētikēs, '(good at) steering') which appeared in Plato's Republic and Alcibiades. The French word cybernétique was also used in 1834 by physicist André-Marie Ampère to denote the sciences of government. According to Norbert Wiener, the term cybernetics was coined by a research group in the summer of 1947 and has been in print since 1948. The term was chosen to recognize the early and well-developed forms of feedback mechanisms such as the steering engines of a ship.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Cybernetics: A Comprehensive Study
+
+Cybernetics is a broad and fascinating field that deals with circular causal processes, such as feedback. This field was named by Norbert Wiener, who drew inspiration from the feedback process involved in steering a ship. The helmsman adjusts their steering based on the observed effects, thus maintaining a steady course despite disturbances like cross-winds or tides. Cybernetics is not limited to a single discipline; it encompasses various systems, including ecological, technological, biological, cognitive, and social systems. It also plays a crucial role in practical activities like designing, learning, managing, and more. Its transdisciplinary nature has led to its intersection with numerous other fields, resulting in a wide influence and diverse interpretations.
+
+## Definitions
+
+The term 'Cybernetics' has been defined in many ways, reflecting the richness of its conceptual base. Norbert Wiener, one of the pioneers in the field, defined cybernetics as the study of "control and communication in the animal and the machine." Another definition from the Macy cybernetics conferences describes it as the study of "circular causal and feedback mechanisms in biological and social systems." Margaret Mead, a renowned anthropologist, emphasized the role of cybernetics as a form of cross-disciplinary thought, enabling easy communication among members of various disciplines.
+
+Several other definitions include "the art of governing or the science of government" (André-Marie Ampère), "the art of steersmanship" (Ross Ashby), "the study of systems of any nature which are capable of receiving, storing, and processing information so as to use it for control" (Andrey Kolmogorov), and "the science and art of understanding" (Humberto Maturana), among others.
+
+## Etymology
+
+The term 'Cybernetics' comes from the Ancient Greek term κυβερνητικης (kubernētikēs), which means '(good at) steering.' This term appears in Plato's Republic and Alcibiades, where the metaphor of a steersman signifies the governance of people. The French word 'cybernétique' was used in 1834 by physicist André-Marie Ampère to denote the sciences of government.
+
+According to Norbert Wiener, the term 'Cybernetics' was coined by a research group that included himself and Arturo Rosenblueth in the summer of 1947. They chose this term to recognize James Clerk Maxwell's 1868 publication on feedback mechanisms involving governors. Wiener explains that the term was chosen as the steering engines of a ship are "one of the earliest and best-developed forms of feedback mechanisms".
+
+## Feedback
+
+Feedback is a crucial concept in cybernetics. It is a process where the outcomes of actions are used as inputs for further action, creating a circular causal relationship. This process is evident in steering a ship, where the helmsperson continually adjusts their steering based on its observed effects, thus maintaining a steady course. Other examples of feedback include technological devices like thermostats, biological processes like the coordination of movement through the nervous system, and social interaction processes like conversation.
+
+## History
+
+### First Wave
+
+The initial focus of cybernetics was on the similarities between regulatory feedback processes in biological and technological systems. Two foundational articles published in 1943 laid the groundwork for the field. These articles were "Behavior, Purpose and Teleology" by Arturo Rosenblueth, Norbert Wiener, and Julian Bigelow, and "A Logical Calculus of the Ideas Immanent in Nervous Activity" by Warren McCulloch and Walter Pitts.
+
+The foundations of cybernetics were further developed through a series of transdisciplinary conferences funded by the Josiah Macy, Jr. Foundation, between 1946 and 1953. Participants in these conferences included Ross Ashby, Gregory Bateson, Heinz von Foerster, Margaret Mead, John von Neumann, and Norbert Wiener.
+
+During the 1950s, cybernetics developed as a primarily technical discipline. However, by the 1960s and 1970s, the transdisciplinary nature of cybernetics led to its fragmentation, with technical focuses separating into distinct fields. Artificial intelligence (AI) was founded as a distinct discipline at the Dartmouth workshop in 1956, differentiating itself from the broader cybernetics field. 
+
+### Second Wave
+
+The second wave of cybernetics, which gained prominence from the 1960s onwards, shifted its focus from technology to social, ecological, and philosophical concerns. This wave was grounded in biology and built on earlier work on self-organising systems. It focused on management cybernetics, work in family therapy, social systems, epistemology and pedagogy, and the development of radical constructivism. The second wave of cybernetics also saw the development of exchanges with the creative arts, design, and architecture.
+
+### Third Wave
+
+From the 1990s onwards, there has been a renewed interest in cybernetics. Early cybernetic work on artificial neural networks has been revisited as a paradigm in machine learning and artificial intelligence. The entanglements of society with emerging technologies have led to exchanges with feminist technoscience and posthumanism. 
+
+## Key Concepts and Theories
+
+Several key concepts and theories are central to the understanding of cybernetics. These include Autopoiesis, Black box, Circularity (feedback, feedforward, recursion, reflexivity), Conversation theory, Double bind theory, Experimental epistemology, Good regulator theorem, Method of levels, Perceptual control theory, Radical constructivism, Second-order cybernetics, Requisite Variety, Self-organisation, Social systems theory, and Viable system model.
+
+## Related Fields and Applications
+
+Cybernetics has a wide range of applications and relations with other fields due to its central concept of circular causality. Initial applications of cybernetics focused on engineering and biology, such as medical cybernetics and robotics, and topics such as neural networks, heterarchy. In the social and behavioral sciences, cybernetics has influenced work in anthropology, sociology, economics, family therapy, cognitive science, and psychology. 
+
+## Journals and Societies
+
+Several academic journals focus on cybernetics, such as Constructivist Foundations, Cybernetics and Human Knowing, and Cybernetics and Systems. Academic societies primarily concerned with cybernetics or aspects of it include the American Society for Cybernetics, the Cybernetics Society, and the IEEE Systems, Man, and Cybernetics Society.
+
+## Further Reading
+
+For those interested in deepening their understanding of cybernetics, several books and articles provide comprehensive insights. These include "Brains, machines, and mathematics" by Michael A. Arbib, "The Metaphorical Brain" by Michael A. Arbib, and "Behaviourist Art and the Cybernetic Vision" by Roy Ascott.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Cybernetics is a broad field that studies circular causal processes such as feedback. It was named by Norbert Wiener, who used the example of steering a ship to explain the concept of feedback. Cybernetics is not limited to any specific embodiment and is used in diverse fields such as ecology, technology, biology, cognition, and social systems. The term cybernetics was coined in 1947 and has been in print since at least 1948. The concept of feedback, where the outcomes of actions are used as inputs for further action, is central to cybernetics. The field has evolved in three waves, focusing initially on biological and technological systems, then on social, ecological, and philosophical concerns, and most recently on artificial intelligence and machine learning.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Cybernetics: A Transdisciplinary Approach
+
+Cybernetics, a term coined by Norbert Wiener, is a far-reaching field focused on circular causal processes such as feedback. It draws from an example of steering a ship, where the helmsman adjusts their steering in response to its observed effects, thereby maintaining a steady course despite disturbances like cross-winds or tides. Cybernetics encompasses a wide range of systems, including ecological, technological, biological, cognitive, and social, and is involved in practical activities such as designing and managing. The transdisciplinary nature of cybernetics has allowed it to intersect with numerous other fields, leading to its broad influence and diverse interpretations.
+
+# Definitions and Etymology
+
+Cybernetics has been defined in various ways, reflecting the richness of its conceptual base. Early definitions by Wiener and the Macy cybernetics conferences described it as a study of control and communication in the animal and the machine, and the study of circular causal and feedback mechanisms in biological and social systems, respectively. Other definitions range from "the art of governing" to "the science of understanding". The term cybernetics, derived from the Ancient Greek term κυβερνητικης (kubernētikēs, '(good at) steering'), was used to represent the governance of people. Wiener and his research group coined the term in 1947, and it has been in print since at least 1948.
+
+# Feedback and History
+
+Feedback is a critical process in cybernetics, where observed outcomes of actions are used as inputs for further action, forming a circular causal relationship. Examples include steering a ship, regulating room temperature with a thermostat, and social interaction processes like conversation. The history of cybernetics can be divided into three waves. The first wave focused on regulatory feedback processes in biological and technological systems. The second wave, from the 1960s onwards, shifted focus towards social, ecological, and philosophical concerns. From the 1990s onwards, the third wave saw a renewed interest in cybernetics, with emerging topics including how cybernetics' engagements with social, human, and ecological contexts might combine with its earlier technological focus.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Cybernetics: An In-Depth Analysis
+
+Cybernetics is a field that encompasses a broad range of disciplines, focusing on the study of systems and their inherent feedback loops. Named by Norbert Wiener, the term 'cybernetics' is derived from the Greek word for steersman, encapsulating the concept of maintaining a steady course amidst disturbances. This field finds application in numerous domains, from ecological and technological systems to cognitive and social systems. The transdisciplinary nature of cybernetics has led to its intersection with numerous other fields, making its influence wide-reaching and its interpretations diverse.
+
+## Defining Cybernetics
+
+Cybernetics has been defined in a multitude of ways, reflecting the richness of its conceptual base. Norbert Wiener, one of the pioneers of the field, defined it as the study of "control and communication in the animal and the machine." The Macy cybernetics conferences offered another definition, viewing cybernetics as the study of "circular causal and feedback mechanisms in biological and social systems."
+
+Margaret Mead emphasized the role of cybernetics as a form of cross-disciplinary thought, enabling members from various fields to communicate effectively. Other definitions of cybernetics range from "the art of governing or the science of government" (André-Marie Ampère) to "the science and art of understanding" (Humberto Maturana).
+
+## Origin of the Term 'Cybernetics'
+
+The term 'cybernetics' has its roots in ancient Greek, where the word κυβερνητικης (kubernētikēs) was used to signify the governance of people. Norbert Wiener, along with a research group including Arturo Rosenblueth, coined the term 'cybernetics' in the summer of 1947. Wiener used the term to denote the entire field of control and communication theory, whether in the machine or the animal.
+
+The choice of the term was also influenced by James Clerk Maxwell's 1868 publication on feedback mechanisms involving governors, as the term governor is derived from the Greek word κυβερνήτης (kubernḗtēs) via a Latin corruption gubernator. The feedback mechanisms in the steering engines of a ship, being one of the earliest forms of feedback mechanisms, further motivated the choice of the term.
+
+## The Concept of Feedback in Cybernetics
+
+Feedback is a crucial concept in cybernetics, referring to a process where the outcomes of actions are used as inputs for further action. This forms a circular causal relationship, helping to maintain or disrupt particular conditions. Examples of feedback mechanisms are found in various domains, from the steering of a ship to technological devices such as thermostats, biological processes like coordination of volitional movement through the nervous system, and social interactions such as conversation.
+
+## A Historical Overview of Cybernetics
+
+### The First Wave of Cybernetics
+
+The early focus of cybernetics was on regulatory feedback processes in biological and technological systems. Two foundational articles published in 1943 laid the groundwork for the field. The first was "Behavior, Purpose and Teleology" by Arturo Rosenblueth, Norbert Wiener, and Julian Bigelow, and the second was "A Logical Calculus of the Ideas Immanent in Nervous Activity" by Warren McCulloch and Walter Pitts. 
+
+The foundations of cybernetics were further developed through a series of transdisciplinary conferences funded by the Josiah Macy, Jr. Foundation, between 1946 and 1953. These conferences attracted participants from various fields, including Ross Ashby, Gregory Bateson, Heinz von Foerster, Margaret Mead, John von Neumann, and Norbert Wiener. 
+
+During the 1950s, cybernetics was primarily developed as a technical discipline. However, by the 1960s and 1970s, the transdisciplinary nature of cybernetics led to its fragmentation into separate fields. For instance, artificial intelligence (AI) became a distinct discipline at the Dartmouth workshop in 1956, differentiating itself from the broader cybernetics field. 
+
+### The Second Wave of Cybernetics
+
+The second wave of cybernetics, beginning in the 1960s, shifted focus from technology to social, ecological, and philosophical concerns. This wave was still grounded in biology, with a significant influence from Maturana and Varela's autopoiesis, and built on earlier work on self-organising systems. 
+
+The second wave saw the development of management cybernetics, work in family therapy, social systems, and epistemology and pedagogy. The core theme of circular causality was developed beyond goal-oriented processes to include reflexivity and recursion, leading to the development of second-order cybernetics.
+
+### The Third Wave of Cybernetics
+
+From the 1990s onwards, there has been a renewed interest in cybernetics from various directions. The entanglement of society with emerging technologies has led to exchanges with feminist technoscience and posthumanism. Re-examinations of cybernetics' history have emphasized its unique qualities as a science. 
+
+Emerging topics include how cybernetics' engagements with social, human, and ecological contexts might come together with its earlier technological focus, whether as a critical discourse or a "new branch of engineering."
+
+## Key Concepts and Theories in Cybernetics
+
+Cybernetics encompasses a variety of concepts and theories, each contributing to the understanding of the field. Some of these include autopoiesis, black box, circularity (feedback, feedforward, recursion, reflexivity), conversation theory, double bind theory, experimental epistemology, good regulator theorem, method of levels, perceptual control theory, radical constructivism, second-order cybernetics, requisite variety, self-organisation, social systems theory, and viable system model.
+
+## Cybernetics: Related Fields and Applications
+
+The central concept of circular causality in cybernetics has wide applicability, leading to diverse applications and relations with other fields. Initial applications of cybernetics focused on engineering and biology, with topics such as neural networks and heterarchy. In the social and behavioral sciences, cybernetics has influenced work in anthropology, sociology, economics, family therapy, cognitive science, and psychology.
+
+As cybernetics developed, it broadened in scope to include work in management, design, pedagogy, and the creative arts, while also developing exchanges with constructivist philosophies, counter-cultural movements, and media studies. 
+
+## Journals and Societies in Cybernetics
+
+Several academic journals focus on cybernetics, including Constructivist Foundations, Cybernetics and Human Knowing, Cybernetics and Systems, IEEE Transactions on Systems, Man, and Cybernetics: Systems, and Kybernetes. Academic societies primarily concerned with cybernetics include the American Society for Cybernetics, Cybernetics Society, IEEE Systems, Man, and Cybernetics Society, and Metaphorum.
+
+## Further Reading
+
+For those interested in further exploring the field of cybernetics, several books and articles provide in-depth information. These include "Brains, machines, and mathematics" by Michael A. Arbib, "The Metaphorical Brain" by Michael A. Arbib, and "Behaviourist Art and the Cybernetic Vision" by Roy Ascott.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+As a multi-disciplinary field, cybernetics focuses on circular causal processes, such as feedback systems, in various contexts including ecological, technological, biological, cognitive, and social systems. It has been defined in numerous ways, reflecting its diverse conceptual base, with one definition characterizing it as concerned with "control and communication in the animal and the machine." The term cybernetics, derived from the Ancient Greek term for 'steering', was coined in 1947 by a research group involving Norbert Wiener and Arturo Rosenblueth.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Overview of Cybernetics
+Cybernetics is a broad field that focuses on circular causal processes such as feedback. The term was coined by Norbert Wiener, who drew inspiration from the feedback process observed in steering a ship. Cybernetics is not restricted to a single discipline; it is applicable in various fields including ecological, technological, biological, cognitive, and social systems. The transdisciplinary nature of cybernetics allows it to intersect with multiple other fields, leading to its wide influence and diverse interpretations.
+
+# Definitions and Etymology
+Cybernetics has been defined in various ways, reflecting its rich conceptual base. Wiener described it as the study of "control and communication in the animal and the machine". Other definitions range from "the art of governing or the science of government" (André-Marie Ampère) to "the science and art of understanding" (Humberto Maturana). The term cybernetics originates from the Ancient Greek term κυβερνητικης (kubernētikēs, '(good at) steering') used by Plato and Alcibiades to denote the governance of people. Wiener and his research group coined the term cybernetics in 1947 to denote the entire field of control and communication theory, whether in the machine or in the animal.
+
+# Key Concepts and History
+Feedback is a key concept in cybernetics, where observed outcomes of actions are used as inputs for further actions, forming a circular causal relationship. This concept is applicable in various scenarios, from steering a ship to regulating room temperature with a thermostat. Cybernetics has evolved through three waves. The first wave focused on regulatory feedback processes in biological and technological systems, and the second wave shifted focus towards social, ecological, and philosophical concerns. The third wave, from the 1990s onwards, has seen a renewed interest in cybernetics from various directions, including artificial intelligence and machine learning. Cybernetics has also influenced a wide range of fields, from engineering and biology to anthropology, sociology, economics, and psychology.
+</div>
+</div>
+<div class='slide-pane' id='Cybernetics-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Cybernetics</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction
+
+Cybernetics is a broad and comprehensive field that focuses on circular causal processes, such as feedback. The term was coined by Norbert Wiener, who drew inspiration from the example of steering a ship, where the helmsman constantly adjusts their steering based on the observed effects, allowing the ship to maintain a steady course despite disturbances like cross-winds or tides. Cybernetics encompasses a wide range of systems, including ecological, technological, biological, cognitive, and social systems. It also finds application in practical activities like designing, learning, and managing. The transdisciplinary character of cybernetics means it intersects with numerous other fields, thereby exerting wide influence and attracting diverse interpretations.
+
+# Definitions
+
+The richness of the conceptual base of cybernetics is reflected in the variety of ways it has been defined. Wiener, for instance, characterized cybernetics as being concerned with "control and communication in the animal and the machine." The Macy cybernetics conferences defined it as the study of "circular causal and feedback mechanisms in biological and social systems." Margaret Mead highlighted the role of cybernetics as "a form of cross-disciplinary thought which made it possible for members of many disciplines to communicate with each other easily in a language which all could understand."
+
+Other definitions include "the art of governing or the science of government" (André-Marie Ampère); "the art of steersmanship" (Ross Ashby); "the study of systems of any nature which are capable of receiving, storing, and processing information so as to use it for control" (Andrey Kolmogorov); "a branch of mathematics dealing with problems of control, recursiveness, and information, focuses on forms and the patterns that connect" (Gregory Bateson); "the art of securing efficient operation" (Louis Couffignal); "the art of effective organization" (Stafford Beer); "the science or the art of manipulating defensible metaphors; showing how they may be constructed and what can be inferred as a result of their existence" (Gordon Pask); "the art of creating equilibrium in a world of constraints and possibilities" (Ernst von Glasersfeld); "the science and art of understanding" (Humberto Maturana); "the ability to cure all temporary truth of eternal triteness" (Herbert Brun); "a way of thinking about ways of thinking (of which it is one)" (Larry Richards).
+
+# Etymology
+
+The term cybernetics has its roots in the Ancient Greek word κυβερνητικης (kubernētikēs, '(good at) steering'), which is used in Plato's Republic and Alcibiades to signify the governance of people. The French word cybernétique, used by the physicist André-Marie Ampère in 1834, also denotes the sciences of government. According to Wiener, the term cybernetics was coined by a research group involving himself and Arturo Rosenblueth in the summer of 1947. The term was chosen in recognition of James Clerk Maxwell's 1868 publication on feedback mechanisms involving governors, with the term governor derived from κυβερνήτης (kubernḗtēs) via a Latin corruption gubernator. 
+
+# Feedback
+
+Feedback is a central concept in cybernetics, representing a process where the observed outcomes of actions are used as inputs for further action. This forms a circular causal relationship that supports the pursuit and maintenance of certain conditions or their disruption. Examples of feedback include technological devices like thermostats, biological processes like the coordination of volitional movement through the nervous system, and social interaction processes like conversation.
+
+# History
+
+## First Wave
+
+The first wave of cybernetics focused on the parallels between regulatory feedback processes in biological and technological systems. Two foundational articles were published in 1943: "Behavior, Purpose and Teleology" by Arturo Rosenblueth, Norbert Wiener, and Julian Bigelow, and "A Logical Calculus of the Ideas Immanent in Nervous Activity" by Warren McCulloch and Walter Pitts. The foundations of cybernetics were further developed through a series of transdisciplinary conferences funded by the Josiah Macy, Jr. Foundation, between 1946 and 1953. Participants included Ross Ashby, Gregory Bateson, Heinz von Foerster, Margaret Mead, John von Neumann, and Norbert Wiener. 
+
+## Second Wave
+
+The second wave of cybernetics, which gained prominence from the 1960s onwards, shifted its focus from technology to social, ecological, and philosophical concerns. It was still grounded in biology, notably in the concept of autopoiesis proposed by Maturana and Varela, and built on earlier work on self-organising systems. The second wave of cybernetics also saw the development of exchanges with the creative arts, design, and architecture.
+
+## Third Wave
+
+From the 1990s onwards, there has been a renewed interest in cybernetics from various directions. Early cybernetic work on artificial neural networks has been revisited as a paradigm in machine learning and artificial intelligence. The entanglements of society with emerging technologies have led to exchanges with feminist technoscience and posthumanism. 
+
+# Key Concepts and Theories
+
+Cybernetics encompasses a wide range of key concepts and theories, including autopoiesis, black box, circularity, conversation theory, double bind theory, experimental epistemology, good regulator theorem, method of levels, perceptual control theory, radical constructivism, second-order cybernetics, requisite variety, self-organisation, social systems theory, and viable system model.
+
+# Related Fields and Applications
+
+Cybernetics' central concept of circular causality has wide applicability, leading to diverse applications and relations with other fields. Initial applications of cybernetics focused on engineering and biology, such as medical cybernetics and robotics. In the social and behavioral sciences, cybernetics has influenced work in anthropology, sociology, economics, family therapy, cognitive science, and psychology. 
+
+# Journals and Societies
+
+Several academic journals and societies focus on cybernetics, including Constructivist Foundations, Cybernetics and Human Knowing, Cybernetics and Systems, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Human-Machine Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Computational Social Systems, Kybernetes, American Society for Cybernetics, Cybernetics Society, IEEE Systems, Man, and Cybernetics Society, Metaphorum, and RC51 Sociocybernetics.
+</div>
+</div>
 <div class='slide-pane' id='Epistemology-G02-W0100'>
 <div class='slide-param'>
 <div class='slide-param-art'>Epistemology</div>
@@ -2692,6 +3074,503 @@ In epistemology, a belief is justified if one has a good reason for holding it. 
 #### Internalism and externalism
 
 A central debate about the nature of justification is a debate between epistemological externalists on the one hand and epistemological internalists on the other. Epistemic externalism first arose in attempts to overcome the Gettier problem, and it has flourished since as an alternative way of conceiving of epistemic justification. The initial development of epistemic externalism is often attributed to Alvin Goldman.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The European Union (EU) makes laws through different methods. The way they choose depends on what the law is about. Usually, the European Commission suggests a law, and then the Council of the European Union and the European Parliament decide if they agree. Over time, the European Parliament has gained more power to help make laws. Only member states can change the EU's main laws, and they all have to agree to the changes. 
+
+Three main groups help make EU laws: the European Parliament, the Council of the European Union, and the European Commission. National parliaments of EU countries also play a role. The European Commission usually starts the law-making process. The European Parliament, which is made up of members chosen by people living in the EU, works with the Council to make laws. The Council represents the governments of EU countries. 
+
+When a law is suggested, it goes through several readings and votes by the Parliament and the Council. If they can't agree, a special committee tries to find a solution. If they still can't agree, the law is not passed. 
+
+Sometimes, the EU uses a quicker method called a "trilogue" to agree on laws. This involves representatives from the Parliament, the Council, and the Commission. 
+
+There are also special methods for making laws about sensitive topics. In some cases, the Council can make a law after getting the Parliament's opinion. In other cases, the Council can make a law after the Parliament agrees to it. 
+
+The EU can also change its main laws in two ways. One way is similar to the usual law-making process, but involves a conference of representatives from each member state's government. The other way allows the European Council to make changes to certain parts of the main laws, as long as all member states agree and the changes don't affect the EU's powers.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# How the European Union Makes Laws
+
+The European Union (EU) creates laws using different procedures. The type of procedure used depends on the topic of the law. The European Commission usually proposes the law, and then the Council of the European Union and European Parliament have to approve it to make it official. Over time, the European Parliament has gotten more power in making laws. It used to just give advice, but now it helps make the laws with the Council. The member countries of the EU have the power to change the Treaties of the EU, which are like the main rules of the EU. However, they have to agree to these changes based on their own country's rules. 
+
+# Who Helps Make EU Laws
+
+Since 2009, three main groups have been involved in making EU laws: the European Parliament, the Council of the European Union, and the European Commission. The national parliaments of the EU countries also play a role. The Parliament and the Council share the job of making laws and deciding on the budget for the EU. The European Commission has a lot of control over what laws are proposed. The European Parliament is made up of 705 members who are chosen by the people every five years. The Council of the EU represents the governments of the member countries. The national parliaments of the EU countries can raise objections if they think a law goes against the principle of subsidiarity, which means that decisions should be made as close as possible to the citizens.
+
+# How EU Laws are Passed
+
+The main way that laws are passed in the EU is called the ordinary legislative procedure. The Commission proposes a law to the Parliament and Council. The Parliament then adopts its position. If the Council agrees with the Parliament, the law is adopted. If not, the Council adopts its own position and sends it back to Parliament with explanations. The Parliament can reject the Council's text, modify it and pass it back to the Council. If the Council approves the Parliament's new text within three months, the law is adopted. If it doesn't, a Conciliation Committee is set up to try and agree on a joint text. If the Committee can't agree on a text within six weeks, the law is not adopted. If it does agree and the text is approved by the Council and Parliament, the law is adopted. There are also special legislative procedures for sensitive areas, and non-legislative procedures where the Commission and Council can adopt legal acts without the Parliament. The treaties can also be revised using an ordinary revision procedure or a simplified revision procedure.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Making Laws in the European Union
+
+The European Union (EU) is a group of 27 countries in Europe that work together in many ways. One of the things they do together is make laws. This process involves different groups and follows certain rules and steps. Let's explore how this works!
+
+## Section 1: Who Makes the Laws?
+
+The main groups involved in making EU laws are the European Parliament, the Council of the European Union, and the European Commission. Each of these groups has a different role in the process. Let's learn about each one!
+
+### The European Commission
+
+The European Commission is like the ideas factory for EU laws. They are the ones who usually come up with the ideas for new laws. They then write these ideas down in a way that can be turned into a law. This is called a legislative proposal.
+
+The Commission has a lot of power in deciding what these proposals look like. Sometimes, they create proposals because the Council or the Parliament has asked them to. But, they get to decide exactly what the proposal says.
+
+There are also some cases where the Commission can create laws by itself, without needing approval from the other groups. But, this doesn't happen very often.
+
+### The European Parliament
+
+The European Parliament is made up of 705 members who are chosen by people from all over the EU. These members work together in groups based on their political beliefs, not the country they're from.
+
+The Parliament's job is to review the proposals from the Commission and decide if they agree with them. Over time, the Parliament has gotten more power in this process. Now, they have an equal role with the Council in making laws.
+
+The Parliament also gets to vote on who is in the European Commission. But, they don't get to pick the candidates. That's up to the Council of the European Union.
+
+### The Council of the European Union
+
+The Council of the European Union represents the governments of the EU countries. They have as many members as there are countries in the EU (27). Each country gets a certain number of votes based on how many people live there.
+
+The Council's job is to review the legislative proposals too. They work on this mostly through their representatives, rather than in committees like the Parliament.
+
+### National Parliaments
+
+The national parliaments of the EU countries also play a role in making laws. They have a system where they can raise objections to a proposal if they think it goes against the principle of subsidiarity. This principle says that decisions should be made as close to the people as possible.
+
+If one third of the national parliaments object to a proposal, it has to be reviewed. If more than half object, the Council or the Parliament can vote it down right away. This gives the national parliaments some power in the law-making process.
+
+## Section 2: How Are Laws Made?
+
+Now that we know who makes the laws, let's look at how they do it. The main way laws are made in the EU is through the ordinary legislative procedure. This used to be called the codecision procedure.
+
+### The Ordinary Legislative Procedure
+
+Here's how the ordinary legislative procedure works, step by step:
+
+1. The Commission creates a legislative proposal and sends it to the Parliament and the Council.
+2. The Parliament reviews the proposal and decides if they agree with it. If the Council agrees with the Parliament's decision, the proposal becomes a law.
+3. If the Council doesn't agree with the Parliament, they create their own version of the proposal and send it back to the Parliament. The Commission also tells the Parliament what they think about the Council's version.
+4. The Parliament then reviews the Council's version. If they agree with it, or if they don't make a decision, the proposal becomes a law. If they don't agree, they can change the proposal and send it back to the Council. The Commission tells the Council what they think about the Parliament's changes.
+5. If the Council agrees with the Parliament's changes within three months, the proposal becomes a law. If they don't agree, they meet with the Parliament in a group called the Conciliation Committee to try to agree on a final version.
+6. If the Committee can't agree on a version, the proposal does not become a law. If they do agree, and the Council and the Parliament approve their version, the proposal becomes a law.
+
+This process was created to replace an older process called the Cooperation procedure. It's now used for almost all areas, like agriculture, fishing, transportation, and the budget.
+
+### The Trilogue
+
+During the ordinary legislative procedure, there's often a meeting called a trilogue. This is an informal meeting between representatives from the Parliament, the Council, and the Commission.
+
+The goal of the trilogue is to help the three groups agree on a proposal more quickly. The agreements made in these meetings still have to be approved through the regular process in each group.
+
+Trilogues have become more common as the Parliament's role in making laws has grown. But, some people have criticized them for not being transparent enough.
+
+## Section 3: Special Procedures
+
+Sometimes, special procedures are used to make laws in certain sensitive areas. These procedures only involve the Council and either the Parliament or the Commission.
+
+### Consultation Procedure
+
+In the consultation procedure, the Council can make a law based on a proposal from the Commission after consulting with the Parliament. But, they don't have to agree with what the Parliament says.
+
+### Consent Procedure
+
+In the consent procedure, the Council can make a law based on a proposal from the Commission after getting the Parliament's consent. The Parliament can't suggest changes to the proposal, but they can refuse to give their consent if they don't agree with it.
+
+## Section 4: Non-Legislative Procedures
+
+There are also some procedures for making non-legislative acts. These are acts that have legal effects, but they're not laws.
+
+### Commission and Council Acting Alone
+
+In some cases, the Council can adopt acts proposed by the Commission without needing the Parliament's opinion. This is used for things like setting tariffs and negotiating trade agreements.
+
+### Commission Acting Alone
+
+In a few areas, the Commission can adopt acts on its own, without consulting with or getting consent from the other groups. This is used for things like regulating monopolies and worker rights.
+
+## Section 5: Changing the Treaties
+
+The EU is based on several treaties, which are like its constitution. Changing these treaties is a big deal and requires a special process.
+
+There are two ways to change the treaties: the ordinary revision procedure and the simplified revision procedure. The ordinary procedure involves a conference with representatives from all the member states. The simplified procedure can be used to change certain parts of the treaties with a unanimous decision from the European Council and approval from all the member states.
+
+There's also a clause called the Passerelle Clause that allows the European Council to change how decisions are made in the Council of Ministers. They can switch from unanimous voting to majority voting in certain areas with the Parliament's consent.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The European Union (EU) creates laws through various legislative procedures, depending on the policy area. Most legislation must be proposed by the European Commission and approved by the Council of the European Union and European Parliament to become law. The power of the European Parliament has significantly increased over time, allowing it to participate equally with the Council in the legislative process. The ability to amend the Treaties of the EU is reserved for member states. The main participants in the legislative process are the European Parliament, the Council of the European Union, the European Commission, and the national parliaments of the EU.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# European Union Legislative Procedures
+
+The European Union (EU) has a complex system for creating and adopting legislation. The process can vary depending on the policy area in question. Typically, the European Commission proposes most legislation which then needs to be approved by the Council of the European Union and the European Parliament to become law. Over time, the European Parliament's role in the legislative process has grown significantly. It has evolved from merely providing non-binding opinions to participating equally with the Council in the legislative process. In addition, the power to amend the Treaties of the European Union, sometimes referred to as the Union's primary law, is reserved to the member states and must be ratified by them according to their constitutional requirements. 
+
+# Key Participants in the Legislative Process
+
+Since the Lisbon Treaty came into force in December 2009, the main participants in the EU legislative process have been the European Parliament, the Council of the European Union, and the European Commission. The national parliaments of the EU also play a role. The European Commission has significant influence as it has a virtual monopoly on introducing legislation into the process. The European Parliament's 705 members are directly elected every five years and play a crucial role in the legislative process. The Council of the European Union represents the national governments of member states, and its composition reflects the number of member states. The national parliaments of EU member states have an "early warning mechanism" that allows them to raise objections if they believe the principle of subsidiarity has been violated.
+
+# Ordinary and Special Legislative Procedures
+
+The ordinary legislative procedure is the main method by which directives and regulations are adopted. This procedure involves the Commission submitting a legislative proposal to the Parliament and Council. If the Council approves the Parliament's wording, the act is adopted. If not, the Council adopts its own position and passes it back to Parliament with explanations. If the Council and Parliament fail to agree on a common text, the act is not adopted. Special legislative procedures are used in sensitive areas. These procedures see the Council adopt legislation alone with just the involvement of the other. Notable procedures include the consultation and consent procedures. In the consultation procedure, the Council can adopt legislation based on a proposal by the European Commission after consulting the European Parliament. In the consent procedure, the Council can adopt legislation based on a proposal by the European Commission after obtaining the consent of Parliament.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding the European Union Legislative Procedures
+
+The European Union (EU) is a political and economic union of 27 member states located in Europe. It has a complex system of law and governance, which is made up of several legislative procedures. These procedures are the methods by which the EU adopts new laws and amends existing ones. Let's break down how this process works.
+
+## Overview of EU Legislative Procedures
+
+The legislative procedures in the EU are the processes through which the EU creates new laws or changes existing ones. The type of procedure used depends on the policy area in question. Most legislation needs to be proposed by the European Commission and approved by the Council of the European Union and European Parliament to become law.
+
+Over the years, the European Parliament has gained more power in the legislative process. It went from having a limited role, where it could only give a non-binding opinion, to participating equally with the Council in the legislative process.
+
+The power to amend the Treaties of the European Union, which are like the EU's constitution, is reserved to the member states. These changes must be ratified by the member states according to their own constitutional requirements. However, there are exceptions to this rule, known as "passerelle clauses", where the legislative procedure used for a certain policy area can be changed without formally amending the treaties.
+
+## Key Participants in the Legislative Process
+
+Since December 2009, after the Lisbon Treaty came into force, three EU institutions have been the main participants in the legislative process: the European Parliament, the Council of the European Union, and the European Commission. The national parliaments of the EU member states also play a role.
+
+### European Commission
+
+The European Commission has a significant role in the legislative process. It is the only body that can propose new legislation. This power gives the Commission considerable influence as it sets the agenda for the EU. The Commission often introduces legislation at the request of the Council or upon the suggestion of Parliament. However, the form that these legislative proposals take is up to the Commission.
+
+### European Parliament
+
+The European Parliament has 705 members who are directly elected every five years by universal suffrage, which means that all adult citizens have the right to vote. The Parliament organises itself as a typical multi-party parliament, conducting most of its work in committees and sitting in political groupings. Over time, the Parliament's powers have grown significantly, and it now has more equality with the Council in the legislative process.
+
+### Council of the European Union
+
+The Council of the European Union represents the national governments of the EU member states. Its composition is essentially the number of member states (27), though votes are weighted according to the population of each state. Unlike the Parliament, the Council does not sit according to political groups and conducts much of its work through diplomatic representatives.
+
+### National Parliaments
+
+The national parliaments of EU member states have an "early warning mechanism". If one third of them raise an objection – a "yellow card" – on the basis that the principle of subsidiarity has been violated, then the proposal must be reviewed. If a majority do so – an "orange card" – then the Council or Parliament can vote it down immediately.
+
+## Ordinary Legislative Procedure
+
+The ordinary legislative procedure is the main legislative procedure by which directives and regulations are adopted. The Commission submits a legislative proposal to the Parliament and Council. At the first reading, Parliament adopts its position. If the Council approves the Parliament's wording then the act is adopted. If not, it shall adopt its own position and pass it back to Parliament with explanations.
+
+If, within three months of receiving Parliament's new text, the Council approves it, then it is adopted. If it does not, a Conciliation Committee composed of the Council and an equal number of MEPs is convened. The committee draws up a joint text on the basis of the two positions. If within six weeks it fails to agree on a common text, then the act has failed. If it succeeds and the committee approves the text, then the Council and Parliament must then approve the text. If either fails to do so, the act is not adopted.
+
+### Trilogue
+
+The trilogue is an informal type of meeting used in the EU's ordinary legislative procedure. It involves representatives of the European Parliament, the Council of the EU and the European Commission. The trilogue negotiations aim at bringing the three institutions to an agreement, to fast-track the ordinary legislative procedure. However, the agreements reached in trilogues need to be approved through the formal procedures of each of the three institutions.
+
+## Special Legislative Procedures
+
+The treaties have provision for special legislative procedures to be used in sensitive areas. These see the Council adopt alone with just the involvement of the other. Notable procedures are the consultation and consent procedures, though various others are used for specific cases.
+
+### Consultation Procedure
+
+Under this procedure, the Council can adopt legislation based on a proposal by the European Commission after consulting the European Parliament. While being required to consult Parliament on legislative proposals, the Council is not bound by Parliament's position.
+
+### Consent Procedure
+
+In the consent procedure, the Council can adopt legislation based on a proposal by the European Commission after obtaining the consent of Parliament. Thus Parliament has the legal power to accept or reject any proposal but no legal mechanism exists for proposing amendments.
+
+## Non-legislative Procedures
+
+In some cases, the Commission and Council can adopt legal acts proposed by the Commission without requiring the opinion of Parliament. The Commission also has the authority to adopt regulatory or technical legislation without consulting or obtaining the consent of other bodies in a few limited areas.
+
+## Treaty Revisions
+
+The 2009 Lisbon Treaty created two different ways for further amendments of the European Union treaties: an ordinary revision procedure and a simplified revision procedure. The Treaty also provides for the Passerelle Clause which allows the European Council to unanimously decide to replace unanimous voting in the Council of Ministers with qualified majority voting in specified areas with the previous consent of the European Parliament, and move from a special legislative procedure to the ordinary legislative procedure.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The European Union (EU) adopts legislation through various procedures, largely dependent on the policy area in question. The European Commission typically proposes legislation, which requires approval from the Council of the European Union and the European Parliament to become law. The power to amend EU Treaties is reserved for member states. The European Parliament, the Council of the European Union, and the European Commission are the main participants in the legislative process. The ordinary legislative procedure is the main method by which directives and regulations are adopted. Special legislative procedures are used in sensitive areas, while non-legislative procedures are used in specific cases.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# EU Legislative Procedures and Participants
+
+The European Union (EU) adopts legislation through various procedures, with the specific procedure used depending on the policy area in question. The majority of legislation needs to be proposed by the European Commission and approved by the Council of the European Union and European Parliament to become law. Over time, the European Parliament's power within the legislative process has increased significantly. The power to amend the Treaties of the European Union, often referred to as the Union's primary law, is reserved to the member states and must be ratified by them according to their respective constitutional requirements.
+
+The main participants in the legislative process since the Lisbon Treaty came into force in December 2009 are the European Parliament, the Council of the European Union, and the European Commission. National parliaments of the EU also play a role. The legislative and budgetary functions of the union are jointly exercised by the Parliament and the Council. The European Union's unique dynamics between the legislative bodies have led to extensive academic debate about its organization, with some categorizing the EU as bicameral or tricameral.
+
+# Ordinary Legislative Procedure and Trilogue
+
+The ordinary legislative procedure is the main legislative procedure by which directives and regulations are adopted. It was formerly known as the codecision procedure, and is sometimes referred to as the 'community method'. The Commission submits a legislative proposal to the Parliament and Council. If the Council approves the Parliament's wording, then the act is adopted. If not, it shall adopt its own position and pass it back to Parliament with explanations. The Commission also informs Parliament of its position on the matter. The act is adopted if Parliament approves the Council's text or fails to take a decision.
+
+The trilogue is an informal type of meeting used in the EU's ordinary legislative procedure. It involves representatives of the European Parliament (EP), the Council of the EU, and the European Commission. The trilogue negotiations aim at bringing the three institutions to an agreement, to fast-track the ordinary legislative procedure. However, the agreements reached in trilogues need to be approved through the formal procedures of each of the three institutions.
+
+# Special Legislative Procedures and Non-legislative Procedures
+
+The treaties have provision for special legislative procedures to be used in sensitive areas. These see the Council adopt alone with just the involvement of the other. Notable procedures are the consultation and consent procedures, though various others are used for specific cases. Under the consultation procedure, the Council can adopt legislation based on a proposal by the European Commission after consulting the European Parliament. In the consent procedure, the Council can adopt legislation based on a proposal by the European Commission after obtaining the consent of Parliament.
+
+In non-legislative procedures, the Council can adopt legal acts proposed by the Commission without requiring the opinion of Parliament. In a few limited areas, the Commission has the authority to adopt regulatory or technical legislation without consulting or obtaining the consent of other bodies. The 2009 Lisbon Treaty created two different ways for further amendments of the European Union treaties: an ordinary revision procedure and a simplified revision procedure.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Legislative Procedures of the European Union
+
+The European Union (EU) adopts legislation through a variety of legislative procedures. The type of procedure used for any given legislative proposal depends on the policy area in question. The majority of legislation needs to be proposed by the European Commission and approved by the Council of the European Union and the European Parliament to become law.
+
+Over the years, the power of the European Parliament within the legislative process has significantly increased. It has evolved from being limited to giving its non-binding opinion or being excluded from the legislative process altogether, to participating equally with the Council in the legislative process.
+
+The power to amend the Treaties of the European Union, sometimes referred to as the Union's primary law, or even as its de facto constitution, is reserved to the member states and must be ratified by them in accordance with their respective constitutional requirements. An exception to this are so-called passerelle clauses in which the legislative procedure used for a certain policy area can be changed without formally amending the treaties.
+
+## Participants in the EU Legislative Process
+
+Since December 2009, after the Lisbon Treaty came into force, three EU institutions have been the main participants in the legislative process: the European Parliament, the Council of the European Union, and the European Commission. The national parliaments of the EU also play a role. The legislative and budgetary functions of the union are jointly exercised by the Parliament and the Council, which are referred to as the Union legislator in a protocol to the EU treaties.
+
+The precise nature of this organisation has been discussed extensively in academic literature, with some categorising the European Union as bicameral or tricameral. However, the European Union itself has not accepted such categorisation and it is generally considered to be sui generis by observers, given the unique dynamics between the legislative bodies not found in traditional tricameralism.
+
+### European Commission
+
+The Commission has a virtual monopoly on the introduction of legislation into the legislative process, a power which gives the Commission considerable influence as an agenda setter for the EU as a whole. While the Commission frequently introduces legislation at the behest of the Council or upon the suggestion of Parliament, the form any legislative proposals introduced take is up to the Commission. Under the ordinary legislative procedure, a negative opinion from the Commission forces the Council to vote by unanimity rather than majority except when a conciliation committee has been set up. There are also limited instances where the Commission can adopt legislation without the approval of other bodies.
+
+### European Parliament
+
+The European Parliament's 705 members are directly elected every five years by universal suffrage. It organises itself as a normal multi-party parliament in conducting most of its work in its committees and sitting in political groupings rather than national delegations. However, its political groups are very weak due to their status as broad ideological groups of existing national parties.
+
+The Parliament's powers have grown considerably since the 1950s as new legislative procedures granted more equality between Parliament and Council. It has also become a requirement that the composition of the European Commission be subject to a vote of approval as a whole by the Parliament. However, the choice of candidates remains the jurisdiction of the Council of the European Union, and the European Commission retains the sole power of legislative initiative.
+
+### Council of the European Union
+
+The Council of the EU, also known as "the council of ministers" and simply "the council", represents the national governments of member states. Its composition is essentially the number of member states (27), though votes are weighted according to the population of each state. As such, it does not sit according to political groups and rather than conducting most of its work in committees, much of its work is prepared by diplomatic representatives (COREPER).
+
+### National Parliaments
+
+The national parliaments of EU member states have an "early warning mechanism" whereby if one third raise an objection – a "yellow card" – on the basis that the principle of subsidiarity has been violated, then the proposal must be reviewed. If a majority do so – an "orange card" – then the Council or Parliament can vote it down immediately. If the logistical problems of putting this into practice are overcome, then the power of the national parliaments could be decried as an extra legislature, without a common debate or physical location: dubbed by EU Observer a "virtual third chamber".
+
+## Ordinary Legislative Procedure
+
+The ordinary legislative procedure is the main legislative procedure by which directives and regulations are adopted. It was formerly known as the codecision procedure, and is sometimes referred to as the 'community method' as a contrast to the 'intergovernmental methods' which can variously refer to the consultation procedure or to the open method of co-ordination.
+
+Article 294 TFEU outlines ordinary legislative procedure in the following manner. The Commission submits a legislative proposal to the Parliament and Council. At the first reading Parliament adopts its position. If the Council approves the Parliament's wording then the act is adopted. If not, it shall adopt its own position and pass it back to Parliament with explanations. The Commission also informs Parliament of its position on the matter.
+
+At the second reading, the act is adopted if Parliament approves the Council's text or fails to take a decision. The Parliament may reject the Council's text, leading to a failure of the law, or modify it and pass it back to the Council. The Commission gives its opinion once more. Where the Commission has rejected amendments in its opinion, the Council must act unanimously rather than by majority.
+
+If, within three months of receiving Parliament's new text, the Council approves it, then it is adopted. If it does not, the Council President, with the agreement of the Parliament President, convenes the Conciliation Committee composed of the Council and an equal number of MEPs (with the attendance as moderator of the Commission). The committee draws up a joint text on the basis of the two positions. If within six weeks it fails to agree a common text, then the act has failed. If it succeeds and the committee approves the text, then the Council and Parliament (acting by majority) must then approve said text (third reading). If either fails to do so, the act is not adopted.
+
+The procedure was introduced with the Maastricht Treaty as the codecision procedure and was initially intended to replace the Cooperation procedure. The codecision procedure was amended by the Treaty of Amsterdam and the number of legal bases where the procedure applies was greatly increased by both the latter treaty and the Treaty of Nice. It was renamed the ordinary legislative procedure and extended to nearly all areas such as agriculture, fisheries, transport, structural funds, the entire budget and the former third pillar by the Treaty of Lisbon.
+
+### Trilogue
+
+The trilogue is an informal type of meeting used in the EU's ordinary legislative procedure. It involves representatives of the European Parliament (EP), the Council of the EU and the European Commission. The trilogues are equally tripartite meetings, although the EC operates as a mediator between the EP and the Council.
+
+The trilogue negotiations aim at bringing the three institutions to an agreement, to fast-track the ordinary legislative procedure. The expression "formal trilogue" is sometimes used to describe meetings of the Conciliation Committee, which take place between the second and the third reading of a legislative proposal. However the term trilogue is mostly referred to interinstitutional informal negotiations that can take place in any stage of the ordinary legislative procedure, from the first stage to the stage of the formal conciliation procedure.
+
+However, the agreements reached in trilogues need to be approved through the formal procedures of each of the three institutions. Trilogues have been "formalised" in 2007 in a joint declaration of the EP, the Council and the EC but they are not regulated by primary legislation.
+
+The evolution of the European integration process, together with the evolution of EP's role as co-legislator have produced an increase in the number of the trilogue meetings. During 2009–2014 legislative term, when the Treaty of Lisbon came into force and the co-decision procedure became ordinary legislative procedure – establishing the role of the EP and the Council of the EU as co-legislators – 85% of legislative acts were approved in first reading, 13% were approved in second reading while only 2% were included in the conciliation procedure. This trend corresponds to an increase in the number of trilogues (over 1500 in the same period) and it is seen as a proof of the effectiveness of the trilogues in fast tracking the legislative procedure.
+
+The principal tool used in trilogues is the four column document, a working sheet divided in four sections, each of them comprising the positions of the three EU institutions. The first column is dedicated to the position of the EC, the second one to the position of the EP, the third one to the position of the Council. The fourth and final column is left to the compromised text that is meant to emerge. However, although the first two positions are public, the other two have often textual elements that have not been adopted and the content of the fourth column remains inaccessible to public.
+
+Trilogues have been criticised for the lack of transparency and democraticness both for the limited number of EU representatives involved and the working methods. The European Ombudsman, the EU body responsible of investigating complaints about poor administration by EU institutions and other bodies, in 2015 has launched a strategic inquiry to establish the need for a reform of the trilogue, setting out proposals for more transparency.
+
+## Special Legislative Procedures
+
+The treaties have provision for special legislative procedures to be used in sensitive areas. These see the Council adopt alone with just the involvement of the other. Notable procedures are the consultation and consent procedures, though various others are used for specific cases.
+
+### Consultation Procedure
+
+Under this procedure the Council, acting either unanimously or by a qualified majority depending on the policy area concerned, can adopt legislation based on a proposal by the European Commission after consulting the European Parliament. While being required to consult Parliament on legislative proposals, the Council is not bound by Parliament's position. In practice the Council would frequently ignore whatever Parliament might suggest and even sometimes reach an agreement before receiving Parliament's opinion. However, the European Court of Justice has ruled that the Council must wait for Parliament's opinion and the Court has struck down legislation that the Council adopted before Parliament gave its opinion.
+
+Before the Single European Act the Consultation procedure was the most widely used legislative procedure in the then European Community. Consultation is still used for legislation concerning internal market exemptions and competition law. The procedure is also used in relation to the Union's advisory bodies such as the Committee of the Regions and the Economic and Social Committee that are required to be consulted under a range of areas under the treaties affecting their area of expertise. Such a procedure takes place in addition to consultation with the European Parliament or the other legislative procedures.
+
+### Consent Procedure
+
+In the consent procedure (formerly assent procedure), the Council can adopt legislation based on a proposal by the European Commission after obtaining the consent of Parliament. Thus Parliament has the legal power to accept or reject any proposal but no legal mechanism exists for proposing amendments. Parliament has however provided for conciliation committee and a procedure for giving interim reports where it can address its concerns to the Council and threaten to withhold its consent unless its concerns are met. This applies to admission of members, methods of withdrawal, subsidiary general legal basis provision and combating discrimination.
+
+## Non-Legislative Procedures
+
+### Commission and Council Acting Alone
+
+Under this procedure the Council can adopt legal acts proposed by the Commission without requiring the opinion of Parliament. The procedure is used when setting the common external tariff (Article 31 (ex Article 26)) and for negotiating trade agreements under the EU's Common Commercial Policy (Article 207(3)). However, formally speaking these acts are not legislative acts.
+
+### Commission Acting Alone
+
+In a few limited areas, the Commission has the authority to adopt regulatory or technical legislation without consulting or obtaining the consent of other bodies. The Commission can adopt legal acts on its own initiative concerning monopolies and concessions granted to companies by Member States and concerning the right of workers to remain in a Member State after having been employed there (Article 45(3)(d) TFEU). Two directives have been adopted using this procedure: one on transparency between member states and companies and another on competition in the telecommunications sector. Formally speaking, these acts are not legislative acts.
+
+## Treaty Revisions
+
+The 2009 Lisbon Treaty created two different ways for further amendments of the European Union treaties: an ordinary revision procedure which is broadly similar to the past revision process in that it involves convening an intergovernmental conference, and a simplified revision procedure whereby Part three of the Treaty on the Functioning of the European Union, which deals with internal policy and action of the Union, could be amended by a unanimous decision of the European Council, provided there is no change to the field of competence of the EU, and subject to ratification by all member states in the usual manner.
+
+The Treaty also provides for the Passerelle Clause which allows the European Council to unanimously decide to replace unanimous voting in the Council of Ministers with qualified majority voting in specified areas with the previous consent of the European Parliament, and move from a special legislative procedure to the ordinary legislative procedure.
+
+### Ordinary Revision Procedure
+
+Proposals to amend the treaties are submitted by a Member State, the European Parliament or the European Commission to the Council of Ministers who, in turn, submit them to the European Council and notify member states. There are no limits on what kind of amendments can be proposed.
+
+The European Council, after consulting the European Parliament and the Commission, votes to consider the proposals on the basis of a simple majority, and then either:
+
+The President of the European Council convenes a convention containing representatives of national parliaments, governments, the European Parliament and the European Commission, to further consider the proposals. In due course, the convention submits its final recommendation to the European Council.
+
+Or the European Council decides, with the agreement of the European Parliament, not to convene a convention and sets the terms of reference for the inter-governmental conference itself.
+
+The President of the European Council convenes an inter-governmental conference consisting of representatives of each member-state's government. The conference drafts and finalises a treaty based on the convention's recommendations. The treaty must then be ratified by all member states to enter into force.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The European Union (EU) adopts legislation through various procedures, depending on the policy area. Most legislation is proposed by the European Commission and approved by the Council of the European Union and the European Parliament. The power to amend the Treaties of the EU is reserved for member states, with some exceptions. The main participants in the legislative process are the European Parliament, the Council of the European Union, the European Commission, and the national parliaments of the EU. The ordinary legislative procedure is the main method by which directives and regulations are adopted. There are also special legislative procedures for sensitive areas and non-legislative procedures.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Legislative Procedures of the European Union
+
+The European Union (EU) adopts legislation through a variety of legislative procedures, depending on the policy area in question. Most legislation needs to be proposed by the European Commission and approved by the Council of the European Union and European Parliament to become law. The power of the European Parliament within the legislative process has greatly increased over the years, from giving non-binding opinions or being excluded from the legislative process altogether, to participating equally with the Council in the legislative process. The power to amend the Treaties of the European Union, also known as the Union's primary law or de facto constitution, is reserved to the member states and must be ratified by them according to their constitutional requirements. An exception to this are so-called passerelle clauses, which allow the legislative procedure used for a certain policy area to be changed without formally amending the treaties.
+
+# Main Participants in the Legislative Process
+
+Three EU institutions have been the main participants in the legislative process since December 2009, after the Lisbon Treaty came into force: the European Parliament, the Council of the European Union, and the European Commission. The national parliaments of the EU also play a role. The legislative and budgetary functions of the union are jointly exercised by the Parliament and the Council, referred to as the Union legislator. The European Commission has considerable influence as an agenda setter for the EU as a whole, as it holds a virtual monopoly on the introduction of legislation into the legislative process. The European Parliament's 705 members are directly elected every five years by universal suffrage, and its powers have grown considerably since the 1950s. The Council of the EU represents the national governments of member states, and its composition is essentially the number of member states, though votes are weighted according to the population of each state.
+
+# Ordinary and Special Legislative Procedures
+
+The ordinary legislative procedure is the main legislative procedure by which directives and regulations are adopted. The procedure involves the Commission submitting a legislative proposal to the Parliament and Council, and it was introduced with the Maastricht Treaty as the codecision procedure. The treaties also have provision for special legislative procedures to be used in sensitive areas. These see the Council adopt alone with just the involvement of the other. Notable procedures are the consultation and consent procedures, though various others are used for specific cases. In non-legislative procedures, the Council can adopt legal acts proposed by the Commission without requiring the opinion of Parliament, and the Commission can adopt regulatory or technical legislation without consulting or obtaining the consent of other bodies in a few limited areas. The 2009 Lisbon Treaty created two different ways for further amendments of the European Union treaties: an ordinary revision procedure and a simplified revision procedure.
+</div>
+</div>
+<div class='slide-pane' id='European_Union_legislative_procedure-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>European Union legislative procedure</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Legislative Process of the European Union
+
+The European Union (EU) adopts legislation through a variety of legislative procedures. The choice of procedure depends on the policy area in question. Most legislation necessitates a proposal by the European Commission and approval by the Council of the European Union and the European Parliament to become law.
+
+The European Parliament's role in the legislative process has substantially expanded over the years. Initially, it was limited to giving non-binding opinions or was excluded from the legislative process altogether. Today, it participates equally with the Council in the legislative process.
+
+The power to amend the Treaties of the European Union, often referred to as the Union's primary law or its de facto constitution, is reserved for the member states and must be ratified by them in accordance with their respective constitutional requirements. However, exceptions known as passerelle clauses allow for changes in the legislative procedure used for a certain policy area without formally amending the treaties.
+
+## Participants in the Legislative Process
+
+Since the Lisbon Treaty came into force in December 2009, the main participants in the legislative process have been the European Parliament, the Council of the European Union, and the European Commission. National parliaments of the EU also play a role. The legislative and budgetary functions of the union are jointly exercised by the Parliament and the Council, referred to as the Union legislator in a protocol to the EU treaties.
+
+### European Commission
+
+The Commission has a virtual monopoly on the introduction of legislation into the legislative process, which gives it considerable influence as an agenda setter for the EU. While the Commission frequently introduces legislation at the behest of the Council or upon the suggestion of Parliament, the form any legislative proposals introduced take is up to the Commission. Under the ordinary legislative procedure, a negative opinion from the Commission forces the Council to vote by unanimity rather than by majority, except when a conciliation committee has been set up.
+
+### European Parliament
+
+The European Parliament's 705 members are directly elected every five years by universal suffrage. It organises itself as a normal multi-party parliament in conducting most of its work in its committees and sitting in political groupings rather than national delegations. However, its political groups are very weak due to their status as broad ideological groups of existing national parties. The Parliament's powers have grown considerably since the 1950s as new legislative procedures granted more equality between Parliament and Council. It has also become a requirement that the composition of the European Commission be subject to a vote of approval as a whole by the Parliament.
+
+### Council of the European Union
+
+The Council of the EU, also known as "the council of ministers" and simply "the council", represents the national governments of member states. Its composition is essentially the number of member states (27), though votes are weighted according to the population of each state. As such, it does not sit according to political groups and rather than conducting most of its work in committees, much of its work is prepared by diplomatic representatives (COREPER).
+
+### National Parliaments
+
+The national parliaments of EU member states have an "early warning mechanism" whereby if one third raise an objection – a "yellow card" – on the basis that the principle of subsidiarity has been violated, then the proposal must be reviewed. If a majority do so – an "orange card" – then the Council or Parliament can vote it down immediately.
+
+## Ordinary Legislative Procedure
+
+The ordinary legislative procedure is the main legislative procedure by which directives and regulations are adopted. The Commission submits a legislative proposal to the Parliament and Council. At the first reading, Parliament adopts its position. If the Council approves the Parliament's wording then the act is adopted. If not, it shall adopt its own position and pass it back to Parliament with explanations. The Commission also informs Parliament of its position on the matter.
+
+### Trilogue
+
+The trilogue is an informal type of meeting used in the EU's ordinary legislative procedure. It involves representatives of the European Parliament (EP), the Council of the EU and the European Commission. The trilogues aim at bringing the three institutions to an agreement, to fast-track the ordinary legislative procedure. However, the agreements reached in trilogues need to be approved through the formal procedures of each of the three institutions.
+
+## Special Legislative Procedures
+
+The treaties have provision for special legislative procedures to be used in sensitive areas. These see the Council adopt alone with just the involvement of the other. Notable procedures are the consultation and consent procedures, though various others are used for specific cases.
+
+### Consultation Procedure
+
+Under this procedure, the Council can adopt legislation based on a proposal by the European Commission after consulting the European Parliament. While being required to consult Parliament on legislative proposals, the Council is not bound by Parliament's position.
+
+### Consent Procedure
+
+In the consent procedure, the Council can adopt legislation based on a proposal by the European Commission after obtaining the consent of Parliament. Thus Parliament has the legal power to accept or reject any proposal but no legal mechanism exists for proposing amendments.
+
+## Non-Legislative Procedures
+
+### Commission and Council Acting Alone
+
+Under this procedure, the Council can adopt legal acts proposed by the Commission without requiring the opinion of Parliament. The procedure is used when setting the common external tariff and for negotiating trade agreements under the EU's Common Commercial Policy.
+
+### Commission Acting Alone
+
+In a few limited areas, the Commission has the authority to adopt regulatory or technical legislation without consulting or obtaining the consent of other bodies.
+
+### Treaty Revisions
+
+The 2009 Lisbon Treaty created two different ways for further amendments of the European Union treaties: an ordinary revision procedure and a simplified revision procedure. The Treaty also provides for the Passerelle Clause which allows the European Council to unanimously decide to replace unanimous voting in the Council of Ministers with qualified majority voting in specified areas with the previous consent of the European Parliament, and move from a special legislative procedure to the ordinary legislative procedure.
 </div>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0100'>
@@ -3138,6 +4017,344 @@ Two non-upgraded turbine-generators with 375 MW were first to go into operation 
 Two "bottom" outlets at 542 m above sea level or 42 m above the local river bed level are available for delivering water to Sudan and Egypt under special circumstances, in particular for irrigation purposes downstream, if the level of the reservoir falls below the minimum operating level of 590 m but also during the initial filling process of the reservoir.
 
 The space below the "bottom" outlets is the primary buffer space for alluvium through siltation and sedimentation. For the Roseires Reservoir just downstream from the GERD site, the average siltation and sedimentation volume (without GERD in place) amounts to around 0.035 km3 per year. Due to the large size of the GERD reservoir, the expected siltation and sedimentation volume will be much less than that.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Hampi is a special place in India with lots of old buildings and temples. It used to be the capital of a big empire during the 14th century. Many people from different parts of the world came to Hampi because it was very rich and beautiful. But in 1565, the city was attacked and destroyed. Today, we can still see the ruins spread over a big area. Hampi is also important because it is mentioned in old Hindu stories and scriptures. It's a place where people have been worshipping for a very long time.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Hampi: A Historical City
+Hampi, also known as Hampe, is a special place filled with old buildings and monuments in India. It's so special that it's listed as a UNESCO World Heritage Site. This place is very old, even older than the Vijayanagara Empire, and it's mentioned in ancient Hindu stories. Hampi was once the capital of the Vijayanagara Empire in the 14th century and was a very rich and grand city. Today, Hampi is in ruins but it's still a very important place for people who practice Hinduism because it has the Virupaksha Temple and many other monuments.
+
+# The Story of Hampi
+Hampi is in the state of Karnataka in India. It's named after Pampa, another name for the goddess Parvati in Hindu stories. According to these stories, Parvati wanted to marry Shiva, who was a loner and always meditating. She tried many ways to get his attention and finally, Shiva agreed to marry her. The place where Parvati pursued Shiva came to be known as Hampi. Hampi is also mentioned in the Hindu epic Ramayana, where the heroes Rama and Lakshmana meet Hanuman, Sugriva, and the monkey army in their search for kidnapped Sita. People believe that Hampi is the place mentioned in the Ramayana.
+
+# Hampi: Then and Now
+Hampi was a very prosperous city in the 14th century. It was the capital of the Vijayanagara Empire and was very rich and grand. However, in 1565, the city was attacked and destroyed by Muslim sultanates. After this, the city was abandoned and left in ruins. Today, the ruins of Hampi are spread over a large area and are described as an "austere, grandiose site" by UNESCO. The ruins include forts, temples, shrines, halls, memorial structures, and water structures. Despite its history of destruction, Hampi continues to be an important religious center and attracts many visitors every year.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Story of Hampi
+
+Hampi, also known as Hampe, is a special place filled with ancient buildings and stories. It's so special that it's considered a World Heritage Site by an organization called UNESCO. Hampi is located in a place called Karnataka in India. The city has a rich history that goes back to the time of a powerful empire called Vijayanagara Empire.
+
+## Where is Hampi?
+
+Hampi is located in India, in a region called Karnataka. It's near a river called the Tungabhadra River. If you were to travel from a city called Bengaluru, you would have to go 234 miles to get to Hampi. The closest airport is 20 miles away in a place called Toranagallu. 
+
+Hampi is known by some other names too, like Pampa-kshetra, Kishkindha-kshetra, and Bhaskara-kshetra. These names come from an old story about a goddess named Parvati who is also known as Pampa. 
+
+## The Story of Pampa
+
+In Hindu stories, Parvati was a young woman who wanted to marry Shiva, who was a very spiritual person. Even though her parents didn't want her to marry him, Parvati was determined. She started living like Shiva, doing things like meditating and living a simple life. This made Shiva interested in her, and they eventually got married. The river near where Parvati lived came to be known as the Pampa river, and the place where she lived came to be known as Hampi.
+
+## Hampi's History
+
+Hampi has a long history that goes back to ancient times. There are signs that people lived in Hampi even in the 3rd century BCE, which is over 2,000 years ago. Over the years, many different kings ruled over Hampi and built many temples and other buildings.
+
+In the 14th century, a powerful empire called the Vijayanagara Empire made Hampi their capital. They built a big city with lots of temples and markets. People from all over the world came to Hampi to trade. By the year 1500, Hampi was one of the biggest and richest cities in the world!
+
+But in 1565, armies from other places in India attacked and destroyed the city of Hampi. After that, the city was left in ruins.
+
+## Discovering Hampi's Ruins
+
+Even though Hampi was destroyed, the ruins of the city were still there. But for a long time, people didn't pay much attention to them. It wasn't until the 1800s that a man named Colin Mackenzie started studying the ruins of Hampi. He was the first person to make a map of the ruins.
+
+In the 1850s, another man named Alexander Greenlaw took pictures of the ruins. These pictures are very important because they show what the ruins looked like over 150 years ago.
+
+## What Can You See in Hampi Today?
+
+Today, you can see many different ruins in Hampi. There are over 1,600 of them spread out over an area of 16 square miles! These ruins include forts, temples, shrines, halls, memorials, water structures, and many other kinds of buildings.
+
+Most of the buildings are Hindu, which is a religion that many people in India follow. But there are also some Jain and Muslim buildings. The buildings are made out of stone and have many beautiful carvings on them.
+
+## The Virupaksha Temple
+
+One of the most important buildings in Hampi is the Virupaksha Temple. This temple is very old and has been a place of worship for many years. The temple is dedicated to Shiva, who is a very important god in Hinduism.
+
+The temple has a tall tower called a gopuram, which is decorated with many carvings. Inside the temple, there are many different rooms and halls. Some of these halls have paintings on the ceiling that tell stories from Hindu mythology.
+
+Hampi is a place filled with history and beauty. Even though the city was destroyed many years ago, the ruins that are left tell a story of a rich and vibrant past. Today, people from all over the world come to Hampi to see these ruins and learn about the history of this amazing place.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Hampi, a UNESCO World Heritage Site in India, was once the prosperous capital of the Vijayanagara Empire in the 14th century, known for its grand temples, farms, and trading markets. It was the world's second-largest city after Beijing by 1500 CE. However, the city was conquered, looted, and destroyed by Muslim sultanates in 1565, and it now lies in ruins. The site, spread over 4,100 hectares, is home to over 1,600 remains of forts, temples, shrines, and other structures from the last great Hindu kingdom in South India. Hampi's name comes from the goddess Parvati, who, according to Hindu mythology, pursued Shiva in this location. The site was also known as a pilgrimage place called Pampakshetra, mentioned in the Hindu epic Ramayana.
+
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Hampi: A Historical City
+Hampi, also known as Hampe, is a UNESCO World Heritage Site located in Karnataka, India. This city is rich in history and dates back to the times before the Vijayanagara Empire. Its importance is also mentioned in Hindu scriptures like the Ramayana and the Puranas. Hampi was once the capital of the Vijayanagara Empire in the 14th century and was a prosperous city with numerous temples, farms, and trading markets. It was the world's second-largest city after Beijing in 1500 CE. However, it was defeated, pillaged, and destroyed by a coalition of Muslim sultanates in 1565 and has remained in ruins since then.
+
+# Hampi's Significance in Hindu Mythology
+Hampi, traditionally known as Pampa-kshetra, Kishkindha-kshetra, or Bhaskara-kshetra, is derived from Pampa, another name of the goddess Parvati in Hindu theology. The city is associated with the story of Parvati's resolve to marry the ascetic Shiva and her efforts to win his attention, which eventually led to their marriage. According to the Sthala Purana, Parvati pursued her ascetic lifestyle on Hemakuta Hill, now a part of Hampi, to win and bring ascetic Shiva back into householder life. The river near the Hemakuta Hill came to be known as Pampa river, and the place where Parvati pursued Shiva came to be known as Hampi.
+
+# Hampi: From Ancient to Modern Times
+Historical evidence suggests that the region was part of the Maurya Empire during the 3rd century BCE. Hampi's importance grew over the centuries, becoming a center of religious and educational activities during the rule of the Hindu kings Kalyana Chalukyas. The city faced invasions and pillages from the armies of the Delhi Sultanate, leading to the fall of the Hoysala Empire. The Vijayanagara Empire arose from the ruins of the Kampili kingdom and built its capital around Hampi. The city flourished under the Vijayanagara Empire, attracting traders from across the Deccan area, Persia, and the Portuguese colony of Goa. However, the city was destroyed and abandoned after the Battle of Talikota in 1565. The ruins of Hampi were surveyed in the 1800s and have been a site of historical and archaeological significance since then.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Hampi: An Ancient City of Rich History and Culture
+
+## Introduction
+
+Hampi, also known as Hampe, is a historical site recognized by UNESCO as a World Heritage Site. This ancient city is located in the Vijayanagara district in the east-central part of Karnataka, India. Hampi's history is older than the Vijayanagara Empire itself, as it is mentioned in ancient Hindu texts like the Ramayana and the Puranas. These texts refer to it as 'Pampa Devi Tirtha Kshetra'. Even today, Hampi continues to be an important religious center, housing the Virupaksha Temple, an active Adi Shankara-linked monastery, and various monuments from the old city. 
+
+In the 14th century, Hampi was the capital of the Vijayanagara Empire and was a fortified city. Chronicles from Persian and European travelers, especially the Portuguese, describe Hampi as a prosperous, wealthy, and grand city near the Tungabhadra River, filled with temples, farms, and trading markets. By 1500 CE, Hampi-Vijayanagara was the second-largest city in the world after Beijing, and probably the richest in India at that time, attracting traders from Persia and Portugal. However, the Vijayanagara Empire was defeated by a coalition of Muslim sultanates, and its capital was conquered, pillaged, and destroyed by sultanate armies in 1565, leaving Hampi in ruins.
+
+## Location
+
+Hampi is situated on the banks of the Tungabhadra River in the eastern part of central Karnataka, near the state border with Andhra Pradesh. It is 376 kilometers (234 miles) from Bengaluru, and 165 kilometers (103 miles) from Hubli. The closest railway station is in Hosapete (Hospet), 13 kilometers (8.1 miles) away, while the closest airport, Jindal Vijaynagar Airport in Toranagallu, is 32 kilometers (20 miles) away and has connections to Bengaluru. Overnight buses and trains also connect Hampi with Goa and Bengaluru. It is 140 kilometers (87 miles) southeast of the Badami and Aihole archaeological sites.
+
+## Historical Significance
+
+The name Hampi—traditionally known as Pampa-kshetra, Kishkindha-kshetra, or Bhaskara-kshetra—is derived from Pampa, another name of the goddess Parvati in Hindu theology. According to mythology, Parvati, a reincarnation of Shiva's previous wife, Sati, was determined to marry the ascetic Shiva. Despite her parents' discouragement, she pursued her desire. To gain Shiva's attention, Parvati appealed to the gods for help. In response, Indra sent Kamadeva — the Hindu god of desire, erotic love, attraction, and affection—to awake Shiva from meditation. However, Shiva, upon being disturbed, opened his third eye and burned Kama to ashes. 
+
+Undeterred, Parvati continued her pursuit of Shiva, living like him and engaging in the same activities—asceticism, yogin, and tapasya—awakening him and attracting his interest. Despite Shiva's attempts to discourage her by highlighting his weaknesses and personality problems, Parvati remained resolute. Eventually, Shiva accepted her, and they got married. After their marriage, Kama was brought back to life. According to Sthala Purana, Parvati (Pampa) pursued her ascetic, yogini lifestyle on Hemakuta Hill, now a part of Hampi, to win and bring ascetic Shiva back into householder life. Shiva is also called Pampapati (meaning "husband of Pampa"). The river near the Hemakuta Hill came to be known as the Pampa river. The Sanskrit word Pampa morphed into the Kannada word Hampa, and the place Parvati pursued Shiva came to be known as Hampe or Hampi.
+
+The site was an early medieval era pilgrimage place known as Pampakshetra. Its fame came from the Kishkindha chapters of the Hindu epic Ramayana, where Rama and Lakshmana meet Hanuman, Sugriva, and the monkey army in their search for kidnapped Sita. The Hampi area has many close resemblances to the place described in the epic. The regional tradition believes that it is that place mentioned in the Ramayana, attracting pilgrims. It was brought to light by an engineer named Colonel Colin Mackenzie during the 1800s.
+
+## Ancient to 14th century CE
+
+Emperor Ashoka's Rock Edicts in Nittur and Udegolan—both in Bellary district 269-232 BCE—suggest this region was part of the Maurya Empire during the 3rd century BCE. A Brahmi inscription and a terracotta seal dating to about the 2nd century CE have been found during site excavations. The town is mentioned in Badami Chalukya's inscriptions as Pampapura, dating from between the 6th and 8th centuries. By the 10th century, it had become a center of religious and educational activities during the rule of the Hindu kings Kalyana Chalukyas, whose inscriptions state that the kings made land grants to the Virupaksha temple. Several inscriptions from the 11th to 13th centuries are about the Hampi site, with a mention of gifts to goddess Hampa-devi. Between the 12th and 14th centuries, Hindu kings of the Hoysala Empire of South India built temples to Durga, Hampadevi, and Shiva, according to an inscription dated about 1,199 CE. Hampi became the second royal residence; one of the Hoysala kings was known as Hampeya-Odeya or "lord of Hampi". According to Burton Stein, the Hoysala-period inscriptions call Hampi by alternate names such as Virupakshapattana, Vijaya Virupakshapura in honor of the old Virupaksha (Shiva) temple there.
+
+## 14th Century and After
+
+The armies of the Delhi Sultanate, particularly those of Alauddin Khalji and Muhammad bin Tughlaq, invaded and pillaged South India. The Hoysala Empire and its capital Dvarasamudra in southern Karnataka were plundered and destroyed in the early 14th century by the armies of Alauddin Khalji, and again in 1326 CE by the army of Muhammad bin Tughlaq. The Kampili kingdom in north-central Karnataka followed the collapse of Hoysala Empire. It was a short-lived Hindu kingdom with its capital about 33 kilometers (21 mi) from Hampi. The Kampili kingdom ended after an invasion by the Muslim armies of Muhammad bin Tughlaq. The Hindu women of Kampili committed jauhar (ritual mass suicide) when the Kampili soldiers faced defeat by Tughlaq's army. In 1336 CE, the Vijayanagara Empire arose from the ruins of the Kampili kingdom. It grew into one of the famed Hindu empires of South India that ruled for over 200 years.
+
+The Vijayanagara Empire built its capital around Hampi, calling it Vijayanagara. Many historians propose that Harihara I and Bukka I, the founders of the empire, were commanders in the army of the Hoysala Empire stationed in the Tungabhadra region to ward off Muslim invasions from the Northern India. Some claim that they were Telugu people, who took control of the northern parts of the Hoysala Empire during its decline. As per some of the texts such as Vidyaranya Kalajana, Vidyaranya Vritanta, Rajakalanirnaya, Pitamahasamhita, Sivatatvaratnakara, they were treasury officers of Pratap Rudra, the King of Kakatiya Kingdom. When Muhammad Bin Tughlaq came looking for Baha-Ud-Din Gurshasp (who was taking refuge in the court of Pratap Rudra), Pratap Rudra was overthrown and Kakatiya was destroyed. During this time the two brothers Harihara I and Bukka I, with a small army came to the present site of Vijayanagara, Hampi. Vidyaranya, the 12th Jagadguru of the Śringeri Śarada Pītham took them under his protection and established them on the throne and the city was called Vidyanagara in A.D. 1336.
+
+They expanded the infrastructure and temples. According to Nicholas Gier and other scholars, by 1500 CE Hampi-Vijayanagara was the world's second-largest medieval-era city after Beijing, and probably India's richest. Its wealth attracted 16th-century traders from across the Deccan area, Persia, and the Portuguese colony of Goa. The Vijayanagara rulers fostered developments in intellectual pursuits and the arts, maintained a strong military, and fought many wars with sultanates to its north and east. They invested in roads, waterworks, agriculture, religious buildings, and public infrastructure. This included, states UNESCO, "forts, riverside features, royal and sacred complexes, temples, shrines, pillared halls, mandapas (halls for people to sit), memorial structures, gateways, check posts, stables, water structures, and more". The site was multi-religious and multi-ethnic; it included Hindu and Jain monuments next to each other. The buildings predominantly followed South Indian Hindu arts and architecture dating to the Aihole-Pattadakal styles, but the Hampi builders also used elements of Indian architecture in the Lotus Mahal, the public bath, and the elephant stables.
+
+According to historical memoirs left by Portuguese and Persian traders to Hampi, the city was of metropolitan proportions; they called it "one of the most beautiful cities". While prosperous and in infrastructure, the Muslim-Hindu wars between Muslim Sultanates and Vijayanagara Empire continued. In 1565, at the Battle of Talikota, a coalition of Muslim sultanates entered into a war with the Vijayanagara Empire. They captured and beheaded the king Aliya Rama Raya, followed by a massive destruction of the infrastructure fabric of Hampi and the metropolitan Vijayanagara. The city was pillaged, looted, and burnt for six months after the war, then abandoned as ruins, which are now called the Group of Monuments at Hampi.
+
+## Archaeological Site
+
+Hampi and its nearby region remained a contested and fought-over region claimed by the local chiefs, the Hyderabad Muslim nizams, the Maratha Hindu kings, and Hyder Ali and his son Tipu Sultan of Mysore through the 18th century. In 1799, Tipu Sultan was defeated and killed when the British forces and Wadiyar dynasty aligned. The region then came under British influence. The ruins of Hampi were surveyed in 1800 by Scottish Colonel Colin Mackenzie, first Surveyor General of India. Mackenzie wrote that the Hampi site was abandoned and only wildlife live there. The 19th-century speculative articles by historians who followed Mackenzie blamed the 18th-century armies of Hyder Ali and the Marathas for the damage to the Hampi monuments.
+
+The Hampi site remained largely ignored until the mid-19th century when Alexander Greenlaw visited and photographed the site in 1856. He created an archive of 60 calotype photographs of temples and royal structures that were standing in 1856. These photographs were held in a private collection in the United Kingdom and were not published until 1980. They are the most valuable source of the mid-19th-century state of Hampi monuments to scholars. A translation of the memoirs written by Abdul Razzaq, a Persian envoy in the court of Devaraya II (1424–1446), published in the early 1880s described some monuments of the abandoned site. This translation, for the first time, uses Arabic terms such as "zenana" to describe some of the Hampi monuments. Some of these terms became the names thereafter. Alexander Rea, an officer of the Archaeological Survey department of the Madras Presidency within British India, published his survey of the site in 1885. Robert Sewell published his scholarly treatise A Forgotten Empire in 1900, bringing Hampi to the widespread attention of scholars. The growing interest led Rea and his successor Longhurst to clear and repair the Hampi group of monuments. The site is significant historically and archaeologically, for the Vijayanagara period and before. The Archaeological Survey of India continues to conduct excavations in the area.
+
+## Description
+
+Hampi is located in hilly terrain formed by granite boulders. The Hampi monuments comprising the UNESCO world heritage site are a subset of the wider-spread Vijayanagara ruins. Almost all of the monuments were built between 1336 and 1570 CE during the Vijayanagara rule. The site has about 1,600 monuments and covers 41.5 square kilometers (16.0 sq mi). The Hampi site has been studied in three broad zones; the first has been named the "sacred centre" by scholars such as Burton Stein and others; the second is referred to as the "urban core" or the "royal centre"; and the third constitutes the rest of metropolitan Vijayanagara. The sacred centre, alongside the river, contains the oldest temples with a history of pilgrimage and monuments pre-dating the Vijayanagara empire. The urban core and royal centre have over sixty ruined temples beyond those in the sacred centre, but the temples in the urban core are all dated to the Vijayanagara empire. The urban core also includes public utility infrastructure such as roads, an aqueduct, water tanks, mandapa, gateways and markets, monasteries. This distinction has been assisted by some seventy-seven stone inscriptions. Most of the monuments are Hindu; the temples and the public infrastructure such as tanks and markets include reliefs and artwork depicting Hindu deities and themes from Hindu texts. There are also six Jain temples and monuments and a Muslim mosque and tomb. The architecture is built from the abundant local stone; the dominant style is Dravidian, with roots in the developments in Hindu arts and architecture in the second half of the 1st millennium in the Deccan region. It also included elements of the arts that developed during the Hoysala Empire rule in the south between the 11th and 14th century such as in the pillars of Ramachandra temple and ceilings of some of the Virupaksha temple complex. The architects also adopted an Indo-Islamic style in a few monuments, such as the Queen's bath and Elephant stables, which UNESCO says reflects a "highly evolved multi-religious and multi-ethnic society".
+
+## Hindu Monuments
+
+### Virupaksha Temple and Market Complex
+
+The Virupaksha temple is the oldest shrine, the principal destination for pilgrims and tourists, and remains an active Hindu worship site. Parts of the Shiva, Pampa, and Durga temples existed in the 11th-century; it was extended during the Vijayanagara era. The temple is a collection of smaller temples, a regularly repainted, 50-meter (160 ft) high gopuram, a Hindu monastery dedicated to Vidyaranya of Advaita Vedanta tradition, a water tank (Manmatha), a community kitchen, other monuments and a 750 meters (2,460 ft)-long ruined stone market with a monolithic Nandi shrine on the east end. The temple faces eastwards, aligning the sanctums of the Shiva and Pampa Devi temples to the sunrise; a large gopuram marks its entrance. The superstructure is a pyramidal tower with pilastered storeys on each of which is artwork including erotic sculptures. The gopuram leads into a rectangular court that ends in another, smaller gopuram dated to 1510 CE. To its south side is a 100-column hall with Hindu-related reliefs on all four sides of each pillar. Connected to this public hall is a community kitchen, a feature found in other major Hampi temples. A channel is cut into the rock to deliver water to the kitchen and the feeding hall. The courtyard after the small gopuram has dipa-stambha (lamp pillar) and Nandi. The courtyard after the small gopuram leads to the main mandapa of the Shiva temple, which consists of the original square mandapa and a rectangular extension composed of two fused squares and sixteen piers built by Krishnadevaraya. The ceiling of the open hall above the mandapa is painted, showing the Shaivism legend relating to Shiva-Parvati marriage; another section shows the legend of Rama-Sita of the Vaishnavism tradition. A third section depicts the legend of the love god Kama shooting an arrow at Shiva to get him interested in Parvati, and the fourth section shows the Advaita Hindu scholar Vidyaranya's contribution to the establishment of the Vijayanagara Empire.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Hampi, a UNESCO World Heritage Site in Karnataka, India, is an important religious centre with a rich history dating back to the Vijayanagara Empire in the 14th century. Known for its grandiose ruins spread over 4,100 hectares, Hampi houses over 1,600 surviving remains of the last great Hindu kingdom in South India. It was the world's second-largest city after Beijing by 1500 CE, attracting traders from Persia and Portugal. The city was conquered and destroyed by a coalition of Muslim sultanates in 1565. Hampi's ruins reflect a multi-religious, multi-ethnic society with Hindu, Jain, and Muslim monuments.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Historical Significance and Location of Hampi
+Hampi, also known as Hampe, is a UNESCO World Heritage Site located in east-central Karnataka, India. It is an ancient city that predates the Vijayanagara Empire and is mentioned in Hindu texts such as the Ramayana and the Puranas. Hampi continues to be a significant religious center, boasting the Virupaksha Temple, an active Adi Shankara-linked monastery, and various monuments from the old city. In the 14th century, Hampi served as the capital of the Vijayanagara Empire, and by 1500 CE, it was the world's second-largest city after Beijing. The city was prosperous and wealthy, attracting traders from Persia and Portugal. However, the city was conquered, pillaged, and destroyed by sultanate armies in 1565, leaving Hampi in ruins.
+
+# Hampi's Ancient History and Subsequent Destruction
+Hampi's history dates back to the 3rd century BCE as part of the Maurya Empire. The town was mentioned in Badami Chalukya's inscriptions as Pampapura, dating from between the 6th and 8th centuries. By the 10th century, it had become a center of religious and educational activities during the rule of the Hindu kings Kalyana Chalukyas. Hampi's prosperity continued until the 14th century when the armies of the Delhi Sultanate invaded and pillaged South India. The Hoysala Empire and its capital Dvarasamudra in southern Karnataka were plundered and destroyed in the early 14th century, leading to the rise of the Vijayanagara Empire from the ruins. However, the city was eventually captured and destroyed by a coalition of Muslim sultanates in 1565.
+
+# Archaeological Significance of Hampi
+Hampi and its surrounding region remained a contested area claimed by local chiefs, the Hyderabad Muslim nizams, the Maratha Hindu kings, and Hyder Ali and his son Tipu Sultan of Mysore through the 18th century. The ruins of Hampi were surveyed in 1800 by Scottish Colonel Colin Mackenzie, first Surveyor General of India. The site remained largely ignored until the mid-19th century, when it was photographed by Alexander Greenlaw. The Archaeological Survey of India continues to conduct excavations in the area, highlighting the site's historical and archaeological significance for the Vijayanagara period and before.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Hampi: A UNESCO World Heritage Site
+
+Hampi, also known as Hampe, is a UNESCO World Heritage Site located in the Vijayanagara district, in the east-central part of Karnataka, India. The site, referred to as the Group of Monuments at Hampi, is renowned for its historical and archaeological significance.
+
+## Historical Background
+
+Hampi's history predates the Vijayanagara Empire. References to Hampi can be found in the ancient Hindu texts of the Ramayana and the Puranas, where it’s mentioned as Pampa Devi Tirtha Kshetra. The city continues to be a crucial religious center, housing the Virupaksha Temple, an active Adi Shankara-linked monastery, and various monuments belonging to the old city.
+
+In the 14th century, Hampi served as the capital of the Vijayanagara Empire. It was a fortified city, and according to accounts by Persian and European travelers, particularly the Portuguese, Hampi was a prosperous, wealthy, and grand city near the Tungabhadra River. It was filled with numerous temples, farms, and trading markets. By 1500 CE, Hampi-Vijayanagara was the world's second-largest city, after Beijing, and probably India's richest at that time, attracting traders from Persia and Portugal. However, the Vijayanagara Empire was defeated by a coalition of Muslim sultanates in 1565, resulting in the city being pillaged, destroyed, and left in ruins.
+
+## Location and Mythology
+
+Hampi is situated on the banks of the Tungabhadra River in the eastern part of central Karnataka. The closest railway station is in Hosapete, 13 kilometers away, and the closest airport is the Jindal Vijaynagar Airport in Toranagallu, 32 kilometers away.
+
+The name Hampi is derived from Pampa, another name for the goddess Parvati in Hindu theology. According to mythology, Parvati, desiring to marry the ascetic Shiva, pursued a lifestyle of asceticism and yogic practices on Hemakuta Hill, now part of Hampi, to win over Shiva. The river near Hemakuta Hill came to be known as Pampa river, and the Sanskrit word Pampa evolved into the Kannada word Hampa, giving the place the name Hampi. The site was an early medieval era pilgrimage place known as Pampakshetra, and its fame came from the Kishkindha chapters of the Hindu epic Ramayana.
+
+## Ancient to 14th Century CE
+
+Emperor Ashoka's Rock Edicts in Nittur and Udegolan suggest that this region was part of the Maurya Empire during the 3rd century BCE. The town is mentioned in the Badami Chalukya's inscriptions as Pampapura, dating from between the 6th and 8th centuries. By the 10th century, it had become a center of religious and educational activities during the rule of the Hindu kings Kalyana Chalukyas. Between the 12th and 14th centuries, Hindu kings of the Hoysala Empire built temples to Durga, Hampadevi, and Shiva, according to an inscription dated about 1,199 CE.
+
+## 14th Century and After
+
+The armies of the Delhi Sultanate, particularly those of Alauddin Khalji and Muhammad bin Tughlaq, invaded and pillaged South India. The Hoysala Empire and its capital Dvarasamudra in southern Karnataka were plundered and destroyed in the early 14th century. Following the collapse of the Hoysala Empire, the Kampili kingdom in north-central Karnataka, with its capital about 33 kilometers from Hampi, was established. However, the Kampili kingdom ended after an invasion by the Muslim armies of Muhammad bin Tughlaq. In 1336 CE, the Vijayanagara Empire arose from the ruins of the Kampili kingdom. The Vijayanagara Empire built its capital around Hampi, calling it Vijayanagara. They expanded the infrastructure and temples, and by 1500 CE, Hampi-Vijayanagara was the world's second-largest medieval-era city after Beijing, and probably India's richest.
+
+## Archaeological Site
+
+Hampi and its nearby region remained a contested and fought-over region claimed by the local chiefs, the Hyderabad Muslim nizams, the Maratha Hindu kings, and Hyder Ali and his son Tipu Sultan of Mysore through the 18th century. In 1799, Tipu Sultan was defeated and killed when the British forces and Wadiyar dynasty aligned. The ruins of Hampi were surveyed in 1800 by Scottish Colonel Colin Mackenzie, first Surveyor General of India. The Hampi site remained largely ignored until the mid-19th century, when Alexander Greenlaw visited and photographed the site in 1856. He created an archive of 60 calotype photographs of temples and royal structures that were standing in 1856.
+
+## Description
+
+Hampi is located in hilly terrain formed by granite boulders. The Hampi monuments comprising the UNESCO world heritage site are a subset of the wider-spread Vijayanagara ruins. Almost all of the monuments were built between 1336 and 1570 CE during the Vijayanagara rule. The site has about 1,600 monuments and covers 41.5 square kilometers.
+
+## Hindu Monuments
+
+### Virupaksha Temple and Market Complex
+
+The Virupaksha temple is the oldest shrine, the principal destination for pilgrims and tourists, and remains an active Hindu worship site. Parts of the Shiva, Pampa, and Durga temples existed in the 11th-century; it was extended during the Vijayanagara era. The temple is a collection of smaller temples, a regularly repainted, 50-meter high gopuram, a Hindu monastery dedicated to Vidyaranya of Advaita Vedanta tradition, a water tank, a community kitchen, other monuments and a 750 meters long ruined stone market with a monolithic Nandi shrine on the east end. The temple faces eastwards, aligning the sanctums of the Shiva and Pampa Devi temples to the sunrise.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Hampi, a UNESCO World Heritage Site in east-central Karnataka, India, was the capital of the Vijayanagara Empire in the 14th century. The city was a prosperous and grand city with numerous temples, farms, and trading markets. Hampi was the world's second-largest city, after Beijing, and probably India's richest at that time. The Vijayanagara Empire was defeated by a coalition of Muslim sultanates in 1565, after which Hampi remained in ruins. The ruins of Hampi are spread over 4,100 hectares and include more than 1,600 surviving remains of the last great Hindu kingdom in South India.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Hampi: A Historical Overview
+
+Hampi, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the Vijayanagara district of east-central Karnataka, India. It predates the Vijayanagara Empire and is mentioned in Hindu texts such as the Ramayana and the Puranas. Hampi was the capital of the Vijayanagara Empire in the 14th century and was a prosperous, wealthy, and grand city with numerous temples, farms, and trading markets. By 1500 CE, Hampi-Vijayanagara was the world's second-largest city, after Beijing, and probably India's richest at that time. However, the Vijayanagara Empire was defeated by a coalition of Muslim sultanates in 1565, leaving Hampi in ruins.
+
+# Ancient to 14th Century CE
+
+Emperor Ashoka's Rock Edicts suggest this region was part of the Maurya Empire during the 3rd century BCE. The town is mentioned in Badami Chalukya's inscriptions as Pampapura, dating from between the 6th and 8th centuries. By the 10th century, it had become a center of religious and educational activities during the rule of the Hindu kings Kalyana Chalukyas. Several inscriptions from the 11th to 13th centuries are about the Hampi site, with a mention of gifts to goddess Hampa-devi. Between the 12th and 14th centuries, Hindu kings of the Hoysala Empire of South India built temples to Durga, Hampadevi, and Shiva.
+
+# 14th Century and After
+
+The armies of the Delhi Sultanate, particularly those of Alauddin Khalji and Muhammad bin Tughlaq, invaded and pillaged South India. The Hoysala Empire and its capital Dvarasamudra in southern Karnataka was plundered and destroyed in the early 14th century by the armies of Alauddin Khalji, and again in 1326 CE by the army of Muhammad bin Tughlaq. In 1336 CE, the Vijayanagara Empire arose from the ruins of the Kampili kingdom. It grew into one of the famed Hindu empires of South India that ruled for over 200 years. The Vijayanagara Empire built its capital around Hampi, calling it Vijayanagara. They expanded the infrastructure and temples. By 1500 CE, Hampi-Vijayanagara was the world's second-largest medieval-era city after Beijing, and probably India's richest.
+</div>
+</div>
+<div class='slide-pane' id='Hampi-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Hampi</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Hampi: A Historical and Cultural Synopsis
+
+## Introduction
+
+Hampi, often referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the Vijayanagara district of Karnataka, India. The city's historical significance predates the Vijayanagara Empire, with mentions in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra. Hampi continues to be a crucial religious center, housing the Virupaksha Temple, an active Adi Shankara-linked monastery, and various monuments belonging to the old city. The city was the capital of the Vijayanagara Empire in the 14th century, and it was a fortified city. Chronicles left by Persian and European travelers, particularly the Portuguese, depict Hampi as a prosperous, wealthy, and grand city near the Tungabhadra River, with numerous temples, farms, and trading markets. By 1500 CE, Hampi-Vijayanagara was the world's second-largest city, after Beijing, and probably India's richest at that time, attracting traders from Persia and Portugal. The Vijayanagara Empire was defeated by a coalition of Muslim sultanates; its capital was conquered, pillaged, and destroyed by sultanate armies in 1565, after which Hampi remained in ruins.
+
+## Location and Mythological Significance
+
+Hampi is situated on the banks of the Tungabhadra River in the eastern part of central Karnataka near the state border with Andhra Pradesh. It is 376 kilometers from Bengaluru, and 165 kilometers from Hubli. The closest railway station is in Hosapete, 13 kilometers away, and the closest airport is Jindal Vijaynagar Airport in Toranagallu, which has connections to Bengaluru. Overnight buses and trains also connect Hampi with Goa and Bengaluru. It is 140 kilometers southeast of the Badami and Aihole archaeological sites.
+
+The name Hampi—traditionally known as Pampa-kshetra, Kishkindha-kshetra, or Bhaskara-kshetra—is derived from Pampa, another name of the goddess Parvati in Hindu theology. According to mythology, the maiden Parvati resolves to marry the loner ascetic Shiva. Her parents learn of her desire and discourage her, but she pursues her desire. Shiva is lost in yogic meditation, oblivious to the world; Parvati appeals to the gods for help to awaken him and gain his attention. Indra sends Kamadeva — the Hindu god of desire, erotic love, attraction, and affection—to awake Shiva from meditation. Kama reaches Shiva and shoots an arrow of desire. Shiva opens his third eye in his forehead and burns Kama to ashes. 
+
+Parvati does not lose her hope or her resolve to win over Shiva; she begins to live like him and engage in the same activities—asceticism, yogin, and tapasya—awakening him and attracting his interest. Shiva meets Parvati in disguised form and tries to discourage her, telling her Shiva's weaknesses and personality problems. Parvati refuses to listen and insists on her resolve. Shiva finally accepts her and they get married. Kama was later brought back to life after the marriage of Shiva and Parvati. According to Sthala Purana, Parvati (Pampa) pursued her ascetic, yogini lifestyle on Hemakuta Hill, now a part of Hampi, to win and bring ascetic Shiva back into householder life. Shiva is also called Pampapati (meaning "husband of Pampa"). The river near the Hemakuta Hill came to be known as Pampa river. The Sanskrit word Pampa morphed into the Kannada word Hampa and the place Parvati pursued Shiva came to be known as Hampe or Hampi.
+
+## Ancient to 14th century CE
+
+Emperor Ashoka's Rock Edicts in Nittur and Udegolan—both in Bellary district 269-232 BCE—suggest this region was part of the Maurya Empire during the 3rd century BCE. A Brahmi inscription and a terracotta seal dating to about the 2nd century CE have been found during site excavations. The town is mentioned in Badami Chalukya's inscriptions as Pampapura, dating from between the 6th and 8th centuries. By the 10th century, it had become a center of religious and educational activities during the rule of the Hindu kings Kalyana Chalukyas, whose inscriptions state that the kings made land grants to the Virupaksha temple. Several inscriptions from the 11th to 13th centuries are about the Hampi site, with a mention of gifts to goddess Hampa-devi. Between the 12th and 14th centuries, Hindu kings of the Hoysala Empire of South India built temples to Durga, Hampadevi, and Shiva, according to an inscription dated about 1,199 CE. Hampi became the second royal residence; one of the Hoysala kings was known as Hampeya-Odeya or "lord of Hampi". According to Burton Stein, the Hoysala-period inscriptions call Hampi by alternate names such as Virupakshapattana, Vijaya Virupakshapura in honor of the old Virupaksha (Shiva) temple there.
+
+## 14th Century and After
+
+The armies of the Delhi Sultanate, particularly those of Alauddin Khalji and Muhammad bin Tughlaq, invaded and pillaged South India. The Hoysala Empire and its capital Dvarasamudra in southern Karnataka were plundered and destroyed in the early 14th century by the armies of Alauddin Khalji, and again in 1326 CE by the army of Muhammad bin Tughlaq. The Kampili kingdom in north-central Karnataka followed the collapse of the Hoysala Empire. It was a short-lived Hindu kingdom with its capital about 33 kilometers from Hampi. The Kampili kingdom ended after an invasion by the Muslim armies of Muhammad bin Tughlaq. The Hindu women of Kampili committed jauhar (ritual mass suicide) when the Kampili soldiers faced defeat by Tughlaq's army. In 1336 CE, the Vijayanagara Empire arose from the ruins of the Kampili kingdom. It grew into one of the famed Hindu empires of South India that ruled for over 200 years.
+
+The Vijayanagara Empire built its capital around Hampi, calling it Vijayanagara. Many historians propose that Harihara I and Bukka I, the founders of the empire, were commanders in the army of the Hoysala Empire stationed in the Tungabhadra region to ward off Muslim invasions from Northern India. Some claim that they were Telugu people, who took control of the northern parts of the Hoysala Empire during its decline. As per some of the texts such as Vidyaranya Kalajana, Vidyaranya Vritanta, Rajakalanirnaya, Pitamahasamhita, Sivatatvaratnakara, they were treasury officers of Pratap Rudra, the King of Kakatiya Kingdom. When Muhammad Bin Tughlaq came looking for Baha-Ud-Din Gurshasp (who was taking refuge in the court of Pratap Rudra), Pratap Rudra was overthrown and Kakatiya was destroyed. During this time the two brothers Harihara I and Bukka I, with a small army came to the present site of Vijayanagara, Hampi. Vidyaranya, the 12th Jagadguru of the Śringeri Śarada Pītham took them under his protection and established them on the throne and the city was called Vidyanagara in A.D. 1336.
+
+They expanded the infrastructure and temples. According to Nicholas Gier and other scholars, by 1500 CE Hampi-Vijayanagara was the world's second-largest medieval-era city after Beijing, and probably India's richest. Its wealth attracted 16th-century traders from across the Deccan area, Persia, and the Portuguese colony of Goa. The Vijayanagara rulers fostered developments in intellectual pursuits and the arts, maintained a strong military, and fought many wars with sultanates to its north and east. They invested in roads, waterworks, agriculture, religious buildings, and public infrastructure. This included, states UNESCO, "forts, riverside features, royal and sacred complexes, temples, shrines, pillared halls, mandapas (halls for people to sit), memorial structures, gateways, check posts, stables, water structures, and more". The site was multi-religious and multi-ethnic; it included Hindu and Jain monuments next to each other. The buildings predominantly followed South Indian Hindu arts and architecture dating to the Aihole-Pattadakal styles, but the Hampi builders also used elements of Indian architecture in the Lotus Mahal, the public bath, and the elephant stables.
+
+According to historical memoirs left by Portuguese and Persian traders to Hampi, the city was of metropolitan proportions; they called it "one of the most beautiful cities". While prosperous and in infrastructure, the Muslim-Hindu wars between Muslim Sultanates and Vijayanagara Empire continued. In 1565, at the Battle of Talikota, a coalition of Muslim sultanates entered into a war with the Vijayanagara Empire. They captured and beheaded the king Aliya Rama Raya, followed by a massive destruction of the infrastructure fabric of Hampi and the metropolitan Vijayanagara. The city was pillaged, looted and burnt for six months after the war, then abandoned as ruins, which are now called the Group of Monuments at Hampi.
+
+## Archaeological Site
+
+Hampi and its nearby region remained a contested and fought-over region claimed by the local chiefs, the Hyderabad Muslim nizams, the Maratha Hindu kings, and Hyder Ali and his son Tipu Sultan of Mysore through the 18th century. In 1799, Tipu Sultan was defeated and killed when the British forces and Wadiyar dynasty aligned. The region then came under British influence. The ruins of Hampi were surveyed in 1800 by Scottish Colonel Colin Mackenzie, first Surveyor General of India. Mackenzie wrote that the Hampi site was abandoned and only wildlife live there. The 19th-century speculative articles by historians who followed Mackenzie blamed the 18th-century armies of Hyder Ali and the Marathas for the damage to the Hampi monuments.
+
+The Hampi site remained largely ignored until the mid-19th century, when Alexander Greenlaw visited and photographed the site in 1856. He created an archive of 60 calotype photographs of temples and royal structures that were standing in 1856. These photographs were held in a private collection in the United Kingdom and were not published until 1980. They are the most valuable source of the mid-19th-century state of Hampi monuments to scholars. A translation of the memoirs written by Abdul Razzaq, a Persian envoy in the court of Devaraya II (1424–1446), published in the early 1880s described some monuments of the abandoned site. This translation, for the first time, uses Arabic terms such as "zenana" to describe some of the Hampi monuments. Some of these terms became the names thereafter. Alexander Rea, an officer of the Archaeological Survey department of the Madras Presidency within British India, published his survey of the site in 1885. Robert Sewell published his scholarly treatise A Forgotten Empire in 1900, bringing Hampi to the widespread attention of scholars. The growing interest led Rea and his successor Longhurst to clear and repair the Hampi group of monuments. The site is significant historically and archaeologically, for the Vijayanagara period and before. The Archaeological Survey of India continues to conduct excavations in the area.
+
+## Description
+
+Hampi is located in hilly terrain formed by granite boulders. The Hampi monuments comprising the UNESCO world heritage site are a subset of the wider-spread Vijayanagara ruins. Almost all of the monuments were built between 1336 and 1570 CE during the Vijayanagara rule. The site has about 1,600 monuments and covers 41.5 square kilometers.
+
+The Hampi site has been studied in three broad zones; the first has been named the "sacred centre" by scholars such as Burton Stein and others; the second is referred to as the "urban core" or the "royal centre"; and the third constitutes the rest of metropolitan Vijayanagara. The sacred centre, alongside the river, contains the oldest temples with a history of pilgrimage and monuments pre-dating the Vijayanagara empire. The urban core and royal centre have over sixty ruined temples beyond those in the sacred centre, but the temples in the urban core are all dated to the Vijayanagara empire. The urban core also includes public utility infrastructure such as roads, an aqueduct, water tanks, mandapa, gateways, and markets, monasteries. This distinction has been assisted by some seventy-seven stone inscriptions.
+
+Most of the monuments are Hindu; the temples and the public infrastructure such as tanks and markets include reliefs and artwork depicting Hindu deities and themes from Hindu texts. There are also six Jain temples and monuments and a Muslim mosque and tomb. The architecture is built from the abundant local stone; the dominant style is Dravidian, with roots in the developments in Hindu arts and architecture in the second half of the 1st millennium in the Deccan region. It also included elements of the arts that developed during the Hoysala Empire rule in the south between the 11th and 14th century such as in the pillars of Ramachandra temple and ceilings of some of the Virupaksha temple complex. The architects also adopted an Indo-Islamic style in a few monuments, such as the Queen's bath and Elephant stables, which UNESCO says reflects a "highly evolved multi-religious and multi-ethnic society".
+
+## Hindu Monuments
+
+### Virupaksha Temple and Market Complex
+
+The Virupaksha temple is the oldest shrine, the principal destination for pilgrims and tourists, and remains an active Hindu worship site. Parts of the Shiva, Pampa, and Durga temples existed in the 11th-century; it was extended during the Vijayanagara era. The temple is a collection of smaller temples, a regularly repainted, 50-meter high gopuram, a Hindu monastery dedicated to Vidyaranya of Advaita Vedanta tradition, a water tank (Manmatha), a community kitchen, other monuments, and a 750-meter-long ruined stone market with a monolithic Nandi shrine on the east end.
+
+The temple faces eastwards, aligning the sanctums of the Shiva and Pampa Devi temples to the sunrise; a large gopuram marks its entrance. The superstructure is a pyramidal tower with pilastered stories on each of which is artwork including erotic sculptures. The gopuram leads into a rectangular court that ends in another, smaller gopuram dated to 1510 CE. To its south side is a 100-column hall with Hindu-related reliefs on all four sides of each pillar. Connected to this public hall is a community kitchen, a feature found in other major Hampi temples. A channel is cut into the rock to deliver water to the kitchen and the feeding hall. The courtyard after the small gopuram has dipa-stambha (lamp pillar) and Nandi.
+
+The courtyard after the small gopuram leads to the main mandapa of the Shiva temple, which consists of the original square mandapa and a rectangular extension composed of two fused squares and sixteen piers built by Krishnadevaraya. The ceiling of the open hall above the mandapa is painted, showing the Shaivism legend relating to Shiva-Parvati marriage; another section shows the legend of Rama-Sita of the Vaishnavism tradition. A third section depicts the legend of the love god Kama shooting an arrow at Shiva to get him interested in Parvati, and the fourth section shows the Advaita Hindu scholar Vidyaranya.
 </div>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0100'>
