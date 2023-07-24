@@ -14,10 +14,17 @@
 <option value='Cybernetics'>Cybernetics</option>
 <option value='Epistemology'>Epistemology</option>
 <option value='European_Union_legislative_procedure'>European Union legislative procedure</option>
+<option value='Film_noir'>Film noir</option>
 <option value='Grand_Ethiopian_Renaissance_Dam'>Grand Ethiopian Renaissance Dam</option>
 <option value='Hampi'>Hampi</option>
+<option value='James_Webb_Space_Telescope'>James Webb Space Telescope</option>
+<option value='Kidney_stone_disease'>Kidney stone disease</option>
+<option value='Louisiana_Purchase'>Louisiana Purchase</option>
+<option value='Ludwig_van_Beethoven'>Ludwig van Beethoven</option>
+<option value='Muay_Thai'>Muay Thai</option>
 <option value='Multiple_sclerosis'>Multiple sclerosis</option>
 <option value='MythBusters'>MythBusters</option>
+<option value='Napoleon'>Napoleon</option>
 </select>
 </div>
 <div class='row' style='display: flex; flex-direction: row; align-items: center;'>
@@ -3563,6 +3570,336 @@ In a few limited areas, the Commission has the authority to adopt regulatory or 
 The 2009 Lisbon Treaty created two different ways for further amendments of the European Union treaties: an ordinary revision procedure and a simplified revision procedure. The Treaty also provides for the Passerelle Clause which allows the European Council to unanimously decide to replace unanimous voting in the Council of Ministers with qualified majority voting in specified areas with the previous consent of the European Parliament, and move from a special legislative procedure to the ordinary legislative procedure.
 </div>
 </div>
+<div class='slide-pane' id='Film_noir-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Film noir is a style of movie that was popular in the 1940s and 1950s. These movies were often crime dramas with a dark and cynical mood. They were usually in black and white and had a certain look that came from German Expressionist filmmaking. The stories often featured a detective or a person who gets caught up in crime. The term "film noir," which means "black film" in French, was first used by a French critic in 1946. Today, some newer films that use similar styles are called "neo-noir."
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Film Noir
+
+Film noir is a term used to describe a type of movie that was popular in the 1940s and 1950s. These movies were often about crimes and had a certain style. They were usually in black and white and had a serious, gloomy feel to them. The term "film noir" is French and means "black film" or "dark film". The term was first used by a French critic named Nino Frank in 1946. However, most people in the American film industry didn't use this term at that time. The stories in these films often came from crime fiction books that were popular during the Great Depression.
+
+# What is Film Noir?
+
+There's a lot of debate about what exactly film noir is. Some people think it's a genre, like a comedy or a horror movie. Others think it's more of a style, like how some paintings are abstract and some are realistic. Film noir can have a variety of different storylines. For example, the main character could be a detective, a police officer, a criminal, or just a regular person who gets caught up in a crime. Even though film noir started in America, the term has been used to describe films from all over the world. Some movies made after the 1960s have similar themes and styles to classic film noir and are sometimes called neo-noir.
+
+# The Influence of Film Noir
+
+Film noir has been influenced by many different things. One of the biggest influences was German Expressionism, an art movement from the 1910s and 1920s that included theater, painting, and cinema. Many German filmmakers who were involved in this movement moved to Hollywood and brought their unique style with them. This style often included dramatic lighting and a focus on the psychology of the characters. Film noir has also been influenced by American crime fiction. Many of the stories in these films came from crime novels that were popular in the United States during the Great Depression.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Film Noir
+
+Film Noir is a term that describes a certain type of movie. It's a French word that means 'black film' or 'dark film'. These movies are usually about crimes and the people who do them, and they often show these people in a negative light. The term was first used by a French critic named Nino Frank in 1946. The 1940s and 1950s are considered the "classic period" of American film noir. These films were usually in black and white and had a certain visual style that was influenced by German Expressionist cinematography.
+
+Film noir stories often revolve around different characters. These can include a private investigator, a police officer, a boxer, a person who tricks others for money, a person who starts committing crimes, or someone who is just unlucky. While film noir was originally associated with American films, the term has been used to describe films from all over the world. Some films made after the 1960s share similar features with classic film noir and sometimes refer to its conventions. These films are sometimes called neo-noir.
+
+## What is Film Noir?
+
+People often debate about what exactly defines film noir and what kind of category it falls into. Some people think of film noir as a genre, while others see it more as a style of filmmaking. Raymond Borde and Étienne Chaumeton, French critics, made the first attempt to define film noir in their 1955 book. They suggested that a film noir might have a dreamlike quality, strangeness, eroticism, ambivalence, and cruelty. But not every film noir has these elements in the same amounts. Some might be more dreamlike, while others might be more brutal.
+
+Film noir can include a variety of plots and genres. It can be a gangster film, a police procedural, a gothic romance, or a social problem picture. Before the term film noir was widely adopted in the 1970s, many of these films were referred to as "melodramas".
+
+## Background of Film Noir
+
+### Cinematic Sources of Film Noir
+
+Film noir was influenced by German Expressionism, an artistic movement from the 1910s and 1920s that involved theater, music, photography, painting, sculpture, architecture, and cinema. Many German film artists who were part of this movement moved to Hollywood because of the opportunities there and because of the threat of Nazism. These directors brought a dramatic lighting style and a psychologically expressive approach to their films.
+
+Some of the most famous classic noirs were made by these directors. For example, Fritz Lang's film M, made in 1931, is one of the first crime films of the sound era to combine a noirish visual style with a noir-type plot. Other directors such as Jacques Tourneur, Robert Siodmak, and Michael Curtiz also made significant contributions to the genre.
+
+### Literary Sources of Film Noir
+
+Film noir was also influenced by the hardboiled school of American detective and crime fiction. This style of writing was led by authors such as Dashiell Hammett and James M. Cain and was popularized in pulp magazines like Black Mask. Hammett's novels The Maltese Falcon and The Glass Key were turned into classic film noirs, as were Cain's novels Double Indemnity, Mildred Pierce, The Postman Always Rings Twice, and Slightly Scarlet.
+
+Raymond Chandler, another famous author of the hardboiled school, also had his novels turned into major noirs. His novels were often centered on the character of the private eye, while Cain's novels focused more on psychological exposition than on crime solving.
+
+## Classic Period of Film Noir
+
+### Overview of the Classic Period
+
+The 1940s and 1950s are generally considered the classic period of American film noir. During this time, many films that are now considered noir were made. These films were usually low-budget and did not feature major stars. This allowed the filmmakers to be more creative and experimental.
+
+In these films, there was more visual experimentation than in Hollywood filmmaking as a whole. The narrative structures of these films sometimes involved complicated flashbacks that were uncommon in non-noir commercial productions.
+
+Thematically, film noir films were unique for how often they focused on women of questionable virtue. This focus had become rare in Hollywood films after the mid-1930s and the end of the pre-Code era. A significant film in this vein was Double Indemnity, directed by Billy Wilder, with Barbara Stanwyck's femme fatale, Phyllis Dietrichson, setting the mold.
+
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Film noir is a term used to describe stylish Hollywood crime dramas, particularly from the 1940s and 1950s, that often have a cynical tone. These films are typically shot in a low-key, black-and-white visual style, and their stories and attitudes often come from the hardboiled school of crime fiction. The term, which means 'black film' in French, was first applied to Hollywood films in 1946 by French critic Nino Frank. Film noir can include a variety of plots and characters, and has been used to describe films from around the world.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Film Noir
+
+Film noir is a term used to describe a style of Hollywood crime dramas that were popular in the 1940s and 1950s. These films were known for their stylish, black-and-white visuals, cynical attitudes, and complex storylines. The term 'film noir', which is French for 'black film' or 'dark film', was first used by French critic Nino Frank in 1946. Film noir often includes a variety of plots and characters such as private investigators, police officers, and victims of circumstance. While the term was initially used for American films, it has since been used to describe films from around the world.
+
+# Defining Film Noir
+
+The definition of film noir and its categorization has been a subject of ongoing debate among scholars. Some argue that film noir is a distinct genre, defined by conventions of narrative structure, characterization, theme, and visual design. Others, however, argue that it is more of a filmmaking style, not confined to a certain genre. The settings of film noir can vary widely, from urban environments to small towns and rural areas. The characters can also range from private eyes to femme fatales. Despite the diverse interpretations, there is a consensus that film noir represents a unique style or phenomenon in cinema, characterized by specific visual and thematic codes.
+
+# Film Noir's Influences and Evolution
+
+Film noir was influenced by several cinematic and literary sources. The visual style of film noir was influenced by German Expressionism, an artistic movement from the 1910s and 1920s. In terms of narrative, film noir drew heavily from the hardboiled school of American detective and crime fiction that emerged during the Great Depression. Authors like Dashiell Hammett and James M. Cain, who wrote complex crime stories with morally ambiguous characters, were particularly influential. Film noir evolved over time, with many films from the 1960s onwards sharing attributes with classic film noir. Some of these later works, often referred to as neo-noir, even treated the conventions of film noir in a self-referential manner.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction
+
+Film noir, a French term meaning 'black film' or 'dark film', is a cinematic term primarily used to describe stylish Hollywood crime dramas. These films are often characterized by their cynical attitudes and motivations. The 1940s and 1950s are considered the "classic period" of American film noir, with a distinctive low-key, black-and-white visual style that has its roots in German Expressionist cinematography. Many of the stories and attitudes of classic noir come from the hardboiled school of crime fiction that emerged in the United States during the Great Depression.
+
+French critic Nino Frank first applied the term film noir to Hollywood films in 1946, but most American film industry professionals of that era did not recognize it. Frank was likely inspired by the French literary publishing imprint Série noire, founded in 1945. Film noir is a category defined retrospectively by cinema historians and critics. Before the 1970s, many of the classic films noir were referred to as "melodramas". There is ongoing and heavy debate among scholars whether film noir qualifies as a distinct genre or whether it is more of a filmmaking style.
+
+## Overview of Film Noir 
+
+Film noir encompasses a range of plots: the central figure may be a private investigator (as in The Big Sleep), a plainclothes police officer (as in The Big Heat), an aging boxer (as in The Set-Up), a hapless grifter (as in Night and the City), a law-abiding citizen lured into a life of crime (as in Gun Crazy), or simply a victim of circumstance (as in D.O.A.). 
+
+Although film noir was originally associated with American productions, the term has been used to describe films from around the world. Many films released from the 1960s onward share attributes with films noir of the classical period, and often treat its conventions self-referentially. Some refer to such latter-day works as neo-noir. The clichés of film noir have inspired parody since the mid-1940s.
+
+# Definition
+
+What defines film noir and what sort of category it is continues to provoke debate. French critics Raymond Borde and Étienne Chaumeton made the first of many attempts to define film noir in their 1955 book Panorama du film noir américain 1941–1953 (A Panorama of American Film Noir). They emphasized that not every film noir embodies all five attributes in equal measure—one might be more dreamlike; another, particularly brutal. 
+
+Film noir is often identified with a visual style that emphasizes low-key lighting and unbalanced compositions. Films commonly identified as noir evidence a variety of visual approaches, including ones that fit comfortably within the Hollywood mainstream. Film noir similarly embraces a variety of genres, from the gangster film to the police procedural to the gothic romance to the social problem picture. 
+
+## Genre or Style?
+
+While many critics refer to film noir as a genre itself, others argue that it can be no such thing. Foster Hirsch defines a genre as determined by "conventions of narrative structure, characterization, theme, and visual design". Hirsch, as one who has taken the position that film noir is a genre, argues that these elements are present "in abundance". Hirsch notes that there are unifying features of tone, visual style and narrative sufficient to classify noir as a distinct genre.
+
+Others argue that film noir is not a genre. Film noir is often associated with an urban setting, but many classic noirs take place in small towns, suburbia, rural areas, or on the open road; setting, therefore, cannot be its genre determinant, as with the Western. Similarly, while the private eye and the femme fatale are stock character types conventionally identified with noir, the majority of films noir feature neither; so there is no character basis for genre designation as with the gangster film. Nor does film noir rely on anything as evident as the monstrous or supernatural elements of the horror film, the speculative leaps of the science fiction film, or the song-and-dance routines of the musical.
+
+# Background
+
+## Cinematic Sources
+
+The aesthetics of film noir were influenced by German Expressionism, an artistic movement of the 1910s and 1920s that involved theater, music, photography, painting, sculpture and architecture, as well as cinema. The opportunities offered by the booming Hollywood film industry and then the threat of Nazism led to the emigration of many film artists working in Germany who had been involved in the Expressionist movement or studied with its practitioners. 
+
+Directors such as Fritz Lang, Jacques Tourneur, Robert Siodmak and Michael Curtiz brought a dramatically shadowed lighting style and a psychologically expressive approach to visual composition (mise-en-scène) with them to Hollywood, where they made some of the most famous classic noirs.
+
+Italian neorealism of the 1940s, with its emphasis on quasi-documentary authenticity, was an acknowledged influence on trends that emerged in American noir. Director Jules Dassin of The Naked City (1948) pointed to the neorealists as inspiring his use of location photography with non-professional extras. This semidocumentary approach characterized a substantial number of noirs in the late 1940s and early 1950s.
+
+## Literary Sources
+
+The primary literary influence on film noir was the hardboiled school of American detective and crime fiction, led in its early years by such writers as Dashiell Hammett and James M. Cain, and popularized in pulp magazines such as Black Mask. The classic film noirs The Maltese Falcon (1941) and The Glass Key (1942) were based on novels by Hammett; Cain's novels provided the basis for Double Indemnity (1944), Mildred Pierce (1945), The Postman Always Rings Twice (1946), and Slightly Scarlet (1956; adapted from Love's Lovely Counterfeit). 
+
+Raymond Chandler, who debuted as a novelist with The Big Sleep in 1939, soon became the most famous author of the hardboiled school. Not only were Chandler's novels turned into major noirs, but he was also an important screenwriter in the genre. 
+
+W. R. Burnett, whose first novel to be published was Little Caesar, in 1929, was another crucial literary source for film noir. His characteristic narrative approach fell somewhere between that of the quintessential hardboiled writers and their noir fiction compatriots—his protagonists were often heroic in their own way, which happened to be that of the gangster.
+
+# Classic Period
+
+## Overview
+
+The 1940s and 1950s are generally regarded as the classic period of American film noir. While City Streets and other pre-WWII crime melodramas such as Fury (1936) and You Only Live Once (1937), both directed by Fritz Lang, are categorized as full-fledged noir, other critics tend to describe them as "proto-noir" or in similar terms.
+
+Most film noirs of the classic period were similarly low- and modestly-budgeted features without major stars—B movies either literally or in spirit. In this production context, writers, directors, cinematographers, and other craftsmen were relatively free from typical big-picture constraints. There was more visual experimentation than in Hollywood filmmaking as a whole: the Expressionism now closely associated with noir and the semi-documentary style that later emerged represent two very different tendencies. 
+
+Thematically, films noir were most exceptional for the relative frequency with which they centered on portrayals of women of questionable virtue—a focus that had become rare in Hollywood films after the mid-1930s and the end of the pre-Code era. The signal film in this vein was Double Indemnity, directed by Billy Wilder; setting the mold was Barbara Stanwyck's femme fatale, Phyllis Dietrichson.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Film noir is a cinematic term used to describe stylish Hollywood crime dramas that emphasize cynical attitudes and motivations, with a low-key, black-and-white visual style rooted in German Expressionist cinematography. It was first applied to Hollywood films by French critic Nino Frank in 1946. The term has been used to describe films from around the world, with many films from the 1960s onward sharing attributes with classic film noir. There is ongoing debate among scholars about whether film noir is a distinct genre or a filmmaking style.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Film Noir: An Overview
+
+Film noir is a cinematic term primarily used to describe stylish Hollywood crime dramas, particularly those that emphasize cynical attitudes and motivations. This term, which translates to 'black film' or 'dark film' in French, was first applied to Hollywood films by French critic Nino Frank in 1946. The 1940s and 1950s are considered the "classic period" of American film noir, characterized by a low-key, black-and-white visual style that has roots in German Expressionist cinematography. The narratives and attitudes of classic noir often derive from the hardboiled school of crime fiction that emerged in the United States during the Great Depression.
+
+# Defining Film Noir
+
+The definition of film noir and its categorization is a subject of ongoing debate among scholars. Some argue that film noir qualifies as a distinct genre, while others view it as more of a filmmaking style. The central figure in film noir plots can vary widely, from a private investigator to a law-abiding citizen lured into a life of crime. While film noir was originally associated with American productions, the term has been used to describe films from around the world. Many films released from the 1960s onward share attributes with films noir of the classical period and often treat its conventions self-referentially. 
+
+# Influences and Sources of Film Noir
+
+Film noir was influenced by German Expressionism, an artistic movement that involved theater, music, photography, painting, sculpture, and architecture, as well as cinema. The opportunities offered by the booming Hollywood film industry and the threat of Nazism led to the emigration of many film artists working in Germany who had been involved in the Expressionist movement or studied with its practitioners. The primary literary influence on film noir was the hardboiled school of American detective and crime fiction, popularized in pulp magazines such as Black Mask. The 1940s and 1950s are generally regarded as the classic period of American film noir. Most film noirs of this period were low- and modestly-budgeted features without major stars, allowing for more visual experimentation and narrative structures involving convoluted flashbacks uncommon in non-noir commercial productions.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Film Noir: A Deep Dive into the Stylish Hollywood Crime Drama
+
+Film noir, a term coined by French critic Nino Frank in 1946, refers to a genre of cinema that is primarily associated with Hollywood crime dramas that emphasize cynical attitudes and motivations. The term itself, translated from French, means 'black film' or 'dark film', a fitting description for the genre's characteristic low-key, black-and-white visual style, which has its roots in German Expressionist cinematography. 
+
+## Classic Period of American Film Noir
+
+The 1940s and 1950s are widely regarded as the "classic period" of American film noir. This era saw the emergence of many prototypical stories and attitudes that are now synonymous with the genre. These elements were heavily influenced by the hardboiled school of crime fiction that emerged in the United States during the Great Depression. 
+
+Despite the genre's association with this era, the term film noir was largely unrecognized by most American film industry professionals at the time. It was not until the 1970s that the term was widely adopted, and many of the classic films noir were retrospectively categorized as such. Before this, these films were often referred to as "melodramas". 
+
+## The Debate: Genre or Filmmaking Style?
+
+Whether film noir is a distinct genre or a filmmaking style is a subject of ongoing debate among scholars. Some argue that the conventions of narrative structure, characterization, theme, and visual design are present in abundance in film noir, enough to classify it as a distinct genre. Others, however, argue that film noir cannot be a genre as it is often associated with an urban setting, but many classic noirs take place in small towns, suburbia, rural areas, or on the open road, and therefore, setting cannot be its genre determinant. 
+
+The debate extends to character types as well. While the private eye and the femme fatale are stock character types conventionally identified with noir, the majority of films noir feature neither. Therefore, there is no character basis for genre designation. 
+
+## Plots and Global Influence
+
+Film noir encompasses a range of plots. The central figure may be a private investigator (The Big Sleep), a plainclothes police officer (The Big Heat), an aging boxer (The Set-Up), a hapless grifter (Night and the City), a law-abiding citizen lured into a life of crime (Gun Crazy), or simply a victim of circumstance (D.O.A.). 
+
+Although film noir was originally associated with American productions, the term has been used to describe films from around the world. Many films released from the 1960s onward share attributes with films noir of the classical period and often treat its conventions self-referentially. Such latter-day works are often referred to as neo-noir. 
+
+## Definition and Characteristics
+
+Defining film noir is a complex task, as not every film noir embodies all its attributes in equal measure. Some may emphasize a dreamlike quality, while others could be particularly brutal. The visual style of film noir is also varied, with some films fitting comfortably within the Hollywood mainstream. 
+
+Film noir embraces a variety of genres, from the gangster film to the police procedural to the gothic romance to the social problem picture. Any example of these from the 1940s and 1950s, now seen as noir's classical era, was likely to be described as a melodrama at the time. 
+
+## Cinematic and Literary Sources
+
+The aesthetics of film noir were heavily influenced by German Expressionism, an artistic movement of the 1910s and 1920s that involved theater, music, photography, painting, sculpture, and architecture, as well as cinema. The opportunities offered by the booming Hollywood film industry and the threat of Nazism led to the emigration of many film artists working in Germany who had been involved in the Expressionist movement or studied with its practitioners.
+
+The primary literary influence on film noir was the hardboiled school of American detective and crime fiction, led in its early years by such writers as Dashiell Hammett and James M. Cain, and popularized in pulp magazines such as Black Mask. 
+
+## Classic Period Overview
+
+The classic period of American film noir in the 1940s and 1950s witnessed the creation of many low- and modestly-budgeted features without major stars. In this production context, writers, directors, cinematographers, and other craftsmen were relatively free from typical big-picture constraints. This resulted in more visual experimentation than in Hollywood filmmaking as a whole. 
+
+Thematically, films noir were exceptional for the relative frequency with which they centered on portrayals of women of questionable virtue—a focus that had become rare in Hollywood films after the mid-1930s and the end of the pre-Code era. The signal film in this vein was Double Indemnity, directed by Billy Wilder; setting the mold was Barbara Stanwyck's femme fatale, Phyllis Dietrichson.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Film noir is a cinematic term primarily used to describe stylish Hollywood crime dramas that emphasize cynical attitudes and motivations. The classic period of American film noir is generally considered to be the 1940s and 1950s. The term, which means 'black film' or 'dark film' in French, was first applied to Hollywood films by French critic Nino Frank in 1946. The genre is often associated with a low-key, black-and-white visual style rooted in German Expressionist cinematography. The genre's definition, category, and whether it qualifies as a distinct genre or a filmmaking style are heavily debated among scholars.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Film Noir: Definition and Characteristics
+Film noir, a term first used by French critic Nino Frank in 1946, refers to a cinematic style primarily used in Hollywood crime dramas that emphasize cynical attitudes and motivations. The classic period of American film noir is generally regarded as the 1940s and 1950s. This era's film noir is associated with a low-key, black-and-white visual style rooted in German Expressionist cinematography. Many of the prototypical stories and attitudes of classic noir derive from the hardboiled school of crime fiction that emerged in the United States during the Great Depression. Film noir encompasses a range of plots and central figures, and while it was originally associated with American productions, the term has been used to describe films from around the world. 
+
+# Film Noir: Genre or Filmmaking Style
+Whether film noir qualifies as a distinct genre or is more of a filmmaking style is a subject of ongoing debate among scholars. Historically, many of the classic films noir were referred to as "melodramas" before the term film noir was widely adopted in the 1970s. Some critics argue that film noir is a genre, determined by conventions of narrative structure, characterization, theme, and visual design. However, others argue that it is not a genre due to the diversity of its settings, character types, and narrative elements. Some scholars, such as film historian Thomas Schatz, treat film noir as a style rather than a genre, while others refer to it as a "cycle," "phenomenon," or "mood."
+
+# Background and Influences of Film Noir
+Film noir aesthetics were influenced by German Expressionism, an artistic movement of the 1910s and 1920s that involved various artistic disciplines, including cinema. Many film artists involved in or influenced by this movement emigrated to Hollywood due to the opportunities offered by the booming film industry and the threat of Nazism. Film noir was also influenced by the hardboiled school of American detective and crime fiction, popularized in pulp magazines such as Black Mask. The primary literary influence on film noir was the hardboiled school of American detective and crime fiction, led by writers such as Dashiell Hammett and James M. Cain. Their novels provided the basis for many classic film noirs.
+</div>
+</div>
+<div class='slide-pane' id='Film_noir-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Film noir</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction
+
+Film noir is a cinematic term predominantly used to describe stylish Hollywood crime dramas, particularly those that underscore cynical attitudes and motivations. The 1940s and 1950s are generally considered the "classic period" of American film noir. This era of film noir is associated with a low-key, black-and-white visual style that has roots in German Expressionist cinematography. Many of the prototypical stories and much of the attitude of classic noir derive from the hardboiled school of crime fiction that emerged in the United States during the Great Depression. 
+
+The term film noir, French for 'black film' (literal) or 'dark film' (closer meaning), was first applied to Hollywood films by French critic Nino Frank in 1946, but was unrecognized by most American film industry professionals of that era. Frank is believed to have been inspired by the French literary publishing imprint Série noire, founded in 1945. 
+
+Cinema historians and critics defined the category retrospectively. Before the notion was widely adopted in the 1970s, many of the classic films noir were referred to as "melodramas". Whether film noir qualifies as a distinct genre or whether it is more of a filmmaking style is a matter of ongoing and heavy debate among scholars.
+
+# Definition of Film Noir
+
+The definition of film noir and its categorization continues to provoke debate. French critics Raymond Borde and Étienne Chaumeton, in their 1955 book Panorama du film noir américain 1941–1953 (A Panorama of American Film Noir), attempted to define film noir using a set of attributes, including it being oneiric, strange, erotic, ambivalent, and cruel. They emphasized that not every film noir embodies all five attributes in equal measure—one might be more dreamlike; another, particularly brutal. 
+
+Despite these efforts, film noir remains an elusive phenomenon. It is often identified with a visual style, unconventional within a Hollywood context, that emphasizes low-key lighting and unbalanced compositions. Films commonly identified as noir evidence a variety of visual approaches, including ones that fit comfortably within the Hollywood mainstream. Film noir similarly embraces a variety of genres, from the gangster film to the police procedural to the gothic romance to the social problem picture.
+
+# Debate on Film Noir as a Genre or Style
+
+While many critics refer to film noir as a genre itself, others argue that it cannot be classified as such. Foster Hirsch, who defines a genre as determined by "conventions of narrative structure, characterization, theme, and visual design", argues that these elements are present "in abundance" in film noir, making it a distinct genre. However, other critics argue against this, citing that film noir is often associated with an urban setting, but many classic noirs take place in small towns, suburbia, rural areas, or on the open road, thereby making setting an unreliable determinant of genre. 
+
+Furthermore, while the private eye and the femme fatale are stock character types conventionally identified with noir, the majority of films noir feature neither, negating the possibility of character basis for genre designation. Nor does film noir rely on anything as evident as the monstrous or supernatural elements of the horror film, the speculative leaps of the science fiction film, or the song-and-dance routines of the musical.
+
+# Background of Film Noir
+
+## Cinematic Sources
+
+The aesthetics of film noir were influenced by German Expressionism, an artistic movement of the 1910s and 1920s that involved theater, music, photography, painting, sculpture and architecture, as well as cinema. The opportunities offered by the booming Hollywood film industry and then the threat of Nazism led to the emigration of many film artists working in Germany who had been involved in the Expressionist movement or studied with its practitioners. 
+
+Directors such as Fritz Lang, Jacques Tourneur, Robert Siodmak and Michael Curtiz brought a dramatically shadowed lighting style and a psychologically expressive approach to visual composition (mise-en-scène) with them to Hollywood, where they made some of the most famous classic noirs. 
+
+## Literary Sources
+
+The primary literary influence on film noir was the hardboiled school of American detective and crime fiction, led in its early years by such writers as Dashiell Hammett and James M. Cain, and popularized in pulp magazines such as Black Mask. The classic film noirs The Maltese Falcon and The Glass Key were based on novels by Hammett; Cain's novels provided the basis for Double Indemnity, Mildred Pierce, The Postman Always Rings Twice, and Slightly Scarlet. 
+
+# Classic Period of Film Noir
+
+The 1940s and 1950s are generally regarded as the classic period of American film noir. While City Streets and other pre-WWII crime melodramas such as Fury and You Only Live Once, both directed by Fritz Lang, are categorized as full-fledged noir in Alain Silver and Elizabeth Ward's film noir' encyclopedia, other critics tend to describe them as "proto-noir" or in similar terms. The film now most commonly cited as the first "true" film noir is Stranger on the Third Floor, directed by Latvian-born, Soviet-trained Boris Ingster. 
+
+Most film noirs of the classic period were similarly low- and modestly-budgeted features without major stars—B movies either literally or in spirit. In this production context, writers, directors, cinematographers, and other craftsmen were relatively free from typical big-picture constraints. There was more visual experimentation than in Hollywood filmmaking as a whole: the Expressionism now closely associated with noir and the semi-documentary style that later emerged represent two very different tendencies. 
+
+Thematically, films noir were most exceptional for the relative frequency with which they centered on portrayals of women of questionable virtue—a focus that had become rare in Hollywood films after the mid-1930s and the end of the pre-Code era. The signal film in this vein was Double Indemnity, directed by Billy Wilder; setting the mold was Barbara Stanwyck's femme fatale, Phyllis Dietrichson.
+</div>
+</div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0100'>
 <div class='slide-param'>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
@@ -4345,6 +4682,2000 @@ The Virupaksha temple is the oldest shrine, the principal destination for pilgri
 The temple faces eastwards, aligning the sanctums of the Shiva and Pampa Devi temples to the sunrise; a large gopuram marks its entrance. The superstructure is a pyramidal tower with pilastered stories on each of which is artwork including erotic sculptures. The gopuram leads into a rectangular court that ends in another, smaller gopuram dated to 1510 CE. To its south side is a 100-column hall with Hindu-related reliefs on all four sides of each pillar. Connected to this public hall is a community kitchen, a feature found in other major Hampi temples. A channel is cut into the rock to deliver water to the kitchen and the feeding hall. The courtyard after the small gopuram has dipa-stambha (lamp pillar) and Nandi.
 
 The courtyard after the small gopuram leads to the main mandapa of the Shiva temple, which consists of the original square mandapa and a rectangular extension composed of two fused squares and sixteen piers built by Krishnadevaraya. The ceiling of the open hall above the mandapa is painted, showing the Shaivism legend relating to Shiva-Parvati marriage; another section shows the legend of Rama-Sita of the Vaishnavism tradition. A third section depicts the legend of the love god Kama shooting an arrow at Shiva to get him interested in Parvati, and the fourth section shows the Advaita Hindu scholar Vidyaranya.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The James Webb Space Telescope is the biggest space telescope ever built. It's even more powerful than the Hubble Space Telescope and can see very old and faraway things in space, like the first stars and galaxies. It was made by NASA, along with the European Space Agency and the Canadian Space Agency. The telescope was launched into space on Christmas Day in 2021. It uses a big mirror made of 18 smaller mirrors to collect light. The telescope has to be really cold so it doesn't interfere with the light it's collecting. It orbits a spot in space where it's always in the sun's light but protected from its heat.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope
+
+The James Webb Space Telescope (JWST) is the biggest telescope in space. It's so powerful it can see things that are very old, far away, or too dim for other telescopes like the Hubble Space Telescope. This lets us learn about the first stars, how the first galaxies were made, and even about planets that might be able to support life. The JWST was made by NASA, with help from the European Space Agency and the Canadian Space Agency. It's named after James E. Webb, who was in charge of NASA when we first sent people to space.
+
+# Launch and Features
+
+The JWST was launched into space on Christmas Day in 2021. It's located at a point in space where it can stay at a steady distance from the Earth and the Sun. The first picture from the JWST was shown to the public on July 11, 2022. The JWST has a big mirror made of 18 smaller mirrors that are covered in gold. This mirror is much bigger than the one on the Hubble Space Telescope, which lets the JWST collect more light and see things more clearly. The JWST has to be kept very cold so that its own heat doesn't interfere with the light it's trying to collect.
+
+# History and Success
+
+The idea for the JWST started in 1996, and it was supposed to be launched in 2007 with a budget of $1 billion. But there were a lot of problems and delays, and it ended up costing $10 billion and wasn't finished until 2016. Even though it was difficult and expensive, it was worth it because the JWST has been very successful. It's helping us learn a lot about space and the universe.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope: A Kid's Guide
+
+## Section 1: What is the James Webb Space Telescope?
+
+The James Webb Space Telescope, or JWST for short, is the biggest space telescope we've ever built! It's designed to look at the universe in a special type of light called infrared light. This light is invisible to our eyes, but it can show us things in the universe that are very old, very far away, or very faint. It can even help us study the first stars and galaxies that ever formed, and look at planets outside our solar system to see if they might be able to support life.
+
+The JWST is a big team effort. It was led by NASA, the space agency in the United States, but they had help from the European Space Agency and the Canadian Space Agency. The telescope is named after James E. Webb, who used to be the boss of NASA back in the 1960s when astronauts were first going to the moon.
+
+## Section 2: The Launch and Journey of the JWST
+
+The JWST was launched into space on Christmas Day in 2021. It didn't just go into space, though. It traveled all the way to a special point in space called the Sun-Earth L2 Lagrange point. This is a place where the gravity from the Earth and the Sun balance out, allowing the telescope to stay in one spot relative to the Earth as it orbits the Sun. This is really far away - about 930,000 miles from Earth!
+
+The JWST's main mirror is made up of 18 smaller mirrors, all coated in gold. When they're all spread out, they form a big mirror that's 21 feet across. That's about the length of a large van! This big mirror can collect a lot of light - about six times more than the Hubble Space Telescope, which is another famous space telescope.
+
+## Section 3: The Making of the JWST
+
+Creating the JWST wasn't easy. The project started way back in 1996, and it was supposed to be finished by 2007. But making a telescope this advanced took a lot longer and cost a lot more money than they thought. In the end, it took 20 years and cost $10 billion to finish. But now that it's done and working well, everyone agrees it was worth the effort.
+
+## Section 4: Special Features of the JWST
+
+The JWST is about half the weight of the Hubble Space Telescope, but its mirror is much bigger. The mirror is made up of 18 separate pieces coated in gold. The gold helps the mirror reflect infrared light, which is the type of light the telescope is designed to observe.
+
+The JWST is really good at seeing things that are very faint or very far away. It can see objects up to 100 times fainter than what Hubble can see. It can also see things that are so far away, they're from when the universe was very young. This is because light from far away takes a long time to reach us, so when we look at these distant objects, we're seeing them as they were a long time ago.
+
+## Section 5: Where the JWST Lives
+
+The JWST lives in a special place in space called the Sun-Earth L2 Lagrange point. This is a place where the gravity from the Earth and the Sun balance out, so the telescope can stay in one spot relative to the Earth as it orbits the Sun. This is really far away - about 930,000 miles from Earth!
+
+The JWST has a big shield to protect it from the Sun's heat and light. It needs to be kept very cold, below -223 degrees Celsius, so that its own heat doesn't interfere with the infrared light it's trying to observe.
+
+## Section 6: The JWST's Amazing Eyes
+
+The JWST's "eyes" are its mirrors and scientific instruments. Its main mirror is 21 feet across and is made up of 18 smaller mirrors. These mirrors can be moved and adjusted very precisely to focus the light from the objects the telescope is observing.
+
+The telescope has four main scientific instruments that it uses to study the universe. These instruments can take pictures, split light into its different colors to study it, and even block out the light from bright stars so we can see faint things near them.
+
+## Section 7: The JWST's Body
+
+The "body" of the JWST is called the spacecraft bus. This part of the telescope has all the computers, power systems, and other equipment that the telescope needs to work. It's on the side of the telescope that faces the Sun and is kept warm by the Sun's heat.
+
+The spacecraft bus also has small rocket engines that can move the telescope around. These engines can make small adjustments to the telescope's position to keep it in the right spot in space.
+
+## Section 8: Can We Fix the JWST?
+
+Unlike the Hubble Space Telescope, which astronauts were able to visit and fix, the JWST is too far away for us to reach with current technology. It's not designed to be fixed or upgraded after it's launched. But that's okay, because the scientists and engineers who built the JWST made sure it was in good working order before it was launched. And so far, it's doing a great job of exploring the universe!
+
+In conclusion, the James Webb Space Telescope is an amazing piece of technology that's helping us learn more about the universe. It can see things that are very old, very far away, or very faint, helping us to explore the mysteries of the universe.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The James Webb Space Telescope (JWST) is the largest space telescope, designed for infrared astronomy. It can view objects too old, distant, or faint for the Hubble Space Telescope, allowing exploration across many fields of astronomy and cosmology. The JWST was launched in December 2021 and is operated by the Space Telescope Science Institute. The telescope's primary mirror consists of 18 gold-plated beryllium segments, creating a 6.5-meter-diameter mirror. The telescope is positioned in a solar orbit near the Sun–Earth L2 Lagrange point, where its five-layer sunshield protects it from heat.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope (JWST)
+The James Webb Space Telescope (JWST) is an advanced space telescope designed to conduct infrared astronomy. It's the largest of its kind and is superior to the Hubble Space Telescope in terms of resolution and sensitivity. This allows it to observe objects that are too old, distant, or faint for Hubble. The JWST is a collaboration between NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA), with NASA's Goddard Space Flight Center leading the development. The telescope was named after James E. Webb, a former NASA administrator. It was launched on December 25, 2021, and its primary mirror consists of 18 hexagonal mirror segments, creating a mirror with a diameter of 6.5 meters. 
+
+# JWST's Features and Capabilities
+The JWST's mirror is about half the mass of Hubble's but has a light-collecting area six times larger. The telescope is designed primarily for near-infrared astronomy but can also observe orange and red visible light and the mid-infrared region. It can detect objects up to 100 times fainter than Hubble and observe objects much earlier in the history of the universe. JWST operates in a solar orbit near the Sun-Earth L2 Lagrange point, about 1.5 million kilometers from Earth. Its five-layer sunshield protects it from heat, keeping the telescope extremely cold (below 50 K) to prevent interference from infrared light emitted by the telescope itself.
+
+# JWST's Development and Success
+The initial designs for JWST began in 1996 with a proposed launch in 2007 and a budget of US$1 billion. However, due to cost overruns and delays, a major redesign was needed in 2005. The construction was completed in 2016 at a total cost of US$10 billion. Despite the challenges, the first year of JWST operations, reported in July 2023, was considered a considerable success. The telescope's complexity and the high-stakes nature of the launch were noted by media, scientists, and engineers. JWST's successful operation marks a significant achievement in the field of astronomy and cosmology.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope (JWST)
+
+The James Webb Space Telescope (JWST) is a marvel of modern space technology. It's the largest space telescope ever built, and its purpose is to conduct infrared astronomy. This type of astronomy involves studying the universe through the lens of infrared radiation, which is invisible to the naked eye but can provide a wealth of information about celestial objects.
+
+Infrared astronomy allows the JWST to view objects that are too old, distant, or faint for the Hubble Space Telescope to see. This opens up new possibilities for research in many areas of astronomy and cosmology, such as observing the first stars, understanding the formation of the first galaxies, and studying the atmospheres of potentially habitable exoplanets.
+
+## The Development and Launch of the JWST
+
+The U.S. National Aeronautics and Space Administration (NASA) led the design and development of the JWST. They collaborated with two main partners: the European Space Agency (ESA) and the Canadian Space Agency (CSA). The NASA Goddard Space Flight Center in Maryland managed the development of the telescope, and the Space Telescope Science Institute in Baltimore currently operates it. The primary contractor for the project was Northrop Grumman.
+
+The telescope is named after James E. Webb, who was the administrator of NASA from 1961 to 1968 during the Mercury, Gemini, and Apollo programs. The JWST was launched on 25 December 2021 on an Ariane 5 rocket from Kourou, French Guiana, and arrived at the Sun–Earth L2 Lagrange point in January 2022. The first image taken by the Webb was released to the public on 11 July 2022.
+
+## The Unique Features of the JWST
+
+The JWST's primary mirror is made up of 18 hexagonal mirror segments. These segments are made of gold-plated beryllium, and when combined, they create a 6.5-meter-diameter (21 ft) mirror. This is much larger than Hubble's 2.4 m (7 ft 10 in) mirror. The larger size gives Webb a light-collecting area of about 25 square meters, which is six times that of Hubble.
+
+The JWST observes a lower frequency range, from long-wavelength visible light (red) through mid-infrared (0.6–28.3 μm). This is different from Hubble, which observes in the near ultraviolet and visible (0.1 to 0.8 μm), and near infrared (0.8–2.5 μm) spectra. The telescope must be kept extremely cold, below 50 K (−223 °C; −370 °F), to ensure that the infrared light emitted by the telescope itself does not interfere with the light it collects.
+
+The JWST is deployed in a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth. Its five-layer sunshield protects it from warming by the Sun, Earth, and Moon.
+
+## The Journey to the JWST
+
+The initial designs for the telescope, originally named the Next Generation Space Telescope, began in 1996. Two concept studies were commissioned in 1999, with a potential launch in 2007 and a budget of US$1 billion. However, the program faced significant cost overruns and delays. A major redesign in 2005 led to the current approach, with construction completed in 2016 at a total cost of US$10 billion. The high-stakes nature of the launch and the telescope's complexity were widely discussed by the media, scientists, and engineers. In July 2023, astronomers reported that the first year of JWST operations were a considerable success.
+
+## Features of the JWST
+
+The mass of the JWST is about half that of the Hubble Space Telescope. Webb has a 6.5 m (21 ft)-diameter gold-coated beryllium primary mirror made up of 18 separate hexagonal mirrors. The mirror has a polished area of 26.3 m2 (283 sq ft), of which 0.9 m2 (9.7 sq ft) is obscured by the secondary support struts, giving a total collecting area of 25.4 m2 (273 sq ft). This is over six times larger than the collecting area of Hubble's 2.4 m (7.9 ft) diameter mirror, which has a collecting area of 4.0 m2 (43 sq ft).
+
+Webb is designed primarily for near-infrared astronomy, but it can also see orange and red visible light, as well as the mid-infrared region, depending on the instrument being used. It can detect objects up to 100 times fainter than Hubble can, and objects much earlier in the history of the universe, back to redshift z≈20 (about 180 million years cosmic time after the Big Bang). For comparison, the earliest stars are thought to have formed between z≈30 and z≈20 (100–180 million years cosmic time), and the first galaxies may have formed around redshift z≈15 (about 270 million years cosmic time). Hubble is unable to see further back than very early reionization at about z≈11.1 (galaxy GN-z11, 400 million years cosmic time).
+
+The design emphasizes the near to mid-infrared for several reasons:
+
+- High-redshift (very early and distant) objects have their visible emissions shifted into the infrared, and therefore their light can be observed today only via infrared astronomy.
+- Infrared light passes more easily through dust clouds than visible light.
+- Colder objects such as debris disks and planets emit most strongly in the infrared.
+- These infrared bands are difficult to study from the ground or by existing space telescopes such as Hubble.
+
+Ground-based telescopes must look through Earth's atmosphere, which is opaque in many infrared bands. Even where the atmosphere is transparent, many of the target chemical compounds, such as water, carbon dioxide, and methane, also exist in the Earth's atmosphere, vastly complicating analysis. Existing space telescopes such as Hubble cannot study these bands since their mirrors are insufficiently cool (the Hubble mirror is maintained at about 15 °C [288 K; 59 °F]) which means that the telescope itself radiates strongly in the relevant infrared bands.
+
+Webb can also observe objects in the Solar System at an angle of more than 85° from the Sun and having an apparent angular rate of motion less than 0.03 arc seconds per second. This includes Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, their satellites, and comets, asteroids and minor planets at or beyond the orbit of Mars. Webb has the near-IR and mid-IR sensitivity to be able to observe virtually all known Kuiper Belt Objects. In addition, it can observe opportunistic and unplanned targets within 48 hours of a decision to do so, such as supernovae and gamma ray bursts.
+
+## Location and Orbit
+
+Webb operates in a halo orbit, circling around a point in space known as the Sun–Earth L2 Lagrange point, approximately 1,500,000 km (930,000 mi) beyond Earth's orbit around the Sun. Its actual position varies between about 250,000 and 832,000 km (155,000–517,000 mi) from L2 as it orbits, keeping it out of both Earth and Moon's shadow. By way of comparison, Hubble orbits 550 km (340 mi) above Earth's surface, and the Moon is roughly 400,000 km (250,000 mi) from Earth. Objects near this Sun–Earth L2 point can orbit the Sun in synchrony with the Earth, allowing the telescope to remain at a roughly constant distance with continuous orientation of its sunshield and equipment bus toward the Sun, Earth and Moon. Combined with its wide shadow-avoiding orbit, the telescope can simultaneously block incoming heat and light from all three of these bodies and avoid even the smallest changes of temperature from Earth and Moon shadows that would affect the structure, yet still maintain uninterrupted solar power and Earth communications on its sun-facing side. This arrangement keeps the temperature of the spacecraft constant and below the 50 K (−223 °C; −370 °F) necessary for faint infrared observations.
+
+## Sunshield Protection
+
+To make observations in the infrared spectrum, Webb must be kept under 50 K (−223.2 °C; −369.7 °F); otherwise, infrared radiation from the telescope itself would overwhelm its instruments. Its large sunshield blocks light and heat from the Sun, Earth, and Moon, and its position near the Sun–Earth L2 keeps all three bodies on the same side of the spacecraft at all times. Its halo orbit around the L2 point avoids the shadow of the Earth and Moon, maintaining a constant environment for the sunshield and solar arrays. The resulting stable temperature for the structures on the dark side is critical to maintaining precise alignment of the primary mirror segments.
+
+The five-layer sunshield, each layer as thin as a human hair, is made of Kapton E film, coated with aluminum on both sides and a layer of doped silicon on the Sun-facing side of the two hottest layers to reflect the Sun's heat back into space. Accidental tears of the delicate film structure during deployment testing in 2018 led to further delays to the telescope.
+
+The sunshield was designed to be folded twelve times (concertina style) so that it would fit within the Ariane 5 rocket's payload fairing, which is 4.57 m (15.0 ft) in diameter, and 16.19 m (53.1 ft) long. The shield's fully deployed dimensions were planned as 14.162 m × 21.197 m (46.46 ft × 69.54 ft).
+
+Keeping within the shadow of the sunshield limits the field of regard of Webb at any given time. The telescope can see 40 percent of the sky from any one position, but can see all of the sky over a period of six months.
+
+## Optics
+
+Webb's primary mirror is a 6.5 m (21 ft)-diameter gold-coated beryllium reflector with a collecting area of 25.4 m2 (273 sq ft). If it had been designed as a single, large mirror, it would have been too large for existing launch vehicles. The mirror is therefore composed of 18 hexagonal segments (a technique pioneered by Guido Horn d'Arturo), which unfolded after the telescope was launched. Image plane wavefront sensing through phase retrieval is used to position the mirror segments in the correct location using precise actuators. Subsequent to this initial configuration, they only need occasional updates every few days to retain optimal focus. This is unlike terrestrial telescopes, for example the Keck telescopes, which continually adjust their mirror segments using active optics to overcome the effects of gravitational and wind loading. The Webb telescope uses 132 small actuation motors to position and adjust the optics. The actuators can position the mirror with 10 nanometer accuracy.
+
+Webb's optical design is a three-mirror anastigmat, which makes use of curved secondary and tertiary mirrors to deliver images that are free from optical aberrations over a wide field. The secondary mirror is 0.74 m (2.4 ft) in diameter. In addition, there is a fine steering mirror which can adjust its position many times per second to provide image stabilization. Photographs taken by Webb have six spikes plus two fainter ones due to the spider supporting the secondary mirror.
+
+## Scientific Instruments
+
+The Integrated Science Instrument Module (ISIM) is a framework that provides electrical power, computing resources, cooling capability as well as structural stability to the Webb telescope. It is made with bonded graphite-epoxy composite attached to the underside of Webb's telescope structure. The ISIM holds the four science instruments and a guide camera.
+
+- NIRCam (Near Infrared Camera) is an infrared imager which has spectral coverage ranging from the edge of the visible (0.6 μm) through to the near infrared (5 μm). There are 10 sensors each of 4 megapixels. NIRCam serves as the observatory's wavefront sensor, which is required for wavefront sensing and control activities, used to align and focus the main mirror segments. NIRCam was built by a team led by the University of Arizona, with principal investigator Marcia J. Rieke.
+- NIRSpec (Near Infrared Spectrograph) performs spectroscopy over the same wavelength range. It was built by the European Space Agency at ESTEC in Noordwijk, Netherlands. The leading development team includes members from Airbus Defence and Space, Ottobrunn and Friedrichshafen, Germany, and the Goddard Space Flight Center; with Pierre Ferruit (École normale supérieure de Lyon) as NIRSpec project scientist. The NIRSpec design provides three observing modes: a low-resolution mode using a prism, an R~1000 multi-object mode, and an R~2700 integral field unit or long-slit spectroscopy mode. Switching of the modes is done by operating a wavelength preselection mechanism called the Filter Wheel Assembly, and selecting a corresponding dispersive element (prism or grating) using the Grating Wheel Assembly mechanism. Both mechanisms are based on the successful ISOPHOT wheel mechanisms of the Infrared Space Observatory. The multi-object mode relies on a complex micro-shutter mechanism to allow for simultaneous observations of hundreds of individual objects anywhere in NIRSpec's field of view. There are two sensors, each of 4 megapixels.
+- MIRI (Mid-Infrared Instrument) measures the mid-to-long-infrared wavelength range from 5 to 27 μm. It contains both a mid-infrared camera and an imaging spectrometer. MIRI was developed as a collaboration between NASA and a consortium of European countries, and is led by George Rieke (University of Arizona) and Gillian Wright (UK Astronomy Technology Centre, Edinburgh, Scotland). The temperature of the MIRI must not exceed 6 K (−267 °C; −449 °F): a helium gas mechanical cooler sited on the warm side of the environmental shield provides this cooling.
+- FGS/NIRISS (Fine Guidance Sensor and Near Infrared Imager and Slitless Spectrograph), led by the Canadian Space Agency under project scientist John Hutchings (Herzberg Astronomy and Astrophysics Research Centre), is used to stabilize the line-of-sight of the observatory during science observations. Measurements by the FGS are used both to control the overall orientation of the spacecraft and to drive the fine steering mirror for image stabilization. The Canadian Space Agency also provided a Near Infrared Imager and Slitless Spectrograph (NIRISS) module for astronomical imaging and spectroscopy in the 0.8 to 5 μm wavelength range, led by principal investigator René Doyon at the Université de Montréal. Although they are often referred together as a unit, the NIRISS and FGS serve entirely different purposes, with one being a scientific instrument and the other being a part of the observatory's support infrastructure.
+
+NIRCam and MIRI feature starlight-blocking coronagraphs for observation of faint targets such as extrasolar planets and circumstellar disks very close to bright stars.
+
+## Spacecraft Bus
+
+The spacecraft bus is the primary support component of the JWST, hosting a multitude of computing, communication, electric power, propulsion, and structural parts. Along with the sunshield, it forms the spacecraft element of the space telescope. The spacecraft bus is on the Sun-facing "warm" side of the sunshield and operates at a temperature of about 300 K (27 °C; 80 °F).
+
+The structure of the spacecraft bus has a mass of 350 kg (770 lb), and must support the 6,200 kg (13,700 lb) space telescope. It is made primarily of graphite composite material. It was assembled in California, assembly was completed in 2015, and then it had to be integrated with the rest of the space telescope leading up to its 2021 launch. The spacecraft bus can rotate the telescope with a pointing precision of one arcsecond, and isolates vibration down to two milliarcseconds.
+
+Webb has two pairs of rocket engines (one pair for redundancy) to make course corrections on the way to L2 and for station keeping – maintaining the correct position in the halo orbit. Eight smaller thrusters are used for attitude control – the correct pointing of the spacecraft. The engines use hydrazine fuel (159 liters or 42 U.S. gallons at launch) and dinitrogen tetroxide as oxidizer (79.5 liters or 21.0 U.S. gallons at launch).
+
+## Servicing
+
+Webb is not intended to be serviced in space. A crewed mission to repair or upgrade the observatory, as was done for Hubble, would not currently be possible, and according to NASA Associate Administrator Thomas Zurbuchen, despite best efforts, an uncrewed remote mission was found to be beyond current technology at the time Webb was designed. During the long Webb testing period, NASA officials referred to the idea of a servicing mission, but no plans were announced. Since the successful launch, NASA has stated that nevertheless limited accommodations for a future servicing mission have been made, such as the inclusion of a docking ring.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The James Webb Space Telescope (JWST), the largest space telescope, was designed for infrared astronomy, allowing it to observe objects too distant or faint for the Hubble Space Telescope. Launched in December 2021, JWST's primary mirror consists of 18 gold-plated beryllium segments, creating a light-collecting area six times that of Hubble. The telescope was developed by NASA, in partnership with the European Space Agency and the Canadian Space Agency, and is currently operated by the Space Telescope Science Institute. The JWST observes a lower frequency range than Hubble, and must be kept extremely cold to prevent interference from its own infrared light emission.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Overview of the James Webb Space Telescope (JWST)
+The JWST is a significant advancement in space technology, designed specifically for infrared astronomy. Its high-resolution and high-sensitivity instruments allow it to observe objects too old, distant, or faint for the Hubble Space Telescope, enabling investigations across various fields of astronomy and cosmology. The JWST was a collaborative project led by NASA, with partnerships from the European Space Agency (ESA) and the Canadian Space Agency (CSA). The telescope was named after James E. Webb, a former NASA administrator. The telescope was launched on 25 December 2021 and arrived at the Sun-Earth L2 Lagrange point in January 2022.
+
+# JWST's Unique Features and Capabilities
+The JWST's primary mirror consists of 18 hexagonal mirror segments made of gold-plated beryllium, which combined create a mirror significantly larger than Hubble's. This allows the JWST to collect about six times more light than Hubble. Unlike Hubble, which observes in the near ultraviolet, visible, and near-infrared spectra, the JWST observes a lower frequency range, from long-wavelength visible light (red) through mid-infrared. To prevent interference from the telescope's own infrared light, it must be kept extremely cold, below 50 K (−223 °C; −370 °F). It is deployed in a solar orbit near the Sun–Earth L2 Lagrange point, where its five-layer sunshield protects it from warming by the Sun, Earth, and Moon.
+
+# Development and Success of the JWST
+The initial designs for the telescope began in 1996, with two concept studies commissioned in 1999. However, the program experienced significant cost overruns and delays, leading to a major redesign in 2005. The construction was completed in 2016 at a total cost of US$10 billion. Despite the challenges, the launch and operation of the telescope were successful, with astronomers reporting that the first year of JWST operations were a considerable success. The JWST's capabilities have allowed it to observe objects up to 100 times fainter than Hubble and much earlier in the history of the universe.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope: An In-Depth Overview
+
+The James Webb Space Telescope (JWST) is a marvel of modern astronomy and engineering. It represents an unprecedented leap forward in our ability to observe and understand the universe. This article delves into the features, history, and scientific potential of this groundbreaking instrument.
+
+## Introduction
+
+The JWST is currently the largest space telescope, specifically designed for infrared astronomy. Its high-resolution and high-sensitivity instruments surpass the capabilities of the Hubble Space Telescope, enabling it to view objects that are too old, distant, or faint for Hubble to detect. This opens up new avenues of investigation across various fields of astronomy and cosmology, including the observation of the first stars, the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.
+
+The design and development of the JWST were led by the U.S. National Aeronautics and Space Administration (NASA), in partnership with the European Space Agency (ESA) and the Canadian Space Agency (CSA). The NASA Goddard Space Flight Center (GSFC) in Maryland managed the telescope development, while the Space Telescope Science Institute in Baltimore, located on the Homewood Campus of Johns Hopkins University, currently operates Webb. The primary contractor for the project was Northrop Grumman. The telescope is named after James E. Webb, who was the administrator of NASA from 1961 to 1968 during the Mercury, Gemini, and Apollo programs.
+
+## Launch and Deployment
+
+The JWST was launched on 25 December 2021 on an Ariane 5 rocket from Kourou, French Guiana. It arrived at the Sun–Earth L2 Lagrange point in January 2022. The first image captured by Webb was released to the public via a press conference on 11 July 2022.
+
+Webb's primary mirror consists of 18 hexagonal mirror segments made of gold-plated beryllium. When combined, these segments create a 6.5-meter-diameter mirror, significantly larger than Hubble's 2.4-meter diameter mirror. This gives Webb a light-collecting area of about 25 square meters, approximately six times that of Hubble. Unlike Hubble, which observes in the near ultraviolet, visible, and near-infrared spectra, Webb observes a lower frequency range, from long-wavelength visible light (red) through mid-infrared.
+
+To prevent interference from the telescope's own infrared light emission, the telescope must be kept extremely cold, below 50 K (−223 °C; −370 °F). The telescope is deployed in a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers from Earth. Here, its five-layer sunshield protects it from warming by the Sun, Earth, and Moon.
+
+## Development History and Costs
+
+Initial designs for the telescope, then named the Next Generation Space Telescope, began in 1996. Two concept studies were commissioned in 1999, for a potential launch in 2007 and a US$1 billion budget. However, the program was plagued with enormous cost overruns and delays. A major redesign in 2005 led to the current approach, with construction completed in 2016 at a total cost of US$10 billion. The high-stakes nature of the launch and the telescope's complexity were widely remarked upon by the media, scientists, and engineers. In July 2023, astronomers reported that the first year of JWST operations were a considerable success.
+
+## Features of the James Webb Space Telescope
+
+### Size and Capability
+
+The mass of the JWST is about half that of the Hubble Space Telescope. Webb's primary mirror, a 6.5-meter-diameter gold-coated beryllium structure, is made up of 18 separate hexagonal mirrors. This mirror has a polished area of 26.3 m2, of which 0.9 m2 is obscured by the secondary support struts, giving a total collecting area of 25.4 m2. This is over six times larger than the collecting area of Hubble's 2.4-meter diameter mirror, which has a collecting area of 4.0 m2.
+
+Webb is designed primarily for near-infrared astronomy, but it can also see orange and red visible light, as well as the mid-infrared region, depending on the instrument being used. It can detect objects up to 100 times fainter than Hubble can, and objects much earlier in the history of the universe, back to redshift z≈20 (about 180 million years cosmic time after the Big Bang). For comparison, the earliest stars are thought to have formed between z≈30 and z≈20 (100–180 million years cosmic time), and the first galaxies may have formed around redshift z≈15 (about 270 million years cosmic time). Hubble is unable to see further back than very early reionization at about z≈11.1 (galaxy GN-z11, 400 million years cosmic time).
+
+Webb's design emphasizes the near to mid-infrared for several reasons:
+
+- High-redshift (very early and distant) objects have their visible emissions shifted into the infrared, which can only be observed through infrared astronomy.
+- Infrared light passes more easily through dust clouds than visible light.
+- Colder objects such as debris disks and planets emit most strongly in the infrared.
+- These infrared bands are difficult to study from the ground or by existing space telescopes such as Hubble.
+
+### Location and Orbit
+
+Webb operates in a halo orbit, circling around a point in space known as the Sun–Earth L2 Lagrange point, approximately 1,500,000 km beyond Earth's orbit around the Sun. Its actual position varies between about 250,000 and 832,000 km from L2 as it orbits, keeping it out of both Earth and Moon's shadow. By way of comparison, Hubble orbits 550 km above Earth's surface, and the Moon is roughly 400,000 km from Earth. Objects near this Sun–Earth L2 point can orbit the Sun in synchrony with the Earth, allowing the telescope to remain at a roughly constant distance with continuous orientation of its sunshield and equipment bus toward the Sun, Earth, and Moon. Combined with its wide shadow-avoiding orbit, the telescope can simultaneously block incoming heat and light from all three of these bodies and avoid even the smallest changes of temperature from Earth and Moon shadows that would affect the structure, yet still maintain uninterrupted solar power and Earth communications on its sun-facing side. This arrangement keeps the temperature of the spacecraft constant and below the 50 K (−223 °C; −370 °F) necessary for faint infrared observations.
+
+### Sunshield Protection
+
+To make observations in the infrared spectrum, Webb must be kept under 50 K (−223.2 °C; −369.7 °F); otherwise, infrared radiation from the telescope itself would overwhelm its instruments. Its large sunshield blocks light and heat from the Sun, Earth, and Moon, and its position near the Sun–Earth L2 keeps all three bodies on the same side of the spacecraft at all times. Its halo orbit around the L2 point avoids the shadow of the Earth and Moon, maintaining a constant environment for the sunshield and solar arrays. The resulting stable temperature for the structures on the dark side is critical to maintaining precise alignment of the primary mirror segments.
+
+The five-layer sunshield, each layer as thin as a human hair, is made of Kapton E film, coated with aluminum on both sides and a layer of doped silicon on the Sun-facing side of the two hottest layers to reflect the Sun's heat back into space. Accidental tears of the delicate film structure during deployment testing in 2018 led to further delays to the telescope.
+
+The sunshield was designed to be folded twelve times (concertina style) so that it would fit within the Ariane 5 rocket's payload fairing, which is 4.57 m in diameter, and 16.19 m long. The shield's fully deployed dimensions were planned as 14.162 m × 21.197 m. Keeping within the shadow of the sunshield limits the field of regard of Webb at any given time. The telescope can see 40 percent of the sky from any one position, but can see all of the sky over a period of six months.
+
+### Optics
+
+Webb's primary mirror is a 6.5 m-diameter gold-coated beryllium reflector with a collecting area of 25.4 m2. If it had been designed as a single, large mirror, it would have been too large for existing launch vehicles. The mirror is therefore composed of 18 hexagonal segments, which unfolded after the telescope was launched. Image plane wavefront sensing through phase retrieval is used to position the mirror segments in the correct location using precise actuators. Subsequent to this initial configuration, they only need occasional updates every few days to retain optimal focus.
+
+Webb's optical design is a three-mirror anastigmat, which makes use of curved secondary and tertiary mirrors to deliver images that are free from optical aberrations over a wide field. The secondary mirror is 0.74 m in diameter. In addition, there is a fine steering mirror which can adjust its position many times per second to provide image stabilization. Photographs taken by Webb have six spikes plus two fainter ones due to the spider supporting the secondary mirror.
+
+### Scientific Instruments
+
+The Integrated Science Instrument Module (ISIM) is a framework that provides electrical power, computing resources, cooling capability as well as structural stability to the Webb telescope. It is made with bonded graphite-epoxy composite attached to the underside of Webb's telescope structure. The ISIM holds the four science instruments and a guide camera.
+
+These instruments include NIRCam (Near Infrared Camera), NIRSpec (Near Infrared Spectrograph), MIRI (Mid-Infrared Instrument), and FGS/NIRISS (Fine Guidance Sensor and Near Infrared Imager and Slitless Spectrograph). Each of these instruments has unique capabilities and contributes to the overall functionality of the JWST. NIRCam and MIRI, in particular, feature starlight-blocking coronagraphs for observation of faint targets such as extrasolar planets and circumstellar disks very close to bright stars.
+
+### Spacecraft Bus
+
+The spacecraft bus is the primary support component of the JWST, hosting a multitude of computing, communication, electric power, propulsion, and structural parts. Along with the sunshield, it forms the spacecraft element of the space telescope. The spacecraft bus is on the Sun-facing "warm" side of the sunshield and operates at a temperature of about 300 K (27 °C; 80 °F).
+
+The structure of the spacecraft bus has a mass of 350 kg, and must support the 6,200 kg space telescope. It is made primarily of graphite composite material. It was assembled in California, assembly was completed in 2015, and then it had to be integrated with the rest of the space telescope leading up to its 2021 launch. The spacecraft bus can rotate the telescope with a pointing precision of one arcsecond, and isolates vibration down to two milliarcseconds.
+
+Webb has two pairs of rocket engines (one pair for redundancy) to make course corrections on the way to L2 and for station keeping – maintaining the correct position in the halo orbit. Eight smaller thrusters are used for attitude control – the correct pointing of the spacecraft. The engines use hydrazine fuel and dinitrogen tetroxide as oxidizer.
+
+### Servicing
+
+Unlike the Hubble Space Telescope, which was serviced several times by astronauts, the JWST is not intended to be serviced in space. A crewed mission to repair or upgrade the observatory would not currently be possible, and according to NASA Associate Administrator Thomas Zurbuchen, despite best efforts, an uncrewed remote mission was found to be beyond current technology at the time Webb was designed. During the long Webb testing period, NASA officials referred to the idea of a servicing mission, but no plans were announced. Since the successful launch, NASA has stated that nevertheless limited accommodations for a potential future servicing mission were included in the design.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The James Webb Space Telescope (JWST) is a large, infrared-optimized space telescope, developed by NASA in partnership with the European Space Agency and the Canadian Space Agency. Launched in December 2021, the JWST's advanced instruments allow it to observe objects too old, distant, or faint for the Hubble Space Telescope, expanding our understanding of astronomy and cosmology. Despite initial budget overruns and delays, its first year of operations was deemed a success. The JWST is not designed to be serviced in space, unlike its predecessor, the Hubble Space Telescope.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope (JWST)
+
+The JWST is a large space telescope designed for infrared astronomy. Its advanced instruments allow it to observe objects too old, distant, or faint for the Hubble Space Telescope. This makes it ideal for research in various fields of astronomy and cosmology, such as observing the first stars and galaxies and analyzing the atmospheres of potentially habitable exoplanets. The JWST was developed by NASA in partnership with the European Space Agency (ESA) and the Canadian Space Agency (CSA). It is named after James E. Webb, who was the administrator of NASA from 1961 to 1968.
+
+# JWST's Launch and Design
+
+The JWST was launched on December 25, 2021, from Kourou, French Guiana, and reached the Sun–Earth L2 Lagrange point in January 2022. Its primary mirror consists of 18 hexagonal mirror segments made of gold-plated beryllium, creating a 6.5-meter-diameter mirror. This gives the JWST a light-collecting area about six times that of the Hubble. The JWST observes a lower frequency range, from long-wavelength visible light through mid-infrared. To prevent interference from the telescope's own infrared light, it must be kept extremely cold, below 50 K (−223 °C; −370 °F). It operates in a solar orbit near the Sun–Earth L2 Lagrange point, where its five-layer sunshield protects it from warming by the Sun, Earth, and Moon.
+
+# Development and Success of the JWST
+
+The initial designs for the JWST began in 1996, with concept studies commissioned in 1999 for a potential launch in 2007 and a US$1 billion budget. However, the project faced significant cost overruns and delays, leading to a major redesign in 2005. The construction was completed in 2016 at a total cost of US$10 billion. Despite the challenges, the first year of JWST operations, reported in July 2023, were considered a considerable success. The high-stakes nature of the launch and the complexity of the telescope have been noted by the media, scientists, and engineers.
+</div>
+</div>
+<div class='slide-pane' id='James_Webb_Space_Telescope-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>James Webb Space Telescope</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The James Webb Space Telescope: An In-Depth Analysis
+
+## Introduction
+The James Webb Space Telescope (JWST), the largest space telescope, is a revolutionary instrument designed to conduct infrared astronomy. It boasts high-resolution and high-sensitivity instruments that allow it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars, the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.
+
+The U.S. National Aeronautics and Space Administration (NASA) led Webb's design and development and partnered with two main agencies: the European Space Agency (ESA) and the Canadian Space Agency (CSA). The NASA Goddard Space Flight Center (GSFC) in Maryland managed telescope development, while the Space Telescope Science Institute in Baltimore on the Homewood Campus of Johns Hopkins University currently operates Webb. The primary contractor for the project was Northrop Grumman. The telescope is named after James E. Webb, who was the administrator of NASA from 1961 to 1968 during the Mercury, Gemini, and Apollo programs.
+
+## Launch and Arrival
+The James Webb Space Telescope was launched on 25 December 2021 on an Ariane 5 rocket from Kourou, French Guiana, and arrived at the Sun–Earth L2 Lagrange point in January 2022. The first Webb image was released to the public via a press conference on 11 July 2022.
+
+## Primary Mirror and Observational Range
+Webb's primary mirror consists of 18 hexagonal mirror segments made of gold-plated beryllium, which combined create a 6.5-meter-diameter (21 ft) mirror, compared with Hubble's 2.4 m (7 ft 10 in). This gives Webb a light-collecting area of about 25 square meters, about six times that of Hubble. Unlike Hubble, which observes in the near ultraviolet and visible (0.1 to 0.8 μm), and near infrared (0.8–2.5 μm) spectra, Webb observes a lower frequency range, from long-wavelength visible light (red) through mid-infrared (0.6–28.3 μm). The telescope must be kept extremely cold, below 50 K (−223 °C; −370 °F), such that the infrared light emitted by the telescope itself does not interfere with the collected light. It is deployed in a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth, where its five-layer sunshield protects it from warming by the Sun, Earth, and Moon.
+
+## Design and Development
+Initial designs for the telescope, then named the Next Generation Space Telescope, began in 1996. Two concept studies were commissioned in 1999, for a potential launch in 2007 and a US$1 billion budget. The program was plagued with enormous cost overruns and delays; a major redesign in 2005 led to the current approach, with construction completed in 2016 at a total cost of US$10 billion. The high-stakes nature of the launch and the telescope's complexity were remarked upon by the media, scientists, and engineers. In July 2023, astronomers reported that the first year of JWST operations were a considerable success.
+
+## Features
+### Mass and Mirror
+The mass of the James Webb Space Telescope is about half that of the Hubble Space Telescope. Webb has a 6.5 m (21 ft)-diameter gold-coated beryllium primary mirror made up of 18 separate hexagonal mirrors. The mirror has a polished area of 26.3 m2 (283 sq ft), of which 0.9 m2 (9.7 sq ft) is obscured by the secondary support struts, giving a total collecting area of 25.4 m2 (273 sq ft). This is over six times larger than the collecting area of Hubble's 2.4 m (7.9 ft) diameter mirror, which has a collecting area of 4.0 m2 (43 sq ft). The mirror has a gold coating to provide infrared reflectivity and this is covered by a thin layer of glass for durability.
+
+### Observational Capabilities
+Webb is designed primarily for near-infrared astronomy, but can also see orange and red visible light, as well as the mid-infrared region, depending on the instrument being used. It can detect objects up to 100 times fainter than Hubble can, and objects much earlier in the history of the universe, back to redshift z≈20 (about 180 million years cosmic time after the Big Bang). For comparison, the earliest stars are thought to have formed between z≈30 and z≈20 (100–180 million years cosmic time), and the first galaxies may have formed around redshift z≈15 (about 270 million years cosmic time). Hubble is unable to see further back than very early reionization at about z≈11.1 (galaxy GN-z11, 400 million years cosmic time).
+
+The design emphasizes the near to mid-infrared for several reasons: 
+
+1. High-redshift (very early and distant) objects have their visible emissions shifted into the infrared, and therefore their light can be observed today only via infrared astronomy.
+2. Infrared light passes more easily through dust clouds than visible light.
+3. Colder objects such as debris disks and planets emit most strongly in the infrared.
+4. These infrared bands are difficult to study from the ground or by existing space telescopes such as Hubble.
+
+Ground-based telescopes must look through Earth's atmosphere, which is opaque in many infrared bands. Even where the atmosphere is transparent, many of the target chemical compounds, such as water, carbon dioxide, and methane, also exist in the Earth's atmosphere, vastly complicating analysis. Existing space telescopes such as Hubble cannot study these bands since their mirrors are insufficiently cool (the Hubble mirror is maintained at about 15 °C [288 K; 59 °F]) which means that the telescope itself radiates strongly in the relevant infrared bands.
+
+Webb can also observe objects in the Solar System at an angle of more than 85° from the Sun and having an apparent angular rate of motion less than 0.03 arc seconds per second. This includes Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, their satellites, and comets, asteroids and minor planets at or beyond the orbit of Mars. Webb has the near-IR and mid-IR sensitivity to be able to observe virtually all known Kuiper Belt Objects. In addition, it can observe opportunistic and unplanned targets within 48 hours of a decision to do so, such as supernovae and gamma ray bursts.
+
+## Location and Orbit
+Webb operates in a halo orbit, circling around a point in space known as the Sun–Earth L2 Lagrange point, approximately 1,500,000 km (930,000 mi) beyond Earth's orbit around the Sun. Its actual position varies between about 250,000 and 832,000 km (155,000–517,000 mi) from L2 as it orbits, keeping it out of both Earth and Moon's shadow. By way of comparison, Hubble orbits 550 km (340 mi) above Earth's surface, and the Moon is roughly 400,000 km (250,000 mi) from Earth. Objects near this Sun–Earth L2 point can orbit the Sun in synchrony with the Earth, allowing the telescope to remain at a roughly constant distance with continuous orientation of its sunshield and equipment bus toward the Sun, Earth and Moon. Combined with its wide shadow-avoiding orbit, the telescope can simultaneously block incoming heat and light from all three of these bodies and avoid even the smallest changes of temperature from Earth and Moon shadows that would affect the structure, yet still maintain uninterrupted solar power and Earth communications on its sun-facing side. This arrangement keeps the temperature of the spacecraft constant and below the 50 K (−223 °C; −370 °F) necessary for faint infrared observations.
+
+## Sunshield Protection
+To make observations in the infrared spectrum, Webb must be kept under 50 K (−223.2 °C; −369.7 °F); otherwise, infrared radiation from the telescope itself would overwhelm its instruments. Its large sunshield blocks light and heat from the Sun, Earth, and Moon, and its position near the Sun–Earth L2 keeps all three bodies on the same side of the spacecraft at all times. Its halo orbit around the L2 point avoids the shadow of the Earth and Moon, maintaining a constant environment for the sunshield and solar arrays. The resulting stable temperature for the structures on the dark side is critical to maintaining precise alignment of the primary mirror segments.
+
+The five-layer sunshield, each layer as thin as a human hair, is made of Kapton E film, coated with aluminum on both sides and a layer of doped silicon on the Sun-facing side of the two hottest layers to reflect the Sun's heat back into space. Accidental tears of the delicate film structure during deployment testing in 2018 led to further delays to the telescope.
+
+The sunshield was designed to be folded twelve times (concertina style) so that it would fit within the Ariane 5 rocket's payload fairing, which is 4.57 m (15.0 ft) in diameter, and 16.19 m (53.1 ft) long. The shield's fully deployed dimensions were planned as 14.162 m × 21.197 m (46.46 ft × 69.54 ft).
+
+Keeping within the shadow of the sunshield limits the field of regard of Webb at any given time. The telescope can see 40 percent of the sky from any one position, but can see all of the sky over a period of six months.
+
+## Optics
+Webb's primary mirror is a 6.5 m (21 ft)-diameter gold-coated beryllium reflector with a collecting area of 25.4 m2 (273 sq ft). If it had been designed as a single, large mirror, it would have been too large for existing launch vehicles. The mirror is therefore composed of 18 hexagonal segments (a technique pioneered by Guido Horn d'Arturo), which unfolded after the telescope was launched. Image plane wavefront sensing through phase retrieval is used to position the mirror segments in the correct location using precise actuators. Subsequent to this initial configuration, they only need occasional updates every few days to retain optimal focus. This is unlike terrestrial telescopes, for example the Keck telescopes, which continually adjust their mirror segments using active optics to overcome the effects of gravitational and wind loading. The Webb telescope uses 132 small actuation motors to position and adjust the optics. The actuators can position the mirror with 10 nanometer accuracy.
+
+Webb's optical design is a three-mirror anastigmat, which makes use of curved secondary and tertiary mirrors to deliver images that are free from optical aberrations over a wide field. The secondary mirror is 0.74 m (2.4 ft) in diameter. In addition, there is a fine steering mirror which can adjust its position many times per second to provide image stabilization. Photographs taken by Webb have six spikes plus two fainter ones due to the spider supporting the secondary mirror.
+
+## Scientific Instruments
+The Integrated Science Instrument Module (ISIM) is a framework that provides electrical power, computing resources, cooling capability as well as structural stability to the Webb telescope. It is made with bonded graphite-epoxy composite attached to the underside of Webb's telescope structure. The ISIM holds the four science instruments and a guide camera.
+
+1. NIRCam (Near Infrared Camera) is an infrared imager which has spectral coverage ranging from the edge of the visible (0.6 μm) through to the near infrared (5 μm). There are 10 sensors each of 4 megapixels. NIRCam serves as the observatory's wavefront sensor, which is required for wavefront sensing and control activities, used to align and focus the main mirror segments. NIRCam was built by a team led by the University of Arizona, with principal investigator Marcia J. Rieke.
+
+2. NIRSpec (Near Infrared Spectrograph) performs spectroscopy over the same wavelength range. It was built by the European Space Agency at ESTEC in Noordwijk, Netherlands. The leading development team includes members from Airbus Defence and Space, Ottobrunn and Friedrichshafen, Germany, and the Goddard Space Flight Center; with Pierre Ferruit (École normale supérieure de Lyon) as NIRSpec project scientist. The NIRSpec design provides three observing modes: a low-resolution mode using a prism, an R~1000 multi-object mode, and an R~2700 integral field unit or long-slit spectroscopy mode. There are two sensors, each of 4 megapixels.
+
+3. MIRI (Mid-Infrared Instrument) measures the mid-to-long-infrared wavelength range from 5 to 27 μm. It contains both a mid-infrared camera and an imaging spectrometer. MIRI was developed as a collaboration between NASA and a consortium of European countries, and is led by George Rieke (University of Arizona) and Gillian Wright (UK Astronomy Technology Centre, Edinburgh, Scotland). The temperature of the MIRI must not exceed 6 K (−267 °C; −449 °F): a helium gas mechanical cooler sited on the warm side of the environmental shield provides this cooling.
+
+4. FGS/NIRISS (Fine Guidance Sensor and Near Infrared Imager and Slitless Spectrograph), led by the Canadian Space Agency under project scientist John Hutchings (Herzberg Astronomy and Astrophysics Research Centre), is used to stabilize the line-of-sight of the observatory during science observations. The Canadian Space Agency also provided a Near Infrared Imager and Slitless Spectrograph (NIRISS) module for astronomical imaging and spectroscopy in the 0.8 to 5 μm wavelength range, led by principal investigator René Doyon at the Université de Montréal.
+
+NIRCam and MIRI feature starlight-blocking coronagraphs for observation of faint targets such as extrasolar planets and circumstellar disks very close to bright stars.
+
+## Spacecraft Bus
+The spacecraft bus is the primary support component of the James Webb Space Telescope, hosting a multitude of computing, communication, electric power, propulsion, and structural parts. Along with the sunshield, it forms the spacecraft element of the space telescope. The spacecraft bus is on the Sun-facing "warm" side of the sunshield and operates at a temperature of about 300 K (27 °C; 80 °F).
+
+The structure of the spacecraft bus has a mass of 350 kg (770 lb), and must support the 6,200 kg (13,700 lb) space telescope. It is made primarily of graphite composite material. It was assembled in California, assembly was completed in 2015, and then it had to be integrated with the rest of the space telescope leading up to its 2021 launch. The spacecraft bus can rotate the telescope with a pointing precision of one arcsecond, and isolates vibration down to two milliarcseconds.
+
+Webb has two pairs of rocket engines (one pair for redundancy) to make course corrections on the way to L2 and for station keeping – maintaining the correct position in the halo orbit. Eight smaller thrusters are used for attitude control – the correct pointing of the spacecraft. The engines use hydrazine fuel (159 liters or 42 U.S. gallons at launch) and dinitrogen tetroxide as oxidizer (79.5 liters or 21.0 U.S. gallons at launch).
+
+## Servicing
+Webb is not intended to be serviced in space. A crewed mission to repair or upgrade the observatory, as was done for Hubble, would not currently be possible, and according to NASA Associate Administrator Thomas Zurbuchen, despite best efforts, an uncrewed remote mission was found to be beyond current technology at the time Webb was designed. During the long Webb testing period, NASA officials referred to the idea of a servicing mission, but no plans were announced. Since the successful launch, NASA has stated that nevertheless limited accommodations for a potential servicing mission were built into Webb, such as grapple fixtures compatible with the robotic Canadarm2 and Canadarm3.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Kidney stones are hard pieces that form in your kidneys when certain substances in your urine become too concentrated. They can be as small as a grain of sand or as large as a pearl and can cause a lot of pain if they block the flow of urine. The stones can be made of different materials and are usually caused by not drinking enough water, eating certain foods, or having certain health conditions. To avoid getting more stones, it's important to drink lots of water and avoid certain foods and drinks. If a stone is causing problems, doctors can give medicine or use special procedures to help remove it.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# What are Kidney Stones?
+
+Kidney stones are hard, solid pieces that form in the kidneys. These stones are made when certain stuff in your pee (we call these stuff minerals and salts) stick together. They can be as tiny as a grain of sand or as big as a pearl. Some can even be as big as golf balls! Most of the time, these stones form when you're not drinking enough water. But sometimes, they can form because of your genes, what you eat, or some medicines you take. 
+
+When these stones are small, they can pass out of your body when you pee and you might not even notice. But if they get too big, they can block the tubes that carry pee from your kidneys to your bladder. This can cause a lot of pain in your lower back or tummy. You might also see blood in your pee or feel sick and throw up. 
+
+# How Are Kidney Stones Treated?
+
+If you have a kidney stone and it's not causing you any trouble, you might not need any treatment. But if it's causing you pain, your doctor might give you some medicine to help with the pain. If the stone is really big, you might need a special treatment to break it into smaller pieces so it can pass out of your body when you pee. 
+
+Drinking lots of water can help prevent kidney stones. If drinking water isn't enough, your doctor might give you some medicine to help stop the stones from forming. It's also a good idea to avoid drinking too much soda, especially the ones that have a lot of phosphoric acid (like colas) because they can cause stones to form.
+
+# The Different Types of Kidney Stones
+
+There are different types of kidney stones and they form for different reasons. Some are made of a stuff called calcium oxalate. These stones can form if you take too much calcium or vitamin D as a supplement. But eating foods that have a lot of calcium doesn't seem to cause these stones. In fact, it might even help prevent them! 
+
+Other stones are made of a stuff called uric acid. These stones can form if you eat a lot of animal protein, like meat. Eating a lot of fruits and veggies can help prevent these stones. 
+
+Some stones are caused by an infection in your urinary tract. These are called struvite stones. And some stones are made of a stuff called cystine. These stones are pretty rare and usually form in people who have a genetic disorder that causes cystine to leak out of the kidneys and into the pee. 
+
+Remember, the best way to prevent kidney stones is to drink lots of water, eat a balanced diet, and stay active!
+
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Kidney Stones
+
+Kidney stones are hard pieces that form in our kidneys. They are like tiny stones that you might find on the ground, but much smaller. Sometimes, they are so small that they can go out of the body during urination without causing any pain. But if they get too big (more than 0.2 inches), they can block the tube that carries urine from the kidney to the bladder, causing a lot of pain in the lower back or tummy. Kidney stones can also cause blood in the urine, vomiting, or painful urination. People who have had a kidney stone once are likely to get another one within ten years.
+
+## What Causes Kidney Stones?
+
+Kidney stones can form when certain substances in the urine, like calcium, get too concentrated. Many things can increase the risk of kidney stones. For example, not drinking enough water, being overweight, eating certain foods, taking certain medicines, and having certain health conditions can all increase the risk of kidney stones. 
+
+## Types of Kidney Stones
+
+There are different types of kidney stones, and they are named based on where they are located or what they are made of. For example, a stone in the kidney is called a nephrolithiasis, one in the tube that carries urine from the kidney to the bladder is called a ureterolithiasis, and one in the bladder is called a cystolithiasis. The stones can be made of different things like calcium oxalate, uric acid, struvite, or cystine.
+
+## Preventing Kidney Stones
+
+If someone has had a kidney stone, they can try to prevent getting another one by drinking lots of fluids, so they produce more than two liters of urine per day. If that's not enough, they might need to take certain medicines. It's also recommended to avoid soft drinks that contain phosphoric acid, like colas.
+
+## Treatment for Kidney Stones
+
+If a kidney stone doesn't cause any symptoms, it doesn't need to be treated. But if it does cause symptoms, the first step is usually to control the pain with medicines. If the stone is too big to pass naturally, it might need to be broken up with a treatment called extracorporeal shock wave lithotripsy, removed with a small telescope called a ureteroscope, or removed with a small incision in the back in a procedure called percutaneous nephrolithotomy.
+
+## History of Kidney Stones
+
+Kidney stones have been a problem for humans for a long time. There are even descriptions of surgeries to remove them from as far back as 600 BCE. Today, between 1% and 15% of people around the world will get a kidney stone at some point in their lives. They are more common in men than women, and they have become more common in Western countries since the 1970s.
+
+# Signs and Symptoms of Kidney Stones
+
+The main sign of a kidney stone is a very strong pain that comes and goes. This pain starts in the back and can spread to the groin or inner thigh. It's often accompanied by a strong need to urinate, restlessness, blood in the urine, sweating, feeling sick, and throwing up. The pain usually lasts for 20 to 60 minutes at a time. 
+
+# Risk Factors for Kidney Stones
+
+Not drinking enough fluids can make it more likely for someone to get a kidney stone. This is especially true for people who live in warm climates where they might sweat a lot. Being overweight, not moving around much, and eating a lot of animal protein, sodium, sugars, and fruit juices can also increase the risk of kidney stones. Some health conditions, like gout and hyperparathyroidism, can also make kidney stones more likely.
+
+## Calcium Oxalate Stones
+
+The most common type of kidney stone is made of a substance called calcium oxalate. Some studies suggest that people who take calcium or vitamin D supplements might be more likely to get these types of stones. But eating a diet high in calcium might actually protect against kidney stones. 
+
+## Other Types of Stones
+
+Other substances can also form kidney stones. For example, high levels of sodium in the diet can increase the risk of stone formation. Potassium, on the other hand, appears to reduce the risk of stone formation. People who eat a lot of animal protein are more likely to develop kidney stones and to have larger stones. 
+
+## Vitamins and Kidney Stones
+
+Vitamin C and vitamin D supplements might increase the risk of kidney stones, but the evidence is not clear. Too much vitamin D can increase the risk because it increases the amount of calcium the body absorbs. 
+
+# How Kidney Stones Form
+
+Kidney stones form when the urine becomes supersaturated, which means it contains more of a certain substance than it can hold in solution. This can lead to the formation of a crystal, which can grow into a stone. The process of stone formation can be faster or slower depending on the pH of the urine.
+
+## Role of Bacteria in Stone Formation
+
+Some types of bacteria can promote stone formation. For example, a bacteria called Proteus mirabilis can produce an enzyme that increases the pH of the urine, promoting the formation of a type of stone called a struvite stone. 
+
+## Inhibitors of Stone Formation
+
+The body has natural ways to prevent stone formation. For example, normal urine contains substances that can prevent the formation of calcium-containing crystals. If the levels of these substances fall below normal, stones can form.
+
+# Diagnosis of Kidney Stones
+
+Kidney stones are usually diagnosed based on the symptoms and some tests. These tests can include urine tests, blood tests, and imaging tests like X-rays or CT scans. These tests can show if there are stones in the kidneys, ureters, or bladder, and how big they are. In some cases, an ultrasound might be used instead of an X-ray or CT scan.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Kidney stones are solid pieces of material that develop in the urinary tract, typically in the kidney, and leave the body through urine. They can be caused by a combination of genetic and environmental factors, such as high urine calcium levels, obesity, certain foods, some medications, and not drinking enough fluids. Symptoms can include severe pain, blood in the urine, and vomiting. They are typically diagnosed through symptoms, urine testing, and medical imaging. Prevention includes drinking enough fluids to produce over two liters of urine per day and avoiding soft drinks with phosphoric acid. Treatment can include pain control medication and procedures to help larger stones pass.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Kidney Stones
+Kidney stones, also known as nephrolithiasis or urolithiasis, are hard, solid pieces that form in the urinary tract. These stones often originate in the kidney and exit the body through the urine. If a stone is small, it might pass unnoticed. However, if it grows larger than 5 millimeters, it can block the ureter, causing severe pain in the lower back or abdomen. This condition may also cause blood in the urine, vomiting, or painful urination. It is estimated that about half of the people who have had a kidney stone will likely have another within ten years.
+
+# Causes and Risk Factors
+The formation of kidney stones is influenced by a combination of genetic and environmental factors. Risk factors include high urine calcium levels, obesity, certain foods, some medications, calcium supplements, hyperparathyroidism, gout, and not drinking enough fluids. When minerals in the urine are at high concentration, stones can form in the kidney. The stones are usually diagnosed based on symptoms, urine testing, and medical imaging. Blood tests may also be useful. Stones are typically classified by their location or what they are made of, such as calcium oxalate, uric acid, struvite, cystine.
+
+# Prevention and Treatment
+Drinking enough fluids to produce more than two liters of urine per day can help prevent kidney stones. If this is not effective, medications such as thiazide diuretic, citrate, or allopurinol may be taken. It is advisable to avoid soft drinks containing phosphoric acid. If a stone causes no symptoms, no treatment is needed. However, if there is pain, medications such as nonsteroidal anti-inflammatory drugs or opioids may be used for pain control. Larger stones may require medical procedures such as extracorporeal shock wave lithotripsy, ureteroscopy, or percutaneous nephrolithotomy.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Kidney Stone Disease
+
+Kidney stone disease, also known as nephrolithiasis or urolithiasis, is a condition where a solid piece of material, known as a kidney stone, develops in the urinary tract. This condition is a type of crystallopathy, a term that refers to diseases characterized by the formation of crystals in certain body parts. In this case, the crystals form in the kidneys and can cause severe pain and other symptoms if they become large enough to block the urinary tract.
+
+## Formation and Symptoms of Kidney Stones
+
+Kidney stones typically form in the kidney and leave the body through the urine stream. A small stone may pass without causing symptoms. However, if a stone grows to more than 5 millimeters (0.2 inches), it can cause blockage of the ureter, the tube that carries urine from the kidneys to the bladder. This blockage can result in sharp and severe pain in the lower back or abdomen. Other symptoms may include blood in the urine, vomiting, or painful urination.
+
+About half of people who have had a kidney stone are likely to have another within ten years. This is because the factors that led to the formation of the first stone, such as certain genetic traits or environmental conditions, are often still present.
+
+## Causes and Risk Factors
+
+Most kidney stones form due to a combination of genetics and environmental factors. Risk factors include high urine calcium levels, obesity, certain foods, some medications, calcium supplements, conditions such as hyperparathyroidism and gout, and not drinking enough fluids. 
+
+Stones form in the kidney when minerals in urine are at high concentration. The diagnosis is usually based on symptoms, urine testing, and medical imaging. Blood tests may also be useful. Stones are typically classified by their location or by what they are made of, such as calcium oxalate, uric acid, struvite, or cystine.
+
+## Prevention and Treatment
+
+Prevention of kidney stones often involves drinking enough fluids to produce more than two liters of urine per day. If this is not effective, medications may be prescribed. It is also recommended that soft drinks containing phosphoric acid, typically colas, be avoided. 
+
+When a stone causes no symptoms, no treatment is needed. Otherwise, pain control is usually the first measure, using medications such as nonsteroidal anti-inflammatory drugs or opioids. Larger stones may require procedures such as extracorporeal shock wave lithotripsy, ureteroscopy, or percutaneous nephrolithotomy.
+
+## Historical and Global Impact
+
+Kidney stones have affected humans throughout history, with descriptions of surgery to remove them dating from as early as 600 BCE. Between 1% and 15% of people globally are affected by kidney stones at some point in their lives. In 2015, 22.1 million cases occurred, resulting in about 16,100 deaths. They have become more common in the Western world since the 1970s. Generally, more men are affected than women. 
+
+# Signs and Symptoms
+
+The primary symptom of a kidney stone that blocks the ureter or renal pelvis is excruciating, intermittent pain that radiates from the flank to the groin or to the inner thigh. This pain, known as renal colic, is often described as one of the strongest pain sensations known. Other symptoms may include urinary urgency, restlessness, blood in the urine, sweating, nausea, and vomiting. 
+
+Pain in the lower-left quadrant can sometimes be confused with diverticulitis because the sigmoid colon overlaps the ureter, and the exact location of the pain may be difficult to isolate due to the proximity of these two structures.
+
+# Risk Factors
+
+Dehydration from low fluid intake is a major factor in stone formation. Other risk factors include obesity, immobility, and sedentary lifestyles. 
+
+High dietary intake of animal protein, sodium, sugars, and excessive consumption of fruit juices may increase the risk of kidney stone formation. Kidney stones can also result from an underlying metabolic condition, such as distal renal tubular acidosis, Dent's disease, hyperparathyroidism, primary hyperoxaluria, or medullary sponge kidney. 
+
+Kidney stones are more common in people with Crohn's disease; Crohn's disease is associated with hyperoxaluria and malabsorption of magnesium.
+
+## Calcium Oxalate Stones
+
+Calcium is one component of the most common type of human kidney stones, calcium oxalate. Some studies suggest that people who take calcium or vitamin D as a dietary supplement have a higher risk of developing kidney stones. 
+
+Unlike supplemental calcium, high intakes of dietary calcium do not appear to cause kidney stones and may actually protect against their development. This is perhaps related to the role of calcium in binding ingested oxalate in the gastrointestinal tract. 
+
+## Other Electrolytes
+
+Calcium is not the only electrolyte that influences the formation of kidney stones. High dietary sodium may increase the risk of stone formation by increasing urinary calcium excretion. High dietary intake of potassium appears to reduce the risk of stone formation. Kidney stones are more likely to develop, and to grow larger, if a person has low dietary magnesium.
+
+## Animal Protein
+
+Eating animal protein creates an acid load that increases urinary excretion of calcium and uric acid and reduces citrate. This promotes the formation of kidney stones. 
+
+## Vitamins
+
+The evidence linking vitamin C supplements with an increased rate of kidney stones is inconclusive. The excess dietary intake of vitamin C might increase the risk of calcium-oxalate stone formation. Excessive vitamin D supplementation may increase the risk of stone formation by increasing the intestinal absorption of calcium.
+
+# Pathophysiology
+
+## Supersaturation of Urine
+
+When the urine becomes supersaturated with one or more calculogenic substances, a seed crystal may form through the process of nucleation. Depending on the chemical composition of the crystal, the stone-forming process may proceed more rapidly when the urine pH is unusually high or low.
+
+## Randall's Plaque
+
+Randall's plaques are calcium phosphate deposits that form in the papillary interstitium and are thought to be the nidus required for stone development. These structures can generate reactive oxygen species that further enhance stone formation.
+
+## Pathogenic Bacteria
+
+Some bacteria have roles in promoting stone formation. Specifically, urease-positive bacteria, such as Proteus mirabilis can produce the enzyme urease, which converts urea to ammonia and carbon dioxide. This increases the urinary pH and promotes struvite stone formation.
+
+## Inhibitors of Stone Formation
+
+Normal urine contains chelating agents, such as citrate, that inhibit the nucleation, growth, and aggregation of calcium-containing crystals. When these substances fall below their normal proportions, stones can form from an aggregation of crystals.
+
+# Diagnosis
+
+Diagnosis of kidney stones is made on the basis of information obtained from the history, physical examination, urinalysis, and radiographic studies. Clinical diagnosis is usually made on the basis of the location and severity of the pain, which is typically colicky in nature (comes and goes in spasmodic waves).
+
+## Imaging Studies
+
+Calcium-containing stones are relatively radiodense, and they can often be detected by a traditional radiograph of the abdomen that includes the kidneys, ureters, and bladder (KUB film). Some 60% of all renal stones are radiopaque. 
+
+A noncontrast helical CT scan with 5 millimeters (0.2 in) sections is the diagnostic method to use to detect kidney stones and confirm the diagnosis of kidney stone disease. Near all stones are detectable on CT scans with the exception of those composed of certain drug residues in the urine, such as from indinavir.
+
+Renal ultrasonography can sometimes be useful, because it gives details about the presence of hydronephrosis, suggesting that the stone is blocking the outflow of urine. Radiolucent stones, which do not appear on KUB, may show up on ultrasound imaging studies. Other advantages of renal ultrasonography include its low cost and absence of radiation exposure.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Kidney stones are solid pieces of material that form in the urinary tract when minerals in urine are at high concentration. Small stones may pass without causing symptoms, but larger ones can block the ureter, causing severe pain. Risk factors include high urine calcium levels, obesity, certain foods and medications, and not drinking enough fluids. Stones can be classified by their location or what they're made of. Prevention involves drinking enough fluids to produce more than two liters of urine per day. Treatments include medication to help pass the stone, or procedures to remove it if it's too large.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Kidney Stone Disease: Overview
+
+Kidney stone disease, also referred to as nephrolithiasis or urolithiasis, involves the formation of a solid material (kidney stone) in the urinary tract. These stones usually form in the kidney and exit the body through the urine stream. A small stone may pass without causing any symptoms, but a stone larger than 5 millimeters can cause a blockage in the ureter, resulting in severe pain. Other symptoms include blood in the urine, vomiting, or painful urination. The disease is influenced by a combination of genetic and environmental factors, with risk factors including high urine calcium levels, obesity, certain foods, some medications, calcium supplements, hyperparathyroidism, gout, and inadequate fluid intake. Diagnosis is typically based on symptoms, urine testing, and medical imaging, while preventive measures include maintaining high fluid intake and avoiding certain foods and drinks.
+
+# Risk Factors and Types of Stones
+
+Risk factors for kidney stone disease include dehydration, obesity, sedentary lifestyles, and high dietary intake of animal protein, sodium, sugars, and certain fruits. Some metabolic conditions, such as distal renal tubular acidosis, Dent's disease, hyperparathyroidism, primary hyperoxaluria, or medullary sponge kidney, can also lead to kidney stones. Stones can be classified by their location or by their composition, including calcium oxalate, uric acid, struvite, and cystine stones. Calcium oxalate is the most common type of kidney stone and its formation can be influenced by dietary calcium and vitamin D intake. Other electrolytes, such as sodium and potassium, can also influence stone formation, as can animal protein and certain vitamins.
+
+# Diagnosis and Treatment
+
+Diagnosis of kidney stone disease is typically based on the patient's history, physical examination, urinalysis, and radiographic studies. The pain associated with kidney stones is often colicky in nature and can be located in the back when the stones cause an obstruction in the kidney. Imaging studies, such as a traditional radiograph of the abdomen or a noncontrast helical CT scan, can be used to detect the stones. Treatment often involves pain control using medications such as nonsteroidal anti-inflammatory drugs or opioids. Larger stones may require medical intervention, such as extracorporeal shock wave lithotripsy, ureteroscopy, or percutaneous nephrolithotomy. Preventive measures include maintaining high fluid intake, avoiding certain foods and drinks, and possibly taking certain medications.
+
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Kidney Stone Disease: An In-depth Analysis 
+
+## Overview
+Kidney stone disease, also known as nephrolithiasis or urolithiasis, is a medical condition characterized by the formation of a solid piece of material, commonly referred to as a kidney stone, in the urinary tract. These stones typically originate in the kidney and exit the body through the urine stream. 
+
+While smaller stones may pass unnoticed, larger ones, particularly those exceeding 5 millimeters (0.2 inches) in diameter, can obstruct the ureter, triggering severe pain in the lower back or abdomen. Other symptoms include blood in the urine, vomiting, or painful urination. 
+
+Research indicates that about half of those who have experienced a kidney stone are likely to have another within a decade. The formation of kidney stones is usually a result of a combination of genetic and environmental factors, including high urine calcium levels, obesity, consumption of certain foods and medications, calcium supplements, hyperparathyroidism, gout, and inadequate fluid intake.
+
+## Signs and Symptoms
+The primary symptom of kidney stone disease is intense, intermittent pain that radiates from the flank to the groin or inner thigh, known as renal colic. This pain, often described as one of the strongest pain sensations, is typically accompanied by urinary urgency, restlessness, hematuria (blood in the urine), sweating, nausea, and vomiting. 
+
+The pain comes in waves lasting 20 to 60 minutes, caused by the ureter's peristaltic contractions as it attempts to expel the stone. Pain in the lower-left quadrant can sometimes be confused with diverticulitis, as the sigmoid colon overlaps the ureter, and pinpointing the exact location of the pain may be challenging due to the proximity of these two structures.
+
+## Risk Factors
+Dehydration resulting from low fluid intake is a significant factor in stone formation. Individuals residing in warm climates have a higher risk due to increased fluid loss. Obesity, immobility, and sedentary lifestyles are other leading risk factors. 
+
+A high dietary intake of animal protein, sodium, sugars, honey, refined sugars, fructose, high fructose corn syrup, and excessive consumption of fruit juices may increase the risk of kidney stone formation due to increased uric acid excretion and elevated urinary oxalate levels. 
+
+Kidney stones can also result from underlying metabolic conditions, such as distal renal tubular acidosis, Dent's disease, hyperparathyroidism, primary hyperoxaluria, or medullary sponge kidney. Kidney stones are more common in individuals with Crohn's disease, which is associated with hyperoxaluria and malabsorption of magnesium.
+
+### Calcium Oxalate
+Calcium is a component of the most common type of human kidney stones, calcium oxalate. Some studies suggest that people who take calcium or vitamin D as a dietary supplement have a higher risk of developing kidney stones. In the early 1990s, a study conducted for the Women's Health Initiative in the US found that postmenopausal women who consumed 1000 mg of supplemental calcium and 400 international units of vitamin D per day for seven years had a 17% higher risk of developing kidney stones than subjects taking a placebo. 
+
+Unlike supplemental calcium, high intakes of dietary calcium do not appear to cause kidney stones and may actually protect against their development. This is likely related to the role of calcium in binding ingested oxalate in the gastrointestinal tract. As the amount of calcium intake decreases, the amount of oxalate available for absorption into the bloodstream increases; this oxalate is then excreted in greater amounts into the urine by the kidneys.
+
+### Other Electrolytes
+In addition to calcium, other electrolytes such as sodium, potassium, and magnesium can influence the formation of kidney stones. High dietary sodium may increase the risk of stone formation by increasing urinary calcium excretion. High dietary intake of potassium appears to reduce the risk of stone formation because potassium promotes the urinary excretion of citrate, an inhibitor of calcium crystal formation.
+
+### Animal Protein
+Diets in Western nations typically contain a large proportion of animal protein. Eating animal protein creates an acid load that increases urinary excretion of calcium and uric acid and reduced citrate. Urinary excretion of excess sulfurous amino acids, uric acid, and other acidic metabolites from animal protein acidifies the urine, which promotes the formation of kidney stones.
+
+### Vitamins
+The evidence linking vitamin C supplements with an increased rate of kidney stones is inconclusive. The excess dietary intake of vitamin C might increase the risk of calcium-oxalate stone formation. The link between vitamin D intake and kidney stones is also tenuous. Excessive vitamin D supplementation may increase the risk of stone formation by increasing the intestinal absorption of calcium.
+
+## Pathophysiology 
+
+### Supersaturation of Urine
+When the urine becomes supersaturated with one or more calculogenic (crystal-forming) substances, a seed crystal may form through the process of nucleation. Supersaturation of the urine is a necessary, but not a sufficient, condition for the development of any urinary calculus. Supersaturation is likely the underlying cause of uric acid and cystine stones, but calcium-based stones (especially calcium oxalate stones) may have a more complex cause.
+
+### Randall's Plaque
+While supersaturation of urine may lead to crystalluria, it does not necessarily promote the formation of a kidney stone because the particle may not reach the sufficient size needed for renal attachment. On the other hand, Randall's plaques, which were first identified by Alexander Randall in 1937, are calcium phosphate deposits that form in the papillary interstitium and are thought to be the nidus required for stone development.
+
+### Pathogenic Bacteria
+Some bacteria have roles in promoting stone formation. Specifically, urease-positive bacteria, such as Proteus mirabilis can produce the enzyme urease, which converts urea to ammonia and carbon dioxide. This increases the urinary pH and promotes struvite stone formation.
+
+### Inhibitors of Stone Formation
+Normal urine contains chelating agents, such as citrate, that inhibit the nucleation, growth, and aggregation of calcium-containing crystals. Other endogenous inhibitors include calgranulin (an S-100 calcium-binding protein), Tamm–Horsfall protein, glycosaminoglycans, uropontin (a form of osteopontin), nephrocalcin (an acidic glycoprotein), prothrombin F1 peptide, and bikunin (uronic acid-rich protein).
+
+## Diagnosis
+Diagnosis of kidney stones is made on the basis of information obtained from the history, physical examination, urinalysis, and radiographic studies. Clinical diagnosis is usually made on the basis of the location and severity of the pain, which is typically colicky in nature (comes and goes in spasmodic waves).
+
+### Imaging Studies
+Calcium-containing stones are relatively radiodense, and they can often be detected by a traditional radiograph of the abdomen that includes the kidneys, ureters, and bladder (KUB film). In people with a history of stones, those who are less than 50 years of age and are presenting with the symptoms of stones without any concerning signs do not require helical CT scan imaging. A CT scan is also not typically recommended in children. Otherwise a noncontrast helical CT scan with 5 millimeters (0.2 in) sections is the diagnostic method to use to detect kidney stones and confirm the diagnosis of kidney stone disease.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Kidney stone disease is a condition where solid material forms in the urinary tract, often causing severe pain. These stones can form due to various factors including genetics, environmental factors, high urine calcium levels, obesity, certain foods, some medications, calcium supplements, hyperparathyroidism, gout, and insufficient fluid intake. Stones are typically classified based on their location or what they are made of. Prevention methods include drinking fluids to produce more than two liters of urine per day and avoiding soft drinks containing phosphoric acid. Treatment usually involves pain control and, for larger stones, medication or procedures such as extracorporeal shock wave lithotripsy, ureteroscopy, or percutaneous nephrolithotomy.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Kidney Stone Disease Overview
+
+Kidney stone disease, also known as urolithiasis or nephrolithiasis, is a condition where a solid piece of material, known as a kidney stone, forms in the urinary tract. Typically, these stones form in the kidney and are expelled from the body through the urine stream. However, if a stone grows larger than 5 millimeters, it can obstruct the ureter, causing severe pain in the lower back or abdomen. Other symptoms include blood in the urine, vomiting, and painful urination. About half of those who have had a kidney stone are likely to experience another within ten years. The formation of these stones is influenced by a combination of genetic and environmental factors, including high urine calcium levels, obesity, certain foods, some medications, calcium supplements, hyperparathyroidism, gout, and inadequate fluid intake.
+
+# Risk Factors and Prevention
+
+Dehydration, obesity, and sedentary lifestyles are major risk factors for kidney stone formation. Dietary factors such as high intake of animal protein, sodium, sugars, and excessive consumption of fruit juices can increase the risk of kidney stone formation due to increased uric acid excretion and elevated urinary oxalate levels. Conversely, consumption of tea, coffee, wine, and beer may decrease the risk. For those who have had stones, prevention strategies include drinking enough fluids to produce more than two liters of urine per day. If this is not effective, medication such as thiazide diuretic, citrate, or allopurinol may be prescribed. It is also recommended to avoid soft drinks containing phosphoric acid.
+
+# Diagnosis and Treatment
+
+Diagnosis of kidney stone disease is usually based on symptoms, urine testing, and medical imaging. Blood tests may also be useful. Stones are typically classified by their location or by what they are made of, such as calcium oxalate, uric acid, struvite, or cystine. When a stone causes no symptoms, no treatment is needed. However, if symptoms are present, pain control is usually the first measure, using medications such as nonsteroidal anti-inflammatory drugs or opioids. Larger stones may require medication to help them pass or procedures such as extracorporeal shock wave lithotripsy, ureteroscopy, or percutaneous nephrolithotomy.
+</div>
+</div>
+<div class='slide-pane' id='Kidney_stone_disease-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Kidney stone disease</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Kidney Stone Disease: A Comprehensive Analysis
+
+Kidney stone disease, alternatively known as nephrolithiasis or urolithiasis, is a crystallopathy characterized by the development of a solid material, known as a kidney stone, in the urinary tract. These stones typically originate in the kidney before exiting the body via the urine stream. The symptoms of the disease can range from non-existent to severe, depending on the size and location of the stone. This comprehensive analysis aims to delve into the various aspects of kidney stone disease, including its signs and symptoms, risk factors, pathophysiology, and diagnosis.
+
+## I. Overview of Kidney Stone Disease
+
+Kidney stones are primarily formed due to a combination of genetic predisposition and environmental factors. The risk factors for stone formation include high urine calcium levels, obesity, certain foods, some medications, calcium supplements, hyperparathyroidism, gout, and inadequate fluid intake. When minerals in urine reach high concentrations, stones form in the kidney. The diagnosis of kidney stone disease is typically based on symptoms, urine testing, and medical imaging, with blood tests providing additional useful information.
+
+Stones are classified by their location in the urinary system or by their composition. The locations include nephrolithiasis (in the kidney), ureterolithiasis (in the ureter), and cystolithiasis (in the bladder). The composition of stones can vary, with common types being calcium oxalate, uric acid, struvite, and cystine.
+
+## II. Signs and Symptoms
+
+The most notable symptom of a kidney stone obstructing the ureter or renal pelvis is intense, intermittent pain that radiates from the flank to the groin or inner thigh. This pain, known as renal colic, is often accompanied by urinary urgency, restlessness, hematuria (blood in the urine), sweating, nausea, and vomiting. The pain typically comes in waves lasting 20 to 60 minutes, caused by peristaltic contractions of the ureter as it attempts to expel the stone.
+
+The urinary tract, genital system, and gastrointestinal tract share an embryological link, which explains the radiation of pain to the gonads, as well as the nausea and vomiting common in urolithiasis. Following the obstruction of urine flow through one or both ureters, postrenal azotemia and hydronephrosis can be observed. Pain in the lower-left quadrant can sometimes be confused with diverticulitis due to the overlap of the sigmoid colon and the ureter.
+
+## III. Risk Factors
+
+Dehydration due to low fluid intake is a significant risk factor for stone formation. Individuals living in warm climates are at a higher risk due to increased fluid loss. Obesity, immobility, and sedentary lifestyles are other leading risk factors. High dietary intake of animal protein, sodium, sugars, and excessive consumption of fruit juices may increase the risk of kidney stone formation due to increased uric acid excretion and elevated urinary oxalate levels. Conversely, tea, coffee, wine, and beer may decrease the risk.
+
+Underlying metabolic conditions such as distal renal tubular acidosis, Dent's disease, hyperparathyroidism, primary hyperoxaluria, or medullary sponge kidney can result in kidney stones. People with Crohn's disease are more likely to develop kidney stones due to hyperoxaluria and malabsorption of magnesium. Individuals with recurrent kidney stones may be screened for these disorders, typically via a 24-hour urine collection.
+
+### III.1 Calcium Oxalate
+
+Calcium oxalate is a common component of human kidney stones. Some studies suggest that people who take calcium or vitamin D as a dietary supplement have a higher risk of developing kidney stones. In the United States, kidney stone formation was used as an indicator of excess calcium intake by the Reference Daily Intake committee for calcium in adults. Unlike supplemental calcium, high intakes of dietary calcium do not appear to cause kidney stones and may actually protect against their development.
+
+### III.2 Other Electrolytes
+
+Calcium is not the only electrolyte that influences the formation of kidney stones. High dietary sodium may increase the risk of stone formation by increasing urinary calcium excretion. High dietary intake of potassium appears to reduce the risk of stone formation because potassium promotes the urinary excretion of citrate, an inhibitor of calcium crystal formation. Kidney stones are more likely to develop, and to grow larger, if a person has low dietary magnesium.
+
+### III.3 Animal Protein
+
+Diets in Western nations typically contain a large proportion of animal protein. Eating animal protein creates an acid load that increases urinary excretion of calcium and uric acid and reduces citrate. Low urinary-citrate excretion is also commonly found in those with a high dietary intake of animal protein, whereas vegetarians tend to have higher levels of citrate excretion.
+
+### III.4 Vitamins
+
+The evidence linking vitamin C supplements with an increased rate of kidney stones is inconclusive. The excess dietary intake of vitamin C might increase the risk of calcium-oxalate stone formation. The link between vitamin D intake and kidney stones is also tenuous. Excessive vitamin D supplementation may increase the risk of stone formation by increasing the intestinal absorption of calcium.
+
+## IV. Pathophysiology
+
+The pathophysiology of kidney stone disease is complex and involves several factors, including supersaturation of urine, the presence of Randall's plaque, pathogenic bacteria, and the balance of stone formation inhibitors.
+
+### IV.1 Supersaturation of Urine
+
+When the urine becomes supersaturated with one or more calculogenic (crystal-forming) substances, a seed crystal may form through the process of nucleation. Adhering to cells on the surface of a renal papilla, a seed crystal can grow and aggregate into an organized mass. The stone-forming process may proceed more rapidly when the urine pH is unusually high or low.
+
+### IV.2 Randall's Plaque
+
+While supersaturation of urine may lead to crystalluria, it does not necessarily promote the formation of a kidney stone. On the other hand, Randall's plaques are calcium phosphate deposits that form in the papillary interstitium and are thought to be the nidus required for stone development.
+
+### IV.3 Pathogenic Bacteria
+
+Some bacteria, such as Proteus mirabilis, play roles in promoting stone formation by producing the enzyme urease, which converts urea to ammonia and carbon dioxide, increasing urinary pH and promoting struvite stone formation.
+
+### IV.4 Inhibitors of Stone Formation
+
+Normal urine contains chelating agents, such as citrate, that inhibit the nucleation, growth, and aggregation of calcium-containing crystals. When these substances fall below their normal proportions, stones can form from an aggregation of crystals.
+
+## V. Diagnosis
+
+Diagnosis of kidney stones is made based on information obtained from the patient's history, physical examination, urinalysis, and radiographic studies. Clinical diagnosis is usually made on the basis of the location and severity of the pain, which is typically colicky in nature.
+
+### V.1 Imaging Studies
+
+Calcium-containing stones are relatively radiodense and can often be detected by a traditional radiograph of the abdomen. However, in the acute setting, KUB radiographs might not be useful due to low sensitivity. When a CT scan is unavailable, an intravenous pyelogram may be performed to help confirm the diagnosis of urolithiasis. Renal ultrasonography can sometimes be useful, because it gives details about the presence of hydronephrosis, suggesting that the stone is blocking the outflow of urine.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+In 1803, the United States bought a big piece of land called the Louisiana Territory from France. This land was very important because it included the Mississippi River and lots of land to the west. The U.S. paid $15 million for it, which was a lot of money back then. This purchase almost doubled the size of the U.S. and included land that is now part of 15 U.S. states and 2 Canadian provinces. This was a big deal because it helped the U.S. grow and become more powerful.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase
+
+The Louisiana Purchase was when the United States bought a big piece of land from France in 1803. This land was mostly west of the Mississippi River. The United States paid fifteen million dollars for this land, which was about 828,000 square miles! But France only controlled a small part of this land, and most of it was home to Native Americans. So, in a way, the United States bought the right to make agreements with the Native Americans for their land, and no other countries could do that anymore.
+
+Before the United States bought this land, it was controlled by France from 1682 until Spain took over in 1762. Then, in 1800, Napoleon, the leader of France, got the land back from Spain in exchange for another place called Tuscany. But France had trouble controlling a place called Saint-Domingue and thought they might have to fight with the United Kingdom, so they thought about selling the land to the United States. President Thomas Jefferson really wanted to control the Mississippi River and the city of New Orleans, so he sent James Monroe and Robert R. Livingston to buy New Orleans. But when they talked to the French Treasury Minister, François Barbé-Marbois, they ended up agreeing to buy all of the Louisiana territory!
+
+The land the United States bought included parts of fifteen states that we have today, and even some land in Canada. It made the United States almost twice as big as it was before. But figuring out the borders of the new land took some time and more agreements with Spain and the United Kingdom. 
+
+# Background of the Louisiana Purchase
+
+In the 1700s, the Louisiana territory was important to France, but they gave it to Spain in 1762 after losing a war. After the United States was created, it controlled the land east of the Mississippi River and north of New Orleans. The Americans really wanted to use the Mississippi River to ship goods, and they thought they would slowly get control of the rest of the territory. But when Spain took away the American's right to use New Orleans, they were very upset. Then in 1800, Spain gave the Louisiana territory back to France. The Americans were worried that Napoleon might send troops to New Orleans, so Jefferson sent Livingston to Paris to try and buy New Orleans.
+
+# Negotiation for the Purchase
+
+In 1801, Napoleon sent a military force to Saint-Domingue, which was near the United States. This made the Americans worried that France might invade them. So, Jefferson sent James Monroe to Paris to try and make a deal. If he couldn't make a deal with France, he was supposed to go to London and try to make an alliance with the British. Spain took a long time to give the Louisiana territory back to France, which made the Americans even more upset. Napoleon needed peace with Britain to take control of Louisiana. But in 1803, it looked like France and Britain were going to go to war again. Napoleon decided to give up his plans in the New World and sell the Louisiana territory to the United States. The American representatives were surprised when they were offered all of Louisiana for $15 million, but they agreed and signed the Louisiana Purchase Treaty on April 30, 1803. This made the United States much bigger and more powerful.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase
+
+The Louisiana Purchase was a big deal in the history of the United States. It happened in 1803, when the United States bought a large piece of land from France. This land was called the Louisiana territory. The United States paid fifteen million dollars for it, which was about eighteen dollars for each square mile. The land was huge, covering 828,000 square miles!
+
+But France didn't really control all of this land. Most of it was home to Native Americans. So, when the United States bought this land, they were really buying the right to make deals with the Native Americans who lived there or to take the land from them. 
+
+Before the United States bought this land, it had belonged to France and then Spain. But in 1800, Napoleon, who was the leader of France, got the land back from Spain. He wanted to make France more powerful in North America. But, he had trouble keeping control over other land he owned in the Americas, and he was worried about going to war with the United Kingdom. So, he decided to sell the Louisiana territory to the United States.
+
+## How the Purchase Happened
+
+Thomas Jefferson was the President of the United States at this time, and he really wanted to buy this land. He sent James Monroe and Robert R. Livingston to France to try to buy just the city of New Orleans. But, when they talked to François Barbé-Marbois, who was in charge of France's money, he offered to sell them all of the Louisiana territory. They were surprised, but they agreed to buy it. They had to convince Congress to agree to this deal, but they were successful.
+
+## What the Purchase Included
+
+The Louisiana Purchase was a big deal because it made the United States a lot bigger. It included land that is now part of fifteen U.S. states and two Canadian provinces. This includes all of the states of Arkansas, Missouri, Iowa, Oklahoma, Kansas, and Nebraska, and parts of many other states. At the time of the purchase, about 60,000 people lived in this territory, and half of them were enslaved Africans. 
+
+## Before the Purchase
+
+In the 1700s, the Louisiana territory was very important to France. They had a lot of control over the land, and they had many settlements along the Mississippi River. But, they lost control of the territory to Spain in 1762 after they lost a big war. 
+
+The United States was also interested in this land. They controlled the area to the east of the Mississippi River and north of New Orleans. They wanted to be able to use the Mississippi River to move goods in and out of the country. They thought they might be able to slowly take over the Louisiana territory, but they were worried that another country might take it from Spain first. 
+
+## Negotiations
+
+In 1801, people in the United States started to worry that France might try to take over the Louisiana territory. They were especially worried when Napoleon sent soldiers to Saint-Domingue, which is now called Haiti. Jefferson sent Livingston to France to try to buy New Orleans to help protect the United States. 
+
+At the same time, France was trying to take back control of Saint-Domingue, which had become independent. But, they were having a hard time because of resistance from the people there and because many of their soldiers were getting sick. By 1803, Napoleon decided to give up on his plans in the Americas. He decided to sell the Louisiana territory to the United States.
+
+## The Purchase
+
+When the United States found out that France was willing to sell all of the Louisiana territory, they were surprised. They were only planning to buy New Orleans. But, they decided to buy all of the territory because they were worried that Napoleon might change his mind. They agreed to the deal and signed the Louisiana Purchase Treaty on April 30, 1803.
+
+## After the Purchase
+
+After the United States bought the Louisiana territory, they had to figure out if it was okay for them to do this according to the Constitution. Some people thought that Jefferson was being a hypocrite because he usually believed in following the Constitution very closely. There was also some opposition to the purchase in Congress, but the treaty was eventually ratified.
+
+The Louisiana Purchase was a big event in the history of the United States. It made the country much bigger and gave it control over a lot of valuable land. It also led to a lot of changes in the country, including the creation of new states and the movement of many people to the west.
+
+## Opposition and Controversy
+
+The Louisiana Purchase faced a lot of opposition and controversy. Some people thought it was unconstitutional or that it was hypocritical of Jefferson, who was a strict follower of the Constitution. Others were worried about the cost or about how it would affect the balance of power between the states. Some people even talked about forming a separate country in the north. 
+
+But in the end, the Louisiana Purchase went through. It nearly doubled the size of the United States and had a big impact on the country's history. It led to the creation of many new states and changed the balance of power in the country. It also led to conflicts with Native Americans who lived on the land and with other countries who had claims to the land.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Louisiana Purchase was a land acquisition by the United States from France in 1803. It involved most of the land west of the Mississippi River and cost fifteen million dollars. This purchase doubled the size of the U.S., adding land from 15 current states and two Canadian provinces. The territory was initially controlled by France, ceded to Spain in 1762, and regained by France in 1800. Due to difficulties in suppressing a revolt in Saint-Domingue and the threat of war with the UK, Napoleon decided to sell Louisiana to the U.S., fulfilling President Thomas Jefferson's long-term goal.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase
+
+The Louisiana Purchase was a significant event in the history of the United States. In 1803, the U.S. bought the territory of Louisiana from the French First Republic. This land was mostly located west of the Mississippi River's drainage basin. The U.S. paid fifteen million dollars for this territory, which was roughly eighteen dollars per square mile. This purchase added a total of 828,000 square miles to the U.S., almost doubling its size. However, France only controlled a small fraction of this area, with the majority inhabited by Native Americans. Essentially, the U.S. paid for the right to acquire these lands from the Native Americans, excluding other colonial powers.
+
+# Background of the Louisiana Purchase
+
+France had control over the Louisiana territory from 1682 until it was given to Spain in 1762. In 1800, Napoleon, the First Consul of the French Republic, regained ownership of Louisiana in exchange for Tuscany. He had plans to re-establish a French colonial empire in North America. However, due to a revolt in Saint-Domingue and the possibility of war with the United Kingdom, Napoleon decided to sell Louisiana to the U.S. President Thomas Jefferson, who had long desired to acquire Louisiana, especially the important Mississippi River port of New Orleans, sent James Monroe and Robert R. Livingston to France to negotiate the purchase. After some negotiations, the U.S. agreed to buy the entire territory of Louisiana. Despite opposition from the Federalist Party, Jefferson and Secretary of State James Madison convinced Congress to ratify and fund the Louisiana Purchase.
+
+# Negotiation and Aftermath
+
+There was fear of a French invasion in America when Napoleon sent a military force to nearby Saint-Domingue in 1801. To avoid potential conflict, Jefferson sent James Monroe to Paris in 1803 to negotiate a settlement. During this time, Napoleon decided to abandon his plans to rebuild France's New World empire and decided to sell the entire Louisiana territory to the U.S. The U.S. representatives were prepared to pay up to $10 million for New Orleans, but were surprised when the entire territory was offered for $15 million. They quickly agreed and signed the Louisiana Purchase Treaty on April 30, 1803. This purchase nearly doubled the size of the United States, extending its sovereignty across the Mississippi River. Despite some domestic opposition and questions about the constitutionality of the purchase, it was ratified and announced on July 4, 1803.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase
+
+The Louisiana Purchase was an important event in the history of the United States. It was a deal where the United States bought a large area of land from France in 1803. This purchase included most of the land in the Mississippi River's drainage basin to the west of the river. For this huge chunk of land, the United States paid France fifteen million dollars, which is roughly eighteen dollars per square mile. This meant that the United States got about 828,000 square miles (or 2,140,000 square kilometers; 530,000,000 acres) of land in what is now the central part of the United States.
+
+But it's important to note that France only controlled a small part of this area. Most of it was home to Native Americans. So, in effect, the United States bought the right to get the Indian lands by making agreements with the Native Americans or by taking it over, excluding other colonial powers from doing so.
+
+## Historical Background
+
+The Kingdom of France had control over the Louisiana territory from 1682 until it gave it to Spain in 1762. In 1800, Napoleon, the leader of the French Republic, got back the ownership of Louisiana. He traded Tuscany for it as part of his plan to set up a French colonial empire in North America. However, France was unable to put down a rebellion in Saint-Domingue (now Haiti), and the possibility of another war with the United Kingdom made Napoleon think about selling Louisiana to the United States.
+
+President Thomas Jefferson of the United States had long wanted to acquire Louisiana, especially the important Mississippi River port of New Orleans. He asked James Monroe and Robert R. Livingston to negotiate the purchase of New Orleans. During their negotiations with French Treasury Minister François Barbé-Marbois, they agreed to buy the whole Louisiana territory when it was offered. Despite opposition from the Federalist Party, Jefferson and Secretary of State James Madison convinced Congress to approve and fund the Louisiana Purchase.
+
+## The Purchase's Impact
+
+The Louisiana Purchase had a huge impact on the United States. It extended the country's sovereignty across the Mississippi River and nearly doubled the size of the country. The purchase included land from fifteen present U.S. states and two Canadian provinces. These include all of Arkansas, Missouri, Iowa, Oklahoma, Kansas, and Nebraska; large parts of North Dakota and South Dakota; the area of Montana, Wyoming, and Colorado east of the Continental Divide; the portion of Minnesota west of the Mississippi River; the northeastern section of New Mexico; northern parts of Texas; New Orleans and the parts of the present state of Louisiana west of the Mississippi River; and small parts of land within Alberta and Saskatchewan. At the time of the purchase, the non-native population of the Louisiana territory was around 60,000 people, half of whom were enslaved Africans.
+
+## Negotiation of the Purchase
+
+The negotiation process for the Louisiana Purchase was complex. Napoleon needed peace with Britain to take possession of Louisiana. However, in early 1803, war between France and Britain seemed unavoidable. On top of that, Napoleon's efforts to control Saint-Domingue were failing. By early 1803, Napoleon decided to give up his plans to rebuild France's New World empire. Without enough money from sugar colonies in the Caribbean, Louisiana had little value to him. Out of frustration with Spain and the unique opportunity to sell something that was of no use to him, Napoleon decided to sell the entire territory.
+
+On April 10, 1803, Napoleon told the Treasury Minister François Barbé-Marbois that he was considering selling the entire Louisiana Territory to the United States. On April 11, 1803, just days before Monroe's arrival, Barbé-Marbois offered Livingston all of Louisiana for $15 million. The American representatives were prepared to pay up to $10 million for New Orleans and its surroundings but were surprised when the much larger territory was offered for $15 million. They agreed and signed the Louisiana Purchase Treaty on April 30, 1803.
+
+## Domestic Opposition and Constitutionality
+
+The purchase of the Louisiana territory was not without opposition at home. Some people, including Jefferson himself, were concerned about whether the purchase was constitutional. Jefferson considered a constitutional amendment to justify the purchase; however, his cabinet convinced him otherwise. Jefferson justified the purchase by saying that it was for the good of the citizens of the United States, which made it constitutional.
+
+The Federalists, a political party at the time, strongly opposed the purchase. They were concerned about the cost, their belief that France would not have been able to resist U.S. and British encroachment into Louisiana, and Jefferson's perceived hypocrisy. Both Federalists and Jeffersonians were concerned over the purchase's constitutionality. Many members of the House of Representatives opposed the purchase. The House called for a vote to deny the request for the purchase, but it failed by two votes, 59–57.
+
+## Conclusion
+
+Despite the opposition and the complex negotiations, the Louisiana Purchase was a significant event in the history of the United States. It nearly doubled the size of the country and opened up a vast territory for exploration and settlement. It also set the stage for further westward expansion of the United States. The Louisiana Purchase is a key example of how diplomacy and negotiation can significantly change the course of a nation's history.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Louisiana Purchase was the acquisition of the Louisiana territory by the United States from France in 1803. The U.S. paid fifteen million dollars for 828,000 sq mi of land, effectively buying the right to obtain Native American lands. The purchase doubled the nominal size of the U.S. and included land from fifteen present U.S. states and two Canadian provinces. The acquisition was a long-term goal of President Thomas Jefferson, who overcame opposition to secure the deal. The purchase's constitutionality was questioned, with critics concerned about granting citizenship to the French, Spanish, and free black people living in New Orleans.
+
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Louisiana Purchase: A Historical Overview
+The Louisiana Purchase was a significant event in American history, marking the acquisition of the Louisiana territory by the United States from the French First Republic in 1803. The territory, which spanned most of the land west of the Mississippi River, was bought for fifteen million dollars or approximately eighteen dollars per square mile. This purchase included a total of 828,000 sq mi of land in Middle America. However, France only controlled a small fraction of this territory, with the majority being inhabited by Native Americans. The United States, therefore, bought the preemptive right to obtain Indian lands by treaty or by conquest, excluding other colonial powers. This acquisition was a long-term goal of President Thomas Jefferson, who was particularly interested in controlling the crucial Mississippi River port of New Orleans.
+
+# The Background of the Purchase
+The Louisiana territory had been under the control of the Kingdom of France since 1682 until it was ceded to Spain in 1762. In 1800, Napoleon, the First Consul of the French Republic, regained ownership of Louisiana in exchange for Tuscany, as part of a broader plan to re-establish a French colonial empire in North America. However, due to France's failure to suppress a revolt in Saint-Domingue and the possibility of renewed warfare with the United Kingdom, Napoleon considered selling Louisiana to the United States. Jefferson tasked James Monroe and Robert R. Livingston with purchasing New Orleans, and the U.S. representatives quickly agreed to purchase the entire territory of Louisiana after it was offered. Overcoming opposition from the Federalist Party, Jefferson and Secretary of State James Madison persuaded Congress to ratify and fund the Louisiana Purchase.
+
+# Negotiations and Acquisition
+Negotiations for the purchase of Louisiana were complicated. Fears of a French invasion spread across America when Napoleon sent a military force to nearby Saint-Domingue. Despite this, Jefferson threatened an alliance with Britain and supported France's plan to retake Saint-Domingue, which was then under the control of Toussaint Louverture after a slave rebellion. Jefferson sent Livingston to Paris in 1801 with the authorization to purchase New Orleans. By 1803, Pierre Samuel du Pont de Nemours, a French nobleman, began to help negotiate with France at the request of Jefferson. Du Pont, who was living in the United States at the time and had close ties to Jefferson as well as prominent politicians in France, engaged in back-channel diplomacy with Napoleon on Jefferson's behalf. This led to the idea of the much larger Louisiana Purchase as a way to defuse potential conflict between the United States and Napoleon over North America. The Louisiana Purchase Treaty was signed on April 30, 1803, by Robert Livingston, James Monroe, and François Barbé-Marbois, effectively doubling the size of the United States.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase: An In-depth Analysis
+
+## Overview
+
+The Louisiana Purchase, or "Vente de la Louisiane" in French, refers to the acquisition of the Louisiana territory by the United States from the French First Republic in 1803. It was a significant land deal, involving a majority of the land in the Mississippi River's drainage basin west of the river. The United States paid fifteen million dollars for the territory, which equates to approximately eighteen dollars per square mile. The total area acquired was 828,000 square miles or 2,140,000 square kilometers.
+
+However, it's important to note that France only controlled a small fraction of this area, with most of it being inhabited by Native Americans. Therefore, the United States essentially bought the preemptive right to acquire Indian lands by treaty or conquest, excluding other colonial powers. This purchase was a long-term goal of President Thomas Jefferson, who was particularly keen on gaining control of the crucial Mississippi River port of New Orleans.
+
+## Historical Background
+
+The Louisiana territory was under the control of the Kingdom of France from 1682 until it was given to Spain in 1762. In 1800, Napoleon, the First Consul of the French Republic, regained ownership of Louisiana in exchange for Tuscany. This was part of a broader effort to re-establish a French colonial empire in North America. However, France's failure to suppress a revolt in Saint-Domingue and the prospect of renewed warfare with the United Kingdom led Napoleon to consider selling Louisiana to the United States.
+
+## Negotiation Process
+
+The negotiation process for the Louisiana Purchase was a complex and strategic endeavor. President Jefferson tasked James Monroe and Robert R. Livingston with purchasing New Orleans. The U.S. representatives quickly agreed to purchase the entire territory of Louisiana after it was offered by French Treasury Minister François Barbé-Marbois. Despite opposition from the Federalist Party, Jefferson and Secretary of State James Madison persuaded Congress to ratify and fund the Louisiana Purchase.
+
+## Impact of the Purchase
+
+The Louisiana Purchase had a significant impact on the United States. It extended U.S. sovereignty across the Mississippi River and nearly doubled the nominal size of the country. The purchase included land from fifteen present U.S. states and two Canadian provinces. At the time of the purchase, the territory of Louisiana's non-native population was around 60,000 inhabitants, of whom half were enslaved Africans.
+
+## Domestic Opposition and Constitutionality
+
+The Louisiana Purchase was not without controversy. There was significant domestic opposition to the purchase, particularly from the Federalist Party. They opposed the purchase due to the cost, their belief that France would not have been able to resist U.S. and British encroachment into Louisiana, and Jefferson's perceived hypocrisy. Both Federalists and Jeffersonians were concerned about the purchase's constitutionality. Many members of the House of Representatives opposed the purchase. However, the House failed to deny the request for the purchase by two votes, 59–57.
+
+## Conclusion
+
+The Louisiana Purchase was a significant event in U.S. history. It nearly doubled the size of the country and had a profound impact on the nation's territorial expansion. However, it was also a source of controversy, with significant opposition from the Federalist Party and concerns about its constitutionality. Despite these challenges, the purchase was ultimately ratified by Congress, marking a major milestone in the growth and development of the United States.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Louisiana Purchase was the acquisition of the Louisiana territory by the United States from France in 1803. The purchase doubled the size of the United States, included land from fifteen present U.S. states and two Canadian provinces, and was bought for fifteen million dollars. The acquisition was a long-term goal of President Thomas Jefferson, who was particularly interested in gaining control of the Mississippi River port of New Orleans. The purchase faced domestic opposition due to concerns over constitutionality and fears of exacerbating divisions between North and South.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase: Overview and Background
+The Louisiana Purchase was a landmark event in the history of the United States, marking the acquisition of the Louisiana territory from the French First Republic in 1803. The territory spanned the majority of the land west of the Mississippi River's drainage basin. The United States acquired approximately 828,000 square miles of land for fifteen million dollars, roughly eighteen dollars per square mile. However, France only controlled a small fraction of this territory, with the majority inhabited by Native Americans. The purchase effectively granted the United States the preemptive right to obtain these lands by treaty or conquest, excluding other colonial powers. 
+
+The Kingdom of France had controlled the Louisiana territory since 1682, before ceding it to Spain in 1762. In 1800, Napoleon regained ownership of Louisiana in exchange for Tuscany, intending to re-establish a French colonial empire in North America. However, due to France's failure to suppress a revolt in Saint-Domingue (now Haiti) and the looming threat of war with the United Kingdom, Napoleon decided to sell Louisiana to the United States. President Thomas Jefferson, who had long desired to acquire Louisiana, especially the crucial Mississippi River port of New Orleans, tasked James Monroe and Robert R. Livingston with purchasing the territory. After successful negotiations with French Treasury Minister François Barbé-Marbois, the U.S. representatives agreed to purchase the entire Louisiana territory.
+
+# The Louisiana Purchase: Negotiation and Expansion
+The Louisiana Purchase extended United States sovereignty across the Mississippi River, nearly doubling the country's size. The purchase incorporated land from fifteen current U.S. states and two Canadian provinces, including large portions of Arkansas, Missouri, Iowa, Oklahoma, Kansas, and Nebraska, and parts of North Dakota, South Dakota, Montana, Wyoming, Colorado, Minnesota, New Mexico, Texas, and Louisiana. At the time of the purchase, the territory's non-native population was approximately 60,000, half of whom were enslaved Africans. The western and northern borders of the purchase were later settled by the 1819 Adams–Onís Treaty with Spain and the Treaty of 1818 with the British, respectively.
+
+# The Louisiana Purchase: Domestic Opposition and Constitutionality
+The Louisiana Purchase was not without domestic opposition. Many Federalists opposed the purchase due to its cost, their belief that France would not have been able to resist U.S. and British encroachment into Louisiana, and perceived hypocrisy on the part of Jefferson. Both Federalists and Jeffersonians were concerned about the purchase's constitutionality. Many members of the House of Representatives, led by Majority Leader John Randolph, opposed the purchase. However, a vote to deny the request for the purchase failed by two votes. The Federalists also feared that the power of the Atlantic seaboard states would be threatened by the new citizens in the West, whose political and economic priorities would likely conflict with those of the merchants and bankers of New England. Despite these concerns, the purchase was ultimately ratified, significantly expanding the territory and influence of the United States.
+</div>
+</div>
+<div class='slide-pane' id='Louisiana_Purchase-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Louisiana Purchase</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Louisiana Purchase
+
+The Louisiana Purchase (French: Vente de la Louisiana) was a significant geopolitical transaction that occurred in 1803, marking a milestone in the territorial expansion of the United States. This monumental acquisition involved the United States purchasing the Louisiana territory from the French First Republic. The territory, which comprised most of the land in the Mississippi River's drainage basin west of the river, was purchased for fifteen million dollars. This transaction equated to approximately eighteen dollars per square mile, and the United States nominally acquired a total of 828,000 square miles (2,140,000 km2; 530,000,000 acres) in Middle America. 
+
+However, it is essential to note that France only controlled a small fraction of this area. The majority of the territory was inhabited by Native Americans. In effect, the United States purchased the preemptive right to obtain Indian lands through treaty or by conquest, to the exclusion of other colonial powers. 
+
+## Historical Context
+
+The Louisiana territory had been under the control of the Kingdom of France from 1682 until it was ceded to Spain in 1762. In 1800, Napoleon, the First Consul of the French Republic, regained ownership of Louisiana in exchange for Tuscany. This was part of a broader effort to re-establish a French colonial empire in North America. 
+
+However, France's failure to suppress a revolt in Saint-Domingue, coupled with the prospect of renewed warfare with the United Kingdom, prompted Napoleon to consider selling Louisiana to the United States. The acquisition of Louisiana was a long-term goal of President Thomas Jefferson, who was particularly eager to gain control of the crucial Mississippi River port of New Orleans. Jefferson tasked James Monroe and Robert R. Livingston with purchasing New Orleans. 
+
+The U.S. representatives quickly agreed to purchase the entire territory of Louisiana after it was offered. Overcoming the opposition of the Federalist Party, Jefferson and Secretary of State James Madison persuaded Congress to ratify and fund the Louisiana Purchase.
+
+## Impact of the Purchase
+
+The Louisiana Purchase had a profound impact on the United States. It extended United States sovereignty across the Mississippi River, nearly doubling the nominal size of the country. The purchase included land from fifteen present U.S. states and two Canadian provinces. This included the entirety of Arkansas, Missouri, Iowa, Oklahoma, Kansas, and Nebraska; significant portions of North Dakota and South Dakota; the area of Montana, Wyoming, and Colorado east of the Continental Divide; the portion of Minnesota west of the Mississippi River; the northeastern section of New Mexico; northern portions of Texas; New Orleans and the portions of the present state of Louisiana west of the Mississippi River; and small portions of land within Alberta and Saskatchewan. 
+
+At the time of the purchase, the territory of Louisiana's non-native population was around 60,000 inhabitants, of whom half were enslaved Africans. The western borders of the purchase were later settled by the 1819 Adams–Onís Treaty with Spain, while the northern borders of the purchase were adjusted by the Treaty of 1818 with the British.
+
+## Background
+
+The French colony of Louisiana became a pawn for European political intrigue throughout the second half of the 18th century. The colony represented the most substantial presence of France's overseas empire, with other possessions consisting of a few small settlements along the Mississippi and other main rivers. France ceded the territory to Spain in 1762 in the secret Treaty of Fontainebleau. 
+
+Following French defeat in the Seven Years' War, Spain gained control of the territory west of the Mississippi, and the British received the territory to the east of the river. Following the establishment of the United States, the Americans controlled the area east of the Mississippi and north of New Orleans. The main issue for the Americans was free transit of the Mississippi out to sea. 
+
+As the lands were being gradually settled by American migrants, many Americans, including Jefferson, assumed that the territory would be acquired "piece by piece." The risk of another power taking it from a weakened Spain made a "profound reconsideration" of this policy necessary. New Orleans was already important for shipping agricultural goods to and from the areas of the United States west of the Appalachian Mountains. 
+
+Pinckney's Treaty, signed with Spain on October 27, 1795, gave American merchants "right of deposit" in New Orleans, granting them use of the port to store goods for export. The treaty also recognized American rights to navigate the entire Mississippi, which had become vital to the growing trade of the western territories.
+
+## Negotiation
+
+The treaty between Spain and France went largely unnoticed in 1800. However, fear of an eventual French invasion spread across America when, in 1801, Napoleon sent a military force to nearby Saint-Domingue. Though Jefferson urged moderation, Federalists sought to use this against Jefferson and called for hostilities against France. Undercutting them, Jefferson threatened an alliance with Britain, although relations were uneasy in that direction. 
+
+In 1801, Jefferson supported France in its plan to take back Saint-Domingue (present-day Haiti), which was then under control of Toussaint Louverture after a slave rebellion. However, there was a growing concern in the U.S. that Napoleon would send troops to New Orleans after quelling the rebellion. In hopes of securing control of the mouth of the Mississippi, Jefferson sent Livingston to Paris in 1801 with the authorization to purchase New Orleans.
+
+In January 1802, France sent General Charles Leclerc on an expedition to Saint-Domingue to reassert French control over a colony, which had become essentially autonomous under Louverture. Louverture, as a French general, had fended off incursions from other European powers, but had also begun to consolidate power for himself on the island. 
+
+Before the revolution, France had derived enormous wealth from Saint-Domingue at the cost of the lives and freedom of the enslaved. Napoleon wanted the territory's revenues and productivity for France restored. Alarmed over the French actions and its intention to re-establish an empire in North America, Jefferson declared neutrality in relation to the Caribbean, refusing credit and other assistance to the French, but allowing war contraband to get through to the rebels to prevent France from regaining a foothold.
+
+In 1803, Pierre Samuel du Pont de Nemours, a French nobleman, began to help negotiate with France at the request of Jefferson. Du Pont was living in the United States at the time and had close ties to Jefferson as well as the prominent politicians in France. He engaged in back-channel diplomacy with Napoleon on Jefferson's behalf during a visit to France and originated the idea of the much larger Louisiana Purchase as a way to defuse potential conflict between the United States and Napoleon over North America.
+
+Throughout this time, Jefferson had up-to-date intelligence on Napoleon's military activities and intentions in North America. Part of his evolving strategy involved giving du Pont some information that was withheld from Livingston. Intent on avoiding possible war with France, Jefferson sent James Monroe to Paris in 1803 to negotiate a settlement, with instructions to go to London to negotiate an alliance if the talks in Paris failed. Spain procrastinated until late 1802 in executing the treaty to transfer Louisiana to France, which allowed American hostility to build. Also, Spain's refusal to cede Florida to France meant that Louisiana would be indefensible.
+
+Napoleon needed peace with Britain to take possession of Louisiana. Otherwise, Louisiana would be an easy prey for a potential invasion from Britain or the U.S. But in early 1803, continuing war between France and Britain seemed unavoidable. On March 11, 1803, Napoleon began preparing to invade Great Britain.
+
+In Saint-Domingue, Leclerc's forces took Louverture prisoner, but their expedition soon faltered in the face of fierce resistance and disease. By early 1803, Napoleon decided to abandon his plans to rebuild France's New World empire. Without sufficient revenues from sugar colonies in the Caribbean, Louisiana had little value to him. Spain had not yet completed the transfer of Louisiana to France, and war between France and the UK was imminent. Out of anger towards Spain and the unique opportunity to sell something that was useless and not truly his yet, Napoleon decided to sell the entire territory.
+
+Although the foreign minister Talleyrand opposed the plan, on April 10, 1803, Napoleon told the Treasury Minister François Barbé-Marbois that he was considering selling the entire Louisiana Territory to the United States. On April 11, 1803, just days before Monroe's arrival, Barbé-Marbois offered Livingston all of Louisiana for $15 million, which averages to less than three cents per acre (7¢/ha). The total of $15 million is equivalent to about $337 million in 2021 dollars, or 64 cents per acre. The American representatives were prepared to pay up to $10 million for New Orleans and its environs but were dumbfounded when the vastly larger territory was offered for $15 million. Jefferson had authorized Livingston only to purchase New Orleans. However, Livingston was certain that the United States would accept the offer.
+
+The Americans thought that Napoleon might withdraw the offer at any time, preventing the United States from acquiring New Orleans, so they agreed and signed the Louisiana Purchase Treaty on April 30, 1803, (10 Floréal XI in the French Republican calendar) at the Hôtel Tubeuf in Paris. The signers were Robert Livingston, James Monroe, and François Barbé-Marbois. After the signing Livingston famously stated, "We have lived long, but this is the noblest work of our whole lives... From this day the United States take their place among the powers of the first rank." On July 4, 1803, the treaty was announced, but the documents did not arrive in Washington, D.C. until July 14. The Louisiana Territory was vast, stretching from the Gulf of Mexico in the south to Rupert's Land in the north, and from the Mississippi River in the east to the Rocky Mountains in the west. Acquiring the territory nearly doubled the size of the United States.
+
+In November 1803, France withdrew its 7,000 surviving troops from Saint-Domingue (more than two-thirds of its troops died there) and gave up its ambitions in the Western Hemisphere. In 1804 Haiti declared its independence; but fearing a slave revolt at home, Jefferson and the rest of Congress refused to recognize the new republic, the second in the Western Hemisphere, and imposed a trade embargo against it. This, together with the successful French demand for an indemnity of 150 million francs in 1825, severely hampered Haiti's ability to repair its economy after decades of war.
+
+## Domestic Opposition and Constitutionality
+
+After Monroe and Livingston had returned from France with news of the purchase, an official announcement of the purchase was made on July 4, 1803. This gave Jefferson and his cabinet until October, when the treaty had to be ratified, to discuss the constitutionality of the purchase. Jefferson considered a constitutional amendment to justify the purchase; however, his cabinet convinced him otherwise. Jefferson justified the purchase by rationalizing, "it is the case of a guardian, investing the money of his ward in purchasing an important adjacent territory; & saying to him when of age, I did this for your good." Jefferson ultimately came to the conclusion before the ratification of the treaty that the purchase was to protect the citizens of the United States therefore making it constitutional.
+
+Henry Adams and other historians have argued that Jefferson acted hypocritically with the Louisiana Purchase, because of his position as a strict constructionist regarding the Constitution, by stretching the intent of that document to justify his purchase. The American purchase of the Louisiana territory was not accomplished without domestic opposition. Jefferson's philosophical consistency was in question and many people believed he and others, including James Madison, were doing something they surely would have argued against with Alexander Hamilton. The Federalists strongly opposed the purchase, because of the cost involved, their belief that France would not have been able to resist U.S. and British encroachment into Louisiana, and Jefferson's perceived hypocrisy.
+
+Both Federalists and Jeffersonians were concerned over the purchase's constitutionality. Many members of the House of Representatives opposed the purchase. Majority Leader John Randolph led the opposition. The House called for a vote to deny the request for the purchase, but it failed by two votes, 59–57. The Federalists even tried to prove the land belonged to Spain, not France, but available records proved otherwise. The Federalists also feared that the power of the Atlantic seaboard states would be threatened by the new citizens in the West, whose political and economic priorities were bound to conflict with those of the merchants and bankers of New England. There was also concern that an increase in the number of slave-holding states created out of the new territory would exacerbate divisions between North and South. A group of Northern Federalists led by Senator Timothy Pickering of Massachusetts went so far as to explore the idea of a separate northern confederacy.
+
+The opposition of New England Federalists to the Louisiana Purchase was primarily economic self-interest, not any legitimate concern over constitutionality or whether France indeed owned Louisiana or was required to sell it back to Spain should it desire to dispose of the territory. The Northerners were not enthusiastic about Western farmers gaining another outlet for their crops that did not require the use of New England ports. Also, many Federalists were speculators in lands in upstate New York and New England and were hoping to sell these lands to farmers, who might go west instead if the Louisiana Purchase went through. They also feared that this would lead to Western states being formed, which would likely be Republican, and dilute the political power of New England Federalists.
+
+Another concern was whether it was proper to grant citizenship to the French, Spanish, and free black people living in New Orleans, as the treaty would dictate. Critics in Congress worried whether these "foreigners", unacquainted with democracy, could or should become citizens.
+
+Spain protested the transfer on two grounds: First, France had previously promised in a note not to alienate Louisiana to a third party and, second, France had not fulfilled the Third Treaty of San Ildefonso by having the King of Etruria recognized by all European powers. The French government replied that these objections were baseless as the promise not to alienate Louisiana was not in the treaty of San Ildefonso itself and therefore had no legal force, and the Spanish government had ordered Louisiana to be transferred in October 1802 despite knowing for months that Britain had not recognized the King of Etruria in the Treaty of Amiens. Madison, in response to Spain's objections, noted that the United States had first approached Spain about purchasing the property, but had been told by Spain itself that it was not for sale.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Ludwig van Beethoven was a famous composer and piano player from Germany. He composed music that is still admired and performed a lot today. His music helped transition from the Classical to the Romantic era. He was born in Bonn and showed his musical talent early, taught by his father and later by Christian Gottlob Neefe. He published his first work in 1783. At 21, he moved to Vienna and studied with Haydn, becoming a well-known pianist. Despite losing his hearing, he continued to compose music, including his famous symphonies. He died in 1827.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Beethoven's Life and Career
+
+## Early Life and Learning Music
+
+Ludwig van Beethoven was a famous composer and pianist from Germany. He was born on December 17, 1770, and his talent for music was clear even when he was a little boy. His dad, Johann van Beethoven, was his first music teacher. Johann was a very strict teacher and sometimes made Ludwig practice so much that he would cry. But this tough training helped Ludwig become a great musician. Later, Ludwig also learned music from Christian Gottlob Neefe, a famous composer and conductor. Under Neefe's guidance, Ludwig published his first piece of music, a set of keyboard variations, in 1783. When he was 21, he moved to Vienna, a city in Austria, and continued to learn music from another famous composer, Haydn.
+
+## Beethoven's Music Career
+
+Ludwig's first big piece for an orchestra, the First Symphony, was performed in 1800. Even though he started to lose his hearing during this time, he continued to conduct music and his Third and Fifth Symphonies were performed in 1804 and 1808. His last piano concerto, known as the Emperor, was performed in 1811. By 1814, Ludwig was almost completely deaf and stopped performing in public. Despite his hearing loss, he continued to compose music and many of his most loved works were created after 1810.
+
+## Later Life and Music
+
+In the last years of his life, Ludwig composed many important pieces of music, including his final Symphony, No. 9. This symphony was one of the first to include a choir, a group of singers. He also wrote a lot of chamber music and piano sonatas. His only opera, Fidelio, was first performed in 1805 and was revised to its final version in 1814. Ludwig's health started to decline and after being sick in bed for several months, he passed away in 1827. Even though he is no longer with us, his music is still loved and performed by many people around the world.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Ludwig van Beethoven: A Musical Genius
+
+Ludwig van Beethoven was a famous composer and pianist from Germany. He lived from 1770 to 1827. His music is loved by many people even today and is often played in concerts. Beethoven's music marks a big change in the history of classical music, moving from the Classical period to the Romantic era. His work is usually divided into three parts: early, middle, and late. 
+
+## Early Life and Learning Music
+
+Beethoven was born in a city called Bonn. He showed his musical talent when he was very young. His father, Johann van Beethoven, was his first teacher and taught him very strictly. Later, he learned from a composer named Christian Gottlob Neefe. Under Neefe's guidance, Beethoven published his first piece of music in 1783 when he was just 13 years old.
+
+Beethoven had a tough time at home, but he found comfort with a family called the Breunings. He loved the Breuning children and taught them how to play the piano. When he was 21, Beethoven moved to Vienna, a city in Austria, and studied music with another famous composer, Joseph Haydn. 
+
+In Vienna, Beethoven became known for his skill as a piano player. A prince named Karl Alois, Prince Lichnowsky, became his patron and supported his music compositions. This resulted in Beethoven's first three piano trios in 1795.
+
+## Creating Beautiful Music 
+
+Beethoven's first big orchestra piece, the First Symphony, was performed in 1800. His first set of string quartets was published in 1801. Even though Beethoven started to lose his hearing during this time, he continued to conduct music and premiere his Third and Fifth Symphonies in 1804 and 1808. 
+
+By 1814, Beethoven was almost completely deaf and stopped performing in public. Despite his hearing loss, Beethoven continued to write beautiful music. Some of his most admired pieces, including later symphonies and piano sonatas, were composed after 1810. His only opera, Fidelio, was first performed in 1805 and revised to its final version in 1814. He composed his final Symphony, No. 9, between 1822 and 1824. 
+
+## Beethoven's Family and Early Teachers
+
+Beethoven's grandfather, also named Ludwig van Beethoven, was a musician who moved to Bonn when he was 21. His grandfather was a well-known musician in Bonn and had two sons. The younger son, Johann, was Beethoven's father. Johann taught Beethoven how to play the keyboard and violin to earn extra money.
+
+Beethoven was born from Johann's marriage to Maria Magdalena Keverich. Out of the seven children in the family, only Ludwig and his two younger brothers survived infancy. 
+
+Beethoven's father was his first music teacher. Later, he learned from other local teachers, including Gilles van den Eeden, Tobias Friedrich Pfeiffer, and Franz Anton Ries. Beethoven's father was very strict, and the young Beethoven often cried during his lessons. 
+
+## Learning and Growing in Bonn
+
+In 1780 or 1781, Beethoven started studying with Christian Gottlob Neefe, his most important teacher in Bonn. Neefe taught him how to compose music. Beethoven's first published work, a set of keyboard variations, was published in 1783. 
+
+Beethoven also worked with Neefe as an assistant organist. His first three piano sonatas were published in 1783. During this time, Beethoven was recognized as a promising young talent. 
+
+## Moving to Vienna
+
+In 1792, Beethoven moved to Vienna, where he continued to study and perform music. He studied counterpoint with Johann Albrechtsberger and violin with Ignaz Schuppanzigh. He also received occasional instruction from Antonio Salieri. 
+
+With the help of his connections, Beethoven began to develop a reputation as a performer in the salons of the Viennese nobility. His friend Nikolaus Simrock started publishing his compositions. By 1793, Beethoven had established a reputation as a piano virtuoso in Vienna. 
+
+## Beethoven's Later Years
+
+Despite becoming deaf, Beethoven continued to compose music. He wrote many of his most famous works during the last years of his life, including his Ninth Symphony and his late string quartets. After months of being ill and bedridden, Beethoven passed away in 1827. His music continues to inspire and bring joy to people all around the world.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Ludwig van Beethoven was a renowned German composer and pianist who lived from 1770 to 1827. His musical works, which transitioned from the Classical period to the Romantic era, are among the most performed in Western music history. Despite growing deaf, he continued to create music, with his career divided into early, middle, and late periods. His early period lasted until 1802, during which he honed his craft. From 1802 to 1812, his middle period saw him develop his individual style, often described as heroic. His late period, from 1812 to 1827, was marked by innovations in musical form and expression.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Beethoven's Career Phases and Works
+Ludwig van Beethoven, a renowned German composer and pianist, has a career that is conventionally divided into early, middle, and late periods. The early period, lasting until 1802, was when Beethoven honed his craft. During his middle period, from 1802 to around 1812, his style evolved from the influences of Joseph Haydn and Wolfgang Amadeus Mozart, and this phase is sometimes described as heroic. It was during this period that he began to lose his hearing. In his late period, from 1812 to 1827, he pushed the boundaries of musical form and expression. Some of his major works include the First Symphony, premiered in 1800, and his last piano concerto, known as the Emperor, which premiered in 1811.
+
+# Beethoven's Early Life and Education
+Born in Bonn, Beethoven's musical talent was evident from a young age. His first teacher was his father, Johann van Beethoven, who was harsh and intensive in his approach. Later, he was taught by composer and conductor Christian Gottlob Neefe, under whom he published his first work, a set of keyboard variations, in 1783. Beethoven found solace from his difficult home life with the family of Helene von Breuning, whose children he taught piano. At 21, he moved to Vienna to study composition with Haydn. He gained a reputation as a virtuoso pianist and was patronized by Karl Alois, Prince Lichnowsky, for his compositions.
+
+# Beethoven's Later Life and Achievements
+Despite his deteriorating hearing, Beethoven continued to conduct and premiere his works, such as his Third and Fifth Symphonies in 1804 and 1808, respectively. By 1814, he was almost completely deaf and stopped performing and appearing in public. However, he continued to compose many of his most admired works, including later symphonies, mature chamber music, and the late piano sonatas. His only opera, Fidelio, was first performed in 1805 and revised to its final version in 1814. He composed Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, one of the first examples of a choral symphony, between 1822 and 1824. His late string quartets, including the Grosse Fuge, of 1825–1826 are among his final achievements. Beethoven passed away in 1827 after several months of illness.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Ludwig van Beethoven: Life and Works
+
+## Introduction
+
+Ludwig van Beethoven is one of the most celebrated composers in the history of Western music. Born in 1770 and died in 1827, he was a German composer and pianist who played a crucial role in transitioning classical music from the Classical period to the Romantic era. His works are among the most frequently performed pieces in the classical music repertoire.
+
+Beethoven's professional life is typically divided into early, middle, and late periods. The early period, which lasted until 1802, was a time when he honed his musical skills. Between 1802 and 1812, his middle period, he developed his unique style, drawing inspiration from the works of Joseph Haydn and Wolfgang Amadeus Mozart. This period is sometimes referred to as the "heroic" period. During this time, Beethoven began to lose his hearing. His late period, from 1812 to 1827, saw him pushing the boundaries of musical form and expression.
+
+## Early Life and Education
+
+Born in Bonn, Germany, Beethoven's musical talent was apparent from a young age. His first teacher was his father, Johann van Beethoven, who was very strict and demanding. Later, Beethoven was taught by composer and conductor Christian Gottlob Neefe, under whom he published his first work, a set of keyboard variations, in 1783. Beethoven found respite from his difficult home life with the family of Helene von Breuning, whose children he befriended and taught piano. At the age of 21, he moved to Vienna and studied composition with Haydn. He quickly gained a reputation as a virtuoso pianist and was soon sponsored by Karl Alois, Prince Lichnowsky, for his compositions. This patronage led to the creation of his three Opus 1 piano trios in 1795.
+
+## Early Career and Musical Works
+
+Beethoven's first significant orchestral work, the First Symphony, premiered in 1800, and his first set of string quartets was published in 1801. Despite his deteriorating hearing, he continued to conduct, premiering his Third and Fifth Symphonies in 1804 and 1808, respectively. His Violin Concerto appeared in 1806. His last piano concerto, known as the Emperor, dedicated to his frequent patron Archduke Rudolf of Austria, premiered in 1811, without Beethoven as soloist. By 1814, he was almost completely deaf and withdrew from performing and appearing in public. He expressed his struggles with health and personal life in two letters, his Heiligenstadt Testament (1802) to his brothers and his unsent love letter to an unknown "Immortal Beloved" (1812).
+
+After 1810, Beethoven composed many of his most admired works, including later symphonies, mature chamber music, and the late piano sonatas. His only opera, Fidelio, first performed in 1805, was revised to its final version in 1814. He composed Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, one of the first examples of a choral symphony, between 1822 and 1824. His late string quartets, including the Grosse Fuge, of 1825–1826 are among his final achievements. After months of illness, he died in 1827.
+
+## Early Life and Education in Detail
+
+Beethoven was born into a musical family. His grandfather, also named Ludwig van Beethoven, was a musician from Belgium who moved to Bonn and became a prominent musician there. His father Johann worked as a tenor in the same musical establishment and gave music lessons to supplement his income. Beethoven was born of Johann's marriage to Maria Magdalena Keverich in 1767. 
+
+Beethoven's birth date is not known for certain, but he was baptized on December 17, 1770. It was customary at the time to baptize children within 24 hours of birth, so it's probable that he was born on December 16. Beethoven was the second-born of seven children, but only he and two younger brothers survived infancy. 
+
+Beethoven's first music teacher was his father. His father's teaching methods were harsh and intensive, often reducing young Beethoven to tears. Despite the strict regimen, Beethoven's musical talent became obvious at an early age. His father tried to promote him as a child prodigy, following the example of Leopold Mozart's success with his children Wolfgang and Nannerl. Beethoven gave his first public performance at the age of seven (though his father claimed he was six) in March 1778.
+
+## 1780–1792: Bonn
+
+In 1780 or 1781, Beethoven began studying with Christian Gottlob Neefe, his most important teacher in Bonn. Under Neefe's guidance, Beethoven's first published work, a set of keyboard variations, appeared in 1783. Beethoven started working with Neefe as assistant organist, initially unpaid, and then as a paid employee of the court chapel. He also began teaching piano to the children of the cultured von Breuning family, where he found a motherly friend in the widowed Frau von Breuning. Through the von Breuning family, he met Franz Wegeler, a medical student who became a lifelong friend. 
+
+During this time, Beethoven also met Count Ferdinand von Waldstein, who became a friend and financial supporter. In 1791, Waldstein commissioned Beethoven's first work for the stage, a ballet called Musik zu einem Ritterballett. Between 1785 and 1790, there is virtually no record of Beethoven's activity as a composer, possibly due to the lukewarm response his initial publications received and ongoing family problems. His mother died in 1787, shortly after Beethoven's first visit to Vienna, where he likely met Mozart. 
+
+In 1789, Beethoven's father was forcibly retired from his job due to his alcoholism, and it was ordered that half of his pension be paid directly to Ludwig for support of the family. Beethoven contributed to the family's income by teaching and playing viola in the court orchestra. This exposed him to a variety of operas, including works by Mozart, Gluck, and Paisiello. There, he also befriended Anton Reicha, a composer and violinist of about his own age.
+
+## 1792–1802: Vienna – the Early Years
+
+Beethoven left Bonn for Vienna in November 1792 amid rumors of war spilling out of France. Shortly after departing, Beethoven learned that his father had died. Over the next few years, he responded to the widespread feeling that he was a successor to the recently deceased Mozart by studying Mozart's work and writing works with a distinctly Mozartian flavor.
+
+Beethoven did not immediately set out to establish himself as a composer, but rather devoted himself to study and performance. Working under Haydn's direction, he sought to master counterpoint. He also studied violin under Ignaz Schuppanzigh and received occasional instruction from Antonio Salieri, primarily in Italian vocal composition style.
+
+With Haydn's departure for England in 1794, Beethoven was expected by the Elector to return home to Bonn. He chose instead to remain in Vienna, continuing his instruction in counterpoint with Johann Albrechtsberger and other teachers. However, by this time, several Viennese noblemen had recognized his ability and offered him financial support, among them Prince Joseph Franz Lobkowitz, Prince Karl Lichnowsky, and Baron Gottfried van Swieten.
+
+Assisted by his connections with Haydn and Waldstein, Beethoven began to develop a reputation as a performer and improviser in the salons of the Viennese nobility. His friend Nikolaus Simrock began publishing his compositions. By 1793, he had established a reputation in Vienna as a piano virtuoso, but he apparently withheld works from publication so that their eventual appearance would have greater impact.
+
+In 1795, Beethoven made his public debut in Vienna over three days, beginning with a performance of one of his own piano concertos on 29 March at the Burgtheater and ending with a Mozart concerto on 31 March. By this year he had two piano concertos available for performance, one in B-flat major he had begun composing before moving to Vienna and had worked on for over a decade, and one in C major composed for the most part during 1795.
+
+Shortly after his public debut, he arranged for the publication of the first of his compositions to which he assigned an opus number, the three piano trios, Opus 1. These works were dedicated to his patron Prince Lichnowsky, and were a financial success; Beethoven's profits were nearly sufficient to cover his living expenses for a year.
+
+In 1799, Beethoven participated in (and won) a notorious piano 'duel' at the home of Baron Raimund Wetzlar (a former patron of Mozart) against the virtuoso Joseph Wölfl; and the next year he similarly triumphed against Daniel Steibelt at the salon of Count Moritz von Fries. Beethoven's eighth piano sonata, the Pathétique (Op. 13, published in 1799), is described by the musicologist Barry Cooper as "surpass[ing] any of his previous compositions, in strength of character, depth of emotion, level of originality, and ingenuity of motivic and tonal manipulation".
+
+Beethoven composed his first six string quartets (Op. 18) between 1798 and 1800 (commissioned by, and dedicated to, Prince Lobkowitz). They were published in 1801. He also completed his Septet (Op. 20) in 1799, one of his most popular works during his lifetime. With premieres of his First and Second Symphonies in 1800 and 1803, he became regarded as one of the most important of a generation of young composers following Haydn and Mozart.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Ludwig van Beethoven, a German composer and pianist, remains one of the most admired composers in Western music history. His works are among the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music. His career is typically divided into early, middle, and late periods. During his life, Beethoven was initially taught by his father, Johann van Beethoven, and later by composer and conductor Christian Gottlob Neefe. Despite his growing deafness, Beethoven continued to conduct and compose music, including his most admired works during his late period.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Beethoven's Career and Musical Evolution
+
+Ludwig van Beethoven, a renowned German composer and pianist, is recognized for his significant contributions to Western music. His compositions, which are among the most performed in the classical music repertoire, bridged the transition from the Classical period to the Romantic era. Beethoven's career is typically divided into early, middle, and late periods. The early period, up until 1802, was characterized by his development as a composer. The middle period, from 1802 to around 1812, marked his evolution from the styles of Joseph Haydn and Wolfgang Amadeus Mozart into a more individualistic and heroic style. During this period, Beethoven began to lose his hearing. His late period, from 1812 to 1827, was marked by further innovations in musical form and expression.
+
+# Early Life and Musical Education
+
+Born in Bonn, Beethoven exhibited musical talent at a young age. His initial education was rigorous, provided by his father, Johann van Beethoven. He later studied under composer and conductor Christian Gottlob Neefe, who helped him publish his first work, a set of keyboard variations, in 1783. Beethoven found solace from his unstable home life with the family of Helene von Breuning, whose children he taught piano. At 21, he moved to Vienna, where he studied composition with Haydn, and quickly gained a reputation as a virtuoso pianist.
+
+# Major Works and Deafness
+
+Despite his deteriorating hearing, Beethoven continued to conduct and compose. His first major orchestral work, the First Symphony, premiered in 1800, and his first set of string quartets was published in 1801. His last piano concerto, known as the Emperor, premiered in 1811, without Beethoven as soloist. By 1814, Beethoven was almost completely deaf and withdrew from public performances. Despite his personal struggles, he composed many of his most admired works after 1810, including later symphonies, mature chamber music, and the late piano sonatas. His only opera, Fidelio, first performed in 1805, was revised to its final version in 1814. His final Symphony, No. 9, one of the first examples of a choral symphony, was composed between 1822 and 1824. Beethoven passed away in 1827 after several months of illness.
+
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Ludwig van Beethoven: An In-Depth Look at His Life and Career
+
+Ludwig van Beethoven, baptized on December 17, 1770, and deceased on March 26, 1827, was a renowned German composer and pianist. He holds a significant position in the history of Western music, with his compositions being among the most frequently performed in the classical music repertoire. His works also mark the transition from the Classical period to the Romantic era in classical music. Beethoven's career is conventionally divided into three periods: early, middle, and late.
+
+## Beethoven's Career: The Three Periods
+
+### Early Period
+
+The early period of Beethoven's career, lasting until 1802, was a time of growth and development. During this period, he honed his craft and produced notable works. However, it was during the middle period of his career, from 1802 to around 1812, that Beethoven's style evolved significantly. This period, sometimes referred to as the 'heroic' period, saw him developing a unique style, distinct from those of Joseph Haydn and Wolfgang Amadeus Mozart. 
+
+Unfortunately, this period also marked the onset of his gradual loss of hearing. The late period of his career, from 1812 to 1827, witnessed Beethoven expanding his innovations in musical form and expression, despite his increasing deafness.
+
+### Middle Period
+
+Beethoven's middle period was characterized by significant personal and professional developments. He was born in Bonn, and his musical talent was evident early on. His initial musical education was rigorous and demanding, primarily under his father, Johann van Beethoven's tutelage. Later, he was instructed by the composer and conductor Christian Gottlob Neefe, under whose guidance he published his first work, a set of keyboard variations, in 1783. 
+
+During this period, Beethoven found solace from his challenging home life with the family of Helene von Breuning, whose children he befriended, loved, and taught piano. At the age of 21, he moved to Vienna, where he studied composition with Haydn. His reputation as a virtuoso pianist grew, leading to patronage from Karl Alois, Prince Lichnowsky, resulting in his three Opus 1 piano trios in 1795.
+
+### Late Period
+
+The late period of Beethoven's career, from 1812 to 1827, was marked by his continued innovation in musical form and expression. Despite his nearly complete hearing loss by 1814, which led him to withdraw from public performances and appearances, he continued to compose. Many of his most admired works, including later symphonies, mature chamber music, and late piano sonatas, were composed during this period. His only opera, Fidelio, was first performed in 1805 and revised to its final version in 1814. He composed the Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, between 1822 and 1824. His late string quartets, including the Grosse Fuge, of 1825–1826, are among his final achievements. After several months of illness, he passed away in 1827.
+
+## Early Life and Education
+
+Beethoven was the grandson of Ludwig van Beethoven, a musician from Mechelen in the Austrian Duchy of Brabant, who moved to Bonn at the age of 21. His grandfather was a successful musician, eventually becoming the music director in Bonn. Beethoven was born to Johann van Beethoven and Maria Magdalena Keverich in 1770, in Bonn. Of the seven children born to Johann van Beethoven, only Ludwig and two younger brothers survived infancy. 
+
+Beethoven's early musical education was rigorous and demanding, primarily under his father's tutelage. He also received instruction from other local teachers, including the court organist Gilles van den Eeden, Tobias Friedrich Pfeiffer, Franz Rovantini, and court concertmaster Franz Anton Ries. His father, recognizing Beethoven's musical talent, sought to promote him as a child prodigy.
+
+## 1780–1792: Bonn
+
+In 1780 or 1781, Beethoven began his studies with Christian Gottlob Neefe, his most influential teacher in Bonn. Under Neefe's guidance, Beethoven's first published work, a set of keyboard variations, appeared in 1783. He soon began working with Neefe as an assistant organist, first unpaid and then as a paid employee of the court chapel. His first three piano sonatas were published in 1783. 
+
+During these years, Beethoven became acquainted with several influential individuals, including the von Breuning family and Count Ferdinand von Waldstein, who became a friend and financial supporter. However, the period from 1785 to 1790 saw limited records of Beethoven's activity as a composer, likely due to the lukewarm response to his initial publications and ongoing family issues.
+
+## 1792–1802: Vienna – the Early Years
+
+Beethoven left Bonn for Vienna in November 1792. During the next few years, he devoted himself to studying and performing, working under Haydn's direction to master counterpoint. He also began receiving occasional instruction from Antonio Salieri. 
+
+In Vienna, Beethoven began to develop a reputation as a performer and improviser in the salons of the Viennese nobility. By 1793, he had established a reputation as a piano virtuoso. His public debut in Vienna in 1795 was a significant event, and by the end of 1800, Beethoven and his music were in high demand from patrons and publishers. 
+
+During this period, Beethoven also had several notable students, including Ferdinand Ries and Carl Czerny. He also met a young countess, Julie Guicciardi, to whom he dedicated his 1802 Sonata Op. 27 No. 2, now commonly known as the Moonlight Sonata.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Ludwig van Beethoven was a German composer and pianist whose works are among the most performed in the classical music repertoire. Born in Bonn in 1770, Beethoven's musical talent was obvious from an early age. His career is conventionally divided into early, middle, and late periods. Despite his hearing deteriorating, he continued to compose, conduct, and premiere his works. After 1810, he composed many of his most admired works, including later symphonies, mature chamber music and the late piano sonatas. His only opera, Fidelio, was first performed in 1805 and was revised to its final version in 1814. He died in 1827.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Ludwig van Beethoven: Life and Career
+
+## Early Life and Musical Beginnings
+
+Ludwig van Beethoven, born in Bonn, displayed his musical talent at a young age. His father, Johann van Beethoven, was his first teacher, providing him with a rigorous and intense musical education. Beethoven's later education was under the guidance of composer and conductor Christian Gottlob Neefe, who helped him publish his first work, a set of keyboard variations, in 1783. During his early years, Beethoven found solace from his dysfunctional home life with the family of Helene von Breuning, whose children he befriended and taught piano. At the age of 21, he moved to Vienna and studied composition with Joseph Haydn. There, he gained a reputation as a virtuoso pianist and began to receive patronage from Karl Alois, Prince Lichnowsky, resulting in his three Opus 1 piano trios in 1795.
+
+## Middle Period and Deafness
+
+Beethoven's career is typically divided into early, middle, and late periods. His middle period, from 1802 to around 1812, was marked by an individual development from the styles of Haydn and Wolfgang Amadeus Mozart. This period is sometimes characterized as heroic and was also when his hearing began to deteriorate. Despite his hearing loss, he continued to conduct and premiere his works, including his First Symphony in 1800, his Third and Fifth Symphonies in 1804 and 1808, respectively, and his last piano concerto, known as the Emperor, in 1811. By 1814, Beethoven was almost completely deaf and withdrew from public performances and appearances.
+
+## Late Period and Final Works
+
+In his late period, from 1812 to 1827, Beethoven extended his innovations in musical form and expression. Despite becoming less socially involved after 1810, he composed many of his most admired works during this period, including later symphonies, mature chamber music, and the late piano sonatas. His only opera, Fidelio, first performed in 1805, was revised to its final version in 1814. He composed Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, one of the first examples of a choral symphony, between 1822 and 1824. His late string quartets, including the Grosse Fuge, of 1825–1826 are considered some of his final achievements. After several months of illness, Beethoven died in 1827.
+</div>
+</div>
+<div class='slide-pane' id='Ludwig_van_Beethoven-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Ludwig van Beethoven</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Ludwig van Beethoven: Life, Career, and Musical Contributions
+
+Ludwig van Beethoven, a German composer and pianist, was born on 17 December 1770 and passed away on 26 March 1827. His works are among the most performed in the classical music repertoire, and he is widely regarded as one of the most admired composers in the history of Western music. Beethoven's career spanned a critical transition in musical history, bridging the Classical and Romantic periods. His life and work are commonly divided into early, middle, and late periods.
+
+## Early Life and Education
+
+Born in Bonn, Beethoven's musical talent was apparent from an early age. His father, Johann van Beethoven, initially provided him with a rigorous and intensive musical education. Later, Beethoven studied under Christian Gottlob Neefe, a composer and conductor, and published his first work, a set of keyboard variations, in 1783. The family of Helene von Breuning provided a respite from his dysfunctional home life, and Beethoven taught piano to her children. At the age of 21, Beethoven moved to Vienna and studied composition with Joseph Haydn. He quickly gained a reputation as a virtuoso pianist and was patronized by Karl Alois, Prince Lichnowsky, resulting in his three Opus 1 piano trios in 1795.
+
+## Career Milestones: 1800-1811
+
+Beethoven's first major orchestral work, the First Symphony, premiered in 1800, and his first set of string quartets was published in 1801. Despite his deteriorating hearing, he continued to conduct, premiering his Third and Fifth Symphonies in 1804 and 1808, respectively. His Violin Concerto appeared in 1806. His last piano concerto, No. 5, Op. 73, known as the Emperor, premiered in 1811. By 1814, Beethoven was almost completely deaf and withdrew from public performances.
+
+## Late Career: 1812-1827
+
+From 1812 to 1827, Beethoven's late period, he expanded his innovations in musical form and expression. During this period, he composed many of his most admired works, including later symphonies, mature chamber music, and the late piano sonatas. His only opera, Fidelio, first performed in 1805, was revised to its final version in 1814. He composed Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, one of the first examples of a choral symphony, between 1822 and 1824. His late string quartets, including the Grosse Fuge, of 1825–1826 are among his final achievements. After a period of illness, he died in 1827.
+
+## Early Life and Education: Detailed Overview
+
+Beethoven's grandfather, also named Ludwig van Beethoven, was a prominent musician in Bonn. His father, Johann, was a tenor in the same musical establishment and gave keyboard and violin lessons to supplement his income. Beethoven was born to Johann and Maria Magdalena Keverich. Of the seven children born to Johann van Beethoven, only Ludwig, the second-born, and two younger brothers survived infancy. Beethoven's first music teacher was his father, who was known for his harsh and intensive teaching methods. Aware of Leopold Mozart's successes with his son Wolfgang and daughter Nannerl, Johann attempted to promote his son as a child prodigy.
+
+## 1780-1792: Bonn
+
+In 1780 or 1781, Beethoven began studying with Christian Gottlob Neefe, his most important teacher in Bonn. Under Neefe's tutelage, Beethoven's first published work, a set of keyboard variations, appeared in 1783. Beethoven soon began working with Neefe as an assistant organist. His first three piano sonatas were published in 1783. During this period, Beethoven often visited the von Breuning family, where he taught piano to some of the children. He also met Franz Wegeler, a young medical student, who became a lifelong friend.
+
+## 1792-1802: Vienna – The Early Years
+
+Beethoven left Bonn for Vienna in November 1792. Over the next few years, he studied Mozart's work and composed pieces with a distinctly Mozartian flavour. He did not immediately set out to establish himself as a composer, but rather devoted himself to study and performance. Working under Haydn's direction, he sought to master counterpoint. Early in this period, he also began receiving occasional instruction from Antonio Salieri. Beethoven began to develop a reputation as a performer and improviser in the salons of the Viennese nobility.
+
+## Conclusion
+
+Ludwig van Beethoven's life and career were characterized by his exceptional musical talent, his rigorous training, and his enduring influence on Western music. Despite personal challenges, including progressive deafness, he composed a vast body of work that continues to be celebrated and performed worldwide. His contributions to the transition from the Classical period to the Romantic era in classical music are immeasurable, and his legacy continues to inspire musicians and music lovers alike.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Muay Thai, also known as Thai boxing, is a sport where people use their fists, elbows, knees, and shins to strike their opponent. It's called the "Art of eight limbs". It became popular around the world in the late 20th century. People who do Muay Thai are called Nak Muay. Some people think Muay Thai started in Cambodia, while others think it started in Thailand. It was used by soldiers for self-defense and became a sport for entertainment. Today, fighters wear gloves and protective gear. The sport is now recognized by the Olympic Council of Asia and has many gyms worldwide.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Muay Thai Basics
+Muay Thai is a type of boxing that comes from Thailand. It's sometimes called the "Art of eight limbs" because fighters use their fists, elbows, knees, and shins to strike their opponent. This sport started to become popular in other parts of the world in the late 20th to 21st century. People from Thailand traveled to other countries to compete in kickboxing and mixed-rules matches. The Professional Boxing Association of Thailand (P.A.T) and The Sports Authority of Thailand (S.A.T.) are in charge of the professional league.
+
+# Muay Thai History
+People aren't sure where Muay Thai started. Some think it came from a martial art in Cambodia, while others believe it started in Thailand. What we do know is that it was used by the Thai army for self-defense and has been around since at least the 16th century. It was also a sport for people to watch for fun. Fighters would wrap hemp rope around their hands and forearms for protection. This type of match was called Muay Khat Chueak. 
+
+During the reign of King Chulalongkorn in the 19th century, Muay Thai became very popular. It was a way for people to exercise, learn self-defense, and have fun. In the modern era, rules were put in place for the sport, and fighters started wearing gloves and protective gear. The term "Muay Thai" started being used more commonly, while the older style of the sport was called "Muay Boran".
+
+# Muay Thai Rules and Recognition
+In Muay Thai, fighters use their fists, elbows, knees, and feet to strike their opponent. A strike counts as a point if it connects without being blocked. Strikes to the groin were allowed until the late 1980s and are still permitted in Thailand. Mixed-sex fights are not practiced at the international level. If the fight goes the distance and both fighters have the same score, the winner is determined by who landed the most full contact blows.
+
+Muay Thai has been recognized by several international sports organizations. In 1993, the International Federation of Muay Thai Amateur was founded. In 1995, the World Muaythai Council was established by the Thai government. The sport was included in the International World Games Association in 2014 and the World Games in 2017. In 2020, there were more than 3,800 Thai boxing gyms overseas. In 2021, the International Olympic Committee recognized Muay Thai.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Muay Thai: The Art of Eight Limbs
+
+Muay Thai, also known as Thai boxing, is a sport where two people stand up and try to strike each other using different techniques. It's often called the "Art of eight limbs" because it uses the fists, elbows, knees, and shins. It became popular all over the world in the late 20th to 21st century. The Professional Boxing Association of Thailand (P.A.T) and The Sports Authority of Thailand (S.A.T.) are the organizations that manage professional Muay Thai.
+
+Muay Thai is similar to other martial arts like Musti-yuddha, Adimurai, Muay Chaiya, Muay Boran, Muay Lao, Lethwei, Benjang, and Tomoi. A person who practices Muay Thai is called a Nak Muay. If you're from a different country and you practice Muay Thai in Thailand, you might be called Nak Muay Farang, which means "Foreign Boxer".
+
+## History of Muay Thai
+
+The history of Muay Thai is a topic of discussion among scholars. Some believe it came from the Khmer pre-Angkorean martial art Bokator, while others say it originated in Thailand. It's believed that the Siamese army developed Muay Thai as a way to defend themselves. The earliest records of Muay Thai date back to the 16th century when it was practiced by soldiers of King Naresuan.
+
+Muay Thai was also used for entertainment. People would gather to watch these matches, which often took place during festivals and celebrations. The fighters would wrap their hands and forearms with hemp rope for protection. This type of match was called Muay Khat Chueak.
+
+### 19th Century
+
+King Chulalongkorn (Rama V) who ruled from 1868, loved Muay Thai and helped it become more popular. During his reign, Thailand was peaceful and people practiced Muay Thai for exercise, self-defense, and fun.
+
+### The Modern Era
+
+In the early 20th century, Muay Thai became more formalized. King Chulalongkorn introduced Muay Boran ("Ancient Boxing") by giving awards to victors. British boxing was also introduced in schools. The first permanent boxing ring in Siam was built in 1921 at Suan Kulap College. It was used for both Muay Thai and British boxing.
+
+During King Rama VII's rule (1925–1935), rules for Muay Thai were put into place. Fighters started wearing modern gloves and hard groin protectors. The term "Muay Thai" also became commonly used.
+
+Muay Thai was very popular in the 1980s and 1990s. Top fighters could earn up to 200,000 Baht. In 1993, the International Federation of Muay Thai Amateur (IFMA) was formed. It became the governing body of amateur Muay Thai with 128 member countries worldwide. It's recognized by the Olympic Council of Asia.
+
+## Rules of Muay Thai
+
+According to IFMA rules, Muay Thai is a full-contact martial art. You can use your fists, elbows, knees, and feet to strike your opponent. To score a point, your strike has to connect without being blocked by your opponent. Strikes to the groin were allowed until the late 1980s, but now the rules vary depending on the event. Mixed-sex fights are not practiced at the international level.
+
+## Muay Thai and the Olympics
+
+The International Federation of Muaythai Associations (IFMA) was recognized by the International Olympic Committee (IOC) in 2021. This was a big step for Muay Thai. The United States Olympic and Paralympic Committee (USOPC) also approved USA MuayThai in 2023. The 2023 European Games in Krakow, Poland, will include Muay Thai.
+
+## Traditional Wear in Muay Thai
+
+Before a match begins, fighters often wear a mongkhon (headband) and pra jiad (armbands) into the ring. These items were worn by young men in battle for good luck and protection. Today, the mongkol is a tribute to the fighter's gym. It's given to the fighter by the trainer when they believe the fighter is ready to represent the gym in the ring. After the fighter has finished the wai kru (a ritual dance), the trainer will remove the mongkol and place it in their corner of the ring for luck.
+
+## Techniques in Muay Thai
+
+Muay Thai techniques are divided into two groups: mae mai, or "major techniques", and luk mai, or "minor techniques". All techniques in Muay Thai use the entire body movement, rotating the hip with each kick, punch, elbow, and block.
+
+### Punching (Chok)
+
+Punching in Muay Thai has evolved and now includes a range of punches like lead jab, straight/cross, hook, uppercut, shovel and corkscrew punches, hammer fists, and back fists.
+
+### Elbow (Sok)
+
+The elbow can be used in many ways as a striking weapon: horizontal, diagonal-upwards, diagonal-downwards, uppercut, downward, backward-spinning, and flying.
+
+### Kicking (Te)
+
+The two most common kicks in Muay Thai are known as the thip (foot jab) and the te chiang (kicking upwards in the shape of a triangle cutting under the arm and ribs), or roundhouse kick.
+
+### Knee (Ti Khao)
+
+There are several knee strikes in Muay Thai like the jumping knee strike, flying knee strike, and straight knee strike.
+
+### Foot-thrust (Teep)
+
+The foot-thrust, or "foot jab", is used as a defensive technique to control distance or block attacks.
+
+### Clinch and neck wrestling (Chap kho)
+
+In Muay Thai, when two fighters clinch, they are not separated. It is often in the clinch that knee and elbow techniques are used.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Muay Thai, also known as Thai boxing, is a combat sport that uses stand-up striking along with various clinching techniques. It's often called the "Art of eight limbs" because it involves using fists, elbows, knees, and shins. The sport became popular internationally in the late 20th century when practitioners from Thailand started competing globally. The Professional Boxing Association of Thailand governs the professional league. The origins of Muay Thai are debated, but it's believed to have been developed by the Siamese army as a form of self-defense around the 16th century. Today, Muay Thai is practiced worldwide and is governed by several international organizations.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Muay Thai
+Muay Thai, also known as Thai boxing, is a combat sport that originated in Thailand. It is often called the "Art of eight limbs" because it involves the use of fists, elbows, knees, and shins. This sport became internationally popular in the late 20th to 21st century, when practitioners from Thailand began competing around the world. The professional league of Muay Thai is governed by The Professional Boxing Association of Thailand (P.A.T) and sanctioned by The Sports Authority of Thailand (S.A.T.). Practitioners of Muay Thai are known as Nak Muay, and western practitioners in Thailand are referred to as Nak Muay Farang, meaning "Foreign Boxer". Muay Thai is related to other martial arts such as Musti-yuddha, Adimurai, Muay Chaiya, Muay Boran, Muay Lao, Lethwei, Benjang, and Tomoi.
+
+# History of Muay Thai
+The origin of Muay Thai is a subject of scholarly debates. Some believe it originated from the Khmer pre-Angkorean martial art Bokator, while others maintain it originated in Thailand. It is believed to have been developed by the Siamese army as a form of self-defense and can be traced back to the 16th century. Muay Thai was originally called Muay or Toi Muay and was practiced by soldiers during peace times. It later became a sport for entertainment during local festivals and celebrations. Fighters initially fought bare-fisted, but later started wearing lengths of hemp rope around their hands and forearms, in a type of match called Muay Khat Chueak.
+
+# Modern Era of Muay Thai
+In the modern era, Muay Thai underwent significant changes. King Chulalongkorn formalized Muay Boran ("Ancient Boxing") in 1910 by awarding three Muen to victors at the funeral fights for his son. By 1921, the first permanent ring in Siam was built at Suan Kulap College and was used for both Muay and British boxing. Traditional rope-binding (Khat Chueak) was used in fights, but after a death in the ring, it was decided that fighters should wear gloves and cotton coverlets over the feet and ankles. The term "Muay Thai" became commonly used, while the older form of the style came to be known as "Muay Boran". Muay Thai was at the height of its popularity in the 1980s and 1990s. In 1993, the International Federation of Muay Thai Amateur (IFMA) was inaugurated and became the governing body of amateur Muay Thai. In 1995, the World Muaythai Council was established by the Thai government and the World Muay Thai Federation was founded. In 2006, Muay Thai was included in SportAccord with IFMA. In 2014, Muay Thai was included in the International World Games Association (IWGA) and in 2020, there were more than 3,800 Thai boxing gyms overseas.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Muay Thai
+
+Muay Thai, sometimes known as Thai boxing, is a combat sport that uses stand-up striking along with various clinching techniques. The term "Muay Thai" is pronounced [mūa̯j tʰāj] in the Thai language. This discipline is uniquely known as the "Art of eight limbs". This name comes from its use of fists, elbows, knees, and shins, making it distinct from other martial arts which primarily use just fists and feet.
+
+Muay Thai became popular internationally in the late 20th to the 21st century. This happened when practitioners from Thailand started competing in kickboxing and mixed-rules matches around the world. The professional league of Muay Thai is governed by The Professional Boxing Association of Thailand (P.A.T), and sanctioned by The Sports Authority of Thailand (S.A.T.).
+
+Muay Thai is related to other martial art styles such as Musti-yuddha, Adimurai, Muay Chaiya, Muay Boran, Muay Lao, Lethwei, Benjang, and Tomoi. A practitioner of Muay Thai is known as a Nak Muay. Western practitioners in Thailand are sometimes called Nak Muay Farang, which means "Foreign Boxer".
+
+# History of Muay Thai
+
+The origin of Muay Thai is a topic of scholarly debates. Some believe that it originated from the Khmer pre-Angkorean martial art known as Bokator, while others maintain that it originated in Thailand. Muay Thai is believed to have been developed by the Siamese army as a form of self-defence and can be traced back to the 16th century. It was a peace-time martial art practised by the soldiers of King Naresuan. 
+
+An exhibition of Muay Thai was observed and reported by Simon de la Loubère, a French diplomat who was sent by King Louis XIV to the Kingdom of Siam in 1687. Muay Boran, and therefore Muay Thai, was originally called by more generic names such as Toi Muay or simply Muay. As well as being a practical fighting technique for use in actual warfare, Muay became a sport in which the opponents fought in front of spectators who went to watch for entertainment.
+
+These Muay contests gradually became an integral part of local festivals and celebrations, especially those held at temples. Eventually, fighters started wearing lengths of hemp rope around their hands and forearms. This type of match was called Muay Khat Chueak.
+
+## 19th Century
+
+The ascension of King Chulalongkorn (Rama V) to the throne in 1868 ushered in a golden age not only for Muay but for the whole country of Thailand. Muay progressed greatly during the reign of Rama V as a direct result of the king's personal interest in the sport. The country was at peace and Muay functioned as a means of physical exercise, self-defense, attacking, recreation and personal advancement.
+
+## The Modern Era
+
+The modern era of Muay Thai started in the early 20th century. In 1909-1910, King Chulalongkorn formalized Muay Boran ("Ancient Boxing") by awarding three Muen to victors at the funeral fights for his son. In 1913, British boxing was introduced into the curriculum of the Suan Kulap College. This marked the first descriptive use of the term "Muay Thai".
+
+By 1919, British boxing and Muay Thai were taught as one sport in the curriculum of the Suan Kulap College. Judo was also offered. In 1921, the first permanent ring in Siam was built at Suan Kulap College, and it was used for both Muay and British boxing. In 1923, the Suan Sanuk Stadium was built, featuring the first international style three-rope ring with red and blue padded corners, near Lumpinee Park.
+
+King Rama VII (r. 1925–1935) pushed for codified rules for Muay and they were put into place. Thailand's first boxing ring was built in 1921 at Suan Kulap. Referees were introduced and rounds were now timed by kick. Traditional rope-binding (Khat Chueak) made the hands a hardened, dangerous striking tool. The use of knots in the rope over the knuckles made the strikes more abrasive and damaging for the opponent while protecting the hands of the fighter.
+
+Muay Thai was at the height of its popularity in the 1980s and 1990s. Top fighters commanded purses of up to 200,000 Baht and the stadia where gambling was legal drew big gates and big advertising revenues. In 2016, a payout to a superstar fighter was about 100,000 Baht per fight, but can range as high as 540,000 Baht for a bout.
+
+In 1993, the International Federation of Muay Thai Amateur, or IFMA was inaugurated. It became the governing body of amateur Muay Thai consisting of 128 member countries worldwide and is recognised by the Olympic Council of Asia.
+
+# Rules of Muay Thai
+
+According to IFMA rules, Muay Thai is a full contact martial art that uses the fists, elbows, knees and feet to strike an opponent. For a strike to count as a point score, it has to connect without being blocked by your opponent. Strikes do not score if they connect with your opponent's glove, forearm, shin or foot. Strikes to the groin were allowed in Muay Thai boxing until the late 1980s, and are still permitted in Thailand itself, and in club or competition events that abide to the traditional rules. While competitors do wear groin protection, such as cups, the rules for club level sparring and competition events may vary regarding the protective gear that may or may not be worn. Mixed-sex fights are not practiced at international level, but do occur in club and inter-club sparring and competition events. If the fight goes the distance and both fighters finish with the same score, then the winner is determined by which fighter landed the most full contact blows.
+
+# Olympics and Muay Thai
+
+The International Federation of Muaythai Associations (IFMA) was founded in 1992. In 1995, the International Amateur Muay Thai Federation (IAMTF) was founded. In 2012, an official request for International Olympic Committee (IOC) recognition was launched. The first endorsement was received in 2016. In 2017, Muay Thai was included in the World Games. On June 10, 2021, the IOC Board of Directors agreed on the full endorsement of IFMA at the 138th IOC General Assembly in Tokyo. On July 20, 2021, the IOC General Assembly granted full recognition to the International Federation of Muaythai Associations (IFMA) and Muay Thai.
+
+# Traditional Wear in Muay Thai
+
+The mongkhon, or mongkol (headband), and pra jiad (armbands) are often worn into the ring before the match begins. They originated when Siam was in a constant state of war. Young men would tear off pieces of a loved one's clothing (often a mother's sarong) and wear it in battle for good luck as well as to ward off harmful spirits. In modern times, the mongkol is worn as a tribute to the fighter's gym. The mongkol is traditionally presented by a trainer to the fighter when he judges that the fighter is ready to represent the gym in the ring.
+
+# Techniques in Muay Thai
+
+Formal Muay Thai techniques are divided into two groups: mae mai (major techniques), and luk mai (minor techniques). Muay Thai is often a fighting art of attrition, where opponents exchange blows with one another. Almost all techniques in Muay Thai use the entire body movement, rotating the hip with each kick, punch, elbow, and block.
+
+## Punching (Chok)
+
+The punch techniques in Muay Thai were originally quite limited, but have expanded over time to include a wide range of punches, including the lead jab, straight/cross, hook, uppercut, shovel, and corkscrew punches, as well as hammer fists and back fists.
+
+## Elbow (Sok)
+
+The elbow can be used in several ways as a striking weapon, and is considered the most dangerous form of attack in the sport. The elbow strike can cause serious damage to the opponent, including cuts or even a knockout.
+
+## Kicking (Te)
+
+The two most common kicks in Muay Thai are known as the thip (foot jab) and the te chiang (upward triangle kick). The Thai roundhouse kick uses a rotational movement of the entire body and has been widely adopted by practitioners of other combat sports.
+
+## Knee (Ti Khao)
+
+Knee strikes are a crucial part of Muay Thai. There are multiple types of knee strikes, including the jumping knee strike, the flying knee strike, and the straight knee strike.
+
+## Foot-thrust (Teep)
+
+The foot-thrust, or "foot jab", is a defensive technique used to control distance or block attacks. It should be thrown quickly but with enough force to knock an opponent off balance.
+
+## Clinch and neck wrestling (Chap kho)
+
+In Muay Thai, fighters are not separated when they clinch. It is often in the clinch that knee and elbow techniques are used. To strike and bind the opponent for both offensive and defensive purposes, small amounts of stand-up grappling are used in the clinch. This involves the fighter's forearms pressing against the opponent's collar bone while the hands are around the opponent's head. 
+
+# Conclusion
+
+Muay Thai is a unique and complex martial art that requires a high level of skill, strength, and strategy. It's a sport that has evolved over centuries and continues to grow in popularity around the world. Whether you're a practitioner or a fan, understanding the history, rules, and techniques of Muay Thai can deepen your appreciation for this ancient art form.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Muay Thai, also known as Thai boxing, is a martial art characterized by the use of fists, elbows, knees, and shins, earning it the nickname "Art of eight limbs". Originating in Thailand, its history is debated, but it's believed to have been developed by the Siamese army as a form of self-defence in the 16th century. The sport gained international prominence in the late 20th century and is now governed by The Professional Boxing Association of Thailand. It was recognized by the International Olympic Committee in 2021. Fighters employ a variety of techniques, including punches, elbow strikes, kicks, knee strikes, and clinching techniques.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Muay Thai Overview
+Muay Thai, also known as Thai boxing, is a combat sport that employs stand-up striking and various clinching techniques. This sport, often referred to as the "Art of eight limbs", utilizes fists, elbows, knees, and shins in its execution. It gained international popularity in the late 20th to 21st century, when practitioners from Thailand began competing in kickboxing and mixed-rules matches globally. The Professional Boxing Association of Thailand (P.A.T) governs the professional league, with sanctioning from The Sports Authority of Thailand (S.A.T.). A Muay Thai practitioner is referred to as a Nak Muay, while Western practitioners in Thailand are sometimes called Nak Muay Farang, meaning "Foreign Boxer".
+
+# Historical Development
+Muay Thai's origins are a subject of scholarly debate, with some attributing its roots to the Khmer pre-Angkorean martial art Bokator and others insisting it originated in Thailand. It is believed to have been developed by the Siamese army as a self-defense technique, traceable back to the 16th century. Originally called Toi Muay or simply Muay, it evolved from a practical fighting technique for warfare to a sport for entertainment. During the reign of King Chulalongkorn (Rama V) in the late 19th century, Muay Thai progressed greatly due to the king's personal interest. The modern era saw the formalization of Muay Boran ("Ancient Boxing") by King Chulalongkorn and the introduction of British boxing into the curriculum of the Suan Kulap College. The term "Muay Thai" became commonly used, while the older form of the style was referred to as "Muay Boran".
+
+# Modern Era and Rules
+The modern era saw the rise of Muay Thai's popularity in the 1980s and 1990s, with top fighters commanding purses of up to 200,000 Baht. In 1993, the International Federation of Muay Thai Amateur (IFMA) was established, becoming the governing body of amateur Muay Thai. The World Muaythai Council, the oldest and largest professional sanctioning organizations of Muay Thai, was established by the Thai government in 1995. According to IFMA rules, Muay Thai is a full contact martial art using fists, elbows, knees, and feet to strike an opponent. Strikes do not score if they connect with the opponent's glove, forearm, shin, or foot. Mixed-sex fights are not practiced at the international level, but do occur in club and inter-club sparring and competition events.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Muay Thai: The Art of Eight Limbs
+
+Muay Thai, also known as Thai boxing, is a combat sport that uses stand-up striking along with various clinching techniques. This discipline is known as the "Art of eight limbs", as it is characterised by the combined use of fists, elbows, knees and shins. Muay Thai became widespread internationally in the late 20th to 21st century, when Westernised practitioners from Thailand began competing in kickboxing and mixed-rules matches as well as matches under Muay Thai rules around the world. The professional league is governed by The Professional Boxing Association of Thailand (P.A.T), sanctioned by The Sports Authority of Thailand (S.A.T.).
+
+Muay Thai is related to other martial art styles such as Musti-yuddha, Adimurai, Muay Chaiya, Muay Boran, Muay Lao, Lethwei, Benjang and Tomoi. A practitioner of Muay Thai is known as a Nak Muay. Western practitioners in Thailand are sometimes called Nak Muay Farang, meaning "Foreign Boxer".
+
+## History of Muay Thai
+
+The origin of Muay Thai is subject to scholarly debates. Some believe that Muay Thai ultimately originated from the Khmer pre-Angkorean martial art Bokator, while others maintain it originated in Thailand. Muay Thai is believed to have been developed by the Siamese army as a form of self-defence and it can be traced at least to the 16th century as a peace-time martial art practised by the soldiers of King Naresuan. An exhibition of Muay Thai was observed and reported by Simon de la Loubère, a French diplomat who was sent by King Louis XIV to the Kingdom of Siam in 1687, in his famous work and the Ayutthaya Kingdom Burmese–Siamese War (1765–1767). Muay Boran and therefore Muay Thai, was originally called by more generic names such as Toi Muay or simply Muay. As well as being a practical fighting technique for use in actual warfare, Muay became a sport in which the opponents fought in front of spectators who went to watch for entertainment. These Muay contests gradually became an integral part of local festivals and celebrations, especially those held at temples. Eventually, the previously bare-fisted fighters started wearing lengths of hemp rope around their hands and forearms. This type of match was called Muay Khat Chueak (มวยคาดเชือก).
+
+### 19th century
+
+The ascension of King Chulalongkorn (Rama V) to the throne in 1868 ushered in a golden age not only for Muay but for the whole country of Thailand. Muay progressed greatly during the reign of Rama V as a direct result of the king's personal interest in the sport. The country was at peace and Muay functioned as a means of physical exercise, self-defense, attacking, recreation and personal advancement.
+
+### The modern era
+
+The modern era of Muay Thai began in the early 20th century. King Chulalongkorn formalized Muay Boran ("Ancient Boxing") by awarding (in 1910) three Muen to victors at the funeral fights for his son (in 1909). The region style: Lopburi, Korat and Chaiya. In 1913, British boxing was introduced into the curriculum of the Suan Kulap College. The first descriptive use of the term "Muay Thai" was made. In 1919, British boxing and Muay Thai were taught as one sport in the curriculum of the Suan Kulap College. Judo was also offered.
+
+In 1921, the first permanent ring in Siam was built at Suan Kulap College. It was used for both muay and British boxing. In 1923, Suan Sanuk Stadium was built. It was the first international style three-rope ring with red and blue padded corners, near Lumpinee Park. Muay and British boxing was practiced there. King Rama VII (r. 1925–1935) pushed for codified rules for Muay and they were put into place. Thailand's first boxing ring was built in 1921 at Suan Kulap. Referees were introduced and rounds were now timed by kick. Fighters at the Lumpinee Boxing Stadium began wearing modern gloves, as well as hard groin protectors, during training and in boxing matches against foreigners. Traditional rope-binding (Khat Chueak) made the hands a hardened, dangerous striking tool. The use of knots in the rope over the knuckles made the strikes more abrasive and damaging for the opponent while protecting the hands of the fighter. This rope-binding was still used in fights between Thais but after a death in the ring, it was decided that fighters should wear gloves and cotton coverlets over the feet and ankles. It was also around this time that the term "Muay Thai" became commonly used, while the older form of the style came to be known as "Muay Boran", which is now performed primarily as an exhibition art form.
+
+Muay Thai was at the height of its popularity in the 1980s and 1990s. Top fighters commanded purses of up to 200,000 Baht and the stadia where gambling was legal drew big gates and big advertising revenues. In 2016, a payout to a superstar fighter was about 100,000 Baht per fight, but can range as high as 540,000 Baht for a bout. In 1993, the International Federation of Muay Thai Amateur, or IFMA was inaugurated. It became the governing body of amateur Muay Thai consisting of 128 member countries worldwide and is recognised by the Olympic Council of Asia. In 1995, the World Muaythai Council, the oldest and largest professional sanctioning organisations of muay Thai, was established by the Thai government and sanctioned by the Sports Authority of Thailand. In 1995, the World Muay Thai Federation was founded by the merger of two existing organisations, and established in Bangkok, becoming the federation governing international Muay Thai. In August 2012, it had over 70 member countries. Its president is elected at the World Muay Thai Congress.
+
+In 2006, Muay Thai was included in SportAccord with IFMA. One of the requirements of SportAccord was that no sport can have a name of a country in its name. As a result, an amendment was made in the IFMA constitution to change the name of the sport from "Muay Thai" to "Muaythai"  – written as one word in accordance with Olympic requirements.
+
+In 2014, Muay Thai was included in the International World Games Association (IWGA) and was represented in the official programme of The World Games 2017 in Wrocław, Poland. In January 2015, Muay Thai was granted the patronage of the International University Sports Federation (FISU) and, from 16 to 23 March 2015, the first University World Muaythai Cup was held in Bangkok. In 2020, there are more than 3,800 Thai boxing gyms overseas.
+
+## Rules of Muay Thai
+
+According to IFMA rules, Muay Thai is a full contact martial art that uses the fists, elbows, knees and feet to strike an opponent. For a strike to count as a point score, it has to connect without being blocked by your opponent. Strikes do not score if they connect with your opponent's glove, forearm, shin or foot. Strikes to the groin were allowed in Muay Thai boxing until the late 1980s, and are still permitted in Thailand itself, and in club or competition events that abide to the traditional rules. While competitors do wear groin protection, such as cups, the rules for club level sparring and competition events may vary regarding the protective gear that may or may not be worn. Mixed-sex fights are not practiced at international level, but do occur in club and inter-club sparring and competition events. If the fight goes the distance and both fighters finish with the same score, then the winner is determined by which fighter landed the most full contact blows.
+
+## Olympics and Muay Thai
+
+Timeline of International Federation of Muaythai Associations (IFMA) from founding to International Olympic Committee (IOC) recognition:
+
+- 1992 – National Federation of Muaythai Associations founded.
+- 1995 – International Amateur Muay Thai Federation (IAMTF) founded.
+- 2012 – Official request for International Olympic Committee (IOC) recognition launched.
+- 2016 – First endorsement received.
+- 2017 – Muaythai is included in the World Games.
+- 2021 – On June 10, the IOC Board of Directors agreed on the full endorsement of IFMA at the 138th IOC General Assembly in Tokyo.
+- 2021 – On July 20, the IOC General Assembly granted full recognition to the International Federation of Muaythai Associations (IFMA) and Muaythai.
+- 2023 – On January 11, USA MuayThai has been officially approved by The United States Olympic and Paralympic Committee (USOPC) and was recognized by the organization’s committee as the newest member with a chance to build on the 2028 Olympic in the United States.
+- 2023 – The European Olympic Committees (EOC) had officially announced the inclusion of Muay Thai, or Thai-style boxing, at the 2023 European Games to be held in Krakow, Poland.
+
+## Traditional wear in Muay Thai
+
+The mongkhon, or mongkol (headband), and pra jiad (armbands) are often worn into the ring before the match begins. They originated when Siam was in a constant state of war. Young men would tear off pieces of a loved one's clothing (often a mother's sarong) and wear it in battle for good luck as well as to ward off harmful spirits. In modern times, the mongkol (lit. "holy spirit", "luck", "protection") is worn as a tribute to the fighter's gym. The mongkol is traditionally presented by a trainer to the fighter when he judges that the fighter is ready to represent the gym in the ring. Often, after the fighter has finished the wai kru, the trainer will take the mongkol off his head and place it in his corner of the ring for luck. They were also used for protection. Whether the fighter is a Buddhist or not, it is common for them to bring the mongkol to a Buddhist monk who blesses it for good luck prior to stepping into the ring.
+
+## Techniques in Muay Thai
+
+Formal muay Thai techniques are divided into two groups: mae mai (แม่ไม้), or "major techniques", and luk mai (ลูกไม้), or "minor techniques". Muay Thai is often a fighting art of attrition, where opponents exchange blows with one another. This is certainly the case with traditional stylists in Thailand, but is a less popular form of fighting in the contemporary world fighting circuit where the Thai style of exchanging blow for blow is no longer favorable. Almost all techniques in muay Thai use the entire body movement, rotating the hip with each kick, punch, elbow and block.
+
+### Punching (Chok)
+
+The punch techniques in muay Thai were originally quite limited, being crosses and a long (or lazy) circular strike made with a straight (but not locked) arm and landing with the heel of the palm. Cross-fertilisation with Western boxing and Western martial arts mean the full range of western boxing punches are now used: lead jab, straight/cross, hook, uppercut, shovel and corkscrew punches and overhands, as well as hammer fists and back fists. As a tactic, body punching is used less in muay Thai than most other striking combat sports to avoid exposing the attacker's head to counter strikes from knees or elbows. To utilize the range of targeting points, in keeping with the centre line theory, the fighter can use either the Western or Thai stance which allows for either long range or short range attacks to be undertaken effectively without compromising guard.
+
+### Elbow (Sok)
+
+The elbow can be used in several ways as a striking weapon: horizontal, diagonal-upwards, diagonal-downwards, uppercut, downward, backward-spinning,and flying. From the side, it can be used as either a finishing move or as a way to cut the opponent's eyebrow so that blood might block his vision. The diagonal elbows are faster than the other forms but are less powerful. The elbow strike is considered the most dangerous form of attack in the sport.
+
+### Kicking (Te)
+
+The two most common kicks in muay Thai are known as the thip (literally "foot jab") and the te chiang (kicking upwards in the shape of a triangle cutting under the arm and ribs), or roundhouse kick. The Thai roundhouse kick uses a rotational movement of the entire body and has been widely adopted by practitioners of other combat sports.
+
+### Knee (Ti Khao)
+
+There are several types of knee strikes in Muay Thai, including the jumping knee strike, the flying knee strike and the straight knee strike.
+
+### Foot-thrust (Teep)
+
+The foot-thrust, or literally, "foot jab", is one of the techniques in muay Thai. It is mainly used as a defensive technique to control distance or block attacks. Foot-thrusts should be thrown quickly but with enough force to knock an opponent off balance.
+
+### Clinch and neck wrestling (Chap kho)
+
+In Western boxing, the two fighters are separated when they clinch; in muay Thai, however, they are not. It is often in the clinch that knee and elbow techniques are used. To strike and bind the opponent for both offensive and defensive purposes, small amounts of stand-up grappling are used in the clinch. The front clinch should be performed with the palm of one hand on the back of the other. There are three reasons why the fingers must not be intertwined. 1) In the ring fighters are wearing boxing gloves and cannot intertwine their fingers. 2) The Thai front clinch involves pressing the head of the opponent downwards, which is easier if the hands are locked behind the back of the head instead of behind the neck. Furthermore, the arms should be putting as much pressure on the neck as possible. 3) A fighter may incur an injury to one or more fingers if they are intertwined, and it becomes more difficult to release the grip in order to quickly elbow the opponent's head. A correct clinch also involves the fighter's forearms pressing against the opponent's collar bone while the hands are around the opponent's head rather than the opponent's neck. The general way to get out of a clinch is to push the opponent's head backward or elbow them, as the clinch requires both participants to be very close to one another.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Muay Thai, also known as Thai boxing, is a combat sport known as the "Art of eight limbs" due to the combined use of fists, elbows, knees, and shins. Originating from Thailand, it gained international popularity during the late 20th to 21st century. The sport's history is subject to debate, with some attributing its origins to the Khmer pre-Angkorean martial art Bokator, while others claim it originated in Thailand. It was developed by the Siamese army for self-defence and has become a popular sport, with matches held at local festivals and celebrations. The sport is governed by The Professional Boxing Association of Thailand and The Sports Authority of Thailand.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Overview of Muay Thai
+Muay Thai, also known as Thai boxing, is a combat sport that employs stand-up striking and various clinching techniques. It is often referred to as the "Art of eight limbs" due to the combined use of fists, elbows, knees, and shins. The sport gained international popularity in the late 20th to 21st century when practitioners from Thailand began competing globally. It is governed by The Professional Boxing Association of Thailand (P.A.T) and sanctioned by The Sports Authority of Thailand (S.A.T.). Muay Thai is related to other martial arts styles such as Musti-yuddha, Adimurai, Muay Chaiya, Muay Boran, Muay Lao, Lethwei, Benjang, and Tomoi. Its practitioners are known as Nak Muay, with Western practitioners in Thailand sometimes referred to as Nak Muay Farang, meaning "Foreign Boxer".
+
+# History and Evolution of Muay Thai
+The origins of Muay Thai are debated among scholars, with some believing it originated from the Khmer pre-Angkorean martial art Bokator, while others maintain it originated in Thailand. It is believed to have been developed by the Siamese army as a form of self-defence and can be traced to at least the 16th century. It evolved from a practical fighting technique for use in warfare to a sport for entertainment. The fighters initially used bare fists but later started wearing lengths of hemp rope around their hands and forearms. This type of match was called Muay Khat Chueak. The sport progressed greatly during the reign of King Chulalongkorn (Rama V) in the 19th century. The modern era saw the formalization of Muay Boran ("Ancient Boxing") by King Chulalongkorn and the introduction of British boxing into the sport's curriculum. The sport witnessed its peak popularity in the 1980s and 1990s.
+
+# Rules and Techniques of Muay Thai
+According to the International Federation of Muay Thai Amateur (IFMA) rules, Muay Thai is a full contact martial art that uses the fists, elbows, knees, and feet to strike an opponent. For a strike to count as a point score, it has to connect without being blocked by the opponent. The techniques in Muay Thai are divided into two groups: mae mai (major techniques) and luk mai (minor techniques). It involves the use of the entire body movement, rotating the hip with each kick, punch, elbow, and block. The techniques include punching (Chok), elbow strikes (Sok), kicking (Te), knee strikes (Ti Khao), foot-thrust (Teep), and clinch and neck wrestling (Chap kho). The sport was included in the International World Games Association (IWGA) in 2014 and was represented in the official programme of The World Games 2017. In 2021, the International Olympic Committee (IOC) granted full recognition to the International Federation of Muaythai Associations (IFMA) and Muay Thai.
+</div>
+</div>
+<div class='slide-pane' id='Muay_Thai-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Muay Thai</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Muay Thai
+Muay Thai, also known as Thai boxing, is a combat sport that utilizes stand-up striking along with various clinching techniques. The sport is often referred to as the "Art of eight limbs" due to its combined use of fists, elbows, knees, and shins. The international prominence of Muay Thai grew significantly from the late 20th to the 21st century when practitioners from Thailand began participating in kickboxing and mixed-rules matches, as well as matches under Muay Thai rules around the world. The professional league of this sport is governed by The Professional Boxing Association of Thailand (P.A.T) and sanctioned by The Sports Authority of Thailand (S.A.T.). 
+
+Muay Thai has connections to other martial art styles such as Musti-yuddha, Adimurai, Muay Chaiya, Muay Boran, Muay Lao, Lethwei, Benjang, and Tomoi. Practitioners of Muay Thai are known as Nak Muay. Western practitioners in Thailand are sometimes referred to as Nak Muay Farang, which translates to "Foreign Boxer".
+
+# History of Muay Thai
+## Origins and Early History
+The origins of Muay Thai are a subject of academic debate. Some scholars propose that it originated from the Khmer pre-Angkorean martial art Bokator, while others believe it originated in Thailand. The sport is thought to have been developed by the Siamese army as a form of self-defence and can be traced back to the 16th century as a peace-time martial art practiced by the soldiers of King Naresuan. 
+
+Simon de la Loubère, a French diplomat sent by King Louis XIV to the Kingdom of Siam in 1687, reported an exhibition of Muay Thai in his famous work on the Ayutthaya Kingdom Burmese–Siamese War (1765–1767). Originally called by more generic names such as Toi Muay or simply Muay, it was not only a practical fighting technique for warfare but also a sport for spectators' entertainment. These Muay contests gradually became an integral part of local festivals and celebrations, especially those held at temples. Eventually, fighters started wearing lengths of hemp rope around their hands and forearms in a type of match known as Muay Khat Chueak.
+
+## 19th Century Developments
+The ascension of King Chulalongkorn (Rama V) to the throne in 1868 marked a golden age for Muay Thai and Thailand as a whole. The sport progressed significantly during Rama V's reign due to the king's personal interest. During this peaceful era, Muay Thai served as a form of physical exercise, self-defense, recreation, and personal advancement.
+
+## The Modern Era
+The modern era of Muay Thai began with significant developments in the early 20th century. In 1909-1910, King Chulalongkorn formalized Muay Boran ("Ancient Boxing") by awarding three Muen to victors at his son's funeral fights. In 1913, British boxing was introduced into the curriculum of the Suan Kulap College, marking the first descriptive use of the term "Muay Thai". 
+
+By 1919, British boxing and Muay Thai were taught as one sport at the Suan Kulap College, and Judo was also offered. In 1921, the first permanent ring in Siam was built at Suan Kulap College, used for both Muay Thai and British boxing. By 1923, Suan Sanuk Stadium housed the first international style three-rope ring with red and blue padded corners, near Lumpinee Park. King Rama VII (r. 1925–1935) pushed for codified rules for Muay Thai, leading to the introduction of referees and timed rounds by kick. 
+
+In this era, fighters at the Lumpinee Boxing Stadium began wearing modern gloves and hard groin protectors during training and boxing matches against foreigners. Traditional rope-binding (Khat Chueak) hardened the hands for striking, with knots in the rope over the knuckles making strikes more abrasive and damaging while protecting the fighter's hands. After a death in the ring, it was decided that fighters should wear gloves and cotton coverlets over the feet and ankles. Around this time, the term "Muay Thai" became commonly used, while the older form of the style was referred to as "Muay Boran", which is now performed primarily as an exhibition art form.
+
+Muay Thai reached the height of its popularity in the 1980s and 1990s. Top fighters commanded purses of up to 200,000 Baht, and the stadia where gambling was legal drew large audiences and significant advertising revenues. In 2016, a superstar fighter could earn about 100,000 Baht per fight, with payouts reaching as high as 540,000 Baht for a bout. 
+
+In 1993, the International Federation of Muay Thai Amateur (IFMA) was inaugurated, becoming the governing body of amateur Muay Thai with 128 member countries worldwide and recognition by the Olympic Council of Asia. In 1995, the Thai government established the World Muaythai Council, the oldest and largest professional sanctioning organization of Muay Thai, sanctioned by the Sports Authority of Thailand. The same year, the World Muay Thai Federation was founded by the merger of two existing organizations, becoming the federation governing international Muay Thai. By August 2012, it had over 70 member countries. 
+
+In 2006, Muay Thai was included in SportAccord with IFMA, which required the sport's name to change from "Muay Thai" to "Muaythai", written as one word in accordance with Olympic requirements. In 2014, Muay Thai was included in the International World Games Association (IWGA) and was represented in the official programme of The World Games 2017 in Wrocław, Poland. In January 2015, Muay Thai was granted the patronage of the International University Sports Federation (FISU), and the first University World Muaythai Cup was held in Bangkok in March 2015. By 2020, there were more than 3,800 Thai boxing gyms overseas.
+
+# Rules of Muay Thai
+According to IFMA rules, Muay Thai is a full contact martial art that uses fists, elbows, knees, and feet to strike an opponent. For a strike to count as a point score, it has to connect without being blocked by the opponent. Strikes do not score if they connect with the opponent's glove, forearm, shin, or foot. Strikes to the groin were allowed in Muay Thai boxing until the late 1980s and are still permitted in Thailand itself, and in club or competition events that abide by traditional rules. While competitors do wear groin protection, such as cups, the rules for club-level sparring and competition events may vary regarding the protective gear that may or may not be worn. Mixed-sex fights are not practiced at the international level, but they do occur in club and inter-club sparring and competition events. If a fight goes the distance and both fighters finish with the same score, then the winner is determined by which fighter landed the most full contact blows.
+
+# Muay Thai in the Olympics
+The timeline of the International Federation of Muaythai Associations (IFMA) from founding to International Olympic Committee (IOC) recognition is as follows:
+
+- 1992: National Federation of Muaythai Associations founded.
+- 1995: International Amateur Muay Thai Federation (IAMTF) founded.
+- 2012: Official request for International Olympic Committee (IOC) recognition launched.
+- 2016: First endorsement received.
+- 2017: Muaythai is included in the World Games.
+- 2021: On June 10, the IOC Board of Directors agreed on the full endorsement of IFMA at the 138th IOC General Assembly in Tokyo.
+- 2021: On July 20, the IOC General Assembly granted full recognition to the International Federation of Muaythai Associations (IFMA) and Muaythai.
+- 2023: On January 11, USA MuayThai was officially approved by The United States Olympic and Paralympic Committee (USOPC) and was recognized by the organization’s committee as the newest member with a chance to build on the 2028 Olympic in the United States.
+- 2023: The European Olympic Committees (EOC) officially announced the inclusion of Muay Thai, or Thai-style boxing, at the 2023 European Games to be held in Krakow, Poland.
+
+# Traditional Wear in Muay Thai
+Traditional wear in Muay Thai includes the mongkhon or mongkol (headband), and pra jiad (armbands), often worn into the ring before a match begins. These items originated when Siam was in a constant state of war and young men would tear off pieces of a loved one's clothing (often a mother's sarong) and wear it in battle for good luck and protection against harmful spirits. In modern times, the mongkol is worn as a tribute to the fighter's gym and is traditionally presented by a trainer to the fighter when he judges that the fighter is ready to represent the gym in the ring. After the fighter has finished the wai kru, the trainer will take the mongkol off his head and place it in his corner of the ring for luck. 
+
+# Techniques in Muay Thai
+Formal Muay Thai techniques are divided into two groups: mae mai (major techniques), and luk mai (minor techniques). Muay Thai is often a fighting art of attrition, where opponents exchange blows with one another. This is particularly the case with traditional stylists in Thailand, but is a less popular form of fighting in the contemporary world fighting circuit where the Thai style of exchanging blow for blow is no longer favorable. Almost all techniques in Muay Thai use the entire body movement, rotating the hip with each kick, punch, elbow, and block.
+
+## Punching (Chok)
+The punch techniques in Muay Thai were originally quite limited, being crosses and a long (or lazy) circular strike made with a straight (but not locked) arm and landing with the heel of the palm. Cross-fertilisation with Western boxing and Western martial arts means the full range of western boxing punches are now used: lead jab, straight/cross, hook, uppercut, shovel and corkscrew punches and overhands, as well as hammer fists and back fists. 
+
+Body punching is used less in Muay Thai than most other striking combat sports to avoid exposing the attacker's head to counter strikes from knees or elbows. To utilize the range of targeting points, in keeping with the center line theory, the fighter can use either the Western or Thai stance which allows for either long range or short range attacks to be undertaken effectively without compromising guard.
+
+## Elbow (Sok)
+The elbow can be used in several ways as a striking weapon: horizontal, diagonal-upwards, diagonal-downwards, uppercut, downward, backward-spinning, and flying. From the side, it can be used as either a finishing move or as a way to cut the opponent's eyebrow so that blood might block his vision. The diagonal elbows are faster than the other forms but are less powerful. The elbow strike is considered the most dangerous form of attack in the sport.
+
+## Kicking (Te)
+The two most common kicks in Muay Thai are known as the thip (foot jab) and the te chiang (kicking upwards in the shape of a triangle cutting under the arm and ribs), or roundhouse kick. The Thai roundhouse kick uses a rotational movement of the entire body and has been widely adopted by practitioners of other combat sports. 
+
+## Knee (Ti Khao)
+Knee strikes in Muay Thai include the khao dot (jumping knee strike), khao loi (flying knee strike), and khao thon (straight knee strike). The single elbow is a move independent from any other, whereas a follow-up elbow is the second strike from the same arm, being a hook or straight punch first with an elbow follow-up. 
+
+## Foot-thrust (Teep)
+The foot-thrust, or "foot jab", is mainly used as a defensive technique to control distance or block attacks. Foot-thrusts should be thrown quickly but with enough force to knock an opponent off balance.
+
+## Clinch and neck wrestling (Chap kho)
+In contrast to Western boxing where the two fighters are separated when they clinch, in Muay Thai, they are not. It is often in the clinch where knee and elbow techniques are used. To strike and bind the opponent for both offensive and defensive purposes, small amounts of stand-up grappling are used in the clinch. The front clinch should be performed with the palm of one hand on the back of the other. There are three reasons why the fingers must not be intertwined. 
+
+# Conclusion
+Muay Thai is a complex and rich martial art with a long history and deep cultural roots in Thailand. Its evolution and growth over the centuries have made it a popular sport and form of self-defense worldwide. The sport's emphasis on full body movement and the use of multiple striking points offer a comprehensive and rigorous physical challenge. With its recent recognition by the International Olympic Committee, Muay Thai is set to gain even more global recognition and respect.
 </div>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0100'>
@@ -5209,5 +7540,368 @@ MythBusters refuse to test some myths. Paranormal concepts, such as aliens or gh
 ## Conclusion
 
 The MythBusters series has proven to be a significant contribution to science entertainment, providing viewers with an engaging and educational exploration of various myths and misconceptions. Its unique blend of scientific experimentation, entertainment, and education has made it a popular choice for viewers worldwide. Despite the show's cancellation, its impact continues to be felt through its various spin-offs and revivals. The series has not only debunked numerous myths but also sparked interest in scientific inquiry among its viewers, thus leaving a lasting legacy in the realm of science entertainment.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Napoleon Bonaparte was a famous French leader who was born in Corsica. He became a powerful military commander during the French Revolution and later became the leader of France. He led many successful battles and introduced important changes that are still in place today. Napoleon was known for his smart strategies and is still studied by military students around the world. However, he also led France into many wars, which caused the deaths of millions of people. After losing a big battle in 1815, he was sent to live on a faraway island until he died in 1821.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Napoleon Bonaparte: The Early Years
+
+Napoleon Bonaparte was a famous leader from France. He was born on August 15, 1769, on an island called Corsica, which had just become part of France. Napoleon's family was from Italy, but they were not very rich or powerful. As a young man, Napoleon joined the French army and supported the French Revolution, which was a time when many people in France wanted to change their government. He quickly became an important military leader. In 1796, he led the French army to many victories against Austria and became a national hero. Two years later, he went to Egypt and became even more powerful. In 1799, he took over the government of France and in 1804, he made himself the Emperor.
+
+# Napoleon's Wars and Defeats
+
+Napoleon was a very successful military leader, and he won many wars. However, he also had many enemies. In 1805, he fought a war against the United Kingdom and won. But in 1806, another group of countries, including Russia, fought against him. Napoleon won again, but the wars were very destructive and many people died. In 1808, Napoleon tried to take over Spain, but the Spanish people fought back and he was defeated. In 1812, he tried to invade Russia, but this was a disaster and many of his soldiers died. In 1813, many countries joined together to fight against Napoleon, and they defeated him and took over France. Napoleon was forced to leave France and live on a small island called Elba.
+
+# Napoleon's Impact and Later Life
+
+Even though Napoleon was defeated, he is still remembered as a great leader. He made many changes in France and other countries that are still important today. For example, he made laws that are still used in many parts of Europe. But Napoleon didn't stay on Elba for long. In 1815, he escaped from the island and took over France again. But the other countries joined together again to fight him, and he was defeated at a big battle called Waterloo. After this, he was sent to live on a faraway island called Saint Helena, where he died in 1821. Even though he was often at war, Napoleon helped to shape the modern world.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Napoleon Bonaparte: A Story for Kids
+
+## Who was Napoleon Bonaparte?
+
+Napoleon Bonaparte was a famous leader from France who lived a long time ago, from 1769 to 1821. He was a very important person in the French Revolution, a time when the people of France fought against their king. Napoleon was a very good soldier and won many battles. He became the leader of France and even made himself the Emperor, which is like a king.
+
+Napoleon was born on an island called Corsica, which became part of France just before he was born. His family was from Italy and they were not very rich, but not very poor either. Napoleon decided to support the French Revolution and tried to spread its ideas to Corsica. He quickly became a high-ranking soldier after he helped stop a group of people who wanted the king back. He became a hero in France after winning many battles against Austria and Italy. 
+
+## Napoleon's Rise to Power
+
+In 1799, Napoleon took over the government of France in a move called a coup. He became the "First Consul" of the French Republic, which was like being the president. Then, in 1804, he made himself the Emperor of the French, which made him even more powerful. 
+
+Napoleon had many battles with other countries during his time as leader. He won a lot of these battles and took control of many places in Europe. But he also made some mistakes. He tried to stop British ships from trading with other countries, which made Spain and Portugal angry. They fought against him with help from Britain, and Napoleon's armies lost. 
+
+In 1812, Napoleon tried to invade Russia, but it didn't go well. His armies had to retreat, or go back, and many soldiers died. The next year, many countries joined together to fight against Napoleon. They defeated him and took over Paris, the capital of France. Napoleon had to give up his power and was sent away to an island called Elba. 
+
+But Napoleon didn't give up. He escaped from Elba in 1815 and took control of France again. But the other countries joined together again and defeated him at a big battle called Waterloo. This time, Napoleon was sent to a faraway island called Saint Helena, where he died in 1821.
+
+## The Impact of Napoleon
+
+Even though Napoleon often fought with other countries, he also made a lot of changes in France and other places he controlled. He made laws that gave people more freedom and tried to make things fairer. These changes had a big impact and many are still around today. 
+
+## Napoleon's Early Life
+
+Napoleon's family was from Italy, but he was born on Corsica, an island that had just become part of France. He was the fourth of eight children in his family. When he was nine years old, he moved to France to go to school. He learned French there, but he always had a bit of an accent because he grew up speaking Italian and Corsican. 
+
+Napoleon was very good at math and liked studying history and geography. He wasn't very popular with the other kids because he was different, but he showed that he was a good leader. After he finished school, he went to a military academy in Paris to become a soldier.
+
+## Napoleon's Early Career
+
+After finishing his training, Napoleon became a lieutenant, which is a kind of officer, in the French army. He was very proud of being from Corsica and wanted it to be independent from France. But his ideas didn't always make him popular. He even had to leave Corsica and move to a city in France called Toulon.
+
+In Toulon, Napoleon showed how good he was at using cannons. He helped the French army take over the city from the British. After that, he was put in charge of the French army in Italy. He also started using the French version of his name, "Napoléon Bonaparte", instead of the Italian version, "Napoleone Buonaparte".
+
+## Napoleon's Battles
+
+Napoleon was very good at planning battles. He won many victories against Austria and Italy, which made him even more famous in France. He even managed to make Austria make peace with France. This gave France control over many places in Italy and other countries. 
+
+But Napoleon also made some enemies. He took over Venice, which had been independent for over a thousand years. He even took some famous statues from Venice back to France.
+
+## Napoleon's Fall from Power
+
+Napoleon made a big mistake when he tried to invade Russia in 1812. His army was not prepared for the harsh Russian winter and had to retreat. Many soldiers died from the cold and lack of food. 
+
+The next year, many countries joined together to fight against Napoleon. They defeated him and took over Paris. Napoleon had to give up his power and was sent away to an island called Elba. But he escaped from Elba and took control of France again. However, the other countries joined together again and defeated him at a big battle called Waterloo. This time, Napoleon was sent to a faraway island called Saint Helena, where he died in 1821.
+
+Even though Napoleon often made mistakes, he also did a lot of good things. He made laws that gave people more freedom and tried to make things fairer. These changes had a big impact and many are still around today.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Napoleon Bonaparte, born in 1769, was a French military leader who rose to power during the French Revolution. He led successful campaigns during the Revolutionary Wars and was the leader of the French Republic from 1799 to 1804, and then Emperor of the French from 1804 to 1814 and again in 1815. His political and cultural legacy endures, and he is considered one of the greatest military commanders in history. Napoleon was born in Corsica and supported the French Revolution while serving in the French army. He quickly rose through the ranks after saving the French government from royalist insurgents. He led a military expedition to Egypt, which led to his political rise. He was defeated and exiled in 1814, but escaped in 1815 and took control of France again, before being defeated at the Battle of Waterloo. He died in exile in 1821.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Napoleon Bonaparte's Rise to Power
+Napoleon Bonaparte, born in Corsica, rose to prominence during the French Revolution. He was a military commander and political leader who led successful campaigns during the Revolutionary Wars. Napoleon ruled France as the First Consul from 1799 to 1804, and then as Emperor of the French from 1804 until 1814 and again in 1815. He initiated many liberal reforms and is considered one of the greatest military commanders in history. His political and cultural legacy endures to this day. However, his campaigns also resulted in the death of three to six million civilians and soldiers.
+
+# Napoleon's Military Campaigns
+Napoleon's military campaigns were extensive and impactful. He led a military expedition to Egypt that served as a springboard to political power. He conquered many nations, including Austria, Prussia, and Russia, and forced them into treaties. However, his attempt to extend his embargo against Britain by invading the Iberian Peninsula and declaring his brother Joseph the King of Spain in 1808 backfired. The Spanish and the Portuguese revolted, resulting in defeat for Napoleon's marshals. Napoleon's invasion of Russia in the summer of 1812 also ended in a catastrophic retreat. In 1813, Prussia and Austria joined Russian forces against France, leading to Napoleon's defeat at the Battle of Leipzig. He was exiled to the island of Elba in 1814.
+
+# Napoleon's Final Years and Legacy
+Napoleon escaped from Elba in February 1815 and took control of France again. However, he was defeated at the Battle of Waterloo in June 1815 by a Seventh Coalition formed by the Allies. He was then exiled to the remote island of Saint Helena in the Atlantic, where he died in 1821 at the age of 51. Despite his eventual defeat, Napoleon had a significant impact on the modern world. He brought liberal reforms to the lands he conquered, especially the regions of the Low Countries, Switzerland, and parts of modern Italy and Germany. His liberal policies in France and Western Europe have endured to this day.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Napoleon Bonaparte
+
+Napoleon Bonaparte, or Napoleone Buonaparte as he was born, was a French military leader and political figure who played a significant role during the French Revolution. He was born on the 15th of August, 1769, and passed away on the 5th of May, 1821. Napoleon is remembered as one of the greatest military commanders in history, and his strategies and campaigns are still studied in military schools around the world.
+
+Napoleon was not just a military leader, but also a political leader. He was the First Consul of the French Republic from 1799 to 1804, and then became the Emperor of the French from 1804 to 1814, and again in 1815. His political and cultural legacy is still remembered today, and he is often seen as a controversial figure.
+
+During his time as a leader, Napoleon initiated many liberal reforms that have continued to influence society. However, his reign was also marked by the Napoleonic Wars, which resulted in the death of between three and six million civilians and soldiers.
+
+## Early Life
+
+Napoleon was born on the island of Corsica, shortly after it was annexed by France. His family was of minor Italian nobility. As a young man, Napoleon supported the French Revolution while serving in the French army, and he attempted to spread its ideals to his native Corsica. He quickly rose through the ranks in the army after he saved the French Directory by firing on royalist insurgents.
+
+In 1796, Napoleon began a military campaign against the Austrians and their Italian allies. He won several decisive victories and became a national hero. Two years later, he led a military expedition to Egypt, which served as a stepping stone to political power. In November 1799, he staged a coup and became First Consul of the Republic. In 1804, he crowned himself Emperor of the French to consolidate his power.
+
+## Military Campaigns
+
+Napoleon's first major military challenge as Emperor came in 1805, when differences with the United Kingdom led to the War of the Third Coalition. Napoleon was successful in shattering this coalition with victories in the Ulm campaign and at the Battle of Austerlitz, which resulted in the dissolution of the Holy Roman Empire.
+
+In 1806, the Fourth Coalition rose against Napoleon. However, he defeated Prussia at the battles of Jena and Auerstedt, marched his army into Eastern Europe, and defeated the Russians in June 1807 at Friedland. The defeated nations of the Fourth Coalition were forced to accept the Treaties of Tilsit.
+
+In 1808, Napoleon invaded the Iberian Peninsula and declared his brother Joseph the King of Spain. However, the Spanish and the Portuguese revolted in the Peninsular War, aided by a British army, culminating in defeat for Napoleon's marshals. 
+
+In 1812, Napoleon launched an invasion of Russia. This campaign witnessed the catastrophic retreat of Napoleon's Grande Armée. In 1813, Prussia and Austria joined Russian forces in a Sixth Coalition against France. A large coalition army defeated Napoleon at the Battle of Leipzig. The coalition invaded France and captured Paris, forcing Napoleon to abdicate in April 1814. He was exiled to the island of Elba, between Corsica and Italy. 
+
+In France, the Bourbons were restored to power. However, Napoleon escaped in February 1815 and took control of France. The Allies responded by forming a Seventh Coalition, which defeated Napoleon at the Battle of Waterloo in June 1815. The British exiled him to the remote island of Saint Helena in the Atlantic, where he died in 1821 at the age of 51.
+
+## Impact on the Modern World
+
+Napoleon had a significant impact on the modern world. He brought liberal reforms to the lands he conquered, especially the regions of the Low Countries, Switzerland, and parts of modern Italy and Germany. He implemented many liberal policies in France and Western Europe.
+
+## Early Life Details
+
+Napoleon's family was of Italian origin. His paternal ancestors, the Buonapartes, descended from a minor Tuscan noble family that emigrated to Corsica in the 16th century, and his maternal ancestors, the Ramolinos, descended from a minor Genoese noble family. His parents, Carlo Maria di Buonaparte and Maria Letizia Ramolino, maintained an ancestral home called "Casa Buonaparte" in Ajaccio. Napoleon was born there on 15 August 1769. He was the family's fourth child and third son.
+
+Napoleon was born one year after the Republic of Genoa ceded Corsica to France. The state sold sovereign rights a year before his birth, and the island was conquered by France during the year of his birth. It was formally incorporated as a province in 1770, after 500 years under Genoese rule and 14 years of independence.
+
+When he turned 9 years old, he moved to the French mainland and enrolled at a religious school in Autun in January 1779. In May, he transferred with a scholarship to a military academy at Brienne-le-Château. He began learning French in school at around age 10. Although he became fluent in French, he spoke with a distinctive Corsican accent and never learned to spell in French.
+
+## Early Career
+
+Upon graduating in September 1785, Bonaparte was commissioned a second lieutenant in La Fère artillery regiment. He served in Valence and Auxonne until after the outbreak of the French Revolution in 1789. Bonaparte was a fervent Corsican nationalist during this period. He asked for leave to join his mentor Pasquale Paoli, when Paoli was allowed to return to Corsica by the National Assembly. However, Paoli had no sympathy for Napoleon, as he deemed his father a traitor for having deserted the cause of Corsican independence.
+
+In July 1793, Bonaparte published a pro-republican pamphlet, Le souper de Beaucaire (Supper at Beaucaire), which gained him the support of Augustin Robespierre, the younger brother of the Revolutionary leader Maximilien Robespierre. With the help of his fellow Corsican Antoine Christophe Saliceti, Bonaparte was appointed senior gunner and artillery commander of the republican forces that arrived at Toulon on 8 September.
+
+## Siege of Toulon
+
+During the Siege of Toulon, Bonaparte was wounded in the thigh on 16 December. Catching the attention of the Committee of Public Safety, he was put in charge of the artillery of France's Army of Italy. On 22 December, he was on his way to a new post in Nice, promoted from colonel to brigadier general at the age of 24.
+
+## 13 Vendémiaire
+
+In October 1795, royalists in Paris declared a rebellion against the National Convention. Bonaparte was given command of the improvised forces in defense of the convention in the Tuileries Palace. He ordered a young cavalry officer, Joachim Murat, to seize large cannons and used them to repel the attackers on 5 October 1795—13 Vendémiaire An IV in the French Republican Calendar. This victory earned Bonaparte sudden fame, wealth, and the patronage of the new government, the Directory.
+
+## First Italian Campaign
+
+Two days after his marriage to Joséphine de Beauharnais, Bonaparte left Paris to take command of the Army of Italy. In a series of rapid victories during the Montenotte Campaign, he knocked Piedmont out of the war in two weeks. The French then focused on the Austrians for the remainder of the war, the highlight of which became the protracted struggle for Mantua. The decisive French triumph at Rivoli in January 1797 led to the collapse of the Austrian position in Italy. At Rivoli, the Austrians lost up to 14,000 men while the French lost about 5,000.
+
+The next phase of the campaign featured the French invasion of the Habsburg heartlands. The French army carried out Bonaparte's plan in the Battle of Saorgio in April 1794, and then advanced to seize Ormea in the mountains. From Ormea, it headed west to outflank the Austro-Sardinian positions around Saorge. After this campaign, Augustin Robespierre sent Bonaparte on a mission to the Republic of Genoa to determine that country's intentions towards France.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Napoleon Bonaparte, a French military and political leader, rose to prominence during the French Revolution and led successful campaigns during the Revolutionary Wars. He served as the leader of the French Republic and then the French Empire, and his political and cultural legacy endures today. Born in Corsica, he supported the French Revolution while serving in the French army. He quickly rose in the Army after saving the French Directory and became a national hero after leading a successful military campaign against the Austrians. His military and political strategies led to significant territorial gains for France, but also sparked major conflicts, resulting in millions of deaths.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Early Life and Career
+
+Napoleon Bonaparte, born Napoleone Buonaparte on 15 August 1769, was a French military commander and political leader who rose to prominence during the French Revolution. He was the de facto leader of the French Republic as First Consul from 1799 to 1804, then of the French Empire as Emperor of the French from 1804 until 1814 and again in 1815. Born on the island of Corsica, Napoleon supported the French Revolution in 1789 while serving in the French army. He rose rapidly in the Army after he saved the governing French Directory by firing on royalist insurgents. In 1796, he began a military campaign against the Austrians and their Italian allies, scoring decisive victories and becoming a national hero. Two years later, he led a military expedition to Egypt that served as a springboard to political power.
+
+# Military Campaigns and Leadership
+
+Napoleon led successful campaigns during the Revolutionary Wars, shattering the Third Coalition with victories in the Ulm campaign and at the Battle of Austerlitz, which led to the dissolution of the Holy Roman Empire. In 1806, the Fourth Coalition took up arms against him. Napoleon defeated Prussia at the battles of Jena and Auerstedt, marched the Grande Armée into Eastern Europe, and defeated the Russians in June 1807 at Friedland. In 1808, Napoleon invaded the Iberian Peninsula and declared his brother Joseph the King of Spain. However, the Spanish and the Portuguese revolted in the Peninsular War aided by a British army, culminating in defeat for Napoleon's marshals. 
+
+# Downfall and Legacy
+
+Napoleon's downfall began with his invasion of Russia in the summer of 1812, which resulted in the catastrophic retreat of his Grande Armée. In 1813, Prussia and Austria joined Russian forces in a Sixth Coalition against France, resulting in a large coalition army defeating Napoleon at the Battle of Leipzig. The coalition invaded France and captured Paris, forcing Napoleon to abdicate in April 1814. He was exiled to the island of Elba, between Corsica and Italy. In France, the Bourbons were restored to power. However, Napoleon escaped in February 1815 and took control of France. The Allies responded by forming a Seventh Coalition, which defeated Napoleon at the Battle of Waterloo in June 1815. The British exiled him to the remote island of Saint Helena in the Atlantic, where he died in 1821 at the age of 51. Despite his downfall, Napoleon's political and cultural legacy endures to this day, as a highly celebrated and controversial leader. He initiated many liberal reforms that have persisted in society, and is considered one of the greatest military commanders in history.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Napoleon Bonaparte: The Formative Years, Rise to Power, and Legacy
+
+## Introduction
+
+Napoleon Bonaparte, born Napoleone Buonaparte on August 15, 1769, and later known by his regnal name Napoleon I, was a paramount French military commander and political leader. His rise to prominence occurred during the tumultuous period of the French Revolution, and he led numerous successful campaigns during the Revolutionary Wars. From 1799 to 1804, he was the de facto leader of the French Republic as First Consul, then ascended to the role of Emperor of the French from 1804 until 1814, and briefly in 1815.
+
+Napoleon's political and cultural legacy endures to this day, as he is both celebrated and controversial. He initiated many liberal reforms that have persisted in society, and is considered one of the greatest military commanders in history. His campaigns are still studied at military academies worldwide. The Napoleonic Wars resulted in the deaths of between three and six million civilians and soldiers.
+
+## Early Life
+
+Napoleon was born on the island of Corsica, shortly after its annexation by France, to a native family descending from minor Italian nobility. He supported the French Revolution in 1789 while serving in the French army, and tried to spread its ideals to his native Corsica. His rapid rise in the Army came after he saved the governing French Directory by firing on royalist insurgents. In 1796, he began a military campaign against the Austrians and their Italian allies, scoring decisive victories and becoming a national hero. Two years later, he led a military expedition to Egypt that served as a springboard to political power. He engineered a coup in November 1799 and became First Consul of the Republic. In 1804, to expand and consolidate his power, he crowned himself Emperor of the French.
+
+## Military Achievements and Conflicts
+
+Napoleon's military prowess was put to the test during the War of the Third Coalition in 1805, due to differences with the United Kingdom. He shattered this coalition with victories in the Ulm campaign and at the Battle of Austerlitz, which led to the dissolution of the Holy Roman Empire. In 1806, the Fourth Coalition took up arms against him. Napoleon defeated Prussia at the battles of Jena and Auerstedt, marched the Grande Armée into Eastern Europe, and defeated the Russians in June 1807 at Friedland, forcing the defeated nations of the Fourth Coalition to accept the Treaties of Tilsit. 
+
+In an attempt to extend the Continental System, his embargo against Britain, Napoleon invaded the Iberian Peninsula and declared his brother Joseph the King of Spain in 1808. However, the Spanish and the Portuguese revolted in the Peninsular War aided by a British army, culminating in defeat for Napoleon's marshals. Napoleon launched an invasion of Russia in the summer of 1812, which resulted in the catastrophic retreat of Napoleon's Grande Armée. In 1813, Prussia and Austria joined Russian forces in a Sixth Coalition against France, resulting in a large coalition army defeating Napoleon at the Battle of Leipzig. The coalition invaded France and captured Paris, forcing Napoleon to abdicate in April 1814. He was exiled to the island of Elba, between Corsica and Italy. 
+
+## Exile and Return
+
+In February 1815, Napoleon escaped from Elba and took control of France. The Allies responded by forming a Seventh Coalition, which defeated Napoleon at the Battle of Waterloo in June 1815. The British exiled him to the remote island of Saint Helena in the Atlantic, where he died in 1821 at the age of 51.
+
+## Impact and Legacy
+
+Napoleon had an extensive impact on the modern world, bringing liberal reforms to the lands he conquered, especially the regions of the Low Countries, Switzerland, and parts of modern Italy and Germany. He implemented many liberal policies in France and Western Europe.
+
+## Early Life Details
+
+Napoleon's family was of Italian origin. His paternal ancestors, the Buonapartes, descended from a minor Tuscan noble family that emigrated to Corsica in the 16th century, and his maternal ancestors, the Ramolinos, descended from a minor Genoese noble family. His parents Carlo Maria di Buonaparte and Maria Letizia Ramolino maintained an ancestral home called "Casa Buonaparte" in Ajaccio. Napoleon was born there on 15 August 1769. He was the family's fourth child and third son. He had an elder brother, Joseph, and younger siblings Lucien, Elisa, Louis, Pauline, Caroline, and Jérôme. Napoleon was baptised as a Catholic, under the name Napoleone. 
+
+Napoleon was born one year after the Republic of Genoa ceded Corsica to France. The state sold sovereign rights a year before his birth, and the island was conquered by France during the year of his birth. It was formally incorporated as a province in 1770, after 500 years under Genoese rule and 14 years of independence. Napoleon's parents joined the Corsican resistance and fought against the French to maintain independence, even when Maria was pregnant with him. His father Carlo was an attorney who had supported and actively collaborated with patriot Pasquale Paoli during the Corsican war of independence against France; after the Corsican defeat at Ponte Novu in 1769 and Paoli's exile in Britain, Carlo began working for the new French government and in 1777 was named representative of the island to the court of Louis XVI.
+
+When he turned 9 years old, he moved to the French mainland and enrolled at a religious school in Autun in January 1779. In May, he transferred with a scholarship to a military academy at Brienne-le-Château. In his youth he was an outspoken Corsican nationalist and supported the state's independence from France. Like many Corsicans, Napoleon spoke and read Corsican (as his mother tongue) and Italian (as the official language of Corsica). He began learning French in school at around age 10. Although he became fluent in French, he spoke with a distinctive Corsican accent and never learned to spell in French. Consequently, Napoleon was routinely bullied by his peers for his accent, birthplace, short stature, mannerisms, and inability to speak French quickly. 
+
+## Early Career
+
+Upon graduating in September 1785, Bonaparte was commissioned a second lieutenant in La Fère artillery regiment. He served in Valence and Auxonne until after the outbreak of the French Revolution in 1789. Bonaparte was a fervent Corsican nationalist during this period. He asked for leave to join his mentor Pasquale Paoli, when Paoli was allowed to return to Corsica by the National Assembly. But Paoli had no sympathy for Napoleon, as he deemed his father a traitor for having deserted the cause of Corsican independence.
+
+## Siege of Toulon and 13 Vendémiaire
+
+In July 1793, Bonaparte published a pro-republican pamphlet, Le souper de Beaucaire (Supper at Beaucaire), which gained him the support of Augustin Robespierre, the younger brother of the Revolutionary leader Maximilien Robespierre. With the help of his fellow Corsican Antoine Christophe Saliceti, Bonaparte was appointed senior gunner and artillery commander of the republican forces that arrived at Toulon on 8 September.
+
+On 3 October, royalists in Paris declared a rebellion against the National Convention. Paul Barras, a leader of the Thermidorian Reaction, knew of Bonaparte's military exploits at Toulon and gave him command of the improvised forces in defence of the convention in the Tuileries Palace. Bonaparte had seen the massacre of the King's Swiss Guard there three years earlier and realized that artillery would be the key to its defence.
+
+## First Italian Campaign
+
+Two days after the marriage, Bonaparte left Paris to take command of the Army of Italy. He immediately went on the offensive, hoping to defeat the forces of Kingdom of Sardinia (1720–1861) before their Austrian allies could intervene. In a series of rapid victories during the Montenotte Campaign, he knocked Piedmont out of the war in two weeks. The French then focused on the Austrians for the remainder of the war, the highlight of which became the protracted struggle for Mantua. The Austrians launched a series of offensives against the French to break the siege, but Bonaparte defeated every relief effort, winning the battles of Castiglione, Bassano, Arcole, and Rivoli. The decisive French triumph at Rivoli in January 1797 led to the collapse of the Austrian position in Italy.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Napoleon Bonaparte was a French military and political leader who rose to prominence during the French Revolution. He led successful campaigns during the Revolutionary Wars and served as the leader of the French Republic and later the French Empire. His liberal reforms have had a lasting impact, and he is considered one of the greatest military commanders in history. Napoleon was born in Corsica, and his early military career was marked by his support for the French Revolution and rapid advancement in the army. Despite numerous military conflicts and a brief exile, he maintained control of France until his defeat at the Battle of Waterloo in 1815.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Napoleon's Rise to Power
+
+Napoleon Bonaparte, born on August 15, 1769, was a French military and political leader who rose to prominence during the French Revolution. He led successful campaigns during the Revolutionary Wars and was the de facto leader of the French Republic as First Consul from 1799 to 1804. He then became the Emperor of the French from 1804 until 1814 and again in 1815. Napoleon's political and cultural legacy endures to this day as a highly celebrated and controversial leader. He initiated many liberal reforms that have persisted in society, and is considered one of the greatest military commanders in history. Napoleon was born on the island of Corsica, not long after its annexation by France, to a native family descending from minor Italian nobility.
+
+# Napoleon's Military Campaigns
+
+Napoleon led a military expedition to Egypt that served as a springboard to political power. He engineered a coup in November 1799 and became First Consul of the Republic. In 1804, to expand and consolidate his power, he crowned himself Emperor of the French. Differences with the United Kingdom led to the War of the Third Coalition by 1805, which Napoleon shattered with victories in the Ulm campaign and at the Battle of Austerlitz, leading to the dissolution of the Holy Roman Empire. Napoleon launched an invasion of Russia in the summer of 1812, resulting in the catastrophic retreat of Napoleon's Grande Armée. In 1813, Prussia and Austria joined Russian forces in a Sixth Coalition against France, resulting in a large coalition army defeating Napoleon at the Battle of Leipzig. 
+
+# Napoleon's Downfall and Legacy
+
+The coalition invaded France and captured Paris, forcing Napoleon to abdicate in April 1814. He was exiled to the island of Elba, between Corsica and Italy. In France, the Bourbons were restored to power. Napoleon escaped in February 1815 and took control of France. The Allies responded by forming a Seventh Coalition, which defeated Napoleon at the Battle of Waterloo in June 1815. The British exiled him to the remote island of Saint Helena in the Atlantic, where he died in 1821 at the age of 51. Despite his downfall, Napoleon had an extensive impact on the modern world, bringing liberal reforms to the lands he conquered, especially the regions of the Low Countries, Switzerland, and parts of modern Italy and Germany.
+</div>
+</div>
+<div class='slide-pane' id='Napoleon-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Napoleon</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction
+
+Napoleon Bonaparte, born Napoleone Buonaparte on 15 August 1769, was a French military commander and political leader who rose to prominence during the French Revolution and led successful campaigns during the Revolutionary Wars. He served as the de facto leader of the French Republic as First Consul from 1799 to 1804, then as Emperor of the French from 1804 until 1814 and again in 1815. Napoleon's political and cultural legacy endures to this day, as a highly celebrated and controversial leader. He initiated many liberal reforms that have persisted in society, and is considered one of the greatest military commanders in history. His campaigns are still studied at military academies worldwide.
+
+# Early Life
+
+Napoleon was born on the island of Corsica, not long after its annexation by France, to a native family descending from minor Italian nobility. He supported the French Revolution in 1789 while serving in the French army, and tried to spread its ideals to his native Corsica. He rose rapidly in the Army after he saved the governing French Directory by firing on royalist insurgents. In 1796, he began a military campaign against the Austrians and their Italian allies, scoring decisive victories and becoming a national hero. Two years later, he led a military expedition to Egypt that served as a springboard to political power. He engineered a coup in November 1799 and became First Consul of the Republic. In 1804, to expand and consolidate his power, he crowned himself Emperor of the French.
+
+# Military Campaigns
+
+Differences with the United Kingdom led to the War of the Third Coalition by 1805. Napoleon shattered this coalition with victories in the Ulm campaign and at the Battle of Austerlitz, which led to the dissolution of the Holy Roman Empire. In 1806, the Fourth Coalition took up arms against him. Napoleon defeated Prussia at the battles of Jena and Auerstedt, marched the Grande Armée into Eastern Europe, and defeated the Russians in June 1807 at Friedland, forcing the defeated nations of the Fourth Coalition to accept the Treaties of Tilsit. Two years later, the Austrians challenged the French again during the War of the Fifth Coalition, but Napoleon solidified his grip over Europe after triumphing at the Battle of Wagram.
+
+Hoping to extend the Continental System, his embargo against Britain, Napoleon invaded the Iberian Peninsula and declared his brother Joseph the King of Spain in 1808. The Spanish and the Portuguese revolted in the Peninsular War aided by a British army, culminating in defeat for Napoleon's marshals. Napoleon launched an invasion of Russia in the summer of 1812. The resulting campaign witnessed the catastrophic retreat of Napoleon's Grande Armée. In 1813, Prussia and Austria joined Russian forces in a Sixth Coalition against France, resulting in a large coalition army defeating Napoleon at the Battle of Leipzig. The coalition invaded France and captured Paris, forcing Napoleon to abdicate in April 1814. He was exiled to the island of Elba, between Corsica and Italy. In France, the Bourbons were restored to power.
+
+Napoleon escaped in February 1815 and took control of France. The Allies responded by forming a Seventh Coalition, which defeated Napoleon at the Battle of Waterloo in June 1815. The British exiled him to the remote island of Saint Helena in the Atlantic, where he died in 1821 at the age of 51.
+
+# Impact and Legacy
+
+Napoleon had an extensive impact on the modern world, bringing liberal reforms to the lands he conquered, especially the regions of the Low Countries, Switzerland, and parts of modern Italy and Germany. He implemented many liberal policies in France and Western Europe. His political and cultural legacy continues to be a subject of great interest and debate among historians.
+
+# Early Life and Family Background
+
+Napoleon's family was of Italian origin. His paternal ancestors, the Buonapartes, descended from a minor Tuscan noble family that emigrated to Corsica in the 16th century and his maternal ancestors, the Ramolinos, descended from a minor Genoese noble family. His parents Carlo Maria di Buonaparte and Maria Letizia Ramolino maintained an ancestral home called "Casa Buonaparte" in Ajaccio. Napoleon was born there on 15 August 1769. He was the family's fourth child and third son. He had an elder brother, Joseph, and younger siblings Lucien, Elisa, Louis, Pauline, Caroline, and Jérôme. Napoleon was baptised as a Catholic, under the name Napoleone. In his youth, his name was also spelled as Nabulione, Nabulio, Napolionne, and Napulione. 
+
+Napoleon was born one year after the Republic of Genoa ceded Corsica to France. The state sold sovereign rights a year before his birth and the island was conquered by France during the year of his birth. It was formally incorporated as a province in 1770, after 500 years under Genoese rule and 14 years of independence. Napoleon's parents joined the Corsican resistance and fought against the French to maintain independence, even when Maria was pregnant with him. His father Carlo was an attorney who had supported and actively collaborated with patriot Pasquale Paoli during the Corsican war of independence against France; after the Corsican defeat at Ponte Novu in 1769 and Paoli's exile in Britain, Carlo began working for the new French government and in 1777 was named representative of the island to the court of Louis XVI.
+
+# Education and Early Career
+
+When he turned 9 years old, he moved to the French mainland and enrolled at a religious school in Autun in January 1779. In May, he transferred with a scholarship to a military academy at Brienne-le-Château. In his youth he was an outspoken Corsican nationalist and supported the state's independence from France. Like many Corsicans, Napoleon spoke and read Corsican (as his mother tongue) and Italian (as the official language of Corsica). He began learning French in school at around age 10. Although he became fluent in French, he spoke with a distinctive Corsican accent and never learned to spell in French. Consequently, Napoleon was routinely bullied by his peers for his accent, birthplace, short stature, mannerisms, and inability to speak French quickly. He became reserved and melancholy, applying himself to reading. An examiner observed that Napoleon "has always been distinguished for his application in mathematics. He is fairly well acquainted with history and geography ... This boy would make an excellent sailor". 
+
+Upon graduating in September 1785, Bonaparte was commissioned a second lieutenant in La Fère artillery regiment. He served in Valence and Auxonne until after the outbreak of the French Revolution in 1789. Bonaparte was a fervent Corsican nationalist during this period. He asked for leave to join his mentor Pasquale Paoli, when Paoli was allowed to return to Corsica by the National Assembly. But Paoli had no sympathy for Napoleon, as he deemed his father a traitor for having deserted the cause of Corsican independence.
+
+# Siege of Toulon and the 13 Vendémiaire
+
+In July 1793, Bonaparte published a pro-republican pamphlet, Le souper de Beaucaire (Supper at Beaucaire), which gained him the support of Augustin Robespierre, the younger brother of the Revolutionary leader Maximilien Robespierre. With the help of his fellow Corsican Antoine Christophe Saliceti, Bonaparte was appointed senior gunner and artillery commander of the republican forces that arrived at Toulon on 8 September. He adopted a plan to capture a hill where republican guns could dominate the city's harbour and force the British to evacuate. The assault on the position led to the capture of the city, and during it Bonaparte was wounded in the thigh on 16 December. Catching the attention of the Committee of Public Safety, he was put in charge of the artillery of France's Army of Italy. On 22 December he was on his way to a new post in Nice, promoted from colonel to brigadier general at the age of 24. 
+
+On 3 October, royalists in Paris declared a rebellion against the National Convention. Paul Barras, a leader of the Thermidorian Reaction, knew of Bonaparte's military exploits at Toulon and gave him command of the improvised forces in defence of the convention in the Tuileries Palace. Bonaparte had seen the massacre of the King's Swiss Guard there three years earlier and realized that artillery would be the key to its defence. He ordered a young cavalry officer, Joachim Murat, to seize large cannons and used them to repel the attackers on 5 October 1795—13 Vendémiaire An IV in the French Republican Calendar. 1,400 royalists died and the rest fled. He cleared the streets with "a whiff of grapeshot", according to 19th-century historian Thomas Carlyle in The French Revolution: A History. The defeat of the royalist insurrection extinguished the threat to the Convention and earned Bonaparte sudden fame, wealth, and the patronage of the new government, the Directory. Murat married one of Bonaparte's sisters; he also served as one of Bonaparte's generals. Bonaparte was promoted to Commander of the Interior and given command of the Army of Italy.
+
+# First Italian Campaign
+
+Two days after his marriage to Joséphine de Beauharnais, Bonaparte left Paris to take command of the Army of Italy. He immediately went on the offensive, hoping to defeat the forces of Kingdom of Sardinia before their Austrian allies could intervene. In a series of rapid victories during the Montenotte Campaign, he knocked Piedmont out of the war in two weeks. The French then focused on the Austrians for the remainder of the war, the highlight of which became the protracted struggle for Mantua. The Austrians launched a series of offensives against the French to break the siege, but Bonaparte defeated every relief effort, winning the battles of Castiglione, Bassano, Arcole, and Rivoli. The decisive French triumph at Rivoli in January 1797 led to the collapse of the Austrian position in Italy. At Rivoli, the Austrians lost up to 14,000 men while the French lost about 5,000.
+
+The next phase of the campaign featured the French invasion of the Habsburg heartlands. French forces in Southern Germany had been defeated by the Archduke Charles in 1796, but Charles withdrew his forces to protect Vienna after learning of Bonaparte's assault. In the first encounter between the two, Bonaparte pushed Charles back and advanced deep into Austrian territory after winning the Battle of Tarvis in March 1797. The Austrians were alarmed by the French thrust that reached all the way to Leoben, about 100 km from Vienna, and decided to sue for peace. The Treaty of Leoben, followed by the more comprehensive Treaty of Campo Formio, gave France control of most of northern Italy and the Low Countries, and a secret clause promised the Republic of Venice to Austria. Bonaparte marched on Venice and forced its surrender, ending 1,100 years of Venetian independence. He authorized the French to loot treasures such as the Horses of Saint Mark's Basilica.
+
+# Conclusion
+
+Napoleon Bonaparte's life and career were marked by extraordinary achievements and dramatic reversals of fortune. From his humble beginnings on the island of Corsica, he rose to become one of the most powerful men in Europe, reshaping the continent's political landscape through his military campaigns and political reforms. His fall from power and eventual exile and death on the remote island of Saint Helena added a tragic coda to his remarkable story. Today, Napoleon is remembered as a complex figure, admired for his strategic genius and administrative acumen, but also criticized for his autocratic rule and military adventurism. His legacy continues to be a subject of debate among historians, but there is no denying the profound impact he had on his own time and on subsequent history.
 </div>
 </div>
