@@ -1,7 +1,7 @@
 # Read it your way {#read-params}
 <form id='demo-form'>
 <div class='row' style='display: flex; flex-direction: row; align-items: center;'>
-<label class='col' for='demo-article'>Wiki Article:</label>
+<label class='col' for='demo-article'>Article:</label>
 <select id='demo-article' oninput='updateText()' onchange='updateText()'>
 <option value='Angkor_Wat'>Angkor Wat</option>
 <option value='Arcology'>Arcology</option>
