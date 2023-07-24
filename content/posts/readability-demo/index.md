@@ -152,12 +152,15 @@ draft: false
         padding-left:1em;
     }
 
-    @media only screen and (max-width: 400px) {
+    @media only screen and (max-width: 500px) {
         #single .content,  #single .content > h1 {
             margin:0;
         }
         .slide-param {
             margin:1em 0;
+        }
+        .slide-param-art {
+            font-size:1.4em;
         }
         .slide-param-lev, .slide-param-len {
             text-align:center;

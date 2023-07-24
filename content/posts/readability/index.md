@@ -84,7 +84,7 @@ Modern browsers like Safari and Chrome, e-book readers like Kindle, and word pro
 This is the current Mobile Safari Reader options panel:
 
 {{< style >}}
-    @media only screen and (max-width: 400px) {
+    @media only screen and (max-width: 500px) {
         figure { margin: 0; }
     }
 {{< /style >}}
