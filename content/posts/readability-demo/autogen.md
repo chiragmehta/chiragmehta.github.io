@@ -1,4 +1,4 @@
-# Readability Parameters
+# Read it your way {#read-params}
 <script>var LEVEL = {"G02":"2nd Grade Student (age 7)","G08":"8th Grade Student (age 13)","G16":"College Graduate (age 22)","G30":"Expert in Field (age 40)"};</script>
 <script>var LENGTH = {"W0100":"50 words (2 sentences)","W0500":"500 words (4 short paragraphs in 2 sections)","W1000":"2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)"};</script>
 <form id='demo-form'>

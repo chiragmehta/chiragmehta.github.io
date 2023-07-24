@@ -9,7 +9,7 @@ draft: false
 # About this demo
 - Select the article from the dropdown below
 - Set the reading *level* and *length*
-- Read why and how I made this demo using ChatGPT 4 in my [full post here](/posts/readability).
+- Read why and how I made this [here](/posts/readability).
 
 <script>
     function updateText() {
@@ -36,7 +36,7 @@ draft: false
         display:none;
     }
 
-    h1#readability-parameters {
+    h1#read-params {
         margin-bottom:0;
     }
 
