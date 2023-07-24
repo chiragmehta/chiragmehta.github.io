@@ -57,8 +57,8 @@ draft: false
 
     #demo-form select#demo-article {
         font-size:1.2em;
-        width:70%;
-        max-width:70%;
+        width:75%;
+        max-width:75%;
     }
 
     #demo-form .radio-btn {
@@ -156,11 +156,14 @@ draft: false
         #single .content,  #single .content > h1 {
             margin:0;
         }
+        #demo-form select#demo-article {
+            font-size:1em;
+        }
         .slide-param {
             margin:1em 0;
         }
         .slide-param-art {
-            font-size:1.4em;
+            font-size:1.3em;
         }
         .slide-param-lev, .slide-param-len {
             text-align:center;
