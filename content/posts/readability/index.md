@@ -111,7 +111,7 @@ There should always be an option to view original source text and any rewritten 
 
 ## Would this actually work and be useful?
 
-I think so. And that is why I spent $25 on GPT 4 API to rewrite these 5 Wikipedia articles at 4 different levels and 3 different lengths each. Converting all [6.6 million articles](https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia) on English Wikipedia would cost about $10-15 million at this rate, not cheap but also not impossible.
+I think so. And that is why I spent $50+ on GPT 4 API to rewrite these Wikipedia articles at 4 different levels and 3 different lengths each. Converting all [6.6 million articles](https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia) on English Wikipedia would cost about $10-15 million at this rate, not cheap but also not impossible.
 
 Dear OpenAI and Anthropic, please make wiki.openai.com or wiki.anthropic.com happen! Make it work like the demo here: **[Readability Demo](/posts/readability-demo)**
 
