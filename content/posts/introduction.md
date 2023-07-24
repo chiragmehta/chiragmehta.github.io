@@ -32,4 +32,4 @@ I wrote a now-archived (and undoubtedly obsolete) [tech blog](https://chir.ag/te
 
 # Disclaimer
 
-I am deeply sensitive to the downsides of mass adoption of AI/GPT, especially to the creators whose works are sucked into these models and people whose careers will be replaced with even more automation. However, opining about such matters is well above my level of expertise and could in fact be more insulting than helpful. So I will leave that to the experts and focus on the practical use and applications of LLMs instead.
+I am deeply sensitive to the downsides of mass adoption of AI/GPT, especially to the creators whose works are sucked into these models and people whose careers will be replaced with even more automation. However, opining about such matters is well above my level of expertise and could in fact be more insulting than helpful. So I will leave that to the experts and focus on novel applications of LLMs instead, especially ones that help us better understand the world around us.
