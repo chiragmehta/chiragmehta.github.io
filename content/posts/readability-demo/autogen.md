@@ -230,11 +230,17 @@ Arcology, combining "architecture" and "ecology," is a concept for creating dens
 </div>
 <div class='slide-body'>
 
-Arcology, a term coined by architect Paolo Soleri in 1969, is a concept that blends architecture and ecology. The idea is to create densely populated yet ecologically low-impact human habitats. These habitats, or arcologies, would house a variety of facilities, such as residential, commercial, and agricultural spaces, while minimizing individual human environmental impact. Despite the concept's popularity in science fiction literature, no arcology has been built yet. Authors like Larry Niven, Jerry Pournelle, William Gibson, Peter Hamilton, and Paolo Bacigalupi have used arcologies in their works, often portraying them as self-contained or economically self-sufficient.
+# Arcology: A Vision for Sustainable Urban Living
 
-Arcologies aim to reduce the impact of human habitation on ecosystems. They are designed to be self-sustainable, using their resources for power, climate control, food production, air and water conservation and purification, sewage treatment, and more. Arcologies are also designed to supply and maintain their own municipal or urban infrastructures. They were proposed to reduce human impact on natural resources and achieve pedestrian economies of scale. Notable figures like Frank Lloyd Wright and Buckminster Fuller proposed early versions of arcologies, focusing on transportation, agriculture, and commerce systems.
+Arcology, a term blending "architecture" and "ecology", was coined in 1969 by architect Paolo Soleri. It outlines a vision for densely populated, ecologically low-impact human habitats, integrating residential, commercial, and agricultural facilities while minimizing individual environmental impact. Despite their theoretical appeal, no arcology has been realized to date. The concept, however, has gained traction in science fiction literature, with authors like Larry Niven, Jerry Pournelle, and William Gibson featuring self-contained or economically self-sufficient arcologies in their works.
 
-While no full-scale arcology has been built yet, there are similar real-world projects. Arcosanti, an experimental "arcology prototype" in Arizona, is one such project. Other cities like Tokyo and Dongtan near Shanghai have proposed projects adhering to the design principles of the arcology concept. The McMurdo Station of the United States Antarctic Program and other scientific research stations on Antarctica resemble the popular conception of an arcology as a technologically advanced, relatively self-sufficient human community. The Begich Towers in Whittier, Alaska, operates like a small-scale arcology, and The Line, a linear smart city under construction in Saudi Arabia, is designed to have no cars, streets, or carbon emissions.
+## The Principles and Proposals of Arcology
+
+Arcologies aim to reduce the environmental impact of human habitation by creating self-sustaining habitats that utilize their own resources for power, climate control, food production, and more. They strive to accommodate large populations while maintaining their own urban infrastructures. The concept seeks to address the challenges of post-automobile pedestrian economies of scale through large-scale, practical projects. Early versions of this concept were proposed by Frank Lloyd Wright and Buckminster Fuller, with the latter proposing a domed city for 125,000 residents as a solution to housing problems in East St. Louis, Illinois. Paolo Soleri further developed the concept, advocating for compact city structures to combat urban sprawl and reduce resource consumption.
+
+## Arcology in Reality and Fiction
+
+Arcosanti, an experimental "arcology prototype" designed by Soleri, has been under construction in Arizona since 1970. Other projects inspired by arcology principles have been proposed in Tokyo and Dongtan near Shanghai, although the latter failed to open for the Shanghai World Expo in 2010. The McMurdo Station of the United States Antarctic Program and Begich Towers in Whittier, Alaska, resemble arcologies in their self-sufficiency and insular character. A large-scale project, The Line, is under construction in Saudi Arabia, designed as a linear smart city with no cars, streets, or carbon emissions. Despite these real-world examples, most arcology proposals have failed due to financial, structural, or conceptual challenges, and the concept remains primarily a fixture of science fiction literature and video games.
 </div>
 </div>
 <div class='slide-pane' id='Arcology-G16-W1000'>
@@ -544,11 +550,32 @@ The Chandrayaan programme, also known as the Indian Lunar Exploration Programme,
 </div>
 <div class='slide-body'>
 
-The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is an ongoing series of outer space missions conducted by the Indian Space Research Organisation (ISRO). The programme consists of lunar orbiter, impactor, soft lander, and rover spacecraft. As of September 2019, one orbiter with an impactor probe has been sent to the Moon. The second spacecraft, which includes an orbiter, soft lander, and rover, was launched on 22 July 2019. The Chandrayaan-3 mission was launched on 14 July 2023 and is expected to reach the Moon's surface in August.
+# Chandrayaan Programme Overview
 
-The first phase of the Chandrayaan programme, known as Chandrayaan-1, was announced by Prime Minister Atal Bihari Vajpayee on 15 August 2003. The mission was a significant boost to India's space program and marked the first Indian scientific mission to the Moon. Chandrayaan-1 was launched on 22 October 2008 and was successful in discovering water on the Moon. The second phase, Chandrayaan-2, was approved by the First Manmohan Singh Cabinet on 18 September 2008. The mission was postponed and rescheduled to 2016 due to Russia's inability to develop the lander on time. Chandrayaan-2 was launched on 22 July 2019, and while the lander was lost, the orbiter remains operational and is expected to function for 7.5 years.
+The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is a series of ongoing outer space missions conducted by the Indian Space Research Organisation (ISRO). The programme, which translates to 'Moon craft' in Sanskrit, includes lunar orbiter, impactor, soft lander, and rover spacecraft. The programme has seen multiple missions, with the first orbiter and impactor probe sent to the Moon in September 2019 using ISRO's PSLV rocket. The second spacecraft, consisting of an orbiter, soft lander, and rover, was launched on 22 July 2019 with an LVM-3 rocket. The programme anticipates further missions, including Chandrayaan-3, which was launched on 14 July 2023.
 
-The third phase of the programme, Chandrayaan-3, was proposed in November 2019 and launched on 14 July 2023. The mission aims to demonstrate a successful and controlled touchdown on the lunar surface, the mobility of a rover on the Moon's terrain, and the ability to carry out scientific experiments directly on the lunar surface. Future missions, Chandrayaan-4 and Chandrayaan-5, are planned for 2025 and 2025-30, respectively, and will involve on-site sampling and analysis of collected lunar material. The final phase, Chandrayaan-6, is suggested for 2030-35 and will involve drilling of lunar soil and returning samples to Earth.
+# Programme Phases
+
+## Phase I: Orbiter and Impactor
+
+The first phase of the Chandrayaan programme involved the launch of the first lunar orbiters, Chandrayaan-1. Launched on 22 October 2008, Chandrayaan-1 was a significant success for ISRO, discovering water on the Moon and performing tasks such as mapping and atmospheric profiling of the Moon.
+
+## Phase II: Soft Landers and Rovers
+
+The second phase involved the development of soft landers and rovers, beginning with Chandrayaan-2. Launched on 22 July 2019, the spacecraft was successfully put into lunar orbit, although the lander was lost while attempting to land. The orbiter remains operational, collecting scientific data. The phase also includes Chandrayaan-3, launched in July 2023, with the aim of demonstrating successful and controlled touchdown on the lunar surface, rover mobility, and conducting scientific experiments directly on the lunar surface.
+
+## Phase III: On-Site Sampling
+
+The third phase of the programme, the Lunar Polar Exploration Mission or Chandrayaan-4, is set to launch in 2025. This mission will involve a lander-rover mission near the lunar pole to perform on-site sampling and analysis of collected lunar material and demonstrate lunar night survival technologies. A subsequent mission, Chandrayaan-5, is suggested for the timeframe of 2025-30, and will include a lander-based rotary-percussive drilling in lunar soil.
+
+## Phase IV: Sample-Return Missions
+
+The fourth phase of the programme, suggested for the timeframe of 2030-35, will include drilling of lunar soil and return samples to Earth.
+
+# Related Topics
+
+- Indian Space Research Organization: India's national space agency
+- Exploration of the Moon: Missions to the Moon
 </div>
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W1000'>
@@ -625,11 +652,17 @@ The Chandrayaan programme is an ongoing series of lunar missions by the Indian S
 </div>
 <div class='slide-body'>
 
-The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is an ongoing series of outer space missions by the Indian Space Research Organisation (ISRO). The programme incorporates lunar orbiter, impactor, soft lander, and rover spacecraft. As of September 2019, one orbiter with an impactor probe has been sent to the Moon, using ISRO's PSLV rocket. The second spacecraft, consisting of an orbiter, soft lander, and rover, was launched on 22 July 2019, using an LVM-3 rocket. The Chandrayaan-3 mission was launched on 14 July 2023 using LVM-3 and is expected to reach the Moon's surface in August.
+# Chandrayaan Programme Overview
 
-The Chandrayaan programme is divided into four phases. The first phase, Chandrayaan-1, was announced by Prime Minister Atal Bihari Vajpayee in 2003 and launched on 22 October 2008. This mission was a major boost to India's space program and resulted in the discovery of water on the Moon. The second phase, Chandrayaan-2, was approved in 2008 and launched on 22 July 2019. Although the lander was lost, the orbiter is operational and expected to function for 7.5 years. The third phase, Chandrayaan-3, was launched on 14 July 2023 and aims to demonstrate a successful and controlled touchdown on the lunar surface, the mobility of a rover on the Moon's terrain, and to carry out scientific experiments directly on the lunar surface.
+The Chandrayaan Programme, also known as the Indian Lunar Exploration Programme, is an ongoing series of outer space missions by the Indian Space Research Organisation (ISRO). The programme, which translates to 'Moon craft' in Sanskrit, incorporates lunar orbiter, impactor, soft lander, and rover spacecraft. The programme structure includes multiple missions, with the first orbiter and impactor probe sent to the Moon in September 2019, using ISRO's PSLV rocket. The second spacecraft, comprising an orbiter, soft lander, and rover, was launched on 22 July 2019, using a LVM-3 rocket. There are plans for follow-up missions, including the Chandrayaan-3 mission, which was launched on 14 July 2023.
 
-The fourth phase of the Chandrayaan programme includes on-site sampling and sample-return missions. The Lunar Polar Exploration Mission or Chandrayaan-4, suggested to be launched in 2025, will perform on-site sampling and analysis of collected lunar material and demonstrate lunar night survival technologies. Chandrayaan-5, suggested for the time frame of 2025-30, will include a lander-based rotary-percussive drilling in lunar soil up to a depth of 1~1.5 meters and analysis of the cut using instruments. Chandryaan-6, suggested for the time frame of 2030-35, will include drilling of lunar soil and return samples to earth.
+# Mission Phases
+
+The Chandrayaan programme is divided into four main phases. The first phase, Orbiter and Impactor, was initiated with the launch of Chandrayaan-1 on 22 October 2008. The mission was a significant achievement for ISRO as it discovered water on the Moon. The second phase, Soft landers and rovers, saw the launch of Chandrayaan-2 on 22 July 2019. Although the lander was lost during an attempted landing, the orbiter remains operational and continues to collect scientific data. The third phase, On-site sampling, will involve the Lunar Polar Exploration Mission or Chandrayaan-4, set to launch in 2025. The final phase, Sample-return missions, is planned for the timeframe of 2030-35 with the Chandrayaan-6 mission.
+
+# Future Missions
+
+Future missions under the Chandrayaan programme include Chandrayaan-3, which aims to demonstrate successful and controlled touchdown on the lunar surface, rover mobility, and direct scientific experiments on the lunar surface. The Lunar Polar Exploration Mission or Chandrayaan-4, set to launch in 2025, will perform on-site sampling and analysis of collected lunar material. Chandrayaan-5, suggested for the timeframe of 2025-30, will involve lander-based rotary-percussive drilling in lunar soil. Finally, Chandrayaan-6, suggested for the timeframe of 2030-35, will involve drilling of lunar soil and returning samples to Earth.
 </div>
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W1000'>
@@ -1470,11 +1503,14 @@ The Grand Ethiopian Renaissance Dam, currently under construction on the Blue Ni
 </div>
 <div class='slide-body'>
 
-The Grand Ethiopian Renaissance Dam (GERD), previously known as the Millennium Dam, is a gravity dam on the Blue Nile River in Ethiopia. The dam, which has been under construction since 2011, is located in the Benishangul-Gumuz Region of Ethiopia, approximately 45 km east of the Sudanese border. The primary purpose of the dam is to produce electricity to alleviate Ethiopia's severe energy shortage and to export electricity to neighbouring countries. The dam is set to have a planned installed capacity of 5.15 gigawatts, making it the largest hydroelectric power plant in Africa and one of the 20 largest in the world once completed. The dam's reservoir began filling in July 2020 and is expected to take between 4 and 7 years to fill completely, depending on hydrologic conditions.
+# Overview of the Grand Ethiopian Renaissance Dam (GERD)
+The Grand Ethiopian Renaissance Dam (GERD), previously known as the Millennium Dam, is a gravity dam on the Blue Nile River in Ethiopia, under construction since 2011. The dam is located in the Benishangul-Gumuz Region of Ethiopia, approximately 45 km east of the Sudanese border. The dam's primary purpose is to produce electricity to alleviate Ethiopia's severe energy shortage and to export electricity to neighboring countries. With a planned installed capacity of 5.15 gigawatts, the dam will be Africa's largest hydroelectric power plant and one of the 20 largest in the world upon completion. The reservoir's first phase of filling began in July 2020, and the dam produced electricity for the first time in February 2022.
 
-The site for the GERD was identified by the United States Bureau of Reclamation between 1956 and 1964, during the reign of Emperor Haile Selassie. However, due to political instability, the project did not progress until the Ethiopian Government surveyed the site in 2009 and 2010. The dam was originally referred to as "Project X" and later the Millennium Dam, before being renamed the Grand Ethiopian Renaissance Dam in 2011. The dam has been a source of regional controversy, particularly with Egypt, which depends on the Nile for about 97% of its irrigation and drinking water and believes the dam will reduce the amount of water available from the Nile.
+# Historical Background and Controversy
+The eventual site for the GERD was identified by the United States Bureau of Reclamation during the Blue Nile survey conducted between 1956 and 1964. However, due to political instability, the project did not progress until much later. The dam was originally called "Project X", and after its contract was announced, it was called the Millennium Dam. On 15 April 2011, the Council of Ministers renamed it the Grand Ethiopian Renaissance Dam. The dam has been a source of regional controversy, particularly with Egypt, which relies on the Nile for about 97% of its irrigation and drinking water and opposes the dam, believing it will reduce the amount of water available from the Nile.
 
-The GERD is estimated to cost close to 5 billion US dollars, approximately 7% of the 2016 Ethiopian gross national product. Due to Egypt's campaign to maintain control over the Nile water share, the project has struggled to secure international financing and has instead been financed through internal fundraising efforts, including selling bonds and persuading employees to contribute a portion of their incomes. The dam's design has changed several times since 2011, affecting both its electrical and storage parameters. The dam will be supported by a rock-fill saddle dam and will have three spillways. The dam will have two power houses, equipped with 2 x 375 MW Francis turbine-generators and 11 x 400 MW turbines, resulting in a total installed capacity of 5,150 MW.
+# Design, Cost, and Financing
+The GERD's design has changed multiple times since 2011, affecting both the electrical and storage parameters. The dam was initially planned to have 15 generating units with a total installed capacity of 5,250 MW. By 2019, the power generation capacity was 5,150 MW, with 13 turbines. The dam's structural volume will be 10,200,000 m3, and the reservoir will have a storage capacity of 74 km3 and a surface area of 1,874 km2 when at full supply level. The dam will have three spillways, designed for a flood of up to 38,500 m3/s. The estimated cost of the GERD is close to 5 billion US dollars, approximately 7% of the 2016 Ethiopian gross national product. Due to Egypt's campaign to maintain control over the Nile's water share, the dam has not received international financing and has been financed through internal fund raising in Ethiopia.
 </div>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W1000'>
