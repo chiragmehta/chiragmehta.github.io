@@ -95,6 +95,11 @@ draft: false
         margin: 1em 0 3em;
     }
 
+    .slide-param-wik {
+        float:right;
+        margin-top:0.5em;
+    }
+
     .slide-param-art {
         font-size:1.5em;
         text-align:center;

@@ -1,9 +1,7 @@
 # Read it your way {#read-params}
-<script>var LEVEL = {"G02":"2nd Grade Student (age 7)","G08":"8th Grade Student (age 13)","G16":"College Graduate (age 22)","G30":"Expert in Field (age 40)"};</script>
-<script>var LENGTH = {"W0100":"50 words (2 sentences)","W0500":"500 words (4 short paragraphs in 2 sections)","W1000":"2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)"};</script>
 <form id='demo-form'>
 <div class='row' style='display: flex; flex-direction: row; align-items: center;'>
-<label class='col' for='demo-article'>Article:</label>
+<label class='col' for='demo-article'>Wiki Article:</label>
 <select id='demo-article' oninput='updateText()' onchange='updateText()'>
 <option value='Angkor_Wat'>Angkor Wat</option>
 <option value='Arcology'>Arcology</option>
@@ -63,6 +61,7 @@
 
 <div class='slide-pane' id='Angkor_Wat-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -74,6 +73,7 @@ Angkor Wat is a huge temple in Cambodia, considered the largest religious buildi
 </div>
 <div class='slide-pane' id='Angkor_Wat-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -95,6 +95,7 @@ Angkor Wat has a unique design that combines two types of Khmer temple architect
 </div>
 <div class='slide-pane' id='Angkor_Wat-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -156,6 +157,7 @@ Angkor Wat is a magnificent temple that tells a story of history, culture, and r
 </div>
 <div class='slide-pane' id='Angkor_Wat-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -167,6 +169,7 @@ Angkor Wat is a temple complex in Cambodia and the largest religious monument in
 </div>
 <div class='slide-pane' id='Angkor_Wat-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -188,6 +191,7 @@ Angkor Wat is a unique combination of the temple mountain and the later plan of 
 </div>
 <div class='slide-pane' id='Angkor_Wat-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -237,6 +241,7 @@ Angkor Wat is a symbol of Cambodia and a source of national pride. It has been a
 </div>
 <div class='slide-pane' id='Angkor_Wat-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -248,6 +253,7 @@ Angkor Wat, located in Cambodia, is a temple complex spanning 162.6 hectares and
 </div>
 <div class='slide-pane' id='Angkor_Wat-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -266,6 +272,7 @@ Angkor Wat combines two basic plans of Khmer temple architecture: the temple-mou
 </div>
 <div class='slide-pane' id='Angkor_Wat-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -343,6 +350,7 @@ The temple's outer wall is surrounded by a 30-meter apron of open ground and a m
 </div>
 <div class='slide-pane' id='Angkor_Wat-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -354,6 +362,7 @@ Angkor Wat, located in Cambodia, is the world's largest religious structure and 
 </div>
 <div class='slide-pane' id='Angkor_Wat-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -375,6 +384,7 @@ Angkor Wat combines the temple-mountain and the later galleried temple plans of 
 </div>
 <div class='slide-pane' id='Angkor_Wat-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Angkor_Wat'>Wiki</a></div>
 <div class='slide-param-art'>Angkor Wat</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -436,6 +446,7 @@ The outer wall of the temple, which is 4.5 m high, is surrounded by a 30 m apron
 </div>
 <div class='slide-pane' id='Arcology-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -447,6 +458,7 @@ Arcology is a big word that means designing buildings to fit lots of people and 
 </div>
 <div class='slide-pane' id='Arcology-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -470,6 +482,7 @@ There are some places in the world that are trying to be a bit like arcology cit
 </div>
 <div class='slide-pane' id='Arcology-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -525,6 +538,7 @@ So, that's what 'Arcology' is all about! It's a cool concept that combines archi
 </div>
 <div class='slide-pane' id='Arcology-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -536,6 +550,7 @@ Arcology, a concept combining architecture and ecology, aims to create densely p
 </div>
 <div class='slide-pane' id='Arcology-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -557,6 +572,7 @@ Most attempts to build real arcologies have failed due to financial, structural,
 </div>
 <div class='slide-pane' id='Arcology-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -606,6 +622,7 @@ Arcology is a fascinating concept that merges architecture and ecology to envisi
 </div>
 <div class='slide-pane' id='Arcology-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -617,6 +634,7 @@ Arcology, combining "architecture" and "ecology," is a concept for creating dens
 </div>
 <div class='slide-pane' id='Arcology-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -638,6 +656,7 @@ Arcosanti, an experimental "arcology prototype" designed by Soleri, has been und
 </div>
 <div class='slide-pane' id='Arcology-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -681,6 +700,7 @@ The concept of arcology, while largely theoretical and often seen in science fic
 </div>
 <div class='slide-pane' id='Arcology-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -692,6 +712,7 @@ Arcology, a concept combining architecture and ecology, aims to create densely p
 </div>
 <div class='slide-pane' id='Arcology-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -720,6 +741,7 @@ Arcologies have been popularized by various science fiction writers, who often p
 </div>
 <div class='slide-pane' id='Arcology-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Arcology'>Wiki</a></div>
 <div class='slide-param-art'>Arcology</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -767,6 +789,7 @@ Arcology represents a theoretical approach to urban planning that seeks to recon
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -778,6 +801,7 @@ Bioluminescent bacteria are tiny organisms that can glow in the dark! They mostl
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -796,6 +820,7 @@ Bioluminescent bacteria use their glow in many ways. One of the main ways is to 
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -847,6 +872,7 @@ The role of bioluminescent bacteria is still a mystery. Some scientists think th
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -858,6 +884,7 @@ Bioluminescent bacteria, mostly found in the sea, produce light through a chemic
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -895,6 +922,7 @@ The role and evolutionary history of bioluminescent bacteria remain largely myst
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1008,6 +1036,7 @@ Another hypothesis, called the “bait hypothesis”, is that bacterial biolumin
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1019,6 +1048,7 @@ Bioluminescent bacteria, predominantly found in marine environments, produce lig
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1058,6 +1088,7 @@ The uses of bioluminescence and its biological and ecological significance for a
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1131,6 +1162,7 @@ Another hypothesis, called the “bait hypothesis”, is that bacterial biolumin
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1142,6 +1174,7 @@ Bioluminescent bacteria, predominantly found in marine environments, produce lig
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1171,6 +1204,7 @@ The role of bacterial bioluminescence is not fully understood, but it may serve 
 </div>
 <div class='slide-pane' id='Bioluminescent_bacteria-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bioluminescent_bacteria'>Wiki</a></div>
 <div class='slide-param-art'>Bioluminescent bacteria</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1276,6 +1310,7 @@ Bacterial bioluminescence has also been proposed to be a source of internal ligh
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1287,6 +1322,7 @@ Bacterial bioluminescence has also been proposed to be a source of internal ligh
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1308,6 +1344,7 @@ The Bonsai Kitten website showed pictures of kittens in jars, pretending this wa
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1353,6 +1390,7 @@ In conclusion, the Bonsai Kitten website was a joke that upset many people. It w
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1364,6 +1402,7 @@ In conclusion, the Bonsai Kitten website was a joke that upset many people. It w
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1384,6 +1423,7 @@ The Bonsai Kitten website featured images of kittens in jars, presented as real 
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1429,6 +1469,7 @@ In conclusion, the Bonsai Kitten website was a hoax that created a significant a
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1440,6 +1481,7 @@ Bonsai Kitten was a hoax website created by an MIT student, which claimed to tea
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1458,6 +1500,7 @@ BonsaiKitten.com displayed images of kittens in jars, purportedly genuine exampl
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1493,6 +1536,7 @@ The Bonsai Kitten hoax serves as a potent example of the power of the internet t
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1504,6 +1548,7 @@ The Bonsai Kitten hoax serves as a potent example of the power of the internet t
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1522,6 +1567,7 @@ The images on BonsaiKitten.com of kittens in jars were presented as real example
 </div>
 <div class='slide-pane' id='Bonsai_Kitten-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Bonsai_Kitten'>Wiki</a></div>
 <div class='slide-param-art'>Bonsai Kitten</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1569,6 +1615,7 @@ The Bonsai Kitten hoax serves as a reminder of the power of the internet to spre
 </div>
 <div class='slide-pane' id='Camera_obscura-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1580,6 +1627,7 @@ A camera obscura is a dark room or box with a small hole that lets light in. The
 </div>
 <div class='slide-pane' id='Camera_obscura-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1601,6 +1649,7 @@ A camera obscura can be a box, a tent, or a room. It has a small hole on one sid
 </div>
 <div class='slide-pane' id='Camera_obscura-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1661,6 +1710,7 @@ So, why not try making your own Camera Obscura? You can use a shoebox, some alum
 </div>
 <div class='slide-pane' id='Camera_obscura-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1672,6 +1722,7 @@ A camera obscura is a dark room or box with a small hole or lens that projects a
 </div>
 <div class='slide-pane' id='Camera_obscura-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1690,6 +1741,7 @@ The camera obscura has been used throughout history for various purposes. In pre
 </div>
 <div class='slide-pane' id='Camera_obscura-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1749,6 +1801,7 @@ The camera obscura has a rich history and has been used for various purposes, fr
 </div>
 <div class='slide-pane' id='Camera_obscura-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1760,6 +1813,7 @@ The camera obscura, Latin for 'dark chamber', is a darkened room with a small ho
 </div>
 <div class='slide-pane' id='Camera_obscura-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1778,6 +1832,7 @@ A typical camera obscura consists of a box, tent, or room with a small hole on o
 </div>
 <div class='slide-pane' id='Camera_obscura-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1837,6 +1892,7 @@ The camera obscura has been a fundamental tool in the development of both art an
 </div>
 <div class='slide-pane' id='Camera_obscura-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1848,6 +1904,7 @@ The camera obscura, a darkened room or box with a small hole or lens, projects a
 </div>
 <div class='slide-pane' id='Camera_obscura-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1866,6 +1923,7 @@ The term camera obscura was first used in 1604, but the devices were referred to
 </div>
 <div class='slide-pane' id='Camera_obscura-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Camera_obscura'>Wiki</a></div>
 <div class='slide-param-art'>Camera obscura</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -1927,6 +1985,7 @@ The camera obscura is a simple yet powerful tool that has been used for centurie
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -1938,6 +1997,7 @@ The Chandrayaan programme is a series of space missions by India to explore the 
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -1959,6 +2019,7 @@ The Chandrayaan Programme has big plans for the future. They want to send more m
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2005,6 +2066,7 @@ This information is based on various sources and is accurate as of the time of w
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2016,6 +2078,7 @@ The Chandrayaan programme, run by the Indian Space Research Organisation (ISRO),
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2037,6 +2100,7 @@ The future missions of the Chandrayaan programme are already being planned. Chan
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2085,6 +2149,7 @@ This information is based on various sources and documents related to the Chandr
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2097,6 +2162,7 @@ The Chandrayaan programme, also known as the Indian Lunar Exploration Programme,
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2133,6 +2199,7 @@ The fourth phase of the programme, suggested for the timeframe of 2030-35, will 
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2188,6 +2255,7 @@ The information provided in this article is based on the text provided and does 
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2199,6 +2267,7 @@ The Chandrayaan programme is an ongoing series of lunar missions by the Indian S
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2220,6 +2289,7 @@ Future missions under the Chandrayaan programme include Chandrayaan-3, which aim
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Chandrayaan_programme'>Wiki</a></div>
 <div class='slide-param-art'>Chandrayaan programme</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2290,6 +2360,7 @@ This document does not include any references.
 </div>
 <div class='slide-pane' id='Cybernetics-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2301,6 +2372,7 @@ Cybernetics is like being the captain of a ship. The captain watches how the shi
 </div>
 <div class='slide-pane' id='Cybernetics-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2322,6 +2394,7 @@ One of the most important ideas in cybernetics is feedback. Feedback is when the
 </div>
 <div class='slide-pane' id='Cybernetics-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2394,6 +2467,7 @@ So that's it, kids! That's a basic introduction to cybernetics. It's a big field
 </div>
 <div class='slide-pane' id='Cybernetics-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2405,6 +2479,7 @@ Cybernetics is a broad field that studies circular causal processes such as feed
 </div>
 <div class='slide-pane' id='Cybernetics-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2423,6 +2498,7 @@ The term cybernetics comes from the Ancient Greek term κυβερνητικης 
 </div>
 <div class='slide-pane' id='Cybernetics-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2486,6 +2562,7 @@ For those interested in deepening their understanding of cybernetics, several bo
 </div>
 <div class='slide-pane' id='Cybernetics-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2497,6 +2574,7 @@ Cybernetics is a broad field that studies circular causal processes such as feed
 </div>
 <div class='slide-pane' id='Cybernetics-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2518,6 +2596,7 @@ Feedback is a critical process in cybernetics, where observed outcomes of action
 </div>
 <div class='slide-pane' id='Cybernetics-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2587,6 +2666,7 @@ For those interested in further exploring the field of cybernetics, several book
 </div>
 <div class='slide-pane' id='Cybernetics-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2598,6 +2678,7 @@ As a multi-disciplinary field, cybernetics focuses on circular causal processes,
 </div>
 <div class='slide-pane' id='Cybernetics-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2616,6 +2697,7 @@ Feedback is a key concept in cybernetics, where observed outcomes of actions are
 </div>
 <div class='slide-pane' id='Cybernetics-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Cybernetics'>Wiki</a></div>
 <div class='slide-param-art'>Cybernetics</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2669,6 +2751,7 @@ Several academic journals and societies focus on cybernetics, including Construc
 </div>
 <div class='slide-pane' id='Epistemology-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2680,6 +2763,7 @@ Epistemology is like a big word for a detective kit. It helps us understand what
 </div>
 <div class='slide-pane' id='Epistemology-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2701,6 +2785,7 @@ In epistemology, there are a few key ideas that come up a lot. One of these is "
 </div>
 <div class='slide-pane' id='Epistemology-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2760,6 +2845,7 @@ These are just some of the big ideas in epistemology. There's a lot more to expl
 </div>
 <div class='slide-pane' id='Epistemology-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2771,6 +2857,7 @@ Epistemology, a branch of philosophy, is the study of knowledge and belief. It e
 </div>
 <div class='slide-pane' id='Epistemology-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2794,6 +2881,7 @@ Belief, truth, and justification are also central concepts in epistemology. A be
 </div>
 <div class='slide-pane' id='Epistemology-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2864,6 +2952,7 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-pane' id='Epistemology-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -2875,6 +2964,7 @@ Epistemology, the theory of knowledge, is a major branch of philosophy that stud
 </div>
 <div class='slide-pane' id='Epistemology-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -2900,6 +2990,7 @@ One of the important distinctions in epistemology is between what can be known a
 </div>
 <div class='slide-pane' id='Epistemology-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -2989,6 +3080,7 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-pane' id='Epistemology-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3000,6 +3092,7 @@ Epistemology, or the theory of knowledge, is a major branch of philosophy that s
 </div>
 <div class='slide-pane' id='Epistemology-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3020,6 +3113,7 @@ Epistemology debates are closely related to the concept of knowledge, which is g
 </div>
 <div class='slide-pane' id='Epistemology-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Epistemology'>Wiki</a></div>
 <div class='slide-param-art'>Epistemology</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3090,6 +3184,7 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3101,6 +3196,7 @@ The European Union (EU) makes laws through different methods. The European Commi
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3122,6 +3218,7 @@ The main way that laws are passed in the EU is called the ordinary legislative p
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3224,6 +3321,7 @@ There's also a clause called the Passerelle Clause that allows the European Coun
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3235,6 +3333,7 @@ The European Union (EU) creates laws through various legislative procedures, dep
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3256,6 +3355,7 @@ The ordinary legislative procedure is the main method by which directives and re
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3327,6 +3427,7 @@ The 2009 Lisbon Treaty created two different ways for further amendments of the 
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3338,6 +3439,7 @@ The European Union (EU) adopts legislation through various procedures, largely d
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3365,6 +3467,7 @@ In non-legislative procedures, the Council can adopt legal acts proposed by the 
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3474,6 +3577,7 @@ The President of the European Council convenes an inter-governmental conference 
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3485,6 +3589,7 @@ The European Union (EU) adopts legislation through various procedures, depending
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3506,6 +3611,7 @@ The ordinary legislative procedure is the main legislative procedure by which di
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/European_Union_legislative_procedure'>Wiki</a></div>
 <div class='slide-param-art'>European Union legislative procedure</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3577,6 +3683,7 @@ The 2009 Lisbon Treaty created two different ways for further amendments of the 
 </div>
 <div class='slide-pane' id='Film_noir-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3588,6 +3695,7 @@ Film noir is a style of movie that was popular in the 1940s and 1950s. These mov
 </div>
 <div class='slide-pane' id='Film_noir-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3609,6 +3717,7 @@ Film noir has been influenced by many different things. One of the biggest influ
 </div>
 <div class='slide-pane' id='Film_noir-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3655,6 +3764,7 @@ Thematically, film noir films were unique for how often they focused on women of
 </div>
 <div class='slide-pane' id='Film_noir-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3666,6 +3776,7 @@ Film noir is a term used to describe stylish Hollywood crime dramas, particularl
 </div>
 <div class='slide-pane' id='Film_noir-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3687,6 +3798,7 @@ Film noir was influenced by several cinematic and literary sources. The visual s
 </div>
 <div class='slide-pane' id='Film_noir-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3748,6 +3860,7 @@ Thematically, films noir were most exceptional for the relative frequency with w
 </div>
 <div class='slide-pane' id='Film_noir-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3759,6 +3872,7 @@ Film noir is a cinematic term used to describe stylish Hollywood crime dramas th
 </div>
 <div class='slide-pane' id='Film_noir-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3780,6 +3894,7 @@ Film noir was influenced by German Expressionism, an artistic movement that invo
 </div>
 <div class='slide-pane' id='Film_noir-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3829,6 +3944,7 @@ Thematically, films noir were exceptional for the relative frequency with which 
 </div>
 <div class='slide-pane' id='Film_noir-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3840,6 +3956,7 @@ Film noir is a cinematic term primarily used to describe stylish Hollywood crime
 </div>
 <div class='slide-pane' id='Film_noir-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3858,6 +3975,7 @@ Film noir aesthetics were influenced by German Expressionism, an artistic moveme
 </div>
 <div class='slide-pane' id='Film_noir-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Film_noir'>Wiki</a></div>
 <div class='slide-param-art'>Film noir</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -3907,6 +4025,7 @@ Thematically, films noir were most exceptional for the relative frequency with w
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -3918,6 +4037,7 @@ The Grand Ethiopian Renaissance Dam (GERD) is a big dam being built on the Blue 
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -3945,6 +4065,7 @@ Two of the turbines started working in 2022, delivering electricity to the natio
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4016,6 +4137,7 @@ Siltation is when dirt and other particles in the water settle at the bottom of 
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4027,6 +4149,7 @@ The Grand Ethiopian Renaissance Dam (GERD) is a gravity dam on the Blue Nile Riv
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4054,6 +4177,7 @@ The dam will have two power houses, equipped with 2 x 375 MW Francis turbine-gen
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4115,6 +4239,7 @@ The space below the "bottom" outlets is the primary buffer space for alluvium th
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4126,6 +4251,7 @@ The Grand Ethiopian Renaissance Dam (GERD), currently under construction, is set
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4146,6 +4272,7 @@ GERD's design underwent several changes between 2011 and 2019, affecting both it
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4235,6 +4362,7 @@ The space below the "bottom" outlets is the primary buffer space for alluvium th
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4246,6 +4374,7 @@ The Grand Ethiopian Renaissance Dam, currently under construction on the Blue Ni
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4264,6 +4393,7 @@ The GERD's design has changed multiple times since 2011, affecting both the elec
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam'>Wiki</a></div>
 <div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4353,6 +4483,7 @@ The space below the "bottom" outlets is the primary buffer space for alluvium th
 </div>
 <div class='slide-pane' id='Hampi-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4364,6 +4495,7 @@ Hampi is a special place in India with lots of old buildings and temples. It use
 </div>
 <div class='slide-pane' id='Hampi-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4382,6 +4514,7 @@ Hampi was a very prosperous city in the 14th century. It was the capital of the 
 </div>
 <div class='slide-pane' id='Hampi-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4433,6 +4566,7 @@ Hampi is a place filled with history and beauty. Even though the city was destro
 </div>
 <div class='slide-pane' id='Hampi-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4445,6 +4579,7 @@ Hampi, a UNESCO World Heritage Site in India, was once the prosperous capital of
 </div>
 <div class='slide-pane' id='Hampi-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4463,6 +4598,7 @@ Historical evidence suggests that the region was part of the Maurya Empire durin
 </div>
 <div class='slide-pane' id='Hampi-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4522,6 +4658,7 @@ The Virupaksha temple is the oldest shrine, the principal destination for pilgri
 </div>
 <div class='slide-pane' id='Hampi-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4533,6 +4670,7 @@ Hampi, a UNESCO World Heritage Site in Karnataka, India, is an important religio
 </div>
 <div class='slide-pane' id='Hampi-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4551,6 +4689,7 @@ Hampi and its surrounding region remained a contested area claimed by local chie
 </div>
 <div class='slide-pane' id='Hampi-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4598,6 +4737,7 @@ The Virupaksha temple is the oldest shrine, the principal destination for pilgri
 </div>
 <div class='slide-pane' id='Hampi-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4609,6 +4749,7 @@ Hampi, a UNESCO World Heritage Site in east-central Karnataka, India, was the ca
 </div>
 <div class='slide-pane' id='Hampi-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4630,6 +4771,7 @@ The armies of the Delhi Sultanate, particularly those of Alauddin Khalji and Muh
 </div>
 <div class='slide-pane' id='Hampi-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Hampi'>Wiki</a></div>
 <div class='slide-param-art'>Hampi</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4691,6 +4833,7 @@ The courtyard after the small gopuram leads to the main mandapa of the Shiva tem
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4702,6 +4845,7 @@ The James Webb Space Telescope is the biggest space telescope ever built. It's e
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4723,6 +4867,7 @@ The idea for the JWST started in 1996, and it was supposed to be launched in 200
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4780,6 +4925,7 @@ In conclusion, the James Webb Space Telescope is an amazing piece of technology 
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4791,6 +4937,7 @@ The James Webb Space Telescope (JWST) is the largest space telescope, designed f
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4809,6 +4956,7 @@ The initial designs for JWST began in 1996 with a proposed launch in 2007 and a 
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -4902,6 +5050,7 @@ Webb is not intended to be serviced in space. A crewed mission to repair or upgr
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -4913,6 +5062,7 @@ The James Webb Space Telescope (JWST), the largest space telescope, was designed
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -4931,6 +5081,7 @@ The initial designs for the telescope began in 1996, with two concept studies co
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5013,6 +5164,7 @@ Unlike the Hubble Space Telescope, which was serviced several times by astronaut
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5024,6 +5176,7 @@ The James Webb Space Telescope (JWST) is a large, infrared-optimized space teles
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5045,6 +5198,7 @@ The initial designs for the JWST began in 1996, with concept studies commissione
 </div>
 <div class='slide-pane' id='James_Webb_Space_Telescope-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/James_Webb_Space_Telescope'>Wiki</a></div>
 <div class='slide-param-art'>James Webb Space Telescope</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5128,6 +5282,7 @@ Webb is not intended to be serviced in space. A crewed mission to repair or upgr
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5139,6 +5294,7 @@ Kidney stones are hard pieces that form in your kidneys when certain substances 
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5171,6 +5327,7 @@ Remember, the best way to prevent kidney stones is to drink lots of water, eat a
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5240,6 +5397,7 @@ Kidney stones are usually diagnosed based on the symptoms and some tests. These 
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5251,6 +5409,7 @@ Kidney stones are solid pieces of material that develop in the urinary tract, ty
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5269,6 +5428,7 @@ Drinking enough fluids to produce more than two liters of urine per day can help
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5366,6 +5526,7 @@ Renal ultrasonography can sometimes be useful, because it gives details about th
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5377,6 +5538,7 @@ Kidney stones are solid pieces of material that form in the urinary tract when m
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5399,6 +5561,7 @@ Diagnosis of kidney stone disease is typically based on the patient's history, p
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5463,6 +5626,7 @@ Calcium-containing stones are relatively radiodense, and they can often be detec
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5474,6 +5638,7 @@ Kidney stone disease is a condition where solid material forms in the urinary tr
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5495,6 +5660,7 @@ Diagnosis of kidney stone disease is usually based on symptoms, urine testing, a
 </div>
 <div class='slide-pane' id='Kidney_stone_disease-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Kidney_stone_disease'>Wiki</a></div>
 <div class='slide-param-art'>Kidney stone disease</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5570,6 +5736,7 @@ Calcium-containing stones are relatively radiodense and can often be detected by
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5581,6 +5748,7 @@ In 1803, the United States bought a big piece of land called the Louisiana Terri
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5606,6 +5774,7 @@ In 1801, Napoleon sent a military force to Saint-Domingue, which was near the Un
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5659,6 +5828,7 @@ But in the end, the Louisiana Purchase went through. It nearly doubled the size 
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5670,6 +5840,7 @@ The Louisiana Purchase was a land acquisition by the United States from France i
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5691,6 +5862,7 @@ There was fear of a French invasion in America when Napoleon sent a military for
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5732,6 +5904,7 @@ Despite the opposition and the complex negotiations, the Louisiana Purchase was 
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5744,6 +5917,7 @@ The Louisiana Purchase was the acquisition of the Louisiana territory by the Uni
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5762,6 +5936,7 @@ Negotiations for the purchase of Louisiana were complicated. Fears of a French i
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5799,6 +5974,7 @@ The Louisiana Purchase was a significant event in U.S. history. It nearly double
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5810,6 +5986,7 @@ The Louisiana Purchase was the acquisition of the Louisiana territory by the Uni
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5830,6 +6007,7 @@ The Louisiana Purchase was not without domestic opposition. Many Federalists opp
 </div>
 <div class='slide-pane' id='Louisiana_Purchase-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Louisiana_Purchase'>Wiki</a></div>
 <div class='slide-param-art'>Louisiana Purchase</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5907,6 +6085,7 @@ Spain protested the transfer on two grounds: First, France had previously promis
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -5918,6 +6097,7 @@ Ludwig van Beethoven was a famous composer and piano player from Germany. He com
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -5941,6 +6121,7 @@ In the last years of his life, Ludwig composed many important pieces of music, i
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -5992,6 +6173,7 @@ Despite becoming deaf, Beethoven continued to compose music. He wrote many of hi
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6003,6 +6185,7 @@ Ludwig van Beethoven was a renowned German composer and pianist who lived from 1
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6021,6 +6204,7 @@ Despite his deteriorating hearing, Beethoven continued to conduct and premiere h
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6082,6 +6266,7 @@ Beethoven composed his first six string quartets (Op. 18) between 1798 and 1800 
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6093,6 +6278,7 @@ Ludwig van Beethoven, a German composer and pianist, remains one of the most adm
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6115,6 +6301,7 @@ Despite his deteriorating hearing, Beethoven continued to conduct and compose. H
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6166,6 +6353,7 @@ During this period, Beethoven also had several notable students, including Ferdi
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6177,6 +6365,7 @@ Ludwig van Beethoven was a German composer and pianist whose works are among the
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6200,6 +6389,7 @@ In his late period, from 1812 to 1827, Beethoven extended his innovations in mus
 </div>
 <div class='slide-pane' id='Ludwig_van_Beethoven-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Ludwig_van_Beethoven'>Wiki</a></div>
 <div class='slide-param-art'>Ludwig van Beethoven</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6241,6 +6431,7 @@ Ludwig van Beethoven's life and career were characterized by his exceptional mus
 </div>
 <div class='slide-pane' id='Muay_Thai-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6252,6 +6443,7 @@ Muay Thai, also known as Thai boxing, is a sport where people use their fists, e
 </div>
 <div class='slide-pane' id='Muay_Thai-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6274,6 +6466,7 @@ Muay Thai has been recognized by several international sports organizations. In 
 </div>
 <div class='slide-pane' id='Muay_Thai-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6347,6 +6540,7 @@ In Muay Thai, when two fighters clinch, they are not separated. It is often in t
 </div>
 <div class='slide-pane' id='Muay_Thai-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6358,6 +6552,7 @@ Muay Thai, also known as Thai boxing, is a combat sport that uses stand-up strik
 </div>
 <div class='slide-pane' id='Muay_Thai-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6376,6 +6571,7 @@ In the modern era, Muay Thai underwent significant changes. King Chulalongkorn f
 </div>
 <div class='slide-pane' id='Muay_Thai-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6461,6 +6657,7 @@ Muay Thai is a unique and complex martial art that requires a high level of skil
 </div>
 <div class='slide-pane' id='Muay_Thai-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6472,6 +6669,7 @@ Muay Thai, also known as Thai boxing, is a martial art characterized by the use 
 </div>
 <div class='slide-pane' id='Muay_Thai-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6490,6 +6688,7 @@ The modern era saw the rise of Muay Thai's popularity in the 1980s and 1990s, wi
 </div>
 <div class='slide-pane' id='Muay_Thai-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6575,6 +6774,7 @@ In Western boxing, the two fighters are separated when they clinch; in muay Thai
 </div>
 <div class='slide-pane' id='Muay_Thai-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6586,6 +6786,7 @@ Muay Thai, also known as Thai boxing, is a combat sport known as the "Art of eig
 </div>
 <div class='slide-pane' id='Muay_Thai-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6604,6 +6805,7 @@ According to the International Federation of Muay Thai Amateur (IFMA) rules, Mua
 </div>
 <div class='slide-pane' id='Muay_Thai-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Muay_Thai'>Wiki</a></div>
 <div class='slide-param-art'>Muay Thai</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6685,6 +6887,7 @@ Muay Thai is a complex and rich martial art with a long history and deep cultura
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6696,6 +6899,7 @@ Multiple sclerosis, or MS, is a disease that damages the protective covering of 
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6725,6 +6929,7 @@ There is also a genetic aspect to MS, meaning it can run in families. If one of 
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6833,6 +7038,7 @@ Doctors usually diagnose MS based on the symptoms a person is having and the res
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6844,6 +7050,7 @@ Multiple sclerosis (MS) is a disease that damages the protective covering of ner
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6867,6 +7074,7 @@ While the exact cause of MS is unknown, it's believed to be a result of a combin
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -6940,6 +7148,7 @@ The long-term outcome of MS is difficult to predict and varies greatly among ind
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -6951,6 +7160,7 @@ Multiple sclerosis (MS) is a disease that damages the insulating covers of nerve
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -6972,6 +7182,7 @@ The cause of MS is unknown, but it is believed to occur as a result of a combina
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7061,6 +7272,7 @@ Multiple sclerosis is typically diagnosed based on the presenting signs and symp
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7072,6 +7284,7 @@ Multiple sclerosis (MS) is a demyelinating disease where the insulating covers o
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7095,6 +7308,7 @@ The three main characteristics of MS are the formation of lesions in the central
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Multiple_sclerosis'>Wiki</a></div>
 <div class='slide-param-art'>Multiple sclerosis</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7166,6 +7380,7 @@ Multiple sclerosis is typically diagnosed based on the presenting signs and symp
 </div>
 <div class='slide-pane' id='MythBusters-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7177,6 +7392,7 @@ Multiple sclerosis is typically diagnosed based on the presenting signs and symp
 </div>
 <div class='slide-pane' id='MythBusters-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7195,6 +7411,7 @@ Each episode of MythBusters usually focuses on two or more popular beliefs, rumo
 </div>
 <div class='slide-pane' id='MythBusters-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7244,6 +7461,7 @@ Sometimes, the MythBusters refused to test some myths. Paranormal concepts, such
 </div>
 <div class='slide-pane' id='MythBusters-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7255,6 +7473,7 @@ MythBusters is a science-based television program developed by Peter Rees and pr
 </div>
 <div class='slide-pane' id='MythBusters-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7273,6 +7492,7 @@ The concept for MythBusters was developed for the Discovery Channel by Australia
 </div>
 <div class='slide-pane' id='MythBusters-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7346,6 +7566,7 @@ MythBusters refuse to test some myths. Paranormal concepts, such as aliens or gh
 </div>
 <div class='slide-pane' id='MythBusters-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7358,6 +7579,7 @@ MythBusters is a popular science entertainment TV show that aired on the Discove
 </div>
 <div class='slide-pane' id='MythBusters-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7376,6 +7598,7 @@ Each MythBusters episode typically focuses on testing two or more popular belief
 </div>
 <div class='slide-pane' id='MythBusters-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7445,6 +7668,7 @@ MythBusters has been an influential science entertainment television program tha
 </div>
 <div class='slide-pane' id='MythBusters-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7456,6 +7680,7 @@ MythBusters is a science entertainment television program that premiered on the 
 </div>
 <div class='slide-pane' id='MythBusters-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7474,6 +7699,7 @@ Each MythBusters episode typically focuses on two or more popular beliefs, Inter
 </div>
 <div class='slide-pane' id='MythBusters-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/MythBusters'>Wiki</a></div>
 <div class='slide-param-art'>MythBusters</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7549,6 +7775,7 @@ The MythBusters series has proven to be a significant contribution to science en
 </div>
 <div class='slide-pane' id='Napoleon-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7560,6 +7787,7 @@ Napoleon Bonaparte was a famous French leader who was born in Corsica. He became
 </div>
 <div class='slide-pane' id='Napoleon-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7581,6 +7809,7 @@ Even though Napoleon was defeated, he is still remembered as a great leader. He 
 </div>
 <div class='slide-pane' id='Napoleon-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7638,6 +7867,7 @@ Even though Napoleon often made mistakes, he also did a lot of good things. He m
 </div>
 <div class='slide-pane' id='Napoleon-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7649,6 +7879,7 @@ Napoleon Bonaparte, born in 1769, was a French military leader who rose to power
 </div>
 <div class='slide-pane' id='Napoleon-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7667,6 +7898,7 @@ Napoleon escaped from Elba in February 1815 and took control of France again. Ho
 </div>
 <div class='slide-pane' id='Napoleon-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7734,6 +7966,7 @@ The next phase of the campaign featured the French invasion of the Habsburg hear
 </div>
 <div class='slide-pane' id='Napoleon-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7745,6 +7978,7 @@ Napoleon Bonaparte, a French military and political leader, rose to prominence d
 </div>
 <div class='slide-pane' id='Napoleon-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7766,6 +8000,7 @@ Napoleon's downfall began with his invasion of Russia in the summer of 1812, whi
 </div>
 <div class='slide-pane' id='Napoleon-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7823,6 +8058,7 @@ Two days after the marriage, Bonaparte left Paris to take command of the Army of
 </div>
 <div class='slide-pane' id='Napoleon-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7834,6 +8070,7 @@ Napoleon Bonaparte was a French military and political leader who rose to promin
 </div>
 <div class='slide-pane' id='Napoleon-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7855,6 +8092,7 @@ The coalition invaded France and captured Paris, forcing Napoleon to abdicate in
 </div>
 <div class='slide-pane' id='Napoleon-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Napoleon'>Wiki</a></div>
 <div class='slide-param-art'>Napoleon</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -7912,6 +8150,7 @@ Napoleon Bonaparte's life and career were marked by extraordinary achievements a
 </div>
 <div class='slide-pane' id='Orkut-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -7923,6 +8162,7 @@ Orkut was a social media site made by Google where users could meet new friends 
 </div>
 <div class='slide-pane' id='Orkut-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -7944,6 +8184,7 @@ Orkut was started on January 22, 2004 by Google. Orkut Büyükkökten, a man fro
 </div>
 <div class='slide-pane' id='Orkut-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8012,6 +8253,7 @@ On June 30, 2014, Google announced that Orkut would be shutting down completely 
 </div>
 <div class='slide-pane' id='Orkut-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8023,6 +8265,7 @@ Orkut was a social networking service developed and run by Google, named after i
 </div>
 <div class='slide-pane' id='Orkut-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8044,6 +8287,7 @@ Orkut was launched on January 22, 2004 by Google. Orkut Büyükkökten, a Turkis
 </div>
 <div class='slide-pane' id='Orkut-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8143,6 +8387,7 @@ On June 30, 2014, Google announced that Orkut would be shutting down completely 
 </div>
 <div class='slide-pane' id='Orkut-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8155,6 +8400,7 @@ Orkut was a social networking site owned and run by Google, named after its crea
 </div>
 <div class='slide-pane' id='Orkut-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8173,6 +8419,7 @@ Like any online social networking community, Orkut had its share of controversie
 </div>
 <div class='slide-pane' id='Orkut-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8254,6 +8501,7 @@ On June 30, 2014, Google announced that Orkut would be shutting down completely 
 </div>
 <div class='slide-pane' id='Orkut-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8266,6 +8514,7 @@ Orkut was a social networking service owned by Google, launched in 2004 and name
 </div>
 <div class='slide-pane' id='Orkut-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8287,6 +8536,7 @@ Orkut was launched on January 22, 2004, by Google. It was developed by Turkish s
 </div>
 <div class='slide-pane' id='Orkut-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Orkut'>Wiki</a></div>
 <div class='slide-param-art'>Orkut</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8394,6 +8644,7 @@ On June 30, 2014, Google announced that Orkut would be shutting down completely 
 </div>
 <div class='slide-pane' id='Panama_Canal-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8405,6 +8656,7 @@ The Panama Canal is a man-made waterway in Panama that joins the Atlantic and Pa
 </div>
 <div class='slide-pane' id='Panama_Canal-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8425,6 +8677,7 @@ The Panama Canal uses a system of locks to lift ships up to a man-made lake, cal
 </div>
 <div class='slide-pane' id='Panama_Canal-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8477,6 +8730,7 @@ So, the next time you see a ship, imagine it taking a shortcut through the Panam
 </div>
 <div class='slide-pane' id='Panama_Canal-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8488,6 +8742,7 @@ The Panama Canal is an 82 km man-made waterway in Panama that connects the Atlan
 </div>
 <div class='slide-pane' id='Panama_Canal-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8517,6 +8772,7 @@ In the late 18th and early 19th centuries, many canals were built in other count
 </div>
 <div class='slide-pane' id='Panama_Canal-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8564,6 +8820,7 @@ The Panama Canal is more than just a waterway. It's a testament to human ingenui
 </div>
 <div class='slide-pane' id='Panama_Canal-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8575,6 +8832,7 @@ The Panama Canal, an 82 km artificial waterway connecting the Atlantic and Pacif
 </div>
 <div class='slide-pane' id='Panama_Canal-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8595,6 +8853,7 @@ The earliest record of a canal across the Isthmus of Panama dates back to 1534, 
 </div>
 <div class='slide-pane' id='Panama_Canal-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8650,6 +8909,7 @@ The Panama Canal is an engineering marvel that has significantly impacted global
 </div>
 <div class='slide-pane' id='Panama_Canal-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8661,6 +8921,7 @@ The Panama Canal is an 82 km man-made waterway in Panama that connects the Atlan
 </div>
 <div class='slide-pane' id='Panama_Canal-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8682,6 +8943,7 @@ The canal operates using locks at each end that lift ships up to Gatun Lake, an 
 </div>
 <div class='slide-pane' id='Panama_Canal-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Panama_Canal'>Wiki</a></div>
 <div class='slide-param-art'>Panama Canal</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8735,6 +8997,7 @@ The Panama Canal represents a substantial achievement in engineering and interna
 </div>
 <div class='slide-pane' id='Qing_dynasty-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8746,6 +9009,7 @@ The Qing dynasty was the last imperial dynasty in China, lasting from 1636 to 19
 </div>
 <div class='slide-pane' id='Qing_dynasty-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8767,6 +9031,7 @@ The Qing Dynasty reached its peak during the reign of the Qianlong Emperor from 
 </div>
 <div class='slide-pane' id='Qing_dynasty-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8828,6 +9093,7 @@ The Qing dynasty was able to take control of China because they were able to wor
 </div>
 <div class='slide-pane' id='Qing_dynasty-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8839,6 +9105,7 @@ The Qing dynasty was the last imperial dynasty in China, ruling from 1636 to 191
 </div>
 <div class='slide-pane' id='Qing_dynasty-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8860,6 +9127,7 @@ The Qing dynasty reached its height of glory and power under the Qianlong Empero
 </div>
 <div class='slide-pane' id='Qing_dynasty-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8917,6 +9185,7 @@ Li Zicheng then led rebel forces numbering some 200,000 to confront Wu Sangui, a
 </div>
 <div class='slide-pane' id='Qing_dynasty-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8928,6 +9197,7 @@ The Qing dynasty, the last imperial dynasty in Chinese history, ruled China from
 </div>
 <div class='slide-pane' id='Qing_dynasty-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -8946,6 +9216,7 @@ The decline of the Qing dynasty began after the reign of the Qianlong Emperor (1
 </div>
 <div class='slide-pane' id='Qing_dynasty-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -8983,6 +9254,7 @@ The Qing dynasty, despite its non-Han origins, was an integral part of Chinese h
 </div>
 <div class='slide-pane' id='Qing_dynasty-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -8994,6 +9266,7 @@ The Qing Dynasty (1636-1912) was the last imperial dynasty of China, founded by 
 </div>
 <div class='slide-pane' id='Qing_dynasty-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9015,6 +9288,7 @@ The height of Qing glory and power was reached in the reign of the Qianlong Empe
 </div>
 <div class='slide-pane' id='Qing_dynasty-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Qing_dynasty'>Wiki</a></div>
 <div class='slide-param-art'>Qing dynasty</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9070,6 +9344,7 @@ Hong Taiji died suddenly in September 1643. As the Jurchens had traditionally "e
 </div>
 <div class='slide-pane' id='Uluru-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9081,6 +9356,7 @@ Uluru, also known as Ayers Rock, is a big, red rock in the middle of Australia. 
 </div>
 <div class='slide-pane' id='Uluru-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9099,6 +9375,7 @@ Uluru is really tall, about 348 meters high, and most of it is actually undergro
 </div>
 <div class='slide-pane' id='Uluru-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9186,6 +9463,7 @@ The rock that makes up Uluru is about the same age as the conglomerate at Kata T
 </div>
 <div class='slide-pane' id='Uluru-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9197,6 +9475,7 @@ Uluru, also known as Ayers Rock, is a large sandstone formation located in centr
 </div>
 <div class='slide-pane' id='Uluru-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9216,6 +9495,7 @@ Uluru stands 348 m high and has a total perimeter of 9.4 km. It's notable for ap
 </div>
 <div class='slide-pane' id='Uluru-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9295,6 +9575,7 @@ The Mutitjulu Arkose is about the same age as the conglomerate at Kata Tjuta, an
 </div>
 <div class='slide-pane' id='Uluru-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9306,6 +9587,7 @@ Uluru, also known as Ayers Rock, is a large sandstone formation in the centre of
 </div>
 <div class='slide-pane' id='Uluru-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9324,6 +9606,7 @@ The sandstone formation stands 348 m (1,142 ft) high, rising 863 m (2,831 ft) ab
 </div>
 <div class='slide-pane' id='Uluru-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9455,6 +9738,7 @@ The similar mineral composition of the Mutitjulu Arkose and the granite ranges t
 </div>
 <div class='slide-pane' id='Uluru-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9466,6 +9750,7 @@ Uluru, also known as Ayers Rock, is a large sandstone formation in the center of
 </div>
 <div class='slide-pane' id='Uluru-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9488,6 +9773,7 @@ Uluru stands 348 m high, rising 863 m above sea level, with most of its bulk lyi
 </div>
 <div class='slide-pane' id='Uluru-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Uluru'>Wiki</a></div>
 <div class='slide-param-art'>Uluru</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9579,6 +9865,7 @@ The Mutitjulu Arkose, the rock strata making up Uluru, is believed to be about t
 </div>
 <div class='slide-pane' id='Zinc-G02-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9590,6 +9877,7 @@ Zinc is a shiny, slightly brittle metal that is very important for humans, anima
 </div>
 <div class='slide-pane' id='Zinc-G02-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9611,6 +9899,7 @@ People have been using zinc for a long time. An alloy called brass, which is mad
 </div>
 <div class='slide-pane' id='Zinc-G02-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9674,6 +9963,7 @@ Today, the biggest use for zinc is to protect iron from rusting. This is done by
 </div>
 <div class='slide-pane' id='Zinc-G08-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9685,6 +9975,7 @@ Zinc is a slightly brittle metal with the symbol Zn and atomic number 30. It's t
 </div>
 <div class='slide-pane' id='Zinc-G08-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9705,6 +9996,7 @@ Brass, an alloy of copper and zinc, was used as early as the third millennium BC
 </div>
 <div class='slide-pane' id='Zinc-G08-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9785,6 +10077,7 @@ Zinc was distinctly recognized as a metal under the designation of Yasada or Jas
 </div>
 <div class='slide-pane' id='Zinc-G16-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9796,6 +10089,7 @@ Zinc is a chemical element with the symbol Zn and atomic number 30. It is a slig
 </div>
 <div class='slide-pane' id='Zinc-G16-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9814,6 +10108,7 @@ Brass, an alloy of copper and zinc, was used as early as the third millennium BC
 </div>
 <div class='slide-pane' id='Zinc-G16-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
@@ -9885,6 +10180,7 @@ Zinc was distinctly recognized as a metal under the designation of Yasada or Jas
 </div>
 <div class='slide-pane' id='Zinc-G30-W0100'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 50-100 words</div>
@@ -9896,6 +10192,7 @@ Zinc is a chemical element with the symbol Zn and atomic number 30. It is a slig
 </div>
 <div class='slide-pane' id='Zinc-G30-W0500'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 500-750 words</div>
@@ -9914,6 +10211,7 @@ Brass, an alloy of copper and zinc, has been used since the third millennium BC.
 </div>
 <div class='slide-pane' id='Zinc-G30-W1000'>
 <div class='slide-param'>
+<div class='slide-param-wik'><a href='https://en.wikipedia.org/wiki/Zinc'>Wiki</a></div>
 <div class='slide-param-art'>Zinc</div>
 <div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
 <div class='slide-param-len'>Text Length: 1000+ words</div>
