@@ -57,8 +57,8 @@ draft: false
 
     #demo-form select#demo-article {
         font-size:1.2em;
-        width:75%;
-        max-width:75%;
+        width:70%;
+        max-width:70%;
     }
 
     #demo-form .radio-btn {
