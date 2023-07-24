@@ -25,6 +25,11 @@
 <option value='Multiple_sclerosis'>Multiple sclerosis</option>
 <option value='MythBusters'>MythBusters</option>
 <option value='Napoleon'>Napoleon</option>
+<option value='Orkut'>Orkut</option>
+<option value='Panama_Canal'>Panama Canal</option>
+<option value='Qing_dynasty'>Qing dynasty</option>
+<option value='Uluru'>Uluru</option>
+<option value='Zinc'>Zinc</option>
 </select>
 </div>
 <div class='row' style='display: flex; flex-direction: row; align-items: center;'>
@@ -7903,5 +7908,2078 @@ The next phase of the campaign featured the French invasion of the Habsburg hear
 # Conclusion
 
 Napoleon Bonaparte's life and career were marked by extraordinary achievements and dramatic reversals of fortune. From his humble beginnings on the island of Corsica, he rose to become one of the most powerful men in Europe, reshaping the continent's political landscape through his military campaigns and political reforms. His fall from power and eventual exile and death on the remote island of Saint Helena added a tragic coda to his remarkable story. Today, Napoleon is remembered as a complex figure, admired for his strategic genius and administrative acumen, but also criticized for his autocratic rule and military adventurism. His legacy continues to be a subject of debate among historians, but there is no denying the profound impact he had on his own time and on subsequent history.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Orkut was a social media site made by Google where users could meet new friends and keep in touch with old ones. It was very popular in India and Brazil. On Orkut, you could rate your friends, visit anyone's profile, and even add people to a "Crush List". It also allowed users to add videos and create polls. However, Orkut had some problems with fake profiles and inappropriate content. In 2014, Google decided to close Orkut. But in 2022, the website was brought back to life.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Orkut: A Social Network
+
+Orkut was a website where people could meet new friends or keep in touch with old ones. It was made by a company called Google and was named after a man who worked there, Orkut Büyükkökten. Orkut was really popular in India and Brazil in 2008. But on June 30, 2014, Google said they would close Orkut on September 30, 2014. After that, nobody could make new accounts, but they could download their profile information. In April 2022, the website was turned back on.
+
+# What You Could Do On Orkut
+
+Orkut let people do lots of fun things. They could become a fan of their friends, and rate them on how "Trustworthy", "Cool", or "Sexy" they were. They could also visit anyone's profile, unless that person didn't want them to. Orkut users could customize their profile, add friends to their "Crush List", and see their friends in the order they logged in. They could even add videos to their profile and make polls. Orkut was different from other social networking sites because it let users do all these things.
+
+# The Story of Orkut
+
+Orkut was started on January 22, 2004 by Google. Orkut Büyükkökten, a man from Turkey, made it while he was working at Google. He had made a similar website before for university alumni groups. Orkut was redesigned twice, with the new designs introducing new features and changes. However, some people made fake profiles and hate groups on Orkut, which caused problems. There were also issues with the website in some countries, like Iran and the United Arab Emirates. Despite these challenges, Orkut remained a popular social networking site until it was shut down in 2014.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Orkut: A Social Networking Site by Google
+
+Orkut was a fun website where people could make new friends and keep in touch with old ones. It was created by a company called Google, and named after a Google employee, Orkut Büyükkökten. In 2008, Orkut was one of the most popular websites in India and Brazil. After a while, Google decided to run Orkut from Brazil because there were so many users there. But on June 30, 2014, Google said that they would be closing Orkut on September 30, 2014. No new accounts could be created after July 2014. But in April 2022, the website was reopened.
+
+## Orkut's Features
+
+Orkut had many cool features that changed over time. At first, users could become fans of their friends, rate them as "Trustworthy", "Cool", or "Sexy", and see these ratings as a percentage. Unlike other websites, Orkut let anyone visit anyone else's profile, unless they were on a person's "Ignore List". Users could also customize their profile and decide what information others could see. 
+
+Another fun feature was the "Crush List" where any member could add any other member on Orkut. When a user logged in, they could see their friends in the order they logged into the site. Orkut had competitors like Myspace, Facebook, and Ning, which also allowed people to create social networks.
+
+Users could also add videos to their profile from YouTube or Google Video and create polls for their community of users. There was also a "like" button to share interests with friends. Users could even change their interface with different colorful themes. These themes were only available in Brazil and India. 
+
+## The Story of Orkut
+
+### The Beginning
+
+Orkut was launched quietly on January 22, 2004 by Google. Orkut Büyükkökten, a Turkish software engineer, developed it while working at Google. He had previously created a similar system, InCircle, for university alumni groups. But in June 2004, Affinity Engines, the company he worked for before, filed a lawsuit against Google. They claimed that Orkut was based on InCircle code because they found 9 identical bugs in Orkut that also existed in InCircles.
+
+### Redesigns
+
+#### First Redesign
+
+On August 25, 2007, Orkut announced a redesign with round corners, soft colors, and a small logo at the upper left corner. By August 30, 2007, most users on Orkut could see changes on their profile pages. On August 31, 2007, Orkut announced new features and improvements. They also released Orkut in 6 new languages: Hindi, Bengali, Marathi, Tamil, Kannada, and Telugu.
+
+On September 4, 2007, Orkut announced that users would be able to see an "Updates from your friends" box on the homepage. If someone wanted to keep some information on their profile private, Orkut added an opt-out button on the settings page. They also allowed users to post videos or pictures. On November 8, 2007, Orkut greeted its Indian users Happy Diwali by allowing them to change their Orkut look to a Diwali-flavored reddish theme.
+
+#### Second Redesign: New Orkut
+
+On October 27, 2009, Orkut released their 2nd redesigned version. It was available to only a few users at first. These users were able to send invites to their Orkut friends to join this new version. The new version used Google Web Toolkit (GWT), thus making extensive use of AJAX in the user interface. However, users of the new version could still switch back to the old one.
+
+Google stated the new Orkut was faster, simpler, and more customizable. More particular features included video chat, promotions, and easy navigation. The look was completely new. User interface and workflow were also drastically changed. Orkut added different color choices for the users' profiles.
+
+### Controversies
+
+#### Fake Profiles
+
+Like many online social networking communities, Orkut had a number of fake and cloned profiles. Due to the large number of users, these profiles were often left unremoved or, when removed, recreated easily.
+
+#### Hate Groups
+
+In 2005 and 2006, there were incidents of racism among Orkut users that were reported to police and were documented in Brazilian media. Orkut had a Report Abuse feature available for all communities. Orkut communities could be reported if they contain hateful/violent content.
+
+#### State Censorship
+
+Orkut was very popular in Iran, but the website was then blocked by the government. To get around this block, sites such as orkutproxy.com (now defunct) were made for Iranian users. Other websites such as Yahoo! Groups and Google Groups had communities dedicated to receiving updates on the newest location of Iran's Orkut proxy.
+
+In August 2006, the United Arab Emirates followed the footsteps of Iran in blocking the site. This block was subsequently removed in October 2006. On July 3, 2007, Gulf News revisited the issue, publishing complaints from members of the public against Orkut communities like "Dubai Sex", and officially bringing the complaints to the attention of the state telecom monopoly Etisalat.
+
+Saudi Arabia is another country that had blocked access to Orkut, while Bahrain's Information Ministry was also under pressure to follow suit.
+
+### Legal Issues
+
+In India and Brazil, there were legal issues related to Orkut. In India, the police entered into an agreement with Orkut to catch and prosecute those misusing Orkut. In Brazil, a judge ordered Google to release Orkut user's information of a list of about twenty-four Brazilian nationals, believed to be using Orkut to sell drugs and to be involved in child pornography.
+
+## Shutdown
+
+On June 30, 2014, Google announced that Orkut would be shutting down completely on September 30, 2014. Users could export their photo albums before the final shutdown date. Orkut profiles, scraps, testimonials, and community posts could be exported until September 2016.
+
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Orkut was a social networking service developed and run by Google, named after its creator, Orkut Büyükkökten. It was popular in India and Brazil and was known for its features that allowed users to rate friends and visit any user's profile. However, it also faced issues such as fake profiles, hate groups, and security concerns. Orkut underwent several redesigns, changing its interface and features over time. Despite its popularity, Google decided to shut down Orkut in 2014 due to various challenges and controversies.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Orkut: An Overview
+
+Orkut was a social networking service created and managed by Google. It was designed to help users meet new and old friends and maintain existing relationships. The website was named after its creator, Google employee Orkut Büyükkökten. In 2008, Orkut was one of the most visited websites in India and Brazil. Google decided to manage and operate Orkut in Brazil due to its large user base and increasing legal issues. However, on June 30, 2014, Google announced it would be closing Orkut on September 30, 2014. No new accounts could be created starting from July 2014, but users could download their profile archive by Google Takeout. In April 2022, the website was reactivated.
+
+# Features of Orkut
+
+Orkut's features and interface changed significantly over time. Unlike Facebook, where one can only view profile details of people in their network, Orkut initially allowed anyone to visit everyone's profile. Each member was also able to customize their profile preferences and restrict information that appears on their profile. Another feature was that any member could add any other member on Orkut to his/her "Crush List". Orkut users were also able to add videos to their profile from either YouTube or Google Video, create polls for a community of users, and change their interface from a range of colorful themes.
+
+# History of Orkut
+
+Orkut was launched on January 22, 2004 by Google. Orkut Büyükkökten, a Turkish software engineer, developed it as an independent project while working at Google. However, in late June 2004, Affinity Engines filed a suit against Google, claiming that Büyükkökten and Google had based Orkut on InCircle code. Over the years, Orkut underwent several redesigns, with the first major redesign announced on August 25, 2007. The new design included round corners, soft colors, and a small logotype at the upper left corner. The second major redesign, known as "New Orkut", was released on October 27, 2009. This version used Google Web Toolkit (GWT), making extensive use of AJAX in the user interface.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Orkut: A Social Networking Service by Google
+
+Orkut was a social networking service owned and managed by Google. The purpose of this service was to help users connect with new and old friends, and maintain their relationships. The website was named after its creator, Orkut Büyükkökten, who was an employee at Google. 
+
+## Popularity and Management 
+
+In 2008, Orkut was one of the most visited websites in India and Brazil. Given its large Brazilian user base and the growth of legal issues, Google announced that Orkut would be fully managed and operated in Brazil, specifically in the city of Belo Horizonte. However, on June 30, 2014, Google announced it would be closing Orkut on September 30, 2014. No new accounts could be created starting from July 2014. Users could download their profile archive by Google Takeout. In April 2022, the website was reactivated.
+
+## Features of Orkut
+
+Orkut's features and interface changed significantly over time. Initially, each member could become a fan of any of the friends in their list and also evaluate whether their friend is "Trustworthy", "Cool", or "Sexy" on a scale of 1 to 3. This was aggregated as a percentage. Unlike Facebook, where one can only view profile details of people in their network, Orkut initially allowed anyone to visit everyone's profile, unless a potential visitor was on a person's "Ignore List". 
+
+Members were also able to customize their profile preferences and restrict information that appears on their profile from their friends and/or others. Another feature was that any member can add any other member on Orkut to his/her "Crush List". When a user logged in, they saw the people in their friends list in the order of their login to the site, the first person being the latest one to do so.
+
+Orkut's competitors were other social networking sites including Myspace and Facebook. The site Ning was a more direct competitor, as it allowed for the creation of social networks similar to Orkut's "communities".
+
+An Orkut user was also able to add videos to their profile from either YouTube or Google Video with the additional option of creating either restricted or unrestricted polls for polling a community of users. There was at one point an option to integrate GTalk with Orkut, enabling chat and file sharing. Similar to Facebook, users could also use a "like" button to share interests with friends. Users could also change their interface from a wide range of colorful themes in the library. Themes were only available in Brazil and India. Orkut was arguably 'the only thriving social networking site' in India during 2005–2008.
+
+## History of Orkut
+
+### Origins 
+
+Orkut was quietly launched on January 22, 2004 by Google. Orkut Büyükkökten, a Turkish software engineer, developed it as an independent project while working at Google. While previously working for Affinity Engines, he had developed a similar system, InCircle, intended for use by university alumni groups. In late June 2004, Affinity Engines filed suit against Google, claiming that Büyükkökten and Google had based Orkut on InCircle code. The allegation is based on the presence of 9 identical bugs in Orkut that also existed in InCircles.
+
+### Redesigns 
+
+#### First Redesign 
+
+On August 25, 2007, Orkut announced a redesign and the new UI contained round corners and soft colors, including small logotype at upper left corner. By August 30, 2007, most users on Orkut could see changes on their profile pages as per the new redesign. On August 31, 2007, Orkut announced its new features including improvements to the way you view your friends, 9 rather than 8 of your friends displayed on your homepage and profile page and basic links to your friends' content right under their profile picture as you browse through their different pages. 
+
+#### Second Redesign: New Orkut 
+
+On October 27, 2009, Orkut released their 2nd redesigned version. It was available to only a few users at first. These users were able to send invites to their Orkut friends to join this new version. The new version used Google Web Toolkit (GWT), thus making extensive use of AJAX in the user interface. However, users of the new version could still switch back to the old one.
+
+##### Messages Black Hole 
+
+Before the introduction of the New Orkut, users had two options to message friends: via the scrapbook (equivalent to the Facebook wall) or by sending a private message. Since the New Orkut introduced a privacy control for scraps posted to the scrapbook, the messages system was disabled in this version, but not for those still using the old version. This created a strange situation in which messages sent by a user of the old version to someone using the New Orkut go completely unnoticed by its recipient.
+
+## Controversy 
+
+### Fake Profiles 
+
+As with any online social networking community, a number of fake and cloned profiles existed on Orkut. Due to the large number of users and the deactivation of the jail system, the profiles were often left unremoved or, when removed, recreated easily.
+
+### Hate Groups 
+
+In 2005, incidents of racism among Orkut users were reported to police and were documented in Brazilian media. In 2006, a judicial measure was opened by the Brazil federal justice denouncing a 20-year-old student accused of racism against those of Black African ancestry and spreading defamatory content on Orkut. Brazilian Federal Justice subpoenaed Google in March 2006 to explain the crimes that had occurred in Orkut.
+
+### State Censorship 
+
+#### In Iran 
+
+Orkut was very popular in Iran, but the website was then blocked by the government. According to official reports, this was due to national security issues, and issues about dating and match-making.
+
+#### In the United Arab Emirates 
+
+In August 2006, the United Arab Emirates followed the footsteps of Iran in blocking the site. This block was subsequently removed in October 2006. On July 3, 2007, Gulf News revisited the issue, publishing complaints from members of the public against Orkut communities like "Dubai Sex", and officially bringing the complaints to the attention of the state telecom monopoly Etisalat.
+
+#### In Saudi Arabia 
+
+Saudi Arabia is another country that had blocked access to Orkut, while Bahrain's Information Ministry was also under pressure to follow suit.
+
+### Security 
+
+#### MW.Orc Worm 
+
+On June 19, 2006, FaceTime Security Labs' security researchers Christopher Boyd and Wayne Porter discovered a worm, dubbed MW.Orc. The worm steals users' banking details, usernames and passwords by propagating through Orkut.
+
+#### Session Management and Authentication 
+
+On June 22, 2007 Susam Pal and Vipul Agarwal published a security advisory on Orkut vulnerabilities related to authentication issues. The vulnerabilities were considered very dangerous in cybercafes, or in the case of man-in-the-middle attack as they could lead to session hijacking and misuse of legitimate accounts.
+
+#### W32/KutWormer 
+
+On December 19, 2007, a worm written in Javascript started to cause havoc. Created by a Brazilian user called "Rodrigo Lacerda", it automatically made the user join the virus related community and infect all friends' scrapbooks with copies of itself, the worm infected over 700,000 Orkut users.
+
+## Legal Issues 
+
+### India 
+
+On October 10, 2006, the Bombay High Court's Aurangabad bench served a notice on Google for allowing a hate campaign against India. This referred to a community on Orkut called 'We Hate India', which initially carried a picture of an Indian flag being burned and some anti-India content.
+
+### Brazil 
+
+On August 22, 2006, Brazilian Federal Judge José Marcos Lunardelli ordered Google to release by September 28 Orkut user's information of a list of about twenty-four Brazilian nationals, believed to be using Orkut to sell drugs and to be involved in child pornography.
+
+## Shutdown 
+
+On June 30, 2014, Google announced that Orkut would be shutting down completely on September 30, 2014. Users could export their photo albums before the final shutdown date. Orkut profiles, scraps, testimonials, and community posts could be exported until September 2016.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Orkut was a social networking site owned and run by Google, named after its creator, Google employee Orkut Büyükkökten. It was popular in India and Brazil, and was fully managed in Brazil due to a large user base there. The site had various features allowing users to evaluate friends, visit profiles, and customize their own profiles. However, Orkut faced controversies such as fake profiles, hate groups, and security issues. Google announced the closure of Orkut in 2014, but it was reactivated in 2022.
+
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Orkut: A Social Networking Pioneer
+Orkut was a social networking platform owned and operated by Google. Named after its creator, Google employee Orkut Büyükkökten, it was designed to help users connect with new and old friends, and maintain existing relationships. In 2008, Orkut was one of the most visited websites in India and Brazil. Due to the large Brazilian user base and increasing legal issues, Google announced that Orkut would be fully managed and operated in Brazil, by Google Brazil, in the city of Belo Horizonte. However, Google announced the closure of Orkut on June 30, 2014, with no new accounts being created from July 2014. In April 2022, the website was reactivated.
+
+# Key Features and Competitors
+Orkut's features and interface evolved significantly over time. It initially allowed users to become fans of their friends, rate them on various attributes, and view anyone's profile unless they were on the user's "Ignore List". As a unique feature, any member could add another member to his/her "Crush List". Orkut also allowed users to add videos to their profile from YouTube or Google Video and create polls for community voting. Orkut's main competitors were other social networking sites, including Myspace and Facebook, with Ning being a more direct competitor as it allowed the creation of social networks similar to Orkut's "communities".
+
+# Controversies and Closure
+Like any online social networking community, Orkut had its share of controversies. Fake and cloned profiles were common due to the large number of users and the deactivation of the jail system. There were also incidents of racism among Orkut users that were reported to the police. Security issues were another concern, with worms and malware stealing users' banking details, usernames, and passwords. Legal issues also arose in India and Brazil due to hate campaigns and misuse of the platform. Despite these issues, Orkut remained popular until its shutdown in 2014. Users could export their photo albums, profiles, scraps, testimonials, and community posts until September 2016.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Orkut: A Comprehensive Breakdown
+
+Orkut was a social networking service owned and operated by Google. The service was designed to help users meet new and old friends and maintain existing relationships. The website was named after its creator, Google employee Orkut Büyükkökten. Orkut became one of the most visited websites in India and Brazil in 2008. 
+
+## Overview
+
+Orkut was a popular social networking site, especially in India and Brazil. In 2008, Google announced that Orkut would be fully managed and operated in Brazil, by Google Brazil, in the city of Belo Horizonte. This decision was made due to the large Brazilian user base and the growth of legal issues. However, on June 30, 2014, Google announced it would be closing Orkut on September 30, 2014. No new accounts could be created starting from July 2014. Users could download their profile archive by Google Takeout. In April 2022, the website was reactivated.
+
+## Features 
+
+Orkut's features and interface changed significantly with time. Initially, each member could become a fan of any of the friends in their list and also evaluate whether their friend is "Trustworthy", "Cool", "Sexy" on a scale of 1 to 3, which was aggregated as a percentage. Unlike Facebook, where one can only view profile details of people in their network, Orkut initially allowed anyone to visit everyone's profile, unless a potential visitor was on a person's "Ignore List".
+
+Each member was also able to customize their profile preferences and restrict information that appears on their profile from their friends and/or others. Another feature was that any member can add any other member on Orkut to his/her "Crush List". When a user logged in, they saw the people in their friends list in the order of their login to the site, the first person being the latest one to do so. 
+
+Orkut's competitors were other social networking sites including Myspace and Facebook. The site Ning was a more direct competitor, as it allowed for the creation of social networks similar to Orkut's "communities". An Orkut user was also able to add videos to their profile from either YouTube or Google Video with the additional option of creating either restricted or unrestricted polls for polling a community of users.
+
+## History 
+
+### Origins 
+
+Orkut was quietly launched on January 22, 2004 by Google. Orkut Büyükkökten, a Turkish software engineer, developed it as an independent project while working at Google. While previously working for Affinity Engines, he had developed a similar system, InCircle, intended for use by university alumni groups. In late June 2004, Affinity Engines filed suit against Google, claiming that Büyükkökten and Google had based Orkut on InCircle code. The allegation is based on the presence of 9 identical bugs in Orkut that also existed in InCircles.
+
+### Redesigns 
+
+#### First Redesign 
+
+On August 25, 2007, Orkut announced a redesign and the new UI contained round corners and soft colors, including small logotype at upper left corner. By August 30, 2007, most users on Orkut could see changes on their profile pages as per the new redesign. On August 31, 2007, Orkut announced its new features including improvements to the way you view your friends, 9 rather than 8 of your friends displayed on your homepage and profile page and basic links to your friends' content right under their profile picture as you browse through their different pages.
+
+#### Second Redesign: New Orkut 
+
+On October 27, 2009, Orkut released their 2nd redesigned version. It was available to only a few users at first. These users were able to send invites to their Orkut friends to join this new version. The new version used Google Web Toolkit (GWT), thus making extensive use of AJAX in the user interface. However, users of the new version could still switch back to the old one.
+
+Google stated the new Orkut was faster, simpler, and more customizable. More particular features included video chat, promotions and easy navigation. The look was completely new. User interface and workflow were also drastically changed. Orkut added different color choices for the users' profiles. The themes were eventually removed and an Orkut badge was visible for those who didn't change to the new Orkut. The new logo also had the word "My" in it, as in My Orkut.
+
+### Controversy 
+
+#### Fake Profiles 
+
+As with any online social networking community, a number of fake and cloned profiles existed on Orkut. Due to the large number of users and the deactivation of the jail system, the profiles were often left unremoved or, when removed, recreated easily.
+
+#### Hate Groups 
+
+In 2005, incidents of racism among Orkut users were reported to police and were documented in Brazilian media. In 2006, a judicial measure was opened by the Brazil federal justice denouncing a 20-year-old student accused of racism against those of Black African ancestry and spreading defamatory content on Orkut. Brazilian Federal Justice subpoenaed Google in March 2006 to explain the crimes that had occurred in Orkut.
+
+#### State Censorship 
+
+Orkut was very popular in Iran, but the website was then blocked by the government. According to official reports, this was due to national security issues, and issues about dating and match-making. In August 2006, the United Arab Emirates followed the footsteps of Iran in blocking the site. This block was subsequently removed in October 2006. Saudi Arabia is another country that had blocked access to Orkut, while Bahrain's Information Ministry was also under pressure to follow suit.
+
+### Security 
+
+#### MW.Orc Worm 
+
+On June 19, 2006, FaceTime Security Labs' security researchers Christopher Boyd and Wayne Porter discovered a worm, dubbed MW.Orc. The worm steals users' banking details, usernames and passwords by propagating through Orkut. The attack was triggered as users launched an executable file disguised as a JPEG file. The initial executable file that caused the infection installed two additional files on the user's computer.
+
+#### Session Management and Authentication 
+
+On June 22, 2007 Susam Pal and Vipul Agarwal published a security advisory on Orkut vulnerabilities related to authentication issues. The vulnerabilities were considered very dangerous in cybercafes, or in the case of man-in-the-middle attack as they could lead to session hijacking and misuse of legitimate accounts. The vulnerabilities were not known to be fixed yet and therefore posed threat to the Orkut users.
+
+### Legal Issues 
+
+#### India 
+
+On October 10, 2006, the Bombay High Court's Aurangabad bench served a notice on Google for allowing a hate campaign against India. This referred to a community on Orkut called 'We Hate India', which initially carried a picture of an Indian flag being burned and some anti-India content. The High Court order was issued in response to a public-interest petition filed by an Aurangabad advocate. Google had six weeks to respond. Even before the petition was filed, many Orkut users had noticed this community and were mailing or otherwise messaging their contacts on Orkut to report the community as bogus to Google, which could result in its removal.
+
+#### Brazil 
+
+On August 22, 2006, Brazilian Federal Judge José Marcos Lunardelli ordered Google to release by September 28 Orkut user's information of a list of about twenty-four Brazilian nationals, believed to be using Orkut to sell drugs and to be involved in child pornography. The judge ordered Google to pay $23,000 per day in fines until the information is turned over to the Brazilian government. According to the Brazilian government, the information would also be used to identify individuals who are spreading child pornography and hate speech. As of September 27, 2006 Google has stated that it will not release the information, on the grounds that the requested information is on Google servers in the U.S. and not Google servers in Brazil, and is therefore not subject to Brazilian laws.
+
+## Shutdown 
+
+On June 30, 2014, Google announced that Orkut would be shutting down completely on September 30, 2014. Users could export their photo albums before the final shutdown date. Orkut profiles, scraps, testimonials, and community posts could be exported until September 2014.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Orkut was a social networking service owned by Google, launched in 2004 and named after its creator, Orkut Büyükkökten. The platform had a significant user base in India and Brazil, leading to it being managed in Brazil due to legal issues and user volume. It was known for its unique features such as the ability to rate friends and visit anyone's profile. Despite being popular, the platform faced controversies related to fake profiles, hate groups, and security issues. Google announced Orkut's shutdown in 2014, but it was reactivated in 2022.
+
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Overview of Orkut
+
+Orkut was a social networking service developed and managed by Google. Named after its creator, Google employee Orkut Büyükkökten, the platform was designed to help users meet new and old friends and maintain existing relationships. Orkut was particularly popular in India and Brazil, becoming one of the most visited websites in these countries in 2008. However, due to the rising legal issues and a large Brazilian user base, Google announced that Orkut would be fully managed and operated in Brazil, by Google Brazil, in the city of Belo Horizonte. On June 30, 2014, Google announced the closure of Orkut, which took effect on September 30, 2014. However, in April 2022, the website was reactivated.
+
+# Features of Orkut
+
+Orkut offered several features to its users, including the ability to become a fan of friends in their list, evaluate their friends on a scale of 1 to 3, and add any member to their "Crush List". Unlike Facebook, Orkut initially allowed anyone to visit everyone's profile unless the visitor was on a person's "Ignore List". Users could also customize their profile preferences, restrict information that appears on their profile, and add videos to their profile from either YouTube or Google Video. Orkut also had a "like" button similar to Facebook and allowed users to change their interface from a range of colorful themes.
+
+# History and Controversies of Orkut
+
+Orkut was launched on January 22, 2004, by Google. It was developed by Turkish software engineer Orkut Büyükkökten as an independent project while working at Google. However, the platform faced controversies, including legal issues and allegations of using InCircle code. Orkut underwent several redesigns, the first of which took place on August 25, 2007, and the second on October 27, 2009. Despite its popularity, Orkut faced several issues, such as the presence of fake profiles, hate groups, and state censorship in countries like Iran, UAE, and Saudi Arabia. The platform was also targeted by worms and had security vulnerabilities related to session management and authentication. Orkut faced legal issues in India and Brazil, leading to its eventual shutdown in 2014.
+</div>
+</div>
+<div class='slide-pane' id='Orkut-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Orkut</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Orkut: A Comprehensive Analysis
+
+Orkut was a social networking platform owned and operated by Google. Named after its creator, Orkut Büyükkökten, a Google employee, the platform was designed with the aim of helping users connect with both new and old friends and maintain existing relationships. This in-depth analysis will delve into the features, history, controversies, legal issues, and eventual shutdown of Orkut.
+
+## Features
+
+Orkut's features and interface underwent significant changes over time. In its initial stages, members could become fans of any of the friends in their list and evaluate them on a scale of 1 to 3 in terms of trustworthiness, coolness, and attractiveness. The results of these evaluations were then aggregated as a percentage. 
+
+Unlike Facebook, which only allowed users to view the profiles of people in their network, Orkut initially permitted anyone to visit everyone's profile, unless they were on a person's "Ignore List". However, this feature was later modified so that users could choose to show their profile to all networks or specified ones. 
+
+Each member was also able to customize their profile preferences and restrict information that appears on their profile from their friends and/or others. Another notable feature was the ability for any member to add any other member on Orkut to his/her "Crush List". 
+
+When a user logged in, they would see the people in their friends list in the order of their login to the site, the first person being the latest one to do so. Orkut's competitors included other social networking sites such as Myspace and Facebook. The site Ning was a more direct competitor, as it allowed for the creation of social networks similar to Orkut's "communities".
+
+An Orkut user was also able to add videos to their profile from either YouTube or Google Video with the additional option of creating either restricted or unrestricted polls for polling a community of users. There was at one point an option to integrate GTalk with Orkut, enabling chat and file sharing. Similar to Facebook, users could also use a "like" button to share interests with friends. Users could also change their interface from a wide range of colorful themes in the library. Themes were only available in Brazil and India. Orkut was arguably 'the only thriving social networking site' in India during 2005–2008.
+
+## History
+
+### Origins
+
+Orkut was quietly launched on January 22, 2004 by Google. Orkut Büyükkökten, a Turkish software engineer, developed it as an independent project while working at Google. Büyükkökten had previously worked for Affinity Engines, where he had developed a similar system, InCircle, intended for use by university alumni groups. 
+
+In late June 2004, Affinity Engines filed suit against Google, claiming that Büyükkökten and Google had based Orkut on InCircle code. This allegation is based on the presence of 9 identical bugs in Orkut that also existed in InCircles.
+
+### Redesigns
+
+#### First Redesign
+
+The first redesign of Orkut was announced on August 25, 2007. The new user interface (UI) featured rounded corners and soft colors, including a small logotype at the upper left corner. By August 30, 2007, most users on Orkut could see changes on their profile pages as per the new redesign. 
+
+On August 31, 2007, Orkut announced its new features including improvements to the way users view their friends, 9 rather than 8 of their friends displayed on the homepage and profile page, and basic links to friends' content right under their profile picture as users browse through their different pages. It also announced the initial release of Orkut in 6 new languages: Hindi, Bengali, Marathi, Tamil, Kannada, and Telugu. Profile editing could then take place by clicking the settings button under the user profile photo (or alternatively, clicking the blue settings link at the top of any page).
+
+On September 4, 2007, Orkut announced that users would be able to see an "Updates from your friends" box on the homepage, where it would be possible to obtain real-time updates when friends made changes to their profiles, photos, and videos. Moreover, in case someone wanted to keep some information on their profile private, Orkut added an opt-out button on the settings page. Scraps were also HTML-enabled letting users post videos or pictures. On November 8, 2007, Orkut greeted its Indian users Happy Diwali by allowing them to change their Orkut look to a Diwali-flavored reddish theme. On April Fools' Day 2008, Orkut temporarily changed its name on its webpage to yogurt, apparently as a prank. On June 2, 2008, Orkut launched its theming engine with a small set of default themes. Photo tagging also was available.
+
+#### Second Redesign: New Orkut
+
+On October 27, 2009, Orkut released their second redesigned version. It was initially available to only a few users. These users were able to send invites to their Orkut friends to join this new version. The new version used Google Web Toolkit (GWT), thus making extensive use of AJAX in the user interface. However, users of the new version could still switch back to the old one.
+
+Google stated the new Orkut was faster, simpler, and more customizable. More particular features included video chat, promotions, and easy navigation. The look was completely new. User interface and workflow were also drastically changed. Orkut added different color choices for the users' profiles. The themes were eventually removed and an Orkut badge was visible for those who didn't change to the new Orkut. The new logo also had the word "My" in it, as in My Orkut. Vertical scroll bars were added in the friend and community list in the home page to allow viewing all friends/communities from the home page itself. In the home page, the recent visitor's list now displayed six most recent visitor's profile image as small clickable icons. Orkut also allowed users to sign in with their Google Mail, or Gmail, credentials.
+
+##### Messages Black Hole
+
+Before the introduction of the New Orkut, users had two options to message friends: via the scrapbook (equivalent to the Facebook wall) or by sending a private message. Since the New Orkut introduced a privacy control for scraps posted to the scrapbook, the messages system was disabled in this version, but not for those still using the old version. This created a situation where messages sent by a user of the old version to someone using the New Orkut went completely unnoticed by its recipient (the New Orkut did not inform the user of these lost messages, that could only be read if they switch back to the old version).
+
+## Controversy
+
+### Fake Profiles
+
+As with any online social networking community, a number of fake and cloned profiles existed on Orkut. Due to the large number of users and the deactivation of the jail system, these profiles were often left unremoved or, when removed, recreated easily.
+
+### Hate Groups
+
+In 2005, incidents of racism among Orkut users were reported to police and were documented in Brazilian media. In 2006, a judicial measure was opened by the Brazil federal justice denouncing a 20-year-old student accused of racism against those of Black African ancestry and spreading defamatory content on Orkut. Brazilian Federal Justice subpoenaed Google in March 2006 to explain the crimes that had occurred in Orkut. Orkut had a Report Abuse feature available for all communities. Orkut communities could be reported if they contain hateful/violent content.
+
+### State Censorship
+
+#### In Iran
+
+Orkut was very popular in Iran, but the website was then blocked by the government. According to official reports, this was due to national security issues, and issues about dating and match-making. To get around this block, sites such as orkutproxy.com (now defunct) were made for Iranian users. Other websites such as Yahoo! Groups and Google Groups had communities dedicated to receiving updates on the newest location of Iran's Orkut proxy. At one time it had been possible to bypass governmental blockage of Orkut, but the site had closed its HTTPS pages on all anonymous proxies. Then it was almost impossible for ordinary users to visit this site inside Iran. Many other sites have been published in Iran since Orkut's blockage, using the same social-networking model – examples include MyPardis, Cloob, and Bahaneh.
+
+#### In the United Arab Emirates
+
+In August 2006, the United Arab Emirates followed the footsteps of Iran in blocking the site. This block was subsequently removed in October 2006. On July 3, 2007, Gulf News revisited the issue, publishing complaints from members of the public against Orkut communities like "Dubai Sex", and officially bringing the complaints to the attention of the state telecom monopoly Etisalat. By July 4, 2007, Etisalat placed a renewed ban on the site, which remained in effect despite Google's promise to negotiate the ban with the UAE.
+
+#### In Saudi Arabia
+
+Saudi Arabia is another country that had blocked access to Orkut, while Bahrain's Information Ministry was also under pressure to follow suit.
+
+### Security
+
+#### MW.Orc Worm
+
+On June 19, 2006, FaceTime Security Labs' security researchers Christopher Boyd and Wayne Porter discovered a worm, dubbed MW.Orc. The worm steals users' banking details, usernames and passwords by propagating through Orkut. The attack was triggered as users launched an executable file disguised as a JPEG file. The initial executable file that caused the infection installed two additional files on the user's computer. These files then e-mailed banking details and passwords to the worm's anonymous creator when infected users clicked on the "My Computer" icon. The infection spread automatically by posting a URL in another user's Orkut Scrapbook, a guestbook where visitors could leave comments visible on the user's page. This link used to lure visitors with a message in Portuguese, falsely claiming to offer additional photos. The message text that carried an infection link varied from case to case. In addition to stealing personal information, the malware could also enable a remote user to control the PC and make it part of a botnet, a network of infected PCs.
+
+#### Session Management and Authentication
+
+On June 22, 2007 Susam Pal and Vipul Agarwal published a security advisory on Orkut vulnerabilities related to authentication issues. The vulnerabilities were considered very dangerous in cybercafes, or in the case of man-in-the-middle attack as they could lead to session hijacking and misuse of legitimate accounts. The vulnerabilities were not known to be fixed yet and therefore posed threat to the Orkut users.
+
+Joseph Hick performed an experiment on the basis of the advisories published by Susam Pal, to find out how long a session remains alive even after a user logs out. His experiment confirmed that the sessions remain alive for 14 days after the user has logged out. It implies that a hijacked session could be used for 14 days by the hijacker because logging out did not kill the session.
+
+#### W32/KutWormer
+
+On December 19, 2007, a worm written in Javascript started to cause havoc. Created by a Brazilian user called "Rodrigo Lacerda", it automatically made the user join the virus related community and infect all friends' scrapbooks with copies of itself, the worm infected over 700,000 Orkut users. The worm spread through Orkut's tool that allows users to write messages that contain HTML code.
+
+## Legal Issues
+
+### India
+
+On October 10, 2006, the Bombay High Court's Aurangabad bench served a notice on Google for allowing a hate campaign against India. This referred to a community on Orkut called 'We Hate India', which initially carried a picture of an Indian flag being burned and some anti-India content. The High Court order was issued in response to a public-interest petition filed by an Aurangabad advocate. Google had six weeks to respond. Even before the petition was filed, many Orkut users had noticed this community and were mailing or otherwise messaging their contacts on Orkut to report the community as bogus to Google, which could result in its removal. The community has now been deleted but has spawned several 'We hate those who hate India' communities. Prior to the 60th Independence Day of India, Orkut's main page was revamped. The section which usually displayed a collage of photos of various people, showed a stylized Orkut logo. The word Orkut was written in Devanagari script and was colored in Indian national colors. Clicking on the logo redirects to a post by the Orkut India Product Manager, Manu Rekhi, on the Orkut internal blog. There has also been some media outcry against Orkut after a couple of youngsters were apparently lured by fake profiles on the site and later murdered. On November 24, 2006, Bombay High Court asked the state government to file its reply in connection with a petition demanding a ban on social networking site, Orkut, for hosting an anti-Shivaji Web community. In 2007, the Pune rural police cracked a rave party filled with narcotics. The accused have been charged under anti-narcotic laws, the (Indian) Narcotic Drugs and Psychotropics Substances Act, 1985 (NDPS). Besides the NDPS, according to some media reports, the police were deliberating on the issue of charging the accused under the (Indian) Information Technology Act, 2000 perhaps because Orkut was believed to be a mode of communication for drug abuses of this kind. The police in India have entered into an agreement with Orkut to have a facility to catch and prosecute those misusing Orkut since complaints are rising.
+
+### Brazil
+
+On August 22, 2006, Brazilian Federal Judge José Marcos Lunardelli ordered Google to release by September 28 Orkut user's information of a list of about twenty-four Brazilian nationals, believed to be using Orkut to sell drugs and to be involved in child pornography. The judge ordered Google to pay $23,000 per day in fines until the information is turned over to the Brazilian government. According to the Brazilian government, the information would also be used to identify individuals who are spreading child pornography and hate speech. As of September 27, 2006 Google has stated that it will not release the information, on the grounds that the requested information is on Google servers in the U.S. and not Google servers in Brazil, and is therefore not subject to Brazilian laws.
+
+## Shutdown
+
+On June 30, 2014, Google announced that Orkut would be shutting down completely on September 30, 2014. Users could export their photo albums before the final shutdown date. Orkut profiles, scraps, testimonials, and community posts could be exported until September 2014.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Panama Canal is a man-made waterway in Panama that joins the Atlantic and Pacific Oceans. It was a big project to build and makes it quicker for ships to travel between the two oceans. The canal was first started by France in 1881, but they stopped because it was too hard and many workers got sick or died. The United States took over in 1904 and finished the canal in 1914. They controlled the canal until 1999, when the Panama government took over. Ships go through locks at each end of the canal, which lift them up and then lower them down. The canal is very busy, with thousands of ships using it each year.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal
+
+## What is the Panama Canal?
+The Panama Canal is a man-made waterway, about 51 miles long, in the country of Panama. It's like a water bridge that connects the Atlantic Ocean with the Pacific Ocean. This canal is very important for ships because it provides a shortcut, helping them avoid a long and dangerous journey around the southern tip of South America. It's like a shortcut from your house to school that saves you from walking around a big park. The canal was a big project that was difficult to build, but it has been very useful for trade between different countries.
+
+## Who Built the Panama Canal?
+The Panama Canal was built by three countries: Colombia, France, and the United States. France started the work in 1881 but had to stop because of many problems, including diseases that made the workers very sick. The United States then took over the project in 1904 and completed the canal in 1914. The canal was under the control of the United States until 1977 when it was given to Panama. Since 1999, the Panama Canal has been managed by the Panama Canal Authority, which is owned by the government of Panama.
+
+## How Does the Panama Canal Work?
+The Panama Canal uses a system of locks to lift ships up to a man-made lake, called Gatun Lake, and then lower them back down at the other end. Imagine an elevator, but for ships! The original locks were 110 feet wide and a third, wider lane of locks was added between 2007 and 2016. This allowed even larger ships to use the canal. Since the canal opened in 1914, the number of ships using it has increased from about 1,000 to 14,702 in 2008. In 2017, it took ships an average of 11.38 hours to pass through the canal's two locks. The American Society of Civil Engineers has ranked the Panama Canal one of the Seven Wonders of the Modern World.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal: A Kid-Friendly Explanation
+
+The Panama Canal is a man-made waterway, or canal, that stretches 51 miles across the country of Panama. It's like a water bridge that connects the Atlantic Ocean and the Pacific Ocean. This canal is really important because it allows ships to travel between these two oceans much quicker than they could before it was built. It's like a shortcut for ships! 
+
+## Who Built the Canal?
+
+Building the Panama Canal was a big job. First, the country of Colombia started to build it, then France took over, and finally, the United States finished it. France started the work in 1881 but had to stop because the project was very difficult and many workers got sick. The United States took over in 1904 and finished the canal in 1914. The United States controlled the canal until 1977, when they agreed to give it to Panama. Since 1999, the Panama Canal has been managed by the Panama government.
+
+## How Does the Canal Work?
+
+The Panama Canal uses a system of locks to lift ships up to an artificial lake called Gatun Lake, which is 85 feet above sea level. This was done to reduce the amount of digging needed to make the canal. After the ships cross the lake, they are lowered back down to sea level at the other end of the canal. The original locks were 110 feet wide. A third, wider lane of locks was added between 2007 and 2016 to allow bigger ships to use the canal.
+
+## Canal Traffic
+
+When the canal opened in 1914, about 1,000 ships used it. By 2008, this number had increased to 14,702 ships. In 2017, it took ships an average of about 11.5 hours to travel from one end of the canal to the other. The Panama Canal is considered one of the Seven Wonders of the Modern World.
+
+# History of the Panama Canal
+
+## Early Ideas for a Canal in Panama
+
+The first idea for a canal through Panama came in 1534, when the King of Spain ordered a survey for a route through the Americas. He wanted to make it easier for ships to travel between Spain and Peru. Over the years, many other people proposed building a canal in Panama, but none of these plans worked out.
+
+## French Attempts to Build the Canal
+
+In 1881, the French diplomat Ferdinand de Lesseps started the first attempt to build the canal. However, the project was more difficult than expected. The workers had to deal with tropical rainforests, a tough climate, and diseases like yellow fever and malaria. By 1884, more than 200 workers were dying each month. The French effort went bankrupt in 1889 after spending a lot of money and losing many lives. 
+
+## United States Takes Over
+
+In 1904, the United States took over the project. They were interested in building a canal to make it easier for ships to travel between the Atlantic and Pacific Oceans. After a lot of negotiation, the United States bought the French interests in the canal for $40 million. The United States finished building the canal in 1914.
+
+## Giving the Canal to Panama
+
+In 1977, the United States agreed to give the canal to Panama. This was a big deal because it meant that Panama would have control over this important waterway. The canal was fully handed over to Panama in 1999, and it is now managed by the Panama government.
+
+# Fun Facts About the Panama Canal
+
+- The Panama Canal is like a giant water elevator! It lifts ships up to a lake in the middle and then lowers them back down at the other end.
+- Building the canal was a huge job. It took 10 years and thousands of workers to finish it.
+- The canal is really busy. In 2008, almost 15,000 ships used the canal. That's about 40 ships every day!
+- The Panama Canal is considered one of the Seven Wonders of the Modern World.
+
+So, the next time you see a ship, imagine it taking a shortcut through the Panama Canal!
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Panama Canal is an 82 km man-made waterway in Panama that connects the Atlantic and Pacific Oceans. It was one of the largest and most challenging engineering projects ever undertaken, significantly reducing the time for ships to travel between the two oceans by bypassing the lengthy route around the southernmost tip of South America. The canal was initially started by France in 1881 but was taken over by the US in 1904 due to engineering problems and high worker mortality. The US completed and opened the canal in 1914, and it was later handed over to Panama in 1999.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal: An Engineering Marvel
+
+## The Canal's Purpose and Construction
+
+The Panama Canal is an artificial waterway, stretching 82 km (51 mi), that links the Atlantic Ocean with the Pacific Ocean. This canal, which cuts across the Isthmus of Panama, serves as a passage for maritime trade and separates North and South America. The canal's construction was one of the biggest and most challenging engineering projects ever undertaken. The primary benefit of the Panama Canal is that it significantly reduces the time for ships to travel between the Atlantic and Pacific oceans. This shortcut allows ships to avoid the long and dangerous Cape Horn route around the southernmost tip of South America.
+
+The construction of the canal was controlled by Colombia, France, and later the United States. France started building the canal in 1881 but had to stop due to engineering issues and a high worker mortality rate. The United States took over the project in 1904 and completed it in 1914. The canal and the surrounding Panama Canal Zone were controlled by the US until 1977, when the Torrijos–Carter Treaties handed it over to Panama. After a period of joint control, the canal was fully taken over by the Panamanian government in 1999. 
+
+## Canal Operation and Traffic
+
+The Panama Canal uses locks at each end to lift ships up to Gatun Lake, an artificial lake created to reduce the amount of excavation work required for the canal, and then lower the ships at the other end. The original locks are 33.5 meters (110 ft) wide. A wider third lane of locks was constructed between 2007 and 2016. The expanded waterway began commercial operation in 2016, allowing larger ships to transit. 
+
+Annual traffic in the canal has increased from about 1,000 ships in 1914 to 14,702 vessels in 2008, carrying a total of 333.7 million Panama Canal/Universal Measurement System (PC/UMS) tons. By 2012, more than 815,000 vessels had passed through the canal. On average, it took ships 11.38 hours to pass between the canal's two locks in 2017. The American Society of Civil Engineers has ranked the Panama Canal as one of the Seven Wonders of the Modern World.
+
+## Historical Attempts and Proposals
+
+The earliest record of a proposal for a canal across the Isthmus of Panama dates back to 1534, when Charles V, the Holy Roman Emperor and King of Spain, ordered a survey for a route through the Americas to ease the voyage for ships traveling between Spain and Peru. Over the years, many attempts were made to establish trade links in the area. However, most of these attempts were thwarted by inhospitable conditions, such as the ill-fated Darien scheme by the Kingdom of Scotland in 1698. 
+
+In the late 18th and early 19th centuries, many canals were built in other countries. The success of the Erie Canal in the United States sparked American interest in building an inter-oceanic canal. After many negotiations and attempts, a second French company, the Compagnie Nouvelle du Canal de Panama, was created in 1894 to take over the project. However, the project went bankrupt in 1889 after reportedly spending US$287,000,000 and causing the death of an estimated 22,000 men. The project was eventually taken over by the United States in 1904.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal: A Marvel of Engineering
+
+## Introduction
+
+The Panama Canal, or "Canal de Panamá" in Spanish, is an 82 km (51 mi) artificial waterway in Panama that links the Atlantic Ocean with the Pacific Ocean. This canal is not just a simple waterway. It is an engineering marvel that divides North and South America and serves as a critical conduit for maritime trade. 
+
+Imagine you have to drive from New York to Los Angeles, but instead of driving across the country, you could just take a shortcut right through the middle. That's what the Panama Canal does for ships. It greatly reduces the time for ships to travel between the Atlantic and Pacific oceans. Without the canal, ships would have to take a long and hazardous route around the southernmost tip of South America via the Drake Passage or Strait of Magellan. This would be like driving from New York to Los Angeles by way of Miami!
+
+## Construction and Control
+
+The territory surrounding the canal was controlled by Colombia, France, and later the United States during its construction. The French began work on the canal in 1881, but stopped because of engineering problems and a high worker mortality rate, among other issues. It's like starting a big school project and realizing halfway through that it's way more difficult than you thought. The United States took over the project in 1904 and opened the canal in 1914. The U.S. continued to control the canal and surrounding Panama Canal Zone until the Torrijos–Carter Treaties provided for its handover to Panama in 1977. The canal was fully taken over by the Panamanian government in 1999 and is now managed and operated by the government-owned Panama Canal Authority.
+
+## How the Canal Works
+
+The Panama Canal works using a system of locks at each end that lift ships up to Gatun Lake, an artificial lake 26 meters (85 ft) above sea level, and then lower the ships at the other end. Think of these locks as water elevators. They raise the ships up to the higher level of the lake and then lower them back down to sea level on the other side. The original locks are 33.5 meters (110 ft) wide. A third, wider lane of locks was constructed between September 2007 and May 2016. The expanded waterway began commercial operation on June 26, 2016. The new locks allow transit of larger, New Panamax ships.
+
+## Traffic Through the Canal
+
+Since the canal opened in 1914, it has seen a significant increase in traffic. In its first year, about 1,000 ships passed through the canal. By 2008, this number had risen to 14,702 vessels, carrying a total of 333.7 million Panama Canal/Universal Measurement System (PC/UMS) tons. By 2012, more than 815,000 vessels had passed through the canal. In 2017, it took ships an average of 11.38 hours to pass between the canal's two locks. The American Society of Civil Engineers has ranked the Panama Canal one of the Seven Wonders of the Modern World.
+
+## History of the Canal
+
+### Early Proposals in Panama
+
+The idea of a canal across the Isthmus of Panama dates back to 1534, when Charles V, Holy Roman Emperor and King of Spain, ordered a survey for a route through the Americas to ease the voyage for ships traveling between Spain and Peru. Over the years, there were many attempts and proposals to build a canal, but it wasn't until the late 18th and early 19th centuries that canals were successfully built in other countries. This success, combined with the collapse of the Spanish Empire in Latin America, resulted in growing American interest in building an inter-oceanic canal.
+
+### French Construction Attempts, 1881–1899
+
+The first attempt to construct the canal began on January 1, 1881. The project was led by Ferdinand de Lesseps, who had successfully constructed the Suez Canal. However, the Panama Canal presented a much greater engineering challenge due to the combination of tropical rain forests, debilitating climate, the need for canal locks, and the lack of any ancient route to follow. Despite the challenges, Lesseps and his team persisted, but eventually, the money ran out and the project went bankrupt in 1889.
+
+### United States Acquisition
+
+In the early 1900s, the United States became interested in establishing a canal across the isthmus. After negotiations and a series of events, the U.S. ended up supporting a rebellion in Panama against Colombia, which led to Panama's independence. Shortly after recognizing Panama, the U.S. signed a treaty with the new Panamanian government, granting rights to the United States to build and indefinitely administer the Panama Canal Zone and its defenses.
+
+## Conclusion
+
+The Panama Canal is more than just a waterway. It's a testament to human ingenuity and perseverance. Despite the many challenges and setbacks, the canal was eventually completed and has since served as a vital pathway for global trade. The next time you see a product from Asia in your local store, remember that it may have traveled through the Panama Canal to get there.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Panama Canal, an 82 km artificial waterway connecting the Atlantic and Pacific Oceans, was one of the largest and most challenging engineering projects ever undertaken. Initially attempted by France in 1881, the project faced engineering issues and high worker mortality, leading to its abandonment. The United States took over in 1904 and completed the canal by 1914. The canal, now managed by the Panama Canal Authority, greatly reduces travel time for ships, bypassing the dangerous Cape Horn route. It features locks that lift ships to an artificial lake and then lower them again. The canal's annual traffic has risen from 1,000 ships in 1914 to 14,702 vessels in 2008.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal: A Historic Engineering Feat
+
+## Overview and Construction
+The Panama Canal is an 82 km artificial waterway in Panama that serves as a conduit for maritime trade by connecting the Atlantic Ocean with the Pacific Ocean. This monumental engineering project, completed in 1914, significantly reduces the time for ships to travel between the two oceans, allowing them to bypass the lengthy and treacherous Cape Horn route around the southernmost tip of South America. The canal's construction was initially undertaken by France in 1881 but was later taken over by the United States due to lack of investor confidence and high worker mortality rate. The US completed the project and continued to control the canal and the surrounding Panama Canal Zone until the Torrijos–Carter Treaties facilitated its handover to Panama in 1977.
+
+## Operation and Traffic
+The canal operates using locks at each end that lift ships to Gatun Lake, an artificial lake created to reduce the amount of excavation work needed for the canal, and then lower the ships at the other end. The original locks are 33.5 meters wide, with a third, wider lane of locks constructed between September 2007 and May 2016. The expanded waterway began commercial operation on June 26, 2016, allowing larger, New Panamax ships to transit. Traffic has increased from about 1,000 ships in 1914 to 14,702 vessels in 2008, totaling 333.7 million Panama Canal/Universal Measurement System tons. By 2012, over 815,000 vessels had passed through the canal.
+
+## Historical Context
+The earliest record of a canal across the Isthmus of Panama dates back to 1534, when Charles V, Holy Roman Emperor and King of Spain, ordered a survey for a route through the Americas. Over the years, several attempts were made to establish trade links in the area, but most were thwarted by inhospitable conditions. The success of the Erie Canal in the United States in the 1820s sparked interest in building an inter-oceanic canal. After the French attempt to construct the canal failed, the United States took over the project in 1904. The Panama Canal is now considered one of the Seven Wonders of the Modern World by the American Society of Civil Engineers.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal: An Engineering Marvel
+
+The Panama Canal is an artificial 82 km (51 mi) waterway, located in Panama, that acts as a conduit between the Atlantic and Pacific Oceans. It is a significant landmark that geographically divides North and South America. The canal, one of the largest and most challenging engineering projects ever undertaken, provides a shortcut for maritime trade, reducing the time for ships to travel between the Atlantic and Pacific oceans.
+
+## Overview
+
+The canal traverses the Isthmus of Panama and its creation was a colossal task that required overcoming numerous engineering and logistical challenges. Before the canal's existence, ships had to navigate the lengthy and hazardous Cape Horn route around the southernmost tip of South America, via the Drake Passage or Strait of Magellan. The canal's construction significantly reduced the travel time between the two oceans, making it a vital route for global trade.
+
+## Control and Construction
+
+The territory surrounding the canal during its construction was under the control of Colombia, France, and later the United States. The French initiated canal construction in 1881, but the project was halted due to engineering challenges, a high worker mortality rate, and lack of investor confidence. The United States took over the project in 1904 and successfully opened the canal in 1914. The U.S. continued to control the canal and the surrounding Panama Canal Zone until the Torrijos–Carter Treaties provided for its handover to Panama in 1977. Following a period of joint American–Panamanian control, the canal was fully taken over by the Panamanian government in 1999. The Panama Canal is currently managed and operated by the government-owned Panama Canal Authority.
+
+## Canal Locks and Expansion
+
+The Panama Canal features locks at each end that lift ships up to Gatun Lake, an artificial lake created to reduce the amount of excavation work required for the canal. These locks then lower the ships at the other end. The original locks are 33.5 meters (110 ft) wide. A third, wider lane of locks was constructed between September 2007 and May 2016. The expanded waterway began commercial operation on June 26, 2016, allowing the transit of larger, New Panamax ships.
+
+## Traffic and Significance
+
+Since its opening in 1914, the Panama Canal has seen a significant increase in traffic. Annual traffic has risen from about 1,000 ships in 1914 to 14,702 vessels in 2008, with a total of 333.7 million Panama Canal/Universal Measurement System (PC/UMS) tons. By 2012, over 815,000 vessels had passed through the canal. In 2017, it took ships an average of 11.38 hours to pass between the canal's two locks. The American Society of Civil Engineers has ranked the Panama Canal as one of the Seven Wonders of the Modern World.
+
+# History of the Panama Canal
+
+## Early Proposals in Panama
+
+The idea of a canal across the Isthmus of Panama dates back to 1534 when Charles V, Holy Roman Emperor and King of Spain, ordered a survey for a route through the Americas to ease the voyage for ships traveling between Spain and Peru. Over the years, several attempts were made to establish trade links in the area due to Panama's strategic location and the potential of its narrow isthmus separating two great oceans. However, these early attempts, such as the ill-fated Darien scheme launched by the Kingdom of Scotland in 1698, were unsuccessful due to inhospitable conditions.
+
+The interest in building an inter-oceanic canal grew in the 1820s, following the success of the Erie Canal in the United States and the collapse of the Spanish Empire in Latin America. However, due to political instability and resistance from the local authorities, the plans did not materialize.
+
+## French Construction Attempts, 1881–1899
+
+The first serious attempt to construct a canal through Panama began on January 1, 1881. The project was led by Ferdinand de Lesseps, a French diplomat who had successfully constructed the Suez Canal. Despite the Panama Canal needing to be only 40 percent as long as the Suez Canal, it presented a much greater engineering challenge due to the combination of tropical rain forests, a debilitating climate, the need for canal locks, and the lack of any ancient route to follow.
+
+The French effort went bankrupt in 1889 after spending an estimated US$287,000,000 and losing an estimated 22,000 men to disease and accidents. The failed project led to a scandal known as the Panama affair, which led to the prosecution of those deemed responsible, including Gustave Eiffel. A second French company, the Compagnie Nouvelle du Canal de Panama, was created in 1894 to take over the project, but it too failed to complete the canal.
+
+## United States Acquisition
+
+The United States showed interest in establishing a canal across the isthmus, with some favoring a canal across Nicaragua and others advocating the purchase of the French interests in Panama. In June 1902, the US Senate voted in favor of the Spooner Act, to pursue the Panamanian option, provided the necessary rights could be obtained. 
+
+In 1903, the Hay–Herrán Treaty was signed by United States Secretary of State John M. Hay and Colombian Chargé Dr. Tomás Herrán, which would have granted the United States a renewable lease in perpetuity from Colombia on the land proposed for the canal. However, the Senate of Colombia did not ratify it. 
+
+Following this, the United States changed tactics and actively supported the separation of Panama from Colombia. Panama declared independence on November 3, 1903, and the United States quickly recognized the new nation. On November 6, 1903, Philippe Bunau-Varilla, as Panama's ambassador to the United States, signed the Hay–Bunau-Varilla Treaty, granting rights to the United States to build and indefinitely administer the Panama Canal Zone and its defenses.
+
+# The Panama Canal: A Modern Marvel
+
+The Panama Canal is an engineering marvel that has significantly impacted global trade. Its construction was a monumental task that required overcoming numerous challenges. Today, it stands as a testament to human ingenuity and perseverance and continues to play a crucial role in global maritime trade.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Panama Canal is an 82 km man-made waterway in Panama that connects the Atlantic and Pacific Oceans. It was one of the largest and most difficult engineering projects ever undertaken. The canal was initially controlled by Colombia, France, and the United States during its construction. The US took over the project in 1904 and opened the canal in 1914. The canal was later handed over to Panama in 1977. It is now managed and operated by the Panama Canal Authority. The canal has significantly reduced the time for ships to travel between the Atlantic and Pacific Oceans.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Panama Canal: Overview and Significance
+
+The Panama Canal, an 82 km artificial waterway in Panama, connects the Atlantic Ocean with the Pacific Ocean and serves as a vital conduit for maritime trade. The canal, which bisects the Isthmus of Panama, forms a vital link between North and South America. The Panama Canal is one of the most challenging engineering projects ever undertaken, allowing ships to avoid the hazardous Cape Horn route around South America's southernmost tip, thereby significantly reducing travel time between the Atlantic and Pacific oceans.
+
+# Construction and Control of the Canal
+
+The canal's construction was initiated by France in 1881, but was halted due to engineering challenges and a high worker mortality rate, leading to a loss of investor confidence. The United States took over the project in 1904 and officially opened the canal in 1914. The United States maintained control over the canal and the surrounding Panama Canal Zone until the Torrijos–Carter Treaties provided for its handover to Panama in 1977. After a period of joint American–Panamanian control, the canal was completely taken over by the Panamanian government in 1999. Today, the canal is managed and operated by the government-owned Panama Canal Authority.
+
+# Canal Operation and Expansion
+
+The canal operates using locks at each end that lift ships up to Gatun Lake, an artificial lake created to reduce the amount of excavation work required for the canal, and then lower the ships at the other end. The original locks are 33.5 meters wide. A third, wider lane of locks was constructed between September 2007 and May 2016, allowing for the transit of larger, New Panamax ships. The expanded waterway began commercial operation on June 26, 2016. The canal's annual traffic has increased from about 1,000 ships in 1914 to 14,702 vessels in 2008, totalling 333.7 million Panama Canal/Universal Measurement System (PC/UMS) tons. By 2012, over 815,000 vessels had passed through the canal. The Panama Canal has been ranked as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers.
+</div>
+</div>
+<div class='slide-pane' id='Panama_Canal-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Panama Canal</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Panama Canal: A Comprehensive Analysis
+
+The Panama Canal, or Canal de Panamá in Spanish, is an artificial waterway spanning 82 kilometers (51 miles) across the country of Panama. This monumental engineering feat serves as a conduit for maritime trade, linking the Atlantic Ocean to the Pacific Ocean and bifurcating North and South America. It is one of the most significant and challenging engineering projects ever undertaken, significantly reducing the time it takes for ships to traverse between the Atlantic and Pacific Oceans. This canal provides an alternative to the perilous Cape Horn route around South America's southernmost tip via the Drake Passage or Strait of Magellan.
+
+## Historical Overview
+
+### Early Proposals and Attempts
+
+The earliest record of a proposed canal across the Isthmus of Panama dates back to 1534, when Charles V, Holy Roman Emperor and King of Spain, commissioned a survey for a route through the Americas to facilitate voyages between Spain and Peru. Over the centuries, various attempts were made to establish trade links in the region, but these were often thwarted by inhospitable conditions. 
+
+Notably, the Kingdom of Scotland launched the Darien scheme in 1698, an ill-fated attempt to set up an overland trade route. Despite its failure, the idea of a canal persisted. In 1788, Americans proposed that the Spanish, who controlled the colonies where the canal would be built, should undertake the project. This proposal highlighted the potential benefits of a less treacherous route for ships and the possibility that tropical ocean currents would naturally widen the canal after its construction. 
+
+In the late 18th and early 19th centuries, various canals were built in other countries, including the Erie Canal in the United States. The success of these projects, along with the collapse of the Spanish Empire in Latin America, spurred American interest in building an inter-oceanic canal. However, initial negotiations with Gran Colombia (present-day Colombia, Venezuela, Ecuador, and Panama) failed due to fears of American domination.
+
+In 1843, Great Britain attempted to develop a canal, but the plan was never executed. The discovery of gold in California in 1848 renewed interest in a canal crossing, leading to the construction of the Panama Railroad, which opened in 1855. This overland link became a crucial piece of infrastructure, facilitating trade and paving the way for the later canal route.
+
+### French Construction Attempts (1881-1899)
+
+The first attempt to construct the canal began on January 1, 1881, under the guidance of diplomat Ferdinand de Lesseps. Despite the success of his Suez Canal project, the Panama Canal posed a much greater engineering challenge due to the tropical rain forests, debilitating climate, and the need for canal locks. 
+
+The project was plagued by numerous problems, including rampant diseases such as yellow fever and malaria, which killed thousands of workers. Engineering problems and a high worker mortality rate led to a lack of investor confidence, and the French effort went bankrupt in 1889 after reportedly spending US$287,000,000. The scandal that followed, known as the Panama affair, resulted in the prosecution of several individuals, including Gustave Eiffel.
+
+Despite these setbacks, a second French company, the Compagnie Nouvelle du Canal de Panama, was established in 1894 to take over the project. However, the company struggled to maintain the existing excavation and equipment and sought a buyer for these assets.
+
+### United States Acquisition
+
+In the early 20th century, the United States showed interest in establishing a canal across the isthmus. The U.S. Senate passed the Spooner Act in June 1902, favoring the Panamanian option. However, negotiations with Colombia, which then controlled Panama, failed. 
+
+The United States then supported Panama's independence movement. Once Panama declared independence in November 1903, the United States quickly recognized the new nation and signed a treaty with the Panamanian government, granting the United States the rights to build and indefinitely administer the Panama Canal Zone and its defenses.
+
+## Construction and Control
+
+The construction of the canal was overseen by Colombia, France, and later the United States. France initiated work on the canal in 1881 but ceased operations due to engineering problems and a high worker mortality rate, which led to a lack of investor confidence. The United States took over the project in 1904 and opened the canal in 1914. The U.S. continued to control the canal and the surrounding Panama Canal Zone until the Torrijos–Carter Treaties provided for its handover to Panama in 1977. After a period of joint American–Panamanian control, the canal was fully transferred to the Panamanian government in 1999. It is now managed and operated by the government-owned Panama Canal Authority.
+
+## Canal Design and Operation
+
+The canal employs a series of locks at each end that lift ships up to Gatun Lake, an artificial lake 26 meters (85 ft) above sea level. This lake was created to reduce the amount of excavation work required for the canal. The original locks are 33.5 meters (110 ft) wide. A third, wider lane of locks was constructed between September 2007 and May 2016, allowing for the transit of larger, New Panamax ships.
+
+The canal's operation has seen a significant increase in traffic since its opening in 1914. From about 1,000 ships in its inaugural year, the annual traffic rose to 14,702 vessels in 2008, amounting to a total of 333.7 million Panama Canal/Universal Measurement System (PC/UMS) tons. By 2012, more than 815,000 vessels had traversed the canal. In 2017, it took ships an average of 11.38 hours to pass between the canal's two locks. The American Society of Civil Engineers has ranked the Panama Canal as one of the Seven Wonders of the Modern World.
+
+# Conclusion
+
+The Panama Canal represents a substantial achievement in engineering and international cooperation. Its construction and operation have drastically altered global trade routes, making it a vital artery for international maritime trade. Despite the challenges and controversies involved in its creation, the Panama Canal stands as a testament to human ingenuity and the transformative power of infrastructure development.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Qing dynasty was the last imperial dynasty in China, lasting from 1636 to 1912. It was started by the Manchu people, who came from Northeast China. The Qing dynasty grew to control all of China, Taiwan, and parts of Inner Asia. It was a very big and powerful empire with many people. The dynasty ended in 1912 when a revolution happened. The Qing dynasty was known for its rulers, like the Qianlong Emperor, and for its problems, like wars and rebellions. The dynasty also had a big influence on what China is like today.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Qing Dynasty
+
+The Qing Dynasty, also known as the Great Qing, was the last imperial dynasty in China. It started in 1636 and ended in 1912. The Qing Dynasty was started by a group of people called the Manchus, who were originally from a place called Manchuria, which is now part of China and Russia. The Manchus took control of Beijing in 1644 and then expanded their rule over all of China and Taiwan. The Qing Dynasty was the biggest dynasty in China's history and had the most people of any country in the world in 1907.
+
+# Formation of the Qing Dynasty
+
+In the late 1500s, a leader named Nurhaci started to unite different groups of people, including the Manchus, Han, and Mongols, into military units called "Banners". He created a new Manchu identity and started a new dynasty called the Later Jin dynasty in 1616. Later, his son Hong Taiji renamed the dynasty to "Great Qing" and made it an empire in 1636. The Qing Dynasty faced many challenges, including resistance from people who were loyal to the previous Ming dynasty, but by 1683, they had control over all of China.
+
+# The Qing Dynasty's Achievements and Challenges
+
+The Qing Dynasty reached its peak during the reign of the Qianlong Emperor from 1735 to 1796. He led campaigns that expanded Qing control and supervised cultural projects. However, after his death, the dynasty faced many problems, including foreign intrusion, internal revolts, and economic disruption. Despite these challenges, the population of the Qing Dynasty grew to about 400 million people. The dynasty ended in 1912 after a revolution, and was briefly restored in 1917, but this restoration was not recognized by the Chinese government or the international community.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Great Qing Dynasty
+
+The Qing dynasty, also known as the Great Qing, was a very important time in China's history. It was the last imperial dynasty, which means the last time China was ruled by an emperor. It started in 1636 and ended in 1912. The Qing dynasty was started by the Manchu people, who were part of a group called the Jurchens. They lived in a place called Manchuria, which is now a part of China and Russia. The Manchus took control of Beijing, the capital of China, in 1644, and then they started ruling the whole of China and Taiwan. The dynasty ended in 1912, when it was overthrown in a revolution. After the Qing dynasty, China became a republic.
+
+## The Start of the Qing Dynasty
+
+In the late 1500s, a man named Nurhaci started to bring together different groups of people to form a new ethnic group called the Manchu. He started a new dynasty called the Later Jin dynasty in 1616. His son, Hong Taiji, changed the name of the dynasty to the Great Qing in 1636. When the old Ming dynasty started to lose power, the Manchus took over Beijing and became the new rulers of China. It took them until 1683 to fully control the whole country.
+
+### The Kangxi Emperor
+
+The Kangxi Emperor, who ruled from 1661 to 1722, was a very important ruler during the Qing dynasty. He made sure the Manchu people kept their own identity, while also respecting other cultures. He encouraged Tibetan Buddhism, and he also followed the teachings of Confucius, a famous Chinese philosopher. He worked with both Manchu and Han Chinese officials to run the country. The Qing dynasty also controlled other countries like Korea and Vietnam, and places like Tibet, Mongolia, and Xinjiang.
+
+## The Qianlong Emperor
+
+The Qianlong Emperor, who ruled from 1735 to 1796, was another important ruler. He led many military campaigns that expanded the Qing dynasty's control into Inner Asia. He also supported many cultural projects. After his death, the dynasty started to face many problems, like foreign intrusion, internal revolts, and economic disruption.
+
+### The Opium Wars and the Taiping Rebellion
+
+In the mid-1800s, China lost the Opium Wars to Western countries. These countries forced the Qing government to sign treaties that gave them special trading rights and control over certain areas. This was a very hard time for China. There were also big rebellions, like the Taiping Rebellion and the Dungan Revolt, which caused the deaths of over 20 million people.
+
+## The End of the Qing Dynasty
+
+In the early 1900s, there were many changes in China. The government started to make reforms, like introducing new laws and holding elections. However, many people were not happy with the way things were going. In 1911, there was a big uprising, which led to a revolution. The last emperor of the Qing dynasty, the Xuantong Emperor, had to give up his throne in 1912. This marked the end of the Qing dynasty, and the start of the Republic of China.
+
+### The Names of the Qing Dynasty
+
+The Qing dynasty was named by Hong Taiji in 1636. The word "Qing" means "clear" or "pure" in Chinese. The name was chosen to show that the Qing dynasty was different from the Ming dynasty, which had ruled China before. The Ming dynasty was associated with the sun and the moon, which are both fire elements. The Qing dynasty was associated with water, which can put out fire. This was a way to show that the Qing dynasty had defeated the Ming dynasty.
+
+## The History of the Qing Dynasty
+
+### The Formation of the Qing Dynasty
+
+The Qing dynasty was started by the Manchus, who were part of the Jurchen people. They were not nomadic, which means they didn't move around a lot, but lived in one place and farmed the land.
+
+#### Nurhaci
+
+Nurhaci was a leader of the Jurchens. He started to bring together different groups of people to form a new ethnic group called the Manchu. He also started a new dynasty called the Later Jin dynasty.
+
+#### Hong Taiji
+
+Hong Taiji was Nurhaci's son. He became the leader after Nurhaci died. He changed the name of the dynasty to the Great Qing and started to rule as an emperor. He also made many changes to the way the government worked, and he made sure that both Manchu and Han Chinese people were included in the government.
+
+### Claiming the Mandate of Heaven
+
+The Mandate of Heaven is a traditional Chinese belief that the emperor is the chosen one by heaven to rule. When Hong Taiji died, his young son, Fulin, became the new emperor, with Dorgon, Hong Taiji's half brother, helping him rule. This was a difficult time for China, as there were many problems and rebellions. The Qing dynasty was able to take control because they were able to work with different groups of people and they were able to defeat the rebels.
+
+#### The End of the Ming Dynasty
+
+The last emperor of the Ming dynasty, the Chongzhen Emperor, killed himself when the rebels took over Beijing. This marked the end of the Ming dynasty. The Qing dynasty, with the help of a Ming general named Wu Sangui, were able to defeat the rebels and take control of Beijing. They held a funeral for the Chongzhen Emperor to show respect and to show that they were the rightful new rulers of China.
+
+The Qing dynasty was able to take control of China because they were able to work with different groups of people. They made sure that both Manchu and Han Chinese people were included in the government. They also made sure that the people who had been part of the old Ming dynasty were treated well. This helped them to keep the country stable and peaceful.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Qing dynasty was the last imperial dynasty in China, ruling from 1636 to 1912. It was established by the Manchu people, who unified other tribes to create a new ethnic identity. The dynasty expanded its rule over all of China and parts of Inner Asia. By 1907, it was the most populous country in the world. The dynasty faced challenges including foreign intrusion, internal revolts, and economic disruption, leading to its overthrow in the Xinhai Revolution in 1912. The Qing dynasty was known for its multiethnic society and its significant territorial base, which laid the groundwork for modern China.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Qing Dynasty: An Overview
+
+The Qing dynasty, also known as the Great Qing, was the last imperial dynasty in China's history, ruling from 1636 to 1912. It was founded by the Jianzhou Jurchens, a Tungusic-speaking ethnic group, who unified other Jurchen tribes to form a new "Manchu" ethnic identity. The Manchus officially proclaimed the dynasty in 1636, expanded their rule over the whole of China, and lasted until they were overthrown in the Xinhai Revolution in 1912. The Qing dynasty was unique as it assembled the territorial base for modern China, becoming the largest imperial dynasty in China's history. In 1790, it was the fourth-largest empire in the world in terms of territorial size and was the most populous country in the world in 1907, with 419,264,000 citizens.
+
+# The Formation and Expansion of the Qing Dynasty
+
+In the late sixteenth century, Nurhaci, leader of the House of Aisin-Gioro, began organizing "Banners", military-social units that included Manchu, Han, and Mongol elements. He united clans to create a Manchu ethnic identity and officially founded the Later Jin dynasty in 1616. His son, Hong Taiji, renamed the dynasty "Great Qing" and elevated the realm to an empire in 1636. Under the Kangxi Emperor (1661–1722), the dynasty consolidated control, maintained the Manchu identity, and expanded its rule over peripheral countries such as Korea and Vietnam, as well as Tibet, Mongolia, and Xinjiang.
+
+# The Decline of the Qing Dynasty
+
+The Qing dynasty reached its height of glory and power under the Qianlong Emperor (1735–1796). However, after his death, the dynasty faced foreign intrusion, internal revolts, and economic disruption. Despite the population rising to some 400 million, taxes and government revenues were fixed at a low rate, leading to a fiscal crisis. The dynasty also faced defeat in the Opium Wars and was forced to sign "unequal treaties" with Western colonial powers. The Taiping Rebellion (1850–1864) and the Dungan Revolt (1862–1877) resulted in the deaths of over 20 million people. Despite attempts at reforms and the introduction of foreign military technology, the dynasty continued to decline, culminating in the Xinhai Revolution. The abdication of the Xuantong Emperor, the last emperor, on 12 February 1912, brought the dynasty to an end.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Qing Dynasty
+
+The Qing dynasty, also known as the Great Qing, was the last imperial dynasty in the history of China, lasting from 1636 to 1912. It was led by the Manchus, a Tungusic-speaking ethnic group. The Manchus emerged from the Jianzhou Jurchens, who unified other Jurchen tribes to form a new "Manchu" ethnic identity. The dynasty was officially declared in 1636 in Manchuria, a region now known as Northeast China and Russian Manchuria. 
+
+The Qing dynasty seized control of Beijing in 1644 and gradually expanded its rule over all of China and Taiwan, and then into Inner Asia. The dynasty lasted until 1912 when it was overthrown during the Xinhai Revolution. In the historical records of China, the Qing dynasty was preceded by the Ming dynasty and succeeded by the Republic of China. The Qing dynasty, which was multiethnic, lasted for almost three centuries and assembled the territorial base for modern China. It was the largest imperial dynasty in the history of China and, in 1790, the fourth-largest empire in world history in terms of territorial size. With 419,264,000 citizens in 1907, it was the most populous country in the world at the time.
+
+## Formation of the Qing Dynasty
+
+In the late sixteenth century, Nurhaci, leader of the House of Aisin-Gioro, began organizing "Banners". These were military-social units that included Manchu, Han, and Mongol elements. Nurhaci united clans to create a Manchu ethnic identity and officially founded the Later Jin dynasty in 1616. His son Hong Taiji renamed the dynasty "Great Qing" and elevated the realm to an empire in 1636. As Ming control disintegrated, peasant rebels conquered Beijing in 1644. However, the Ming general Wu Sangui opened the Shanhai Pass to the armies of the regent Prince Dorgon, who defeated the rebels, seized the capital, and took over the government. Resistance from Ming loyalists in the south and the Revolt of the Three Feudatories delayed the complete conquest until 1683.
+
+The Kangxi Emperor (1661–1722) consolidated control, maintained the Manchu identity, patronized Tibetan Buddhism, and relished the role of a Confucian ruler. Han officials worked under or in parallel with Manchu officials. The dynasty also adapted the ideals of the tributary system in asserting superiority over peripheral countries such as Korea and Vietnam, while extending control over Tibet, Mongolia, and Xinjiang.
+
+## The Height of Qing Power
+
+The height of Qing glory and power was reached in the reign of the Qianlong Emperor (1735–1796). He led Ten Great Campaigns that extended Qing control into Inner Asia and personally supervised Confucian cultural projects. After his death, the dynasty faced foreign intrusion, internal revolts, population growth, economic disruption, official corruption, and the reluctance of Confucian elites to change their mindsets. With peace and prosperity, the population rose to some 400 million, but taxes and government revenues were fixed at a low rate, soon leading to fiscal crisis.
+
+Following China's defeat in the Opium Wars, Western colonial powers forced the Qing government to sign "unequal treaties", granting them trading privileges, extraterritoriality and treaty ports under their control. The Taiping Rebellion (1850–1864) and the Dungan Revolt (1862–1877) in Central Asia led to the deaths of over 20 million people, from famine, disease, and war. The Tongzhi Restoration in the 1860s brought vigorous reforms and the introduction of foreign military technology in the Self-Strengthening Movement. Defeat in the First Sino-Japanese War in 1895 led to loss of suzerainty over Korea and cession of Taiwan to Japan.
+
+## The Fall of the Qing Dynasty
+
+The ambitious Hundred Days' Reform of 1898 proposed fundamental change, but the Empress Dowager Cixi (1835–1908), who had been the dominant voice in the national government for more than three decades, turned it back in a coup. In 1900, anti-foreign "Boxers" killed many Chinese Christians and foreign missionaries; in retaliation, the foreign powers invaded China and imposed a punitive Boxer Indemnity. In response, the government initiated unprecedented fiscal and administrative reforms, including elections, a new legal code, and the abolition of the examination system.
+
+Sun Yat-sen and revolutionaries debated reform officials and constitutional monarchists such as Kang Youwei and Liang Qichao over how to transform the Manchu-ruled empire into a modernised Han state. After the deaths of the Guangxu Emperor and Cixi in 1908, Manchu conservatives at court blocked reforms and alienated reformers and local elites alike. The Wuchang Uprising on 10 October 1911 led to the Xinhai Revolution. The abdication of the Xuantong Emperor, the last emperor, on 12 February 1912, brought the dynasty to an end. In 1917, it was briefly restored in an episode known as the Manchu Restoration, but this was neither recognized by the Beiyang government of the Republic of China nor the international community.
+
+## The Naming of the Qing Dynasty
+
+Hong Taiji named the Great Qing dynasty in 1636. There are competing explanations on the meaning of Qīng (lit. "clear" or "pure"). The name may have been selected in reaction to the name of the Ming dynasty (明), which consists of the Chinese character radicals for "sun" (日) and "moon" (月), both associated with the fire element of the Chinese zodiacal system. The character Qīng (清) is composed of "water" (氵) and "azure" (青), both associated with the water element. This association would justify the Qing conquest as defeat of fire by water.
+
+The Manchus identified their state as "China" (中國, Zhōngguó; "Middle Kingdom"), and referred to it as Dulimbai Gurun in Manchu. The emperors equated the lands of the Qing state (including present-day Northeast China, Xinjiang, Mongolia, Tibet and other areas) as "China" in both the Chinese and Manchu languages, defining China as a multi-ethnic state, and rejecting the idea that "China" only meant Han areas. They used both "China" and "Qing" to refer to their state in official documents. In English, the Qing dynasty is sometimes known as the "Manchu dynasty". It is rendered as "Ch'ing dynasty" using the Wade–Giles romanization system.
+
+## The Formation of the Qing Dynasty
+
+The Qing dynasty was founded not by the Han people, who constitute the majority of the Chinese population, but by the Manchus, descendants of a sedentary farming people known as the Jurchens, a Tungusic people who lived around the region now comprising the Chinese provinces of Jilin and Heilongjiang. 
+
+### Nurhaci
+
+The region that eventually became the Manchu state was founded by Nurhaci, the chieftain of a minor Jurchen tribe – the Aisin-Gioro – in Jianzhou in the early 17th century. Nurhaci may have spent time in a Han household in his youth, and became fluent in Chinese and Mongolian languages, and read the Chinese novels Romance of the Three Kingdoms and Water Margin. Originally a vassal of the Ming emperors, Nurhaci embarked on an intertribal feud in 1582 that escalated into a campaign to unify the nearby tribes. By 1616, he had sufficiently consolidated Jianzhou so as to be able to proclaim himself Khan of the Great Jin in reference to the previous Jurchen-ruled dynasty.
+
+### Hong Taiji
+
+Nurhaci died in 1626, and was succeeded by his eighth son, Hong Taiji. Although Hong Taiji was an experienced leader and the commander of two Banners, the Jurchens suffered defeat in 1627, in part due to the Ming's newly acquired Portuguese cannons. To redress the technological and numerical disparity, Hong Taiji in 1634 created his own artillery corps, who cast their own cannons in the European design with the help of defector Chinese metallurgists. One of the defining events of Hong Taiji's reign was the official adoption of the name "Manchu" for the united Jurchen people in November 1635. 
+
+## Claiming the Mandate of Heaven
+
+Hong Taiji died suddenly in September 1643. A compromise installed Hong Taiji's five-year-old son, Fulin, as the Shunzhi Emperor, with Dorgon as regent and de facto leader of the Manchu nation. Meanwhile, Ming government officials fought against each other, against fiscal collapse, and against a series of peasant rebellions. They were unable to capitalise on the Manchu succession dispute and the presence of a minor as emperor. In April 1644, the capital, Beijing, was sacked by a coalition of rebel forces led by Li Zicheng, a former minor Ming official, who established a short-lived Shun dynasty. The last Ming ruler, the Chongzhen Emperor, committed suicide when the city fell to the rebels, marking the official end of the dynasty.
+
+Li Zicheng then led rebel forces numbering some 200,000 to confront Wu Sangui, at Shanhai Pass, a key pass of the Great Wall, which defended the capital. Wu Sangui, caught between a Chinese rebel army twice his size and a foreign enemy he had fought for years, cast his lot with the familiar Manchus. Wu Sangui may have been influenced by Li Zicheng's mistreatment of wealthy and cultured officials, including Li's own family; it was said that Li took Wu's concubine Chen Yuanyuan for himself. Wu and Dorgon allied in the name of avenging the death of the Chongzhen Emperor. Together, the two former enemies met and defeated Li Zicheng's rebel forces in battle on May 27, 1644.The newly allied armies captured Beijing on 6 June. The Shunzhi Emperor was invested as the "Son of Heaven" on 30 October. The Manchus, who had positioned themselves as political heirs to the Ming emperor by defeating Li Zicheng, completed the symbolic transition by holding a formal funeral for the Chongzhen Emperor. However, conquering the rest of China Proper took another seventeen years of battling Ming loyalists, pretenders and rebels. The last Ming pretender, Prince Gui, sought refuge with the King of Burma, Pindale Min, but was turned over to a Qing expeditionary army commanded by Wu Sangui, who had him brought back to Yunnan province and executed in early 1662.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Qing dynasty, the last imperial dynasty in Chinese history, ruled China from 1636 to 1912. It was established by the Manchu-led Jianzhou Jurchens who unified other Jurchen tribes to form a new "Manchu" ethnic identity. The Qing dynasty expanded its rule over the entirety of China and some parts of Inner Asia, becoming the largest imperial dynasty in the history of China and the fourth-largest empire globally in 1790. Despite facing challenges such as foreign intrusion, internal revolts, and economic disruption, the dynasty lasted until 1912 when it was overthrown in the Xinhai Revolution.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# The Qing Dynasty: An Overview
+The Qing Dynasty (1636-1912) was the last imperial dynasty in Chinese history, founded by the Manchu-led Later Jin dynasty and officially proclaimed in 1636. The dynasty expanded its rule over China proper, Taiwan, and Inner Asia, and was in power until it was overthrown in the Xinhai Revolution in 1912. The Qing dynasty was a multiethnic empire and created the territorial base for modern China. It was the largest imperial dynasty in the history of China and was the most populous country in the world in 1907 with 419,264,000 citizens.
+
+# Formation and Expansion
+The Qing dynasty was founded by Nurhaci, leader of the House of Aisin-Gioro, who began organizing "Banners", military-social units that included Manchu, Han, and Mongol elements. The dynasty was officially founded as the Later Jin dynasty in 1616 and was renamed the "Great Qing" by Nurhaci's son, Hong Taiji, in 1636. After the conquest of Beijing in 1644, the Qing dynasty expanded its rule over the whole of China and Taiwan, with the complete conquest delayed until 1683 due to resistance from Ming loyalists and the Revolt of the Three Feudatories. The dynasty adapted the ideals of the tributary system, asserting superiority over peripheral countries such as Korea and Vietnam, while extending control over Tibet, Mongolia, and Xinjiang.
+
+# Decline and Fall
+The decline of the Qing dynasty began after the reign of the Qianlong Emperor (1735–1796). The dynasty faced foreign intrusion, internal revolts, population growth, economic disruption, official corruption, and reluctance of Confucian elites to change their mindsets. The fiscal crisis, defeat in the Opium Wars, and the forced signing of "unequal treaties" with Western colonial powers further weakened the dynasty. The Taiping Rebellion (1850–1864) and the Dungan Revolt (1862–1877) led to the deaths of over 20 million people. Despite attempts at reforms and the introduction of foreign military technology, defeat in the First Sino-Japanese War in 1895 and the failed Hundred Days' Reform of 1898 marked the beginning of the end for the Qing dynasty. The Wuchang Uprising on 10 October 1911 led to the Xinhai Revolution and the abdication of the Xuantong Emperor, the last emperor, on 12 February 1912, brought the dynasty to an end.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction
+
+The Qing dynasty, also known as the Great Qing, was the last imperial dynasty in China, reigning from 1636 to 1912. The dynasty was established by the Manchus, a Tungusic-speaking ethnic group that emerged from the Jianzhou Jurchens. The Jurchens unified other tribes to form a new "Manchu" ethnic identity. The dynasty was officially proclaimed in 1636 in Manchuria, which is now modern-day Northeast China and Russian Manchuria. The Qing dynasty seized control of Beijing in 1644, expanded its rule over all of China proper and Taiwan, and later expanded into Inner Asia. The dynasty was overthrown in 1912 during the Xinhai Revolution. In the historical context of China, the Qing dynasty was preceded by the Ming dynasty and succeeded by the Republic of China. 
+
+The Qing dynasty was a multiethnic entity that lasted for almost three centuries and laid the territorial foundation for modern China. It was the largest imperial dynasty in Chinese history, and in 1790, it was the fourth-largest empire in world history in terms of territorial size. In 1907, with a population of 419,264,000, it was the most populous country in the world at the time.
+
+# Foundation and Expansion
+
+In the late sixteenth century, Nurhaci, leader of the House of Aisin-Gioro, began organizing "Banners", which were military-social units that included Manchu, Han, and Mongol elements. Nurhaci united clans to create a Manchu ethnic identity and officially founded the Later Jin dynasty in 1616. His son, Hong Taiji, renamed the dynasty "Great Qing" and elevated the realm to an empire in 1636. After the peasant rebels conquered Beijing in 1644, the Ming general Wu Sangui allowed the armies of the regent Prince Dorgon to enter the city. Dorgon defeated the rebels, seized the capital, and took control of the government. The complete conquest of the dynasty was delayed until 1683 due to resistance from Ming loyalists in the south and the Revolt of the Three Feudatories. 
+
+The Kangxi Emperor (1661–1722) consolidated control, maintained the Manchu identity, patronized Tibetan Buddhism, and embraced the role of a Confucian ruler. Han officials worked under or alongside Manchu officials. The Qing dynasty adapted the ideals of the tributary system, asserting superiority over peripheral countries such as Korea and Vietnam while extending control over Tibet, Mongolia, and Xinjiang.
+
+# The Height of Qing Glory
+
+The peak of Qing glory and power was reached during the reign of the Qianlong Emperor (1735–1796). He led Ten Great Campaigns that extended Qing control into Inner Asia and personally supervised Confucian cultural projects. After his death, the dynasty faced foreign intrusion, internal revolts, population growth, economic disruption, official corruption, and reluctance among Confucian elites to change their mindsets. Despite these challenges, the population rose to approximately 400 million due to peace and prosperity. However, taxes and government revenues were fixed at a low rate, leading to a fiscal crisis. 
+
+Following China's defeat in the Opium Wars, Western colonial powers forced the Qing government to sign "unequal treaties", granting them trading privileges, extraterritoriality, and control of treaty ports. The Taiping Rebellion (1850–1864) and the Dungan Revolt (1862–1877) in Central Asia led to the deaths of over 20 million people from famine, disease, and war. The Tongzhi Restoration in the 1860s brought vigorous reforms and the introduction of foreign military technology in the Self-Strengthening Movement. However, defeat in the First Sino-Japanese War in 1895 led to the loss of suzerainty over Korea and cession of Taiwan to Japan.
+
+# The Decline of the Qing Dynasty
+
+The ambitious Hundred Days' Reform of 1898 proposed fundamental changes, but the Empress Dowager Cixi (1835–1908), who had been the dominant voice in the national government for more than three decades, overturned it in a coup. In 1900, anti-foreign "Boxers" killed many Chinese Christians and foreign missionaries. In retaliation, foreign powers invaded China and imposed a punitive Boxer Indemnity. In response, the government initiated unprecedented fiscal and administrative reforms, including elections, a new legal code, and the abolition of the examination system. 
+
+After the deaths of the Guangxu Emperor and Cixi in 1908, Manchu conservatives at court blocked reforms and alienated both reformers and local elites. The Wuchang Uprising on 10 October 1911 led to the Xinhai Revolution. The abdication of the Xuantong Emperor, the last emperor, on 12 February 1912, brought the dynasty to an end. In 1917, it was briefly restored in an episode known as the Manchu Restoration, but this was neither recognized by the Beiyang government of the Republic of China nor the international community.
+
+# Conclusion
+
+The Qing dynasty, despite its non-Han origins, was an integral part of Chinese history. It was a time of expansion, consolidation, and ultimately decline. The dynasty's policies and actions had lasting impacts on the country, shaping modern China in many ways. The Qing dynasty's legacy is a complex one, marked by both achievements and failures, but its influence on China's history is undeniable.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+The Qing Dynasty (1636-1912) was the last imperial dynasty of China, founded by the Manchu-led Jianzhou Jurchens who unified other Jurchen tribes to form the Manchu ethnic identity. The dynasty expanded its rule over China, Taiwan, and Inner Asia, and was the largest imperial dynasty in China's history. The dynasty faced challenges including foreign intrusion, internal revolts, and economic disruption. It ended in 1912 with the Xinhai Revolution. The Qing Dynasty was significant for its multiethnic composition, military-social units called "Banners", and the introduction of foreign military technology. The dynasty's decline was marked by defeats in wars, corruption, and resistance to change.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Formation and Expansion of the Qing Dynasty
+
+The Qing dynasty, officially known as the Great Qing, was the last imperial dynasty in China's history, lasting from 1636 to 1912. It was founded by the Jianzhou Jurchens, a Tungusic-speaking ethnic group that unified other Jurchen tribes to form a new "Manchu" ethnic identity. The dynasty was officially proclaimed in 1636 in Manchuria and seized control of Beijing in 1644. It expanded its rule over the whole of China proper and Taiwan, and eventually into Inner Asia. The dynasty was overthrown in 1912 during the Xinhai Revolution. The Qing dynasty, being multiethnic, lasted for almost three centuries and assembled the territorial base for modern China. It was the largest imperial dynasty in the history of China and in 1790, the fourth-largest empire in world history in terms of territorial size. 
+
+# Military and Social Structure under the Qing Dynasty
+
+In the late sixteenth century, Nurhaci, leader of the House of Aisin-Gioro, began organizing "Banners", military-social units that included Manchu, Han, and Mongol elements. Nurhaci united clans to create a Manchu ethnic identity and officially founded the Later Jin dynasty in 1616. His son Hong Taiji renamed the dynasty "Great Qing" and elevated the realm to an empire in 1636. The dynasty adapted the ideals of the tributary system in asserting superiority over peripheral countries such as Korea and Vietnam, while extending control over Tibet, Mongolia, and Xinjiang. The Kangxi Emperor (1661–1722) consolidated control, maintained the Manchu identity, patronized Tibetan Buddhism, and relished the role of a Confucian ruler. Han officials worked under or in parallel with Manchu officials. 
+
+# Decline and Fall of the Qing Dynasty
+
+The height of Qing glory and power was reached in the reign of the Qianlong Emperor (1735–1796). However, after his death, the dynasty faced foreign intrusion, internal revolts, population growth, economic disruption, official corruption, and the reluctance of Confucian elites to change their mindsets. The Taiping Rebellion (1850–1864) and the Dungan Revolt (1862–1877) in Central Asia led to the deaths of over 20 million people. The defeat in the First Sino-Japanese War in 1895 led to loss of suzerainty over Korea and cession of Taiwan to Japan. The Empress Dowager Cixi (1835–1908), who had been the dominant voice in the national government for more than three decades, turned back the ambitious Hundred Days' Reform of 1898 in a coup. The Wuchang Uprising on 10 October 1911 led to the Xinhai Revolution. The abdication of the Xuantong Emperor, the last emperor, on 12 February 1912, brought the dynasty to an end.
+</div>
+</div>
+<div class='slide-pane' id='Qing_dynasty-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Qing dynasty</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# The Qing Dynasty: An Overview
+
+The Qing Dynasty, also known as the Great Qing, was the last imperial dynasty of China, ruling from 1636 to 1912. It was a Manchu-led dynasty, the Manchus being a Tungusic-speaking ethnic group who had unified other Jurchen tribes to form a new "Manchu" ethnic identity. The dynasty's establishment was officially proclaimed in 1636 in Manchuria, which is modern-day Northeast China and Russian Manchuria. The Qing dynasty took control of Beijing in 1644, and gradually expanded its rule over the whole of China proper, Taiwan, and eventually Inner Asia.
+
+The Qing dynasty was overthrown in 1912 during the Xinhai Revolution. It was succeeded by the Republic of China, and was preceded by the Ming dynasty in Chinese historiography. The multiethnic Qing dynasty lasted for almost three centuries and formed the territorial base for modern China. It was the largest imperial dynasty in the history of China and was the fourth-largest empire in world history in terms of territorial size in 1790. With a population of 419,264,000 citizens in 1907, it was the most populous country in the world at the time.
+
+## The Formation of the Qing Dynasty
+
+In the late sixteenth century, Nurhaci, leader of the House of Aisin-Gioro, began organizing "Banners", which were military-social units that included Manchu, Han, and Mongol elements. Nurhaci united clans to create a Manchu ethnic identity and officially founded the Later Jin dynasty in 1616. His son, Hong Taiji, renamed the dynasty "Great Qing" and elevated the realm to an empire in 1636.
+
+As the control of the Ming dynasty disintegrated, peasant rebels conquered Beijing in 1644. However, the Ming general Wu Sangui opened the Shanhai Pass to the armies of the regent Prince Dorgon, who defeated the rebels, seized the capital, and took over the government. The complete conquest of the region was delayed until 1683 due to resistance from Ming loyalists in the south and the Revolt of the Three Feudatories. The Kangxi Emperor (1661–1722) consolidated control, maintained the Manchu identity, patronized Tibetan Buddhism, and relished the role of a Confucian ruler.
+
+The Qing dynasty adapted the ideals of the tributary system in asserting superiority over peripheral countries such as Korea and Vietnam, while extending control over Tibet, Mongolia, and Xinjiang. Han officials worked under or in parallel with Manchu officials during this period.
+
+## The Height of Qing Power
+
+The height of Qing glory and power was reached during the reign of the Qianlong Emperor (1735–1796). He led Ten Great Campaigns that extended Qing control into Inner Asia and personally supervised Confucian cultural projects. After his death, the dynasty faced foreign intrusion, internal revolts, population growth, economic disruption, official corruption, and the reluctance of Confucian elites to change their mindsets.
+
+The population rose to some 400 million during this period of peace and prosperity, but taxes and government revenues were fixed at a low rate, which soon led to a fiscal crisis. Following China's defeat in the Opium Wars, Western colonial powers forced the Qing government to sign "unequal treaties", granting them trading privileges, extraterritoriality and treaty ports under their control. The Taiping Rebellion (1850–1864) and the Dungan Revolt (1862–1877) in Central Asia led to the deaths of over 20 million people, from famine, disease, and war.
+
+## The Fall of the Qing Dynasty
+
+The Qing dynasty faced significant challenges in the late 19th and early 20th centuries. The defeat in the First Sino-Japanese War in 1895 led to loss of suzerainty over Korea and cession of Taiwan to Japan. The ambitious Hundred Days' Reform of 1898 proposed fundamental change, but the Empress Dowager Cixi (1835–1908), who had been the dominant voice in the national government for more than three decades, turned it back in a coup.
+
+In 1900, anti-foreign "Boxers" killed many Chinese Christians and foreign missionaries. In retaliation, the foreign powers invaded China and imposed a punitive Boxer Indemnity. In response, the government initiated unprecedented fiscal and administrative reforms, including elections, a new legal code, and the abolition of the examination system. After the deaths of the Guangxu Emperor and Cixi in 1908, Manchu conservatives at court blocked reforms and alienated reformers and local elites alike. The Wuchang Uprising on 10 October 1911 led to the Xinhai Revolution. The abdication of the Xuantong Emperor, the last emperor, on 12 February 1912, brought the dynasty to an end.
+
+## The Naming of the Qing Dynasty
+
+Hong Taiji named the Great Qing dynasty in 1636. The name Qing, meaning "clear" or "pure", may have been chosen in reaction to the name of the Ming dynasty, which consists of the Chinese character radicals for "sun" and "moon", both associated with the fire element of the Chinese zodiacal system. The character Qing is composed of "water" and "azure", both associated with the water element. This association would justify the Qing conquest as defeat of fire by water.
+
+## The History and Formation of the Qing Dynasty
+
+The Qing dynasty was founded not by the Han people, who constitute the majority of the Chinese population, but by the Manchus, descendants of a sedentary farming people known as the Jurchens, a Tungusic people who lived around the region now comprising the Chinese provinces of Jilin and Heilongjiang. The Manchus are sometimes mistaken for a nomadic people, which they were not.
+
+### Nurhaci
+
+The region that eventually became the Manchu state was founded by Nurhaci, the chieftain of a minor Jurchen tribe – the Aisin-Gioro – in Jianzhou in the early 17th century. Nurhaci may have spent time in a Han household in his youth, and became fluent in Chinese and Mongolian languages, and read the Chinese novels Romance of the Three Kingdoms and Water Margin.
+
+### Hong Taiji
+
+Nurhaci died in 1626, and was succeeded by his eighth son, Hong Taiji. Although Hong Taiji was an experienced leader and the commander of two Banners, the Jurchens suffered defeat in 1627, in part due to the Ming's newly acquired Portuguese cannons. To redress the technological and numerical disparity, Hong Taiji in 1634 created his own artillery corps, who cast their own cannons in the European design with the help of defector Chinese metallurgists.
+
+### Claiming the Mandate of Heaven
+
+Hong Taiji died suddenly in September 1643. As the Jurchens had traditionally "elected" their leader through a council of nobles, the Qing state did not have a clear succession system. The leading contenders for power were Hong Taiji's oldest son Hooge and Hong Taiji's half brother Dorgon. A compromise installed Hong Taiji's five-year-old son, Fulin, as the Shunzhi Emperor, with Dorgon as regent and de facto leader of the Manchu nation.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Uluru, also known as Ayers Rock, is a big, red rock in the middle of Australia. It's special to the local Aboriginal people, called the Pitjantjatjara, who call it Uluṟu. The area around Uluru has lots of springs, waterholes, caves, and old paintings. Uluru changes color at different times of the day, especially at dawn and sunset when it glows red. The rock is part of a big park and is a famous spot for tourists. However, climbing Uluru is not allowed because it's a sacred place for the Pitjantjatjara people.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: The Amazing Rock
+Uluru, also known as Ayers Rock, is a big rock made of sandstone in the middle of Australia. It's so important that it's officially named as both Uluru and Ayers Rock. This rock is very special to the Pitjantjatjara people, the original people of the area, who call themselves the Aṉangu. Around Uluru, you can find springs, waterholes, caves, and ancient paintings. The United Nations has even listed it as a World Heritage Site, which means it's really important to the whole world. Uluru and another rock formation called Kata Tjuta are the main attractions of a national park in Australia. People from all over the world have been visiting Uluru since the 1930s because it's one of the most famous natural landmarks in Australia.
+
+# Naming Uluru
+The Aṉangu people call this landmark Uluru. This name is special and doesn't have any other meaning in their language, but some families use it as their last name. A man named William Gosse was the first European person to see the rock in 1873, and he named it Ayers Rock after the Chief Secretary of South Australia, Sir Henry Ayers. In 1993, the authorities decided to use both names, and it became "Ayers Rock / Uluru". Then in 2002, they switched the order of the names to "Uluru / Ayers Rock" because the local tourism association requested it. So, the name "Uluru" is the original name of this rock.
+
+# What Uluru Looks Like
+Uluru is really tall, about 348 meters high, and most of it is actually underground. The total distance around it is 9.4 kilometers. One of the coolest things about Uluru is that it seems to change color at different times of the day and year. It can even glow red at dawn and sunset because of the iron oxide, or rust, in the sandstone. There's another rock formation called Kata Tjuta, also known as Mount Olga or the Olgas, which is 25 kilometers west of Uluru. The Aṉangu people, who are the traditional inhabitants of the area, give walking tours around both rock formations to teach visitors about the local plants, animals, and their ancient stories.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Uluru
+
+Uluru, also known as Ayers Rock, is a giant sandstone rock formation located in the heart of Australia. It's in the southern part of a place called the Northern Territory, which is 335 km (208 mi) south-west of a town called Alice Springs.
+
+Uluru is a very special place to the Pitjantjatjara people, who are the original inhabitants of the area. They call themselves the Aṉangu. The land around Uluru has many springs, waterholes, rock caves and ancient paintings. Uluru is recognized as a World Heritage Site by UNESCO, which means it's a place that's important to the whole world. Together with Kata Tjuta, also known as the Olgas, they are the two main features of the Uluṟu-Kata Tjuṯa National Park.
+
+Uluru is one of Australia's most famous natural landmarks and has been a popular place for tourists to visit since the late 1930s. It's also one of the most important places for indigenous people in Australia.
+
+## The Name of Uluru
+
+The Aṉangu people call the landmark Uluṟu. This word doesn't have any other meaning in their language, but it is used as a family name by the senior traditional owners of Uluru. On 19 July 1873, a man named William Gosse saw the landmark and named it Ayers Rock to honor Sir Henry Ayers, who was a bigwig in South Australia at the time.
+
+In 1993, a policy was adopted that allowed official names that include both the traditional Aboriginal name and the English name. On 15 December 1993, it was renamed "Ayers Rock / Uluru" and became the first official dual-named feature in the Northern Territory. The order of the dual names was officially reversed to "Uluru / Ayers Rock" on 6 November 2002. The name "Uluru" reclaims the original name of the rock.
+
+## Description of Uluru
+
+Uluru is a massive rock formation standing 348 m (1,142 ft) high, rising 863 m (2,831 ft) above sea level. Most of its size is actually hidden underground, and it has a total perimeter of 9.4 km (5.8 mi). One of the amazing things about Uluru is that it seems to change color at different times of the day and year, especially when it glows red at dawn and sunset. This red color comes from iron oxide in the sandstone.
+
+Kata Tjuta, also called Mount Olga or the Olgas, is located 25 km (16 mi) west of Uluru. There are special viewing areas with road access and parking that have been built to give tourists the best views of both sites at dawn and dusk.
+
+Both Uluru and the nearby Kata Tjuta formation are very important to the Aṉangu people, who lead walking tours to inform visitors about the bush, food, local plants and animals, and the Aboriginal Dreamtime stories of the area.
+
+# History of Uluru
+
+## Early Settlement
+
+Archaeological findings show that humans settled in the area more than 10,000 years ago.
+
+## Arrival of Europeans (1870s)
+
+Europeans arrived in the Australian Western Desert in the 1870s. Uluru and Kata Tjuta were first mapped by Europeans in 1872. Ernest Giles and William Gosse were the first European explorers to this area. Giles sighted Kata Tjuta from a location near Kings Canyon and called it Mount Olga, while Gosse observed Uluru and named it Ayers' Rock.
+
+## Aboriginal Reserve (1920)
+
+Between 1918 and 1921, large areas of South Australia, Western Australia and the Northern Territory were declared as Aboriginal reserves. In 1920, part of Uluṟu–Kata Tjuṯa National Park was declared an Aboriginal Reserve by the Australian government.
+
+## Tourism (1936–1960s)
+
+The first tourists arrived in the Uluru area in 1936. Permanent European settlement of the area began in the 1940s to promote tourism at Uluru. This increased tourism led to the creation of the first vehicle tracks in 1948 and tour bus services began in the early 1950s.
+
+## Aboriginal Ownership Since 1985
+
+On 26 October 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people, with the condition that the Aṉangu would lease it back to the National Parks and Wildlife agency for 99 years and that it would be jointly managed.
+
+# Tourism at Uluru
+
+Tourism at Uluru began in the 1950s and soon caused problems for the environment. It was decided in the early 1970s to move all accommodation-related tourist facilities outside the park. In 1975, a reservation of 104 km2 (40 sq mi) of land beyond the park's northern boundary, 15 km (9 mi) from Uluru, was approved for the development of a tourist facility and an associated airport, to be known as Yulara.
+
+Since the park was listed as a World Heritage Site, the number of visitors rose to over 400,000 visitors by 2000. Increased tourism provides benefits for the local and national economy. But it also presents a challenge to balance the conservation of cultural values and visitor needs.
+
+## Climbing Uluru
+
+The Aṉangu people do not climb Uluru because it's a very spiritual place for them. They have asked that visitors do not climb the rock. Until October 2019, the visitors' guide said "the climb is not prohibited, but we prefer that, as a guest on Aṉangu land, you will choose to respect our law and culture by not climbing".
+
+## Photography at Uluru
+
+The Aṉangu request that visitors do not photograph certain sections of Uluru, for reasons related to their traditional beliefs. These areas are the sites of gender-linked rituals or ceremonies and are forbidden ground for Aṉangu of the opposite sex to those participating in the rituals in question.
+
+## Waterfalls at Uluru
+
+During heavy rain, waterfalls cascade down the sides of Uluru, a rare phenomenon that only 1% of all tourists get to see. Large rainfall events occurred in 2016 and the summer of 2020–21.
+
+## Entertainment at Uluru
+
+In 2023, the Ayers Rock Resort started putting on an immersive story-telling experience for visitors, using drones, light and sound to tell the ancient Aboriginal Mala story. Guests can eat dinner in an open-air theatre while watching "Wintjiri Wiru" in the sky.
+
+# Geology of Uluru
+
+Uluru is an inselberg, meaning "island mountain". It's a prominent isolated residual knob or hill that rises abruptly from and is surrounded by flat lands in a hot, dry region. Uluru is also often referred to as a monolith, although this is a term that is generally avoided by geologists.
+
+## Composition of Uluru
+
+Uluru is mostly made up of coarse-grained arkose (a type of sandstone with lots of feldspar) and some conglomerate. When relatively fresh, the rock has a grey color, but weathering of iron-bearing minerals by the process of oxidation gives the outer surface layer of rock a red-brown rusty color.
+
+## Age and Origin of Uluru
+
+The rock that makes up Uluru is about the same age as the conglomerate at Kata Tjuta, and is believed to have a similar origin. The strata at Uluru are nearly vertical, dipping to the south-west at 85°, and have an exposed thickness of at least 2,400 m (7,900 ft). The rock was originally sand, deposited as part of an extensive alluvial fan that extended out from the ancestors of the Musgrave, Mann and Petermann Ranges to the south and west.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Uluru, also known as Ayers Rock, is a large sandstone formation located in central Australia. It's sacred to the Pitjantjatjara, the local Aboriginal people, and is home to many springs, waterholes, rock caves and ancient paintings. The rock changes color at different times of the day and year, most notably glowing red at dawn and sunset. Uluru and the nearby Kata Tjuta formation are both culturally significant and are part of the Uluṟu-Kata Tjuṯa National Park. The area has been a popular tourist destination since the 1930s, despite the local Aṉangu's requests for visitors not to climb the rock due to its spiritual significance.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: A Sacred Landmark
+Uluru, also known as Ayers Rock, is a large sandstone formation located in the center of Australia. It's a significant landmark, especially to the Pitjantjatjara, the Aboriginal people of the area, who consider it sacred. The area around Uluru is rich in springs, waterholes, rock caves, and ancient paintings. Uluru is recognized as a UNESCO World Heritage Site and is one of Australia's most recognizable natural landmarks. It has been a popular destination for tourists since the late 1930s and is one of the most important indigenous sites in Australia.
+
+# Naming of Uluru
+The local Pitjantjatjara people call the landmark Uluru. The name has no particular meaning in the Pitjantjatjara dialect, but it is used as a local family name by the senior traditional owners of Uluru. In 1873, the surveyor William Gosse named it Ayers Rock in honor of Sir Henry Ayers, the then Chief Secretary of South Australia. In 1993, a dual naming policy was adopted, allowing official names to consist of both the traditional Aboriginal name and the English name. It was renamed "Ayers Rock / Uluru" and became the first official dual-named feature in the Northern Territory. The order of the dual names was officially reversed to "Uluru / Ayers Rock" in 2002.
+
+# Description and History of Uluru
+Uluru stands 348 m high and has a total perimeter of 9.4 km. It's notable for appearing to change color at different times of the day and year, most notably when it glows red at dawn and sunset. The reddish color comes from iron oxide in the sandstone. Archaeological findings indicate that humans settled in the area more than 10,000 years ago. Europeans arrived in the Australian Western Desert in the 1870s and started mapping Uluru and the nearby Kata Tjuta formation. In 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people, with a condition that it would be leased back to the National Parks and Wildlife agency for 99 years and that it would be jointly managed.
+
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: Australia's Sacred Landmark
+
+## Introduction
+
+Uluru, also known as Ayers Rock, is a large sandstone formation centrally located in Australia. It is specifically situated in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs. Uluru is considered sacred to the Pitjantjatjara, the Aboriginal people of the area, known as the Aṉangu. The area surrounding Uluru is home to many springs, waterholes, rock caves and ancient paintings. Uluru is listed as a UNESCO World Heritage Site. Uluru and Kata Tjuta, also known as the Olgas, are the two major features of the Uluṟu-Kata Tjuṯa National Park.
+
+## Name
+
+The local Aṉangu, the Pitjantjatjara people, refer to the landmark as Uluṟu. This word is a proper noun, with no specific meaning in the Pitjantjatjara dialect, although it is used as a local family name by the senior traditional owners of Uluru. On 19 July 1873, the surveyor William Gosse sighted the landmark and named it Ayers Rock in honor of the then Chief Secretary of South Australia, Sir Henry Ayers. In 1993, a dual naming policy was adopted allowing official names to consist of both the traditional Aboriginal name and the English name. On 15 December 1993, it was renamed "Ayers Rock / Uluru" and became the first official dual-named feature in the Northern Territory. The order of the dual names was officially reversed to "Uluru / Ayers Rock" on 6 November 2002 following a request from the Regional Tourism Association in Alice Springs. The name "Uluru" reclaims the original name of the rock.
+
+## Description
+
+Uluru stands 348 m (1,142 ft) high, rising 863 m (2,831 ft) above sea level with most of its bulk lying underground, and has a total perimeter of 9.4 km (5.8 mi). Uluru is notable for appearing to change colour at different times of the day and year, most notably when it glows red at dawn and sunset. The reddish colour in the rock comes from iron oxide in the sandstone. Kata Tjuta, also called Mount Olga or the Olgas, lies 25 km (16 mi) west of Uluru. Special viewing areas with road access and parking have been constructed to give tourists the best views of both sites at dawn and dusk.
+
+Both Uluru and the nearby Kata Tjuta formation are of great cultural significance for the local Aṉangu people, the traditional inhabitants of the area. They lead walking tours to inform visitors about the bush, food, local flora and fauna, and the Aboriginal Dreamtime stories of the area.
+
+## History
+
+### Early Settlement
+
+Archaeological findings to the east and west indicate that humans settled in the area more than 10,000 years ago.
+
+### Arrival of Europeans (1870s)
+
+Europeans arrived in the Australian Western Desert in the 1870s. Uluru and Kata Tjuta were first mapped by Europeans in 1872 during the expeditionary period made possible by the construction of the Australian Overland Telegraph Line. In separate expeditions, Ernest Giles and William Gosse were the first European explorers to this area. While exploring the area in 1872, Giles sighted Kata Tjuta from a location near Kings Canyon and called it Mount Olga, while the following year Gosse observed Uluru and named it Ayers' Rock, in honor of the Chief Secretary of South Australia, Sir Henry Ayers.
+
+### Aboriginal Reserve (1920)
+
+Between 1918 and 1921, large adjoining areas of South Australia, Western Australia and the Northern Territory were declared as Aboriginal reserves, government-run settlements where the Aboriginal people were forced to live. In 1920, part of Uluṟu–Kata Tjuṯa National Park was declared an Aboriginal Reserve (commonly known as the South-Western or Petermann Reserve) by the Australian government under the Aboriginals Ordinance 1918.
+
+### Tourism (1936–1960s)
+
+The first tourists arrived in the Uluru area in 1936. Permanent European settlement of the area began in the 1940s under Aboriginal welfare policy and to promote tourism at Uluru. This increased tourism prompted the formation of the first vehicular tracks in 1948 and tour bus services began early in the 1950s.
+
+### Aboriginal ownership since 1985
+
+On 26 October 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people, with a condition that the Aṉangu would lease it back to the National Parks and Wildlife agency for 99 years and that it would be jointly managed. An agreement originally made between the community and Prime Minister Bob Hawke that the climb to the top by tourists would be stopped was later broken.
+
+## Tourism
+
+The development of tourism infrastructure adjacent to the base of Uluru that began in the 1950s soon produced adverse environmental impacts. It was decided in the early 1970s to remove all accommodation-related tourist facilities and re-establish them outside the park. In 1975, a reservation of 104 km2 (40 sq mi) of land beyond the park's northern boundary, 15 km (9 mi) from Uluru, was approved for the development of a tourist facility and an associated airport, to be known as Yulara.
+
+### Climbing
+
+The local Aṉangu do not climb Uluru because of its great spiritual significance. They have in the past requested that visitors do not climb the rock, partly due to the path crossing a sacred traditional Dreamtime track, and also due to a sense of responsibility for the safety of visitors.
+
+### Photography
+
+The Aṉangu request that visitors do not photograph certain sections of Uluru, for reasons related to traditional Tjukurpa (Dreaming) beliefs. These areas are the sites of gender-linked rituals or ceremonies and are forbidden ground for Aṉangu of the opposite sex to those participating in the rituals in question.
+
+### Waterfalls
+
+During heavy rain, waterfalls cascade down the sides of Uluru, a rare phenomenon that only 1% of all tourists get to see. Large rainfall events occurred in 2016 and the summer of 2020–21.
+
+### Entertainment
+
+In 2023, the Ayers Rock Resort started putting on an immersive storytelling experience for visitors, using drones, light and sound to tell the ancient Aboriginal Mala story. Guests can eat dinner in an open-air theatre while watching "Wintjiri Wiru" in the sky.
+
+## Geology
+
+Uluru is an inselberg, meaning "island mountain". An inselberg is a prominent isolated residual knob or hill that rises abruptly from and is surrounded by extensive and relatively flat erosion lowlands in a hot, dry region. Uluru is also often referred to as a monolith, although this is an ambiguous term that is generally avoided by geologists.
+
+### Composition
+
+Uluru is dominantly composed of coarse-grained arkose (a type of sandstone characterized by an abundance of feldspar) and some conglomerate. Average composition is 50% feldspar, 25–35% quartz and up to 25% rock fragments; most feldspar is K-feldspar with only minor plagioclase as subrounded grains and highly altered inclusions within K-feldspar.
+
+### Age and Origin
+
+The Mutitjulu Arkose is about the same age as the conglomerate at Kata Tjuta, and to have a similar origin, despite the different rock type, but younger than the rocks exposed to the east at Mount Conner, and unrelated to them. The strata at Uluru are nearly vertical, dipping to the south-west at 85°, and have an exposed thickness of at least 2,400 m (7,900 ft). The strata dip below the surrounding plain and no doubt extend well beyond Uluru in the subsurface, but the extent is not known.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Uluru, also known as Ayers Rock, is a large sandstone formation in the centre of Australia, sacred to the Pitjantjatjara, the Aboriginal people of the area. The formation is notable for changing colour at different times of the day and year. Archaeological findings suggest humans settled in the area over 10,000 years ago. In 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people, with a condition that it would be leased back to the National Parks and Wildlife agency for 99 years and jointly managed. Despite local Aṉangu's request for visitors not to climb the rock due to its spiritual significance, climbing was not prohibited until 2019.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: An Overview
+Uluru, also known as Ayers Rock, is a large sandstone formation located in the center of Australia, specifically in the southern part of the Northern Territory. This iconic landmark is sacred to the Pitjantjatjara, the Aboriginal people of the area, who are also known as the Aṉangu. The area surrounding Uluru boasts a wealth of springs, waterholes, rock caves, and ancient paintings. Recognized as a UNESCO World Heritage Site, Uluru, along with Kata Tjuta (also known as the Olgas), are the two major features of the Uluṟu-Kata Tjuṯa National Park. Uluru is one of Australia's most recognizable natural landmarks and has been a popular tourist destination since the late 1930s.
+
+# The Naming of Uluru
+The local Pitjantjatjara people, the Aṉangu, refer to the landmark as Uluṟu. The name was officially changed to "Ayers Rock / Uluru" on 15 December 1993, marking it as the first official dual-named feature in the Northern Territory. The order of the dual names was officially reversed to "Uluru / Ayers Rock" on 6 November 2002 following a request from the Regional Tourism Association in Alice Springs. The name "Uluru" reclaims the original name of the rock.
+
+# Description and History of Uluru
+The sandstone formation stands 348 m (1,142 ft) high, rising 863 m (2,831 ft) above sea level with most of its bulk lying underground. Uluru is notable for appearing to change color at different times of the day and year, most notably when it glows red at dawn and sunset. Archaeological findings indicate that humans settled in the area more than 10,000 years ago. Europeans arrived in the Australian Western Desert in the 1870s. Uluru and Kata Tjuta were first mapped by Europeans in 1872 during the expeditionary period made possible by the construction of the Australian Overland Telegraph Line. On 26 October 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people. Today, both Uluru and the nearby Kata Tjuta formation hold great cultural significance for the local Aṉangu people, who lead walking tours to inform visitors about the bush, food, local flora and fauna, and the Aboriginal Dreamtime stories of the area.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: Australia's Sacred Sandstone Formation
+
+## Introduction
+
+Uluru, also known as Ayers Rock, is a massive sandstone formation located in the heart of Australia. Situated in the southern part of the Northern Territory, it's about 335 km (208 mi) southwest of Alice Springs. The local Pitjantjatjara people, known as the Aṉangu, consider Uluru sacred. The surrounding area is rich with springs, waterholes, rock caves, and ancient paintings. It's a UNESCO World Heritage Site and, together with another formation known as Kata Tjuta or the Olgas, forms the major features of the Uluṟu-Kata Tjuṯa National Park.
+
+Since the late 1930s, Uluru has been a popular tourist destination and is one of Australia's most recognizable natural landmarks. It also stands as one of the most important indigenous sites in the country.
+
+## Name
+
+The Aṉangu people refer to the landmark as Uluṟu. This word is a proper noun in the Pitjantjatjara dialect, with no further particular meaning, although it is used as a local family name by the senior traditional owners of Uluru.
+
+The landmark was named Ayers Rock on 19 July 1873 by surveyor William Gosse, in honor of the then Chief Secretary of South Australia, Sir Henry Ayers. In 1993, a dual naming policy was adopted, allowing official names to include both the traditional Aboriginal name and the English name. It was renamed "Ayers Rock / Uluru" on 15 December 1993, becoming the first official dual-named feature in the Northern Territory. The order of the dual names was officially reversed to "Uluru / Ayers Rock" on 6 November 2002 following a request from the Regional Tourism Association in Alice Springs. The name "Uluru" reclaims the original name of the rock.
+
+## Description
+
+Uluru stands 348 m (1,142 ft) high and rises 863 m (2,831 ft) above sea level, with most of its bulk lying underground. It has a total perimeter of 9.4 km (5.8 mi). The formation is notable for appearing to change color at different times of the day and year, glowing red at dawn and sunset due to iron oxide in the sandstone. 
+
+Kata Tjuta, also known as Mount Olga or the Olgas, lies 25 km (16 mi) west of Uluru. Special viewing areas with road access and parking have been constructed to give tourists the best views of both sites at dawn and dusk.
+
+Both Uluru and the nearby Kata Tjuta formation hold great cultural significance for the Aṉangu people, the traditional inhabitants of the area. They lead walking tours to inform visitors about the bush, food, local flora and fauna, and the Aboriginal Dreamtime stories of the area.
+
+## History
+
+### Early Settlement
+
+Archaeological findings indicate that humans settled in the area more than 10,000 years ago.
+
+### Arrival of Europeans (1870s)
+
+Europeans arrived in the Australian Western Desert in the 1870s. Uluru and Kata Tjuta were first mapped by Europeans in 1872 during the expeditionary period made possible by the construction of the Australian Overland Telegraph Line. 
+
+In separate expeditions, Ernest Giles and William Gosse were the first European explorers to this area. Giles sighted Kata Tjuta from a location near Kings Canyon and named it Mount Olga in 1872, while Gosse observed Uluru the following year and named it Ayers' Rock, in honor of Sir Henry Ayers. 
+
+Further explorations followed with the aim of establishing the possibilities of the area for pastoralism. In the late 19th century, pastoralists attempted to establish themselves in areas adjoining the Southwestern/Petermann Reserve, leading to more frequent and violent interactions between Aṉangu and white people. Competition for resources, exacerbated by the effects of grazing and drought, led to conflict between the two groups, resulting in more frequent police patrols. 
+
+During the depression in the 1930s, Aṉangu became involved in dingo scalping with 'doggers' who introduced the Aṉangu to European foods and ways.
+
+### Aboriginal Reserve (1920)
+
+Between 1918 and 1921, large adjoining areas of South Australia, Western Australia, and the Northern Territory were declared as Aboriginal reserves, government-run settlements where the Aboriginal people were forced to live. In 1920, part of Uluṟu–Kata Tjuṯa National Park was declared an Aboriginal Reserve (commonly known as the South-Western or Petermann Reserve) by the Australian government under the Aboriginals Ordinance 1918.
+
+### Tourism (1936–1960s)
+
+The first tourists arrived in the Uluru area in 1936. Permanent European settlement of the area began in the 1940s under Aboriginal welfare policy and to promote tourism at Uluru. This prompted the formation of the first vehicular tracks in 1948, and tour bus services began in the early 1950s. 
+
+In 1958, the area that would become the Uluṟu-Kata Tjuṯa National Park was excised from the Petermann Reserve and placed under the management of the Northern Territory Reserves Board, being named the Ayers Rock–Mount Olga National Park. The first ranger was Bill Harney, a well-known central Australian figure. 
+
+By 1959, the first motel leases had been granted, and an airstrip was constructed close to the northern side of Uluru. Following a 1963 suggestion from the Northern Territory Reserves Board, a chain was laid to assist tourists in climbing the landmark. The chain was removed in 2019.
+
+### Aboriginal Ownership Since 1985
+
+On 26 October 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people, with a condition that the Aṉangu would lease it back to the National Parks and Wildlife agency for 99 years and that it would be jointly managed. An agreement originally made between the community and Prime Minister Bob Hawke that the climb to the top by tourists would be stopped was later broken.
+
+The Aboriginal community of Mutitjulu, with a population of approximately 300, is located near the eastern end of Uluru. From Uluru, it is 17 km (11 mi) by road to the tourist town of Yulara, population 3,000, which is situated just outside the national park. 
+
+On 8 October 2009, the Talinguru Nyakuntjaku viewing area opened to public visitation. The A$21 million project about 3 km (1.9 mi) on the east side of Uluru involved design and construction supervision by the Aṉangu traditional owners of 11 km (6.8 mi) of roads and 1.6 km (1 mi) of walking trails.
+
+## Tourism
+
+The development of tourism infrastructure adjacent to the base of Uluru that began in the 1950s soon produced adverse environmental impacts. It was decided in the early 1970s to remove all accommodation-related tourist facilities and re-establish them outside the park. In 1975, a reservation of 104 km2 (40 sq mi) of land beyond the park's northern boundary, 15 km (9 mi) from Uluru, was approved for the development of a tourist facility and an associated airport, to be known as Yulara.
+
+In 1983, the Ayers Rock Campground opened, followed by the Four Seasons Hotel (later renamed Voyages Desert Gardens Hotel) and the Sheraton Hotel (Voyages Sails in the Desert) in 1984. The town square, bank, and primary school were also established. 
+
+After the Commonwealth Government handed the national park back to its traditional owners in 1985, management of the park was transferred from the Northern Territory Government to the Australian National Parks and Wildlife Service the following year. In July 1992, Yulara Development Company was dissolved and the Ayers Rock Resort Company was established, after which all hotels came under the same management.
+
+Since the park was listed as a World Heritage Site, annual visitor numbers rose to over 400,000 visitors by 2000. Increased tourism provides regional and national economic benefits. It also presents an ongoing challenge to balance conservation of cultural values and visitor needs.
+
+### Climbing
+
+The local Aṉangu do not climb Uluru because of its great spiritual significance. They have in the past requested that visitors do not climb the rock, partly due to the path crossing a sacred traditional Dreamtime track, and also due to a sense of responsibility for the safety of visitors. 
+
+Until October 2019, the visitors' guide said "the climb is not prohibited, but we prefer that, as a guest on Aṉangu land, you will choose to respect our law and culture by not climbing". 
+
+On 11 December 1983, the Prime Minister of Australia, Bob Hawke, promised to hand back the land title to the Aṉangu traditional custodians and caretakers and agreed to the community's 10-point plan which included forbidding the climbing of Uluru. The government set access to climb Uluru and a 99-year lease, instead of the previously agreed upon 50-year lease, as conditions before the title was officially given back to the Aṉangu on 26 October 1985.
+
+A chain handhold, added to the rock in 1964 and extended in 1976, made the hour-long climb easier, but it remained a steep, 800 m (0.5 mi) hike to the top, where it can be quite windy. It was recommended that individuals drink plenty of water while climbing, and that those who were unfit, or who suffered from vertigo or medical conditions restricting exercise, did not attempt it. Climbing Uluru was generally closed to the public when high winds were present at the top. As of July 2018, 37 deaths related to recreational climbing have been recorded.
+
+According to a 2010 publication, just over one-third of all visitors to the park climbed Uluru; a high percentage of these were children. About one-sixth of visitors made the climb between 2011 and 2015.
+
+The traditional owners of Uluṟu-Kata Tjuṯa National Park (Nguraritja) and the Federal Government's Director of National Parks share decision-making on the management of Uluṟu-Kata Tjuṯa National Park. Under their joint Uluṟu-Kata Tjuṯa National Park Management Plan 2010–20, issued by the Director of National Parks under the Environment Protection and Biodiversity Conservation Act 1999, clause 6.3.3 provides that the Director and the Uluṟu-Kata Tjuṯa Board of Management should work to close the climb upon meeting any of three conditions: there were "adequate new visitor experiences", less than 20 per cent of visitors made the climb, or the "critical factors" in decisions to visit were "cultural and natural experiences".
+
+Several controversial incidents on top of Uluru in 2010, including a striptease, golfing, and nudity, led to renewed calls for banning the climb. On 1 November 2017, the Uluṟu-Kata Tjuṯa National Park board voted unanimously to prohibit climbing Uluru. As a result, there was a surge in climbers and visitors after the ban was announced. The ban took effect on the 26 October 2019, and the chain was then removed.
+
+### Photography
+
+The Aṉangu request that visitors do not photograph certain sections of Uluru, for reasons related to traditional Tjukurpa (Dreaming) beliefs. These areas are the sites of gender-linked rituals or ceremonies and are forbidden ground for Aṉangu of the opposite sex to those participating in the rituals in question. The photographic restriction is intended to prevent Aṉangu from inadvertently violating this taboo by encountering photographs of the forbidden sites in the outside world.
+
+In September 2020, Parks Australia alerted Google Australia to the user-generated images from the Uluru summit that have been posted on the Google Maps platform and requested that the content be removed in accordance with the wishes of Aṉangu, Uluru's traditional owners, and the national park's Film and Photography Guidelines. Google agreed to the request. Currently, the only photos of Uluru are photos at the surface.
+
+### Waterfalls
+
+During heavy rain, waterfalls cascade down the sides of Uluru, a rare phenomenon that only 1% of all tourists get to see. Large rainfall events occurred in 2016 and the summer of 2020–21.
+
+### Entertainment
+
+In 2023, the Ayers Rock Resort started putting on an immersive storytelling experience for visitors, using drones, light, and sound to tell the ancient Aboriginal Mala story. Guests can eat dinner in an open-air theater while watching "Wintjiri Wiru" in the sky.
+
+## Geology
+
+Uluru is an inselberg, meaning "island mountain". An inselberg is a prominent isolated residual knob or hill that rises abruptly from and is surrounded by extensive and relatively flat erosion lowlands in a hot, dry region. Uluru is also often referred to as a monolith, although this is an ambiguous term that is generally avoided by geologists.
+
+The remarkable feature of Uluru is its homogeneity and lack of jointing and parting at bedding surfaces, leading to the lack of development of scree slopes and soil. These characteristics led to its survival, while the surrounding rocks were eroded.
+
+For the purpose of mapping and describing the geological history of the area, geologists refer to the rock strata making up Uluru as the Mutitjulu Arkose, and it is one of many sedimentary formations filling the Amadeus Basin.
+
+### Composition
+
+Uluru is dominantly composed of coarse-grained arkose (a type of sandstone characterized by an abundance of feldspar) and some conglomerate. The average composition is 50% feldspar, 25–35% quartz, and up to 25% rock fragments; most feldspar is K-feldspar with only minor plagioclase as subrounded grains and highly altered inclusions within K-feldspar. 
+
+The rock fragments include subrounded basalt, invariably replaced to various degrees by chlorite and epidote. The minerals present suggest derivation from a predominantly granite source, similar to the Musgrave Block exposed to the south. When relatively fresh, the rock has a grey color, but weathering of iron-bearing minerals by the process of oxidation gives the outer surface layer of rock a red-brown rusty color. 
+
+Features related to deposition of the sediment include cross-bedding and ripples, analysis of which indicated deposition from broad shallow high energy fluvial channels and sheet flooding, typical of alluvial fans.
+
+### Age and Origin
+
+The Mutitjulu Arkose is about the same age as the conglomerate at Kata Tjuta, and is believed to have a similar origin, despite the different rock type, but younger than the rocks exposed to the east at Mount Conner, and unrelated to them. The strata at Uluru are nearly vertical, dipping to the south-west at 85°, and have an exposed thickness of at least 2,400 m (7,900 ft). The strata dip below the surrounding plain and no doubt extend well beyond Uluru in the subsurface, but the extent is not known.
+
+The rock was originally sand, deposited as part of an extensive alluvial fan that extended out from the ancestors of the Musgrave, Mann, and Petermann Ranges to the south and west, but separate from a nearby fan that deposited the sand, pebbles, and cobbles that now make up Kata Tjuta.
+
+The similar mineral composition of the Mutitjulu Arkose and the granite ranges to the south is now explained. The ancestors of the ranges to the south were once much larger than the eroded remnants we see today. They were thrust up during a mountain-building episode referred to as the Petermann Orogeny that took place in late Neoproterozoic to early Cambrian times (550–530 Ma).
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Uluru, also known as Ayers Rock, is a large sandstone formation in the center of Australia that is sacred to the Pitjantjatjara, the Aboriginal people of the area. The formation stands 348 meters high and is known for its color changes at different times of the day. Uluru is one of Australia's most recognizable natural landmarks and has been a popular tourist destination since the 1930s. It is also one of the most important indigenous sites in the country. Despite its cultural significance, climbing Uluru was allowed until 2019, when it was banned due to its spiritual significance to the Aṉangu people.
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: A Geological and Cultural Landmark
+
+Uluru, also known as Ayers Rock, is a large sandstone formation located in the center of Australia, specifically in the southern part of the Northern Territory. This landmark is sacred to the Pitjantjatjara, the local Aboriginal people, and is surrounded by springs, waterholes, rock caves, and ancient paintings. Uluru, along with Kata Tjuta (also known as the Olgas), forms the two major features of the Uluṟu-Kata Tjuṯa National Park, a UNESCO World Heritage Site. Since the late 1930s, Uluru has been a popular tourist destination and is one of Australia's most recognizable natural landmarks.
+
+# Naming and Renaming of Uluru
+
+Uluru is named by the local Pitjantjatjara people. The term has no particular meaning in the Pitjantjatjara dialect but is used as a local family name by the senior traditional owners of Uluru. On 19 July 1873, the surveyor William Gosse named the landmark Ayers Rock in honor of Sir Henry Ayers, the then Chief Secretary of South Australia. In 1993, a dual naming policy was adopted, allowing official names to consist of both the traditional Aboriginal name and the English name. The order of the dual names was officially reversed to "Uluru / Ayers Rock" on 6 November 2002, reclaiming the original name of the rock.
+
+# Description and Cultural Significance
+
+Uluru stands 348 m high, rising 863 m above sea level, with most of its bulk lying underground. It is notable for its changing color at different times of the day and year, especially when it glows red at dawn and sunset. Both Uluru and the nearby Kata Tjuta formation have great cultural significance for the local Aṉangu people, the traditional inhabitants of the area. They lead walking tours to inform visitors about the bush, local flora and fauna, food, and the Aboriginal Dreamtime stories of the area. Archaeological findings indicate that humans settled in the area more than 10,000 years ago. In 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people, with a condition that it would be leased back to the National Parks and Wildlife agency for 99 years and jointly managed.
+
+</div>
+</div>
+<div class='slide-pane' id='Uluru-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Uluru</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Uluru: A Comprehensive Overview
+
+## Introduction
+
+Uluru, also known as Ayers Rock, is a large sandstone formation situated in the heart of Australia. This natural monument is located in the southern part of the Northern Territory, specifically 335 kilometers southwest of Alice Springs. Known as Uluṟu in Pitjantjatjara, the language of the local Aboriginal people, the formation is renowned for its cultural and spiritual significance, as well as its unique geological features.
+
+The area surrounding Uluru is rich with springs, waterholes, rock caves, and ancient paintings, making it a vibrant hub of natural life and indigenous culture. This site has been recognized by UNESCO as a World Heritage Site, a testament to its global cultural and natural importance. Uluru, alongside Kata Tjuta (also known as the Olgas), constitutes the two major features of the Uluṟu-Kata Tjuṯa National Park.
+
+Since the late 1930s, Uluru has been a popular tourist destination, attracting visitors from around the world who come to admire its distinctive natural beauty and learn about its deep indigenous significance. It is considered one of Australia's most recognizable natural landmarks and one of the most important indigenous sites in the country.
+
+## Name
+
+The local Aboriginal people, the Aṉangu, refer to this landmark as Uluṟu. This term is a proper noun in the Pitjantjatjara dialect, with no further specific meaning, although it has been adopted as a local family name by the senior traditional owners of Uluru.
+
+On 19 July 1873, the surveyor William Gosse sighted the landmark and named it Ayers Rock in honor of the then Chief Secretary of South Australia, Sir Henry Ayers. In 1993, a dual naming policy was adopted, allowing official names to consist of both the traditional Aboriginal name and the English name. Consequently, it was renamed "Ayers Rock / Uluru" on 15 December 1993, becoming the first official dual-named feature in the Northern Territory.
+
+Following a request from the Regional Tourism Association in Alice Springs, the order of the dual names was officially reversed to "Uluru / Ayers Rock" on 6 November 2002. This change symbolically reclaimed the original name of the rock, prioritizing its indigenous heritage.
+
+## Description
+
+Uluru stands 348 meters high, rising 863 meters above sea level, with most of its bulk lying underground. The formation has a total perimeter of 9.4 kilometers. One of the most notable characteristics of Uluru is its apparent change of color at different times of the day and year, particularly its stunning red glow at dawn and sunset. This reddish hue derives from iron oxide present in the sandstone.
+
+Located 25 kilometers west of Uluru is Kata Tjuta, also known as Mount Olga or the Olgas. Special viewing areas equipped with road access and parking have been constructed to provide tourists with optimal views of both sites at dawn and dusk.
+
+Both Uluru and the nearby Kata Tjuta formation hold great cultural significance for the local Aṉangu people, the traditional inhabitants of the area. They lead walking tours to inform visitors about the local flora and fauna, bush food, and the Aboriginal Dreamtime stories associated with the area.
+
+## History
+
+### Early Settlement
+
+Archaeological findings suggest that humans settled in the area more than 10,000 years ago, indicating a long history of human habitation.
+
+### Arrival of Europeans (1870s)
+
+The 1870s marked the arrival of Europeans in the Australian Western Desert. During the expeditionary period facilitated by the construction of the Australian Overland Telegraph Line, Europeans first mapped Uluru and Kata Tjuta in 1872. Ernest Giles and William Gosse were the first European explorers to visit the area.
+
+In 1872, Giles sighted Kata Tjuta from a location near Kings Canyon and named it Mount Olga. The following year, Gosse observed Uluru and named it Ayers' Rock, in honor of the Chief Secretary of South Australia, Sir Henry Ayers.
+
+### Aboriginal Reserve (1920)
+
+Between 1918 and 1921, large adjoining areas of South Australia, Western Australia, and the Northern Territory were declared as Aboriginal reserves. These were government-run settlements where Aboriginal people were forced to live. In 1920, part of Uluṟu–Kata Tjuṯa National Park was declared an Aboriginal Reserve by the Australian government under the Aboriginals Ordinance 1918.
+
+### Tourism (1936–1960s)
+
+The first tourists arrived in the Uluru area in 1936, and permanent European settlement began in the 1940s to promote tourism at Uluru. The increase in tourism led to the formation of the first vehicular tracks in 1948, and tour bus services began in the early 1950s.
+
+### Aboriginal Ownership Since 1985
+
+On 26 October 1985, the Australian government returned ownership of Uluru to the local Pitjantjatjara people. The condition was that the Aṉangu would lease it back to the National Parks and Wildlife agency for 99 years and that it would be jointly managed.
+
+## Tourism
+
+Uluru's popularity as a tourist destination has grown steadily since the 1950s, leading to the development of tourism infrastructure adjacent to the base of Uluru. However, this development soon produced adverse environmental impacts. As a result, it was decided in the early 1970s to remove all accommodation-related tourist facilities and re-establish them outside the park.
+
+### Climbing
+
+The local Aṉangu do not climb Uluru due to its great spiritual significance. They have also requested that visitors do not climb the rock, partly due to the path crossing a sacred traditional Dreamtime track, and also due to a sense of responsibility for the safety of visitors.
+
+### Photography
+
+The Aṉangu request that visitors do not photograph certain sections of Uluru, for reasons related to traditional Tjukurpa (Dreaming) beliefs.
+
+### Waterfalls
+
+During heavy rain, waterfalls cascade down the sides of Uluru, a rare phenomenon that only 1% of all tourists get to see.
+
+### Entertainment
+
+In 2023, the Ayers Rock Resort started putting on an immersive story-telling experience for visitors, using drones, light, and sound to tell the ancient Aboriginal Mala story. 
+
+## Geology
+
+Uluru is an inselberg, meaning "island mountain". An inselberg is a prominent isolated residual knob or hill that rises abruptly from and is surrounded by extensive and relatively flat erosion lowlands in a hot, dry region.
+
+### Composition
+
+Uluru is dominantly composed of coarse-grained arkose (a type of sandstone characterized by an abundance of feldspar) and some conglomerate.
+
+### Age and Origin
+
+The Mutitjulu Arkose, the rock strata making up Uluru, is believed to be about the same age as the conglomerate at Kata Tjuta, and to have a similar origin, despite the different rock type. However, it is younger than the rocks exposed to the east at Mount Conner, and unrelated to them.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G02-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Zinc is a shiny, slightly brittle metal that is very important for humans, animals, plants, and tiny organisms. It helps us grow and stay healthy. Zinc is found in the Earth's crust and is often mined from a mineral called sphalerite. People have been using zinc for a very long time, even back in ancient times. They mixed it with copper to make a material called brass. Too much zinc can make you feel unwell, but not having enough can also cause health problems. Zinc is used in many things, like batteries, paints, and even in our food as a supplement.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G02-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# What is Zinc?
+
+Zinc is a shiny, greyish metal that's a little brittle. It's one of the elements on the periodic table, and it's similar to magnesium in some ways. Zinc is the 24th most common element in the Earth's crust and we find it in a mineral called sphalerite. We get most of our zinc from Australia, Asia, and the United States. To get the zinc out, we have to do a process that involves bubbles, heat, and electricity.
+
+# Why is Zinc Important?
+
+Zinc is super important for humans, animals, plants, and even tiny organisms. It's the second most common metal in our bodies after iron and it's in all types of enzymes, which are like little helpers in our bodies. If we don't have enough zinc, it can cause problems like slow growth, getting sick easily, and diarrhea. But, if we have too much zinc, it can make us feel tired and mess with how our bodies use copper.
+
+# History of Zinc
+
+People have been using zinc for a long time. An alloy called brass, which is made of copper and zinc, was used as far back as 3000 BC. Pure zinc wasn't made until the 12th century in India, but the ancient Romans and Greeks knew about it. The name "zinc" probably came from the German word "Zinke", which means prong or tooth. In 1746, a German chemist named Andreas Sigismund Marggraf figured out how to make pure zinc metal. Today, we use zinc for lots of things like batteries, small castings, and alloys like brass. We also use it in many compounds like zinc carbonate and zinc gluconate, which are dietary supplements.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G02-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Understanding Zinc
+
+## What is Zinc?
+
+Zinc is a type of element that we can find on the periodic table. The symbol for zinc is Zn and it is number 30 on the table. Zinc is a type of metal that can break easily at room temperature. When it's clean and shiny, it looks greyish. It is part of a group called group 12 on the periodic table.
+
+Zinc is a bit like magnesium in some ways. Both of them only have one normal oxidation state, which is +2. This means that they can each give away two electrons. The ions of zinc and magnesium are also about the same size. 
+
+Zinc is quite common in the Earth's crust. It is the 24th most common element. There are five types of zinc that are stable. The most common type of zinc ore is called sphalerite. This is a mineral that contains zinc and sulfur. The biggest deposits of zinc that we can mine are in Australia, Asia, and the United States. To get the zinc, the ore is first crushed and then heated to remove impurities. Finally, electricity is used to extract the zinc.
+
+## Importance of Zinc
+
+Zinc is very important for all life on Earth. Humans, animals, plants, and even tiny organisms like bacteria need zinc to live. It is especially important for babies before and after they are born. After iron, zinc is the second most common metal in the human body. It is found in all types of enzymes, which are proteins that help our bodies to do things like digest food. Zinc is also important for corals, which need it to grow.
+
+Zinc deficiency, or not having enough zinc, is a problem for about two billion people in the world. This is especially a problem in developing countries. In children, not having enough zinc can lead to problems with growth, delayed sexual development, higher risk of infections, and diarrhea. 
+
+Zinc is also important in biochemistry. For example, there is an enzyme in humans that helps to break down alcohol. This enzyme has a zinc atom in the center. However, having too much zinc can also be a problem. It can cause problems with balance and energy levels, and it can also lead to a lack of copper in the body.
+
+## Zinc in History
+
+Brass is a mix of copper and zinc. People have been using brass since the third millennium BC. This was in areas that are now Iraq, the United Arab Emirates, Kalmykia, Turkmenistan, and Georgia. Later, in the second millennium BC, it was also used in what are now West India, Uzbekistan, Iran, Syria, Iraq, and Israel. 
+
+People did not start producing zinc on a large scale until the 12th century in India. However, the ancient Romans and Greeks knew about it. There is evidence that people have been producing zinc in Rajasthan, India, since the 6th century BC. The oldest evidence of pure zinc comes from a place called Zawar, in Rajasthan. This was in the 9th century AD. People used a process called distillation to make the zinc pure. 
+
+The name "zinc" probably comes from the German word "Zinke", which means "prong" or "tooth". This name was probably given by an alchemist named Paracelsus. An alchemist is a person who studied chemistry in the past, when people did not understand it as well as we do now. A German chemist named Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. 
+
+## Physical Properties of Zinc
+
+Zinc is a bluish-white metal that shines. It is less dense than iron and has a special type of crystal structure. This structure is hexagonal, which means it has six sides. The metal is hard and can break easily at most temperatures, but it becomes malleable, or easy to shape, between 100 and 150 degrees Celsius. Above 210 degrees Celsius, it becomes brittle again and can be crushed into powder. Zinc is a good conductor of electricity. It melts at 419.5 degrees Celsius and boils at 907 degrees Celsius. 
+
+## Where is Zinc Found?
+
+Zinc makes up about 0.0075% of the Earth's crust. It is usually found with other metals like copper and lead in ores. An ore is a type of rock that contains enough of a metal or other useful substance that it can be mined for profit. The most common type of zinc ore is called sphalerite, which is a form of zinc sulfide. Other minerals that contain zinc include smithsonite, hemimorphite, wurtzite, and hydrozincite.
+
+## Different Types of Zinc
+
+Zinc can come in different forms, called isotopes. There are five stable isotopes of zinc. The most common isotope is 64Zn, which makes up 49.17% of all zinc. The other isotopes found in nature are 66Zn, 67Zn, 68Zn, and 70Zn. 
+
+## Zinc Compounds and Chemistry
+
+Zinc can react with other elements to form compounds. For example, when zinc burns in air, it forms zinc oxide. Zinc also reacts with acids, alkalis, and other non-metals. Zinc compounds are usually in the +2 oxidation state. This means that the zinc atom has given away two electrons. 
+
+## Zinc in History
+
+Zinc has been used for a very long time. For example, a book from India that was written between 300 and 500 AD mentions a metal that produces zinc oxide when it is oxidized. Zinc mines in India have been active since the Mauryan period, which was between 322 and 187 BC. 
+
+People have also used zinc ores to make brass for thousands of years. Brass is an alloy, or mix, of copper and zinc. This was done even before people knew that zinc was a separate element. 
+
+The name "zinc" probably comes from the German word "Zinke", which means "prong" or "tooth". This name was probably given by an alchemist named Paracelsus. An alchemist is a person who studied chemistry in the past, when people did not understand it as well as we do now. A German chemist named Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. 
+
+## Zinc Today
+
+Today, the biggest use for zinc is to protect iron from rusting. This is done by coating the iron with zinc, a process called galvanizing. Zinc is also used in batteries, small castings, and alloys like brass. There are many common zinc compounds, like zinc carbonate and zinc gluconate, which are used as dietary supplements. Zinc chloride is used in deodorants, zinc pyrithione is used in anti-dandruff shampoos, and zinc sulfide is used in glow-in-the-dark paints.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G08-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Zinc is a slightly brittle metal with the symbol Zn and atomic number 30. It's the 24th most abundant element on Earth and is essential for humans, animals, plants, and microorganisms. Zinc deficiency can cause growth retardation and infection susceptibility in children. It's used in various applications, including corrosion-resistant plating of iron and in alloys like brass. Zinc was known to ancient civilizations and was first produced on a large scale in the 12th century in India. It was named by the alchemist Paracelsus and its pure metallic form was discovered by German chemist Andreas Sigismund Marggraf in 1746.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G08-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Zinc: An Essential Element
+
+## Physical Properties and Occurrence
+Zinc is a chemical element with the symbol Zn and atomic number 30. It is a slightly brittle metal at room temperature and has a shiny-greyish appearance. Zinc is chemically similar to magnesium, both exhibiting only one normal oxidation state (+2). Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite, a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using electricity.
+
+## Role in Life and Health
+Zinc is an essential trace element for humans, animals, plants, and microorganisms. It is necessary for prenatal and postnatal development. It is the second most abundant trace metal in humans after iron and it is the only metal which appears in all enzyme classes. Zinc deficiency affects about two billion people in the developing world and is associated with many diseases. In children, deficiency causes growth retardation, delayed sexual maturation, infection susceptibility, and diarrhea. Consumption of excess zinc may cause ataxia, lethargy, and copper deficiency.
+
+## Historical Use and Discovery
+Brass, an alloy of copper and zinc, was used as early as the third millennium BC in various regions. Zinc metal was not produced on a large scale until the 12th century in India, though it was known to the ancient Romans and Greeks. The element was probably named by the alchemist Paracelsus after the German word Zinke (prong, tooth). German chemist Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. Work by Luigi Galvani and Alessandro Volta uncovered the electrochemical properties of zinc by 1800.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G08-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Introduction to Zinc
+Zinc is a fascinating chemical element that holds the 30th position in the periodic table. It is represented by the symbol 'Zn.' If you've ever seen a freshly prepared sample of zinc, you would notice that it has a shiny-greyish appearance. However, at room temperature, zinc can be a slightly brittle metal. 
+
+This element belongs to group 12, otherwise known as IIB, of the periodic table. Interestingly, zinc has some chemical similarities with magnesium. Both elements have a normal oxidation state of +2, which means they tend to lose two electrons in a chemical reaction. The ions they form, Zn2+ and Mg2+, are of similar size.
+
+When we look at the Earth's crust, zinc is the 24th most abundant element. It has five stable isotopes, which are forms of zinc with different numbers of neutrons in their nuclei. The most common ore, or naturally occurring mineral, from which we extract zinc is called sphalerite, also known as zinc blende. This mineral is a type of zinc sulfide. The largest deposits of this ore that can be mined are found in Australia, Asia, and the United States.
+
+## Zinc's Importance in Life Processes
+
+Zinc is not just a metal; it is an essential trace element that is vital for the normal functioning of humans, animals, plants, and even microorganisms. It plays a crucial role in prenatal and postnatal development. In humans, it is the second most abundant trace metal, with iron being the first. What's fascinating about zinc is that it appears in all enzyme classes, making it a crucial component in various biological reactions.
+
+Zinc is also an essential nutrient for the growth of coral as it acts as an important cofactor for many enzymes. A cofactor is a non-protein chemical compound that is required for the protein's biological activity. 
+
+However, not having enough zinc, a condition known as zinc deficiency, can lead to serious health problems. This deficiency affects about two billion people in the developing world and is associated with many diseases. In children, it can cause growth retardation, delayed sexual maturation, increased susceptibility to infections, and diarrhea. 
+
+Zinc is also found in enzymes with a zinc atom in the reactive center, such as alcohol dehydrogenase in humans. But like everything else, too much of it can be harmful. Consumption of excess zinc may lead to ataxia (a neurological sign consisting of lack of voluntary coordination of muscle movements), lethargy, and copper deficiency.
+
+# Zinc in History and its Applications
+
+Brass, which is an alloy of copper and zinc, has been in use since the third millennium BC in various parts of the world. However, large scale production of zinc metal did not begin until the 12th century in India, even though it was known to the ancient Romans and Greeks. 
+
+The element zinc was probably named by the alchemist Paracelsus after the German word 'Zinke,' which means prong or tooth. The discovery of pure metallic zinc is credited to the German chemist Andreas Sigismund Marggraf in 1746. 
+
+By 1800, the electrochemical properties of zinc were uncovered through the work of Luigi Galvani and Alessandro Volta. Today, the major application for zinc is in the corrosion-resistant zinc plating of iron, a process known as hot-dip galvanizing. Other uses of zinc include electrical batteries, small non-structural castings, and alloys such as brass. 
+
+Zinc compounds like zinc carbonate and zinc gluconate are commonly used as dietary supplements. Zinc chloride is used in deodorants, zinc pyrithione in anti-dandruff shampoos, zinc sulfide in luminescent paints, and dimethylzinc or diethylzinc in the organic laboratory.
+
+## Characteristics of Zinc
+
+### Physical Properties of Zinc
+
+Zinc is a bluish-white, lustrous, diamagnetic metal. Diamagnetic substances are those that do not get attracted to a magnetic field. Most commercial grades of zinc metal have a dull finish. It is somewhat less dense than iron and has a hexagonal crystal structure. 
+
+Zinc is hard and brittle at most temperatures but becomes malleable (able to be hammered or pressed permanently out of shape without breaking or cracking) between 100 and 150 °C. Above 210 °C, the metal becomes brittle again and can be pulverized by beating. 
+
+Zinc is a fair conductor of electricity. It has a relatively low melting point of 419.5 °C and a boiling point of 907 °C. Many alloys contain zinc, including brass. Zinc forms binary alloys with other metals like aluminium, antimony, bismuth, gold, iron, lead, mercury, silver, tin, magnesium, cobalt, nickel, tellurium, and sodium.
+
+### Occurrence of Zinc
+
+Zinc makes up about 75 parts per million (0.0075%) of Earth's crust, making it the 24th most abundant element. It is normally found in association with other base metals such as copper and lead in ores. 
+
+Zinc is a chalcophile, which means it is more likely to be found in minerals together with sulfur and other heavy chalcogens (a group of elements in the periodic table), rather than with the light chalcogen oxygen or with non-chalcogen electronegative elements such as the halogens. 
+
+Sphalerite, which is a form of zinc sulfide, is the most heavily mined zinc-containing ore because its concentrate contains 60–62% zinc. Other source minerals for zinc include smithsonite (zinc carbonate), hemimorphite (zinc silicate), wurtzite (another zinc sulfide), and sometimes hydrozincite (basic zinc carbonate).
+
+### Isotopes of Zinc
+
+Zinc has five stable isotopes that occur in nature, with 64Zn being the most abundant isotope. The other isotopes found in nature are 66Zn, 67Zn, 68Zn, and 70Zn. Several dozen radioisotopes of zinc have been characterized. Radioisotopes are unstable isotopes of an element that decay or disintegrate emitting radiation.
+
+## Compounds and Chemistry of Zinc
+
+### Reactivity of Zinc
+
+Zinc is a moderately reactive metal and strong reducing agent. The surface of the pure metal tarnishes quickly, eventually forming a protective layer of the basic zinc carbonate, Zn5(OH)6(CO3)2, by reaction with atmospheric carbon dioxide. 
+
+Zinc burns in air with a bright bluish-green flame, giving off fumes of zinc oxide. Zinc reacts readily with acids, alkalis, and other non-metals. Extremely pure zinc reacts only slowly at room temperature with acids. Strong acids, such as hydrochloric or sulfuric acid, can remove the passivating layer and the subsequent reaction with the acid releases hydrogen gas.
+
+### Zinc(I) and Zinc(II) Compounds
+
+Zinc(I) compounds are rare. The [Zn2]2+ ion is implicated by the formation of a yellow diamagnetic glass by dissolving metallic zinc in molten ZnCl2. Binary compounds of zinc are known for most of the metalloids and all the nonmetals except the noble gases.
+
+## History of Zinc
+
+### Ancient Use of Zinc
+
+The Charaka Samhita, a text thought to have been written between 300 and 500 AD, mentions a metal which, when oxidized, produces pushpanjan, thought to be zinc oxide. Zinc mines at Zawar, near Udaipur in India, have been active since the Mauryan period (c. 322 and 187 BCE). The smelting of metallic zinc here appears to have begun around the 12th century AD.
+
+### Early Studies and Naming
+
+Zinc was distinctly recognized as a metal under the designation of Yasada or Jasada in the medical Lexicon ascribed to the Hindu king Madanapala (of Taka dynasty) and written about the year 1374. Smelting and extraction of impure zinc by reducing calamine with wool and other organic substances was accomplished in the 13th century in India. The Chinese did not learn of the technique until the 17th century.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G16-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Zinc is a chemical element with the symbol Zn and atomic number 30. It is a slightly brittle metal at room temperature and has a shiny-greyish appearance when oxidation is removed. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. It is an essential trace element for humans, animals, plants, and microorganisms and is necessary for prenatal and postnatal development. Zinc deficiency affects about two billion people in the developing world and is associated with many diseases. In children, deficiency causes growth retardation, delayed sexual maturation, infection susceptibility, and diarrhea.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G16-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Zinc: Characteristics and Occurrence
+Zinc is a chemical element with the symbol Zn and atomic number 30. It is a slightly brittle metal at room temperature with a shiny-greyish appearance when oxidation is removed. Zinc is chemically similar to magnesium in some respects, with both elements exhibiting only one normal oxidation state (+2). Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite, a zinc sulfide mineral, with the largest workable lodes found in Australia, Asia, and the United States. Zinc is refined through a process involving froth flotation of the ore, roasting, and final extraction using electricity (electrowinning). 
+
+# Biological Importance of Zinc
+Zinc is an essential trace element for humans, animals, plants, and microorganisms, necessary for prenatal and postnatal development. It is the second most abundant trace metal in humans after iron and appears in all enzyme classes. Zinc deficiency affects approximately two billion people in the developing world and is associated with many diseases. In children, deficiency causes growth retardation, delayed sexual maturation, infection susceptibility, and diarrhea. Consumption of excess zinc may cause ataxia, lethargy, and copper deficiency.
+
+# Historical and Modern Use of Zinc
+Brass, an alloy of copper and zinc, was used as early as the third millennium BC. Zinc metal was not produced on a large scale until the 12th century in India. The element was probably named by the alchemist Paracelsus after the German word Zinke (prong, tooth). German chemist Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. Today, corrosion-resistant zinc plating of iron (hot-dip galvanizing) is the major application for zinc. Other applications are in electrical batteries, small non-structural castings, and alloys such as brass. A variety of zinc compounds are commonly used, such as zinc carbonate and zinc gluconate (as dietary supplements), zinc chloride (in deodorants), zinc pyrithione (anti-dandruff shampoos), zinc sulfide (in luminescent paints), and dimethylzinc or diethylzinc in the organic laboratory.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G16-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Zinc: A Comprehensive Overview
+
+Zinc is a chemical element represented by the symbol Zn and atomic number 30 on the periodic table. It is a slightly brittle metal at room temperature and has a shiny-greyish appearance when oxidation is removed. It falls under group 12 (IIB) on the periodic table. In terms of chemical behavior, zinc is similar to magnesium, as both elements exhibit only one normal oxidation state (+2), and their ions, Zn2+ and Mg2+, are of similar size. 
+
+## Abundance and Extraction
+
+Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite, also known as zinc blende, which is a zinc sulfide mineral. The largest workable lodes of sphalerite are found in Australia, Asia, and the United States. The process of refining zinc involves froth flotation of the ore, roasting, and final extraction using electricity, a process known as electrowinning.
+
+## Biological Importance
+
+Zinc is an essential trace element for humans, animals, plants, and microorganisms. It is crucial for prenatal and postnatal development. It is the second most abundant trace metal in humans after iron and is the only metal that appears in all enzyme classes. Zinc is also a vital nutrient element for coral growth as it is an important cofactor for many enzymes.
+
+Zinc deficiency affects about two billion people in the developing world and is associated with many diseases. In children, deficiency can cause growth retardation, delayed sexual maturation, increased susceptibility to infections, and diarrhea. Enzymes with a zinc atom in the reactive center are widespread in biochemistry, such as alcohol dehydrogenase in humans. However, excessive consumption of zinc may cause ataxia, lethargy, and copper deficiency.
+
+## Historical Uses and Discovery
+
+Brass, an alloy of copper and zinc in various proportions, was used as early as the third millennium BC in the Aegean area and regions currently including Iraq, the United Arab Emirates, Kalmykia, Turkmenistan, and Georgia. Large scale production of zinc metal was not achieved until the 12th century in India, though it was known to the ancient Romans and Greeks. 
+
+The element was likely named by the alchemist Paracelsus after the German word Zinke, which means prong or tooth. German chemist Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. By 1800, Luigi Galvani and Alessandro Volta had uncovered the electrochemical properties of zinc. 
+
+## Applications and Compounds
+
+Corrosion-resistant zinc plating of iron, also known as hot-dip galvanizing, is the major application for zinc. Other applications include electrical batteries, small non-structural castings, and alloys such as brass. A variety of zinc compounds are commonly used in various applications, such as zinc carbonate and zinc gluconate as dietary supplements, zinc chloride in deodorants, zinc pyrithione in anti-dandruff shampoos, zinc sulfide in luminescent paints, and dimethylzinc or diethylzinc in the organic laboratory.
+
+## Characteristics
+
+### Physical Properties
+
+Zinc is a bluish-white, lustrous, diamagnetic metal, with most common commercial grades of the metal having a dull finish. It is somewhat less dense than iron and has a hexagonal crystal structure. The metal is hard and brittle at most temperatures but becomes malleable between 100 and 150 °C. Above 210 °C, the metal becomes brittle again and can be pulverized by beating. Zinc is a fair conductor of electricity. It has a relatively low melting point (419.5 °C) and boiling point (907 °C) for a metal.
+
+### Occurrence
+
+Zinc makes up about 75 parts per million (0.0075%) of Earth's crust, making it the 24th most abundant element. The element is normally found in association with other base metals such as copper and lead in ores. Zinc is a chalcophile, meaning the element is more likely to be found in minerals together with sulfur and other heavy chalcogens, rather than with the light chalcogen oxygen or with non-chalcogen electronegative elements such as the halogens. 
+
+### Isotopes
+
+Five stable isotopes of zinc occur in nature, with 64Zn being the most abundant isotope. Several dozen radioisotopes of zinc have also been characterized, with 65Zn, which has a half-life of 243.66 days, being the least active radioisotope.
+
+## Compounds and Chemistry
+
+### Reactivity
+
+Zinc has an electron configuration of [Ar]3d104s2 and is a moderately reactive metal and strong reducing agent. The surface of the pure metal tarnishes quickly, eventually forming a protective passivating layer of the basic zinc carbonate, Zn5(OH)6(CO3)2, by reaction with atmospheric carbon dioxide. 
+
+### Zinc(I) Compounds
+
+Zinc(I) compounds are rare, with the [Zn2]2+ ion being implicated in the formation of a yellow diamagnetic glass by dissolving metallic zinc in molten ZnCl2.
+
+### Zinc(II) Compounds
+
+Binary compounds of zinc are known for most of the metalloids and all the nonmetals except the noble gases. The oxide ZnO is a white powder that is nearly insoluble in neutral aqueous solutions, but is amphoteric, dissolving in both strong basic and acidic solutions. 
+
+## History
+
+### Ancient Use
+
+The Charaka Samhita, thought to have been written between 300 and 500 AD, mentions a metal which, when oxidized, produces pushpanjan, thought to be zinc oxide. Zinc mines at Zawar, near Udaipur in India, have been active since the Mauryan period (c. 322 and 187 BCE). 
+
+### Early Studies and Naming
+
+Zinc was distinctly recognized as a metal under the designation of Yasada or Jasada in the medical Lexicon ascribed to the Hindu king Madanapala and written about the year 1374. Smelting and extraction of impure zinc by reducing calamine with wool and other organic substances was accomplished in the 13th century in India.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G30-W0100'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
+</div>
+<div class='slide-body'>
+
+Zinc is a chemical element with the symbol Zn and atomic number 30. It is a slightly brittle metal at room temperature and is the 24th most abundant element in Earth's crust. Zinc is an essential trace element for humans, animals, plants, and microorganisms and is the second most abundant trace metal in humans after iron. Zinc deficiency affects about two billion people in the developing world and is associated with many diseases. Zinc was not produced on a large scale until the 12th century in India, though it was known to the ancient Romans and Greeks.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G30-W0500'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
+</div>
+<div class='slide-body'>
+
+# Zinc: Characteristics and Occurrence
+Zinc, with the symbol Zn and atomic number 30, is a slightly brittle metal with a shiny-greyish appearance when oxidation is removed. It is chemically similar to magnesium in some aspects, including the presence of a single normal oxidation state (+2) and similar ion sizes. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite, a zinc sulfide mineral, with the largest workable lodes found in Australia, Asia, and the United States. Zinc is refined through a process involving froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).
+
+# Biological Importance of Zinc
+Zinc is an essential trace element for humans, animals, plants, and microorganisms. It is necessary for prenatal and postnatal development and is the second most abundant trace metal in humans after iron. Zinc appears in all enzyme classes and is vital for coral growth due to its role as an enzyme cofactor. Zinc deficiency, which affects about two billion people in the developing world, is associated with numerous diseases, including growth retardation, delayed sexual maturation, infection susceptibility, and diarrhea in children. Excessive zinc consumption may lead to ataxia, lethargy, and copper deficiency.
+
+# Historical Use and Discovery of Zinc
+Brass, an alloy of copper and zinc, has been used since the third millennium BC. Pure zinc was not produced on a large scale until the 12th century in India, although it was known to the ancient Romans and Greeks. The oldest evidence of pure zinc comes from Zawar, in Rajasthan, as early as the 9th century AD. The element was likely named by the alchemist Paracelsus after the German word Zinke (prong, tooth). German chemist Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. The major application for zinc is in corrosion-resistant zinc plating of iron (hot-dip galvanizing), and it is also used in electrical batteries, small non-structural castings, and alloys such as brass.
+</div>
+</div>
+<div class='slide-pane' id='Zinc-G30-W1000'>
+<div class='slide-param'>
+<div class='slide-param-art'>Zinc</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
+</div>
+<div class='slide-body'>
+
+# Zinc: An In-Depth Analysis
+
+Zinc is a chemical element with the symbol Zn and atomic number 30. This metal, slightly brittle at room temperature, exhibits a shiny-greyish appearance when oxidation is removed. It is the first element in group 12 (IIB) of the periodic table. In some respects, zinc is chemically similar to magnesium, as both elements exhibit only one normal oxidation state (+2), and the Zn2+ and Mg2+ ions are of similar size. 
+
+## Abundance and Extraction
+
+Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The primary zinc ore is sphalerite, a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. The refinement of zinc involves a process of froth flotation of the ore, roasting, and final extraction using electricity, a process known as electrowinning.
+
+## Biological Significance
+
+Zinc is an essential trace element for humans, animals, plants, and microorganisms. It is necessary for prenatal and postnatal development. Being the second most abundant trace metal in humans after iron, it is the only metal which appears in all enzyme classes. Zinc is also an essential nutrient element for coral growth as it is an important cofactor for many enzymes.
+
+Zinc deficiency affects about two billion people in the developing world and is associated with many diseases. In children, deficiency causes growth retardation, delayed sexual maturation, infection susceptibility, and diarrhea. Enzymes with a zinc atom in the reactive center are widespread in biochemistry, such as alcohol dehydrogenase in humans. Consumption of excess zinc may cause ataxia, lethargy, and copper deficiency.
+
+## Historical Use and Discovery
+
+Brass, an alloy of copper and zinc in various proportions, was used as early as the third millennium BC in the Aegean area and the region which currently includes Iraq, the United Arab Emirates, Kalmykia, Turkmenistan, and Georgia. Zinc metal was not produced on a large scale until the 12th century in India, though it was known to the ancient Romans and Greeks. The oldest evidence of pure zinc comes from Zawar, in Rajasthan, as early as the 9th century AD when a distillation process was employed to make pure zinc.
+
+The element was probably named by the alchemist Paracelsus after the German word Zinke (prong, tooth). German chemist Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. Work by Luigi Galvani and Alessandro Volta uncovered the electrochemical properties of zinc by 1800. Corrosion-resistant zinc plating of iron (hot-dip galvanizing) is the major application for zinc. Other applications are in electrical batteries, small non-structural castings, and alloys such as brass. 
+
+## Characteristics
+
+### Physical properties 
+
+Zinc is a bluish-white, lustrous, diamagnetic metal, though most common commercial grades of the metal have a dull finish. It is somewhat less dense than iron and has a hexagonal crystal structure. The metal is hard and brittle at most temperatures but becomes malleable between 100 and 150 °C. Above 210 °C, the metal becomes brittle again and can be pulverized by beating. Zinc is a fair conductor of electricity. For a metal, zinc has relatively low melting (419.5 °C) and boiling point (907 °C). The melting point is the lowest of all the d-block metals aside from mercury and cadmium.
+
+### Occurrence 
+
+Zinc makes up about 75 ppm (0.0075%) of Earth's crust, making it the 24th most abundant element. Typical background concentrations of zinc do not exceed 1 μg/m3 in the atmosphere; 300 mg/kg in soil; 100 mg/kg in vegetation; 20 μg/L in freshwater and 5 μg/L in seawater. The element is normally found in association with other base metals such as copper and lead in ores. 
+
+### Isotopes 
+
+Five stable isotopes of zinc occur in nature, with 64Zn being the most abundant isotope (49.17% natural abundance). The other isotopes found in nature are 66Zn (27.73%), 67Zn (4.04%), 68Zn (18.45%), and 70Zn (0.61%). Several dozen radioisotopes have been characterized. 
+
+## Compounds and chemistry 
+
+### Reactivity 
+
+Zinc has an electron configuration of [Ar]3d104s2 and is a member of the group 12 of the periodic table. It is a moderately reactive metal and strong reducing agent. The surface of the pure metal tarnishes quickly, eventually forming a protective passivating layer of the basic zinc carbonate, Zn5(OH)6(CO3)2, by reaction with atmospheric carbon dioxide. 
+
+### Zinc(I) compounds 
+
+Zinc(I) compounds are very rare. The [Zn2]2+ ion is implicated by the formation of a yellow diamagnetic glass by dissolving metallic zinc in molten ZnCl2. 
+
+### Zinc(II) compounds 
+
+Binary compounds of zinc are known for most of the metalloids and all the nonmetals except the noble gases. The oxide ZnO is a white powder that is nearly insoluble in neutral aqueous solutions, but is amphoteric, dissolving in both strong basic and acidic solutions. 
+
+### Test for zinc 
+
+Cobalticyanide paper (Rinnmann's test for Zn) can be used as a chemical indicator for zinc. 
+
+## History 
+
+### Ancient use 
+
+The Charaka Samhita, thought to have been written between 300 and 500 AD, mentions a metal which, when oxidized, produces pushpanjan, thought to be zinc oxide. Zinc mines at Zawar, near Udaipur in India, have been active since the Mauryan period (c. 322 and 187 BCE). 
+
+### Early studies and naming 
+
+Zinc was distinctly recognized as a metal under the designation of Yasada or Jasada in the medical Lexicon ascribed to the Hindu king Madanapala (of Taka dynasty) and written about the year 1374. Smelting and extraction of impure zinc by reducing calamine with wool and other organic substances was accomplished in the 13th century in India.
 </div>
 </div>
