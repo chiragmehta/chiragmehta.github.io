@@ -153,6 +153,9 @@ draft: false
     }
 
     @media only screen and (max-width: 400px) {
+        #single .content,  #single .content > h1 {
+            margin:0;
+        }
         .slide-param {
             margin:1em 0;
         }
