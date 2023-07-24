@@ -3084,17 +3084,7 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-body'>
 
-The European Union (EU) makes laws through different methods. The way they choose depends on what the law is about. Usually, the European Commission suggests a law, and then the Council of the European Union and the European Parliament decide if they agree. Over time, the European Parliament has gained more power to help make laws. Only member states can change the EU's main laws, and they all have to agree to the changes. 
-
-Three main groups help make EU laws: the European Parliament, the Council of the European Union, and the European Commission. National parliaments of EU countries also play a role. The European Commission usually starts the law-making process. The European Parliament, which is made up of members chosen by people living in the EU, works with the Council to make laws. The Council represents the governments of EU countries. 
-
-When a law is suggested, it goes through several readings and votes by the Parliament and the Council. If they can't agree, a special committee tries to find a solution. If they still can't agree, the law is not passed. 
-
-Sometimes, the EU uses a quicker method called a "trilogue" to agree on laws. This involves representatives from the Parliament, the Council, and the Commission. 
-
-There are also special methods for making laws about sensitive topics. In some cases, the Council can make a law after getting the Parliament's opinion. In other cases, the Council can make a law after the Parliament agrees to it. 
-
-The EU can also change its main laws in two ways. One way is similar to the usual law-making process, but involves a conference of representatives from each member state's government. The other way allows the European Council to make changes to certain parts of the main laws, as long as all member states agree and the changes don't affect the EU's powers.
+The European Union (EU) makes laws through different methods. The European Commission usually suggests the law, and the Council of the European Union and European Parliament need to agree for it to become a law. The European Parliament's power in making laws has grown a lot. The EU's main law, called the Treaties of the European Union, can only be changed by the member countries. Three main groups help make EU laws: the European Parliament, the Council of the European Union, and the European Commission. The national parliaments of the EU countries also play a part.
 </div>
 </div>
 <div class='slide-pane' id='European_Union_legislative_procedure-G02-W0500'>
