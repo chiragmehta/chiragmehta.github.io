@@ -43,8 +43,9 @@
 
 <div class='slide-pane' id='Arcology-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -53,8 +54,9 @@ Arcology is a big word that means designing buildings to fit lots of people and 
 </div>
 <div class='slide-pane' id='Arcology-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -75,8 +77,9 @@ There are some places in the world that are trying to be a bit like arcology cit
 </div>
 <div class='slide-pane' id='Arcology-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -129,8 +132,9 @@ So, that's what 'Arcology' is all about! It's a cool concept that combines archi
 </div>
 <div class='slide-pane' id='Arcology-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -139,8 +143,9 @@ Arcology, a concept combining architecture and ecology, aims to create densely p
 </div>
 <div class='slide-pane' id='Arcology-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -159,8 +164,9 @@ Most attempts to build real arcologies have failed due to financial, structural,
 </div>
 <div class='slide-pane' id='Arcology-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -207,8 +213,9 @@ Arcology is a fascinating concept that merges architecture and ecology to envisi
 </div>
 <div class='slide-pane' id='Arcology-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -217,8 +224,9 @@ Arcology, combining "architecture" and "ecology," is a concept for creating dens
 </div>
 <div class='slide-pane' id='Arcology-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -231,8 +239,9 @@ While no full-scale arcology has been built yet, there are similar real-world pr
 </div>
 <div class='slide-pane' id='Arcology-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -273,8 +282,9 @@ The concept of arcology, while largely theoretical and often seen in science fic
 </div>
 <div class='slide-pane' id='Arcology-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -283,8 +293,9 @@ Arcology, a concept combining architecture and ecology, aims to create densely p
 </div>
 <div class='slide-pane' id='Arcology-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -310,8 +321,9 @@ Arcologies have been popularized by various science fiction writers, who often p
 </div>
 <div class='slide-pane' id='Arcology-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -356,8 +368,9 @@ Arcology represents a theoretical approach to urban planning that seeks to recon
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -366,8 +379,9 @@ The Chandrayaan programme is a series of space missions by India to explore the 
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -386,8 +400,9 @@ The Chandrayaan Programme has big plans for the future. They want to send more m
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -431,8 +446,9 @@ This information is based on various sources and is accurate as of the time of w
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -441,8 +457,9 @@ The Chandrayaan programme, run by the Indian Space Research Organisation (ISRO),
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -461,8 +478,9 @@ The future missions of the Chandrayaan programme are already being planned. Chan
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -508,8 +526,9 @@ This information is based on various sources and documents related to the Chandr
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -519,8 +538,9 @@ The Chandrayaan programme, also known as the Indian Lunar Exploration Programme,
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -533,8 +553,9 @@ The third phase of the programme, Chandrayaan-3, was proposed in November 2019 a
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -587,8 +608,9 @@ The information provided in this article is based on the text provided and does 
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -597,8 +619,9 @@ The Chandrayaan programme is an ongoing series of lunar missions by the Indian S
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -611,8 +634,9 @@ The fourth phase of the Chandrayaan programme includes on-site sampling and samp
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -680,8 +704,9 @@ This document does not include any references.
 </div>
 <div class='slide-pane' id='Epistemology-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -690,8 +715,9 @@ Epistemology is like a big word for a detective kit. It helps us understand what
 </div>
 <div class='slide-pane' id='Epistemology-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -710,8 +736,9 @@ In epistemology, there are a few key ideas that come up a lot. One of these is "
 </div>
 <div class='slide-pane' id='Epistemology-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -768,8 +795,9 @@ These are just some of the big ideas in epistemology. There's a lot more to expl
 </div>
 <div class='slide-pane' id='Epistemology-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -778,8 +806,9 @@ Epistemology, a branch of philosophy, is the study of knowledge and belief. It e
 </div>
 <div class='slide-pane' id='Epistemology-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -800,8 +829,9 @@ Belief, truth, and justification are also central concepts in epistemology. A be
 </div>
 <div class='slide-pane' id='Epistemology-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -869,8 +899,9 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-pane' id='Epistemology-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -879,8 +910,9 @@ Epistemology, the theory of knowledge, is a major branch of philosophy that stud
 </div>
 <div class='slide-pane' id='Epistemology-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -903,8 +935,9 @@ One of the important distinctions in epistemology is between what can be known a
 </div>
 <div class='slide-pane' id='Epistemology-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -991,8 +1024,9 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-pane' id='Epistemology-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1001,8 +1035,9 @@ Epistemology, or the theory of knowledge, is a major branch of philosophy that s
 </div>
 <div class='slide-pane' id='Epistemology-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1020,8 +1055,9 @@ Epistemology debates are closely related to the concept of knowledge, which is g
 </div>
 <div class='slide-pane' id='Epistemology-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1089,8 +1125,9 @@ A central debate about the nature of justification is a debate between epistemol
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1099,8 +1136,9 @@ The Grand Ethiopian Renaissance Dam (GERD) is a big dam being built on the Blue 
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1125,8 +1163,9 @@ Two of the turbines started working in 2022, delivering electricity to the natio
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1195,8 +1234,9 @@ Siltation is when dirt and other particles in the water settle at the bottom of 
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1205,8 +1245,9 @@ The Grand Ethiopian Renaissance Dam (GERD) is a gravity dam on the Blue Nile Riv
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1231,8 +1272,9 @@ The dam will have two power houses, equipped with 2 x 375 MW Francis turbine-gen
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1291,8 +1333,9 @@ The space below the "bottom" outlets is the primary buffer space for alluvium th
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1301,8 +1344,9 @@ The Grand Ethiopian Renaissance Dam (GERD), currently under construction, is set
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1320,8 +1364,9 @@ GERD's design underwent several changes between 2011 and 2019, affecting both it
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1408,8 +1453,9 @@ The space below the "bottom" outlets is the primary buffer space for alluvium th
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1418,8 +1464,9 @@ The Grand Ethiopian Renaissance Dam, currently under construction on the Blue Ni
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1432,8 +1479,9 @@ The GERD is estimated to cost close to 5 billion US dollars, approximately 7% of
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1520,8 +1568,9 @@ The space below the "bottom" outlets is the primary buffer space for alluvium th
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1530,8 +1579,9 @@ Multiple sclerosis, or MS, is a disease that damages the protective covering of 
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1558,8 +1608,9 @@ There is also a genetic aspect to MS, meaning it can run in families. If one of 
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1665,8 +1716,9 @@ Doctors usually diagnose MS based on the symptoms a person is having and the res
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1675,8 +1727,9 @@ Multiple sclerosis (MS) is a disease that damages the protective covering of ner
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1697,8 +1750,9 @@ While the exact cause of MS is unknown, it's believed to be a result of a combin
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1769,8 +1823,9 @@ The long-term outcome of MS is difficult to predict and varies greatly among ind
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1779,8 +1834,9 @@ Multiple sclerosis (MS) is a disease that damages the insulating covers of nerve
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1799,8 +1855,9 @@ The cause of MS is unknown, but it is believed to occur as a result of a combina
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 
@@ -1887,8 +1944,9 @@ Multiple sclerosis is typically diagnosed based on the presenting signs and symp
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1897,8 +1955,9 @@ Multiple sclerosis (MS) is a demyelinating disease where the insulating covers o
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 
@@ -1919,8 +1978,9 @@ The three main characteristics of MS are the formation of lesions in the central
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 

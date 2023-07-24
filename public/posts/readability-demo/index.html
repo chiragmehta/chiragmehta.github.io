@@ -6,7 +6,7 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="About this demo 🔗 Select the article from the dropdown below Set the reading level and length Read why and how I made this demo using GPT in my full post here. Readability Parameters 🔗 Article: Arcology Chandrayaan programme Epistemology Grand Ethiopian Renaissance Dam Multiple sclerosis Level: 2nd 8th College Expert Length: 50-100 500-750 1000&#43; 2nd Grade Student (age 7) 50 words (2 sentences) Arcology is a big word that means designing buildings to fit lots of people and be good for nature.">
+<meta name="description" content="About this demo 🔗 Select the article from the dropdown below Set the reading level and length Read why and how I made this demo using ChatGPT 4 in my full post here. Readability Parameters 🔗 Article: Arcology Chandrayaan programme Epistemology Grand Ethiopian Renaissance Dam Multiple sclerosis Level: 2nd 8th College Expert Length: 50-100 500-750 1000&#43; Arcology Reading Level: 2nd Grade Student (age 7) Text Length: 50-100 words Arcology is a big word that means designing buildings to fit lots of people and be good for nature.">
 <meta name="generator" content="Hugo 0.114.1">
 
 
@@ -62,7 +62,7 @@
           ·
         </span>
         <span>
-          34602 words
+          34603 words
         </span>
         <span class="split">
           ·
@@ -385,9 +385,8 @@
       <h1 id="about-this-demo">About this demo <a href="#about-this-demo" class="anchor">🔗</a></h1><ul>
 <li>Select the article from the dropdown below</li>
 <li>Set the reading <em>level</em> and <em>length</em></li>
-<li>Read why and how I made this demo using GPT in my <a href="/posts/readability">full post here</a>.</li>
+<li>Read why and how I made this demo using ChatGPT 4 in my <a href="/posts/readability">full post here</a>.</li>
 </ul>
-<!--begin-->
 <script>
     function updateText() {
         var art = document.getElementById('demo-article').value;
@@ -432,6 +431,7 @@
     }
 
     #demo-form select#demo-article {
+        font-size:1.2em;
         width:75%;
         max-width:75%;
     }
@@ -466,23 +466,31 @@
     }
 
     .slide-param {
-        border-bottom: 1px solid #0594cb;
-        height:2em;
         padding: 0;
-        margin: 1em 0;
+        margin: 1em 0 3em;
+    }
+
+    .slide-param-art {
+        font-size:1.5em;
+        text-align:center;
+        font-weight:bold;
+        border-bottom: 1px solid #0594cb;
     }
 
     .slide-param-lev {
-        font-size:1.2em;
+        font-size:0.9em;
+        color:#666;
         float:left;
-        font-weight:bold;
     }
 
     .slide-param-len {
-        clear:both;
+        font-size:0.9em;
+        color:#666;
         float:right;
-        margin-top:0.5em;
-        margin-bottom:2em;
+    }
+
+    .slide-show {
+        display: block !important;
     }
 
     .slide-body {
@@ -493,9 +501,43 @@
         background: #eee;
     }
 
-    .slide-show {
-        display: block !important;
+    .slide-body h1 {
+        font-size:1.3em;
+        color:#000;
     }
+
+    .slide-body h1:first-child {
+        margin-top:0.2em;
+    }
+
+    .slide-body h2 {
+        font-size:1.15em;
+        font-weight:normal;
+        color:#000;
+    }
+
+    .slide-body h3 {
+        padding-left:1em;
+        font-size:1em;
+        font-weight:bold;
+        color:#000;
+    }
+
+    .slide-body p {
+        padding-left:1em;
+    }
+
+    @media only screen and (max-width: 400px) {
+        .slide-param {
+            margin:1em 0;
+        }
+        .slide-param-lev, .slide-param-len {
+            text-align:center;
+            float:inherit;
+        }
+    }
+
+
 </style>
 <h1 id="readability-parameters">Readability Parameters <a href="#readability-parameters" class="anchor">🔗</a></h1><script>var LEVEL = {"G02":"2nd Grade Student (age 7)","G08":"8th Grade Student (age 13)","G16":"College Graduate (age 22)","G30":"Expert in Field (age 40)"};</script>
 <script>var LENGTH = {"W0100":"50 words (2 sentences)","W0500":"500 words (4 short paragraphs in 2 sections)","W1000":"2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)"};</script>
@@ -540,8 +582,9 @@
 </form>
 <div class='slide-pane' id='Arcology-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Arcology is a big word that means designing buildings to fit lots of people and be good for nature. The idea was made by an architect named Paolo Soleri in 1969. He thought these buildings could have homes, shops, and farms, while also being kind to the environment. This idea is mostly in books and hasn&rsquo;t been built yet. Some cities have tried to make buildings like this, like a project in Arizona and some in Tokyo and Shanghai. There&rsquo;s even a city being built in Saudi Arabia that&rsquo;s designed to have no cars or pollution!</p>
@@ -549,8 +592,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="arcology-a-cool-idea-for-future-cities">Arcology: A Cool Idea for Future Cities! <a href="#arcology-a-cool-idea-for-future-cities" class="anchor">🔗</a></h1><p><strong>What is Arcology?</strong></p>
@@ -563,8 +607,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-arcology">Understanding Arcology <a href="#understanding-arcology" class="anchor">🔗</a></h1><p>Hey kids! Have you ever heard of the word &lsquo;Arcology&rsquo;? It&rsquo;s a big word, but don&rsquo;t worry, we&rsquo;re going to break it down and make it easy to understand. Arcology is a mix of two words, &lsquo;architecture&rsquo; and &rsquo;ecology&rsquo;. It&rsquo;s all about designing buildings and cities in a way that allows lots of people to live together, but without harming our beautiful planet.</p>
@@ -590,8 +635,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Arcology, a concept combining architecture and ecology, aims to create densely populated, ecologically friendly habitats. This idea, first proposed by Paolo Soleri in 1969, envisions structures that house residential, commercial, and agricultural facilities while minimizing environmental impact. However, no full-scale arcology has been built yet. The concept has been popular in science fiction and some real-world projects, like Arcosanti in Arizona and the proposed &ldquo;The Line&rdquo; in Saudi Arabia, have tried to apply these principles. Arcologies aim to be self-sufficient, using their own resources for power, food, and waste treatment, and reducing the impact on natural resources.</p>
@@ -599,8 +645,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="arcology-a-blend-of-architecture-and-ecology">Arcology: A Blend of Architecture and Ecology <a href="#arcology-a-blend-of-architecture-and-ecology" class="anchor">🔗</a></h1><p>Arcology is a combination of the words &ldquo;architecture&rdquo; and &ldquo;ecology&rdquo;. It&rsquo;s a concept that involves designing buildings for densely populated areas in a way that minimally affects the environment. The term was first used in 1969 by an architect named Paolo Soleri. He believed that an arcology could house a variety of facilities such as homes, businesses, and farms, while also reducing the environmental impact of each person living there. However, no actual arcology has been built yet, despite Soleri&rsquo;s vision. The idea of arcologies has been used by many science fiction writers, who often depict them as self-contained or economically self-sufficient cities.</p>
@@ -610,8 +657,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="introduction-to-arcology">Introduction to Arcology <a href="#introduction-to-arcology" class="anchor">🔗</a></h1><p>Arcology is a blend of two words: &ldquo;architecture&rdquo; and &ldquo;ecology&rdquo;. It&rsquo;s a unique field that merges these two disciplines to create design principles for densely populated, yet environmentally friendly human habitats. The term was first introduced in 1969 by an architect named Paolo Soleri. He envisioned that a fully realized arcology would house various residential, commercial, and agricultural facilities, all while minimizing the environmental impact of its inhabitants. However, these structures have remained mostly theoretical, with no complete arcology yet built, even by Soleri himself.</p>
@@ -633,8 +681,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Arcology, combining &ldquo;architecture&rdquo; and &ldquo;ecology,&rdquo; is a concept for creating densely populated, ecologically low-impact habitats. Coined by architect Paolo Soleri in 1969, the idea envisions spaces for residential, commercial, and agricultural facilities while minimizing environmental impact. Although no arcology has been built, the concept has been popularized in science fiction and some real-world projects have attempted to adhere to its principles. Arcologies aim to be self-sustainable, using their own resources for power, food production, and waste treatment, and to reduce human impact on natural resources.</p>
@@ -642,8 +691,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <p>Arcology, a term coined by architect Paolo Soleri in 1969, is a concept that blends architecture and ecology. The idea is to create densely populated yet ecologically low-impact human habitats. These habitats, or arcologies, would house a variety of facilities, such as residential, commercial, and agricultural spaces, while minimizing individual human environmental impact. Despite the concept&rsquo;s popularity in science fiction literature, no arcology has been built yet. Authors like Larry Niven, Jerry Pournelle, William Gibson, Peter Hamilton, and Paolo Bacigalupi have used arcologies in their works, often portraying them as self-contained or economically self-sufficient.</p>
@@ -653,8 +703,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="introduction-to-arcology-1">Introduction to Arcology <a href="#introduction-to-arcology-1" class="anchor">🔗</a></h1><p>Arcology is a term that merges &ldquo;architecture&rdquo; and &ldquo;ecology.&rdquo; This field focuses on creating architectural design principles that cater to very densely populated and ecologically low-impact human habitats. The term was coined in 1969 by architect Paolo Soleri, who believed that a completed arcology would provide space for a variety of residential, commercial, and agricultural facilities while minimizing individual human environmental impact. However, these structures have remained largely hypothetical, as no arcology, even one envisioned by Soleri himself, has yet been built.</p>
@@ -673,8 +724,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Arcology, a concept combining architecture and ecology, aims to create densely populated, low-impact human habitats. Coined by architect Paolo Soleri in 1969, arcologies are designed to be self-sustainable, reducing human impact on natural resources by employing available resources for power, climate control, food production, and more. While no true arcologies have been built, various attempts and prototypes have been made, such as Arcosanti in Arizona and proposed projects in Tokyo and Shanghai. The concept has been popularized in science fiction and is often portrayed as self-contained or economically self-sufficient.</p>
@@ -682,8 +734,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="arcology-a-multidisciplinary-approach-to-sustainable-urban-development">Arcology: A Multidisciplinary Approach to Sustainable Urban Development <a href="#arcology-a-multidisciplinary-approach-to-sustainable-urban-development" class="anchor">🔗</a></h1><h2 id="concept-and-development-of-arcology">Concept and Development of Arcology <a href="#concept-and-development-of-arcology" class="anchor">🔗</a></h2><p>Arcology, a term coined by architect Paolo Soleri in 1969, combines &ldquo;architecture&rdquo; and &ldquo;ecology&rdquo; to propose a design approach for densely populated, ecologically low-impact human habitats. Soleri envisioned arcologies as multifunctional structures that could accommodate residential, commercial, and agricultural facilities while minimizing individual human environmental impact. However, these structures remain largely hypothetical, with no completed arcology to date.</p>
@@ -697,8 +750,9 @@
 </div>
 <div class='slide-pane' id='Arcology-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Arcology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="arcology-a-synthesis-of-architecture-and-ecology">Arcology: A Synthesis of Architecture and Ecology <a href="#arcology-a-synthesis-of-architecture-and-ecology" class="anchor">🔗</a></h1><p>Arcology, a term derived from the fusion of &ldquo;architecture&rdquo; and &ldquo;ecology&rdquo;, represents a field dedicated to the development of architectural design principles for densely populated, ecologically low-impact human habitats. This concept was introduced in 1969 by the architect Paolo Soleri, who envisioned that a fully realized arcology would accommodate a variety of residential, commercial, and agricultural facilities while minimizing individual human environmental impact. Despite the theoretical nature of these structures, as no arcology has been constructed to date, the concept has gained popularity through various science fiction works.</p>
@@ -718,8 +772,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Chandrayaan programme is a series of space missions by India to explore the Moon. They use different types of spacecraft like orbiters, landers, and rovers. The first mission, Chandrayaan-1, found water on the Moon! The second mission, Chandrayaan-2, tried to land a rover on the Moon but it didn&rsquo;t work out. However, the orbiter is still working and collecting data. Chandrayaan-3, the third mission, aims to successfully land a rover on the Moon and do science experiments. Future missions, Chandrayaan-4 and Chandrayaan-5, will collect and analyze samples from the Moon&rsquo;s surface. Chandrayaan-6 even plans to bring samples back to Earth!</p>
@@ -727,8 +782,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="chandrayaan-programme">Chandrayaan Programme <a href="#chandrayaan-programme" class="anchor">🔗</a></h1><p>The Chandrayaan Programme is like a big space adventure planned by India. It&rsquo;s a series of missions to explore the Moon, just like you might explore a new playground or park. The Indian Space Research Organisation (ISRO) is the team behind these missions. They use special spacecrafts like orbiters, impactors, soft landers, and rovers to study the Moon. Imagine these as different types of space cars, each with its own special job!</p>
@@ -738,8 +794,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-chandrayaan-programme">The Chandrayaan Programme <a href="#the-chandrayaan-programme" class="anchor">🔗</a></h1><p>The Chandrayaan Programme, also known as the Indian Lunar Exploration Programme, is a series of missions to outer space. These missions are led by the Indian Space Research Organisation (ISRO). The programme includes different types of spacecraft like lunar orbiter, impactor, soft lander, and rover.</p>
@@ -759,8 +816,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Chandrayaan programme, run by the Indian Space Research Organisation (ISRO), is a series of missions exploring outer space, especially the moon. The programme includes orbiters, impactors, soft landers, and rovers. The first mission, Chandrayaan-1, launched in 2008, was successful in discovering water on the moon. The second mission, Chandrayaan-2, launched in 2019, lost its lander but the orbiter is still operational. The third mission, Chandrayaan-3, launched in 2023, aims to successfully land on the moon and carry out scientific experiments. Future missions plan to perform on-site sampling and return samples to earth.</p>
@@ -768,8 +826,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="chandrayaan-programme-1">Chandrayaan Programme <a href="#chandrayaan-programme-1" class="anchor">🔗</a></h1><p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is a series of missions to outer space run by the Indian Space Research Organisation (ISRO). The name Chandrayaan means &lsquo;Moon craft&rsquo; in Sanskrit. This programme includes different types of spacecraft such as lunar orbiter, impactor, soft lander, and rover. Think of these like different tools in a toolbox, each designed for a specific task in exploring the moon.</p>
@@ -779,8 +838,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="chandrayaan-programme-an-in-depth-overview">Chandrayaan Programme: An In-depth Overview <a href="#chandrayaan-programme-an-in-depth-overview" class="anchor">🔗</a></h1><p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is an ongoing series of outer space missions managed by the Indian Space Research Organisation (ISRO). The name &lsquo;Chandrayaan&rsquo; comes from the Sanskrit words &lsquo;Chandra&rsquo; meaning moon and &lsquo;Yaan&rsquo; meaning vehicle or craft. So, Chandrayaan literally means &lsquo;Moon craft&rsquo;. The programme includes various types of spacecraft like lunar orbiter, impactor, soft lander, and rover.</p>
@@ -801,8 +861,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is a series of outer space missions by the Indian Space Research Organisation (ISRO). The programme, which includes lunar orbiter, impactor, soft lander, and rover spacecraft, has launched multiple successful missions to the Moon. The first mission, Chandrayaan-1, discovered water on the Moon. The second mission, Chandrayaan-2, launched a successful orbiter but lost the lander. The third mission, Chandrayaan-3, aimed to demonstrate successful lunar landing and rover mobility. Future missions plan to perform on-site sampling and analysis of lunar material and eventually return samples to Earth.</p>
@@ -810,8 +871,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is an ongoing series of outer space missions conducted by the Indian Space Research Organisation (ISRO). The programme consists of lunar orbiter, impactor, soft lander, and rover spacecraft. As of September 2019, one orbiter with an impactor probe has been sent to the Moon. The second spacecraft, which includes an orbiter, soft lander, and rover, was launched on 22 July 2019. The Chandrayaan-3 mission was launched on 14 July 2023 and is expected to reach the Moon&rsquo;s surface in August.</p>
@@ -821,8 +883,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="chandrayaan-programme-an-in-depth-overview-1">Chandrayaan Programme: An In-depth Overview <a href="#chandrayaan-programme-an-in-depth-overview-1" class="anchor">🔗</a></h1><p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is a series of ongoing outer space missions by the Indian Space Research Organisation (ISRO). The term &lsquo;Chandrayaan&rsquo; is a Sanskrit word, which translates to &lsquo;Moon craft&rsquo;. This programme incorporates several types of spacecraft, including a lunar orbiter, impactor, soft lander, and rover.</p>
@@ -844,8 +907,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Chandrayaan programme is an ongoing series of lunar missions by the Indian Space Research Organisation (ISRO). The programme, which includes lunar orbiter, impactor, soft lander and rover spacecraft, has launched multiple missions since 2008, with the most recent, Chandrayaan-3, launched in July 2023. Future missions include the Lunar Polar Exploration Mission or Chandrayaan-4, planned for 2025, and Chandrayaan-5 and Chandrayaan-6, planned for 2025-30 and 2030-35 respectively, which will involve on-site sampling and sample-return missions.</p>
@@ -853,8 +917,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is an ongoing series of outer space missions by the Indian Space Research Organisation (ISRO). The programme incorporates lunar orbiter, impactor, soft lander, and rover spacecraft. As of September 2019, one orbiter with an impactor probe has been sent to the Moon, using ISRO&rsquo;s PSLV rocket. The second spacecraft, consisting of an orbiter, soft lander, and rover, was launched on 22 July 2019, using an LVM-3 rocket. The Chandrayaan-3 mission was launched on 14 July 2023 using LVM-3 and is expected to reach the Moon&rsquo;s surface in August.</p>
@@ -864,8 +929,9 @@
 </div>
 <div class='slide-pane' id='Chandrayaan_programme-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Chandrayaan programme</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="chandrayaan-programme-an-in-depth-analysis">Chandrayaan Programme: An In-depth Analysis <a href="#chandrayaan-programme-an-in-depth-analysis" class="anchor">🔗</a></h1><p>The Chandrayaan programme, also known as the Indian Lunar Exploration Programme, is a series of ongoing outer space missions organized by the Indian Space Research Organisation (ISRO). The term &lsquo;Chandrayaan&rsquo; is derived from Sanskrit, with &lsquo;Chandra&rsquo; meaning &lsquo;Moon&rsquo; and &lsquo;yaan&rsquo; meaning &lsquo;craft&rsquo;. The programme encompasses various types of spacecraft, including lunar orbiters, impactors, soft landers, and rovers.</p>
@@ -889,8 +955,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Epistemology is like a big word for a detective kit. It helps us understand what knowledge is, where it comes from, and how we know what we know. It&rsquo;s like asking, &ldquo;How do I know that 2+2=4?&rdquo; or &ldquo;How can I be sure that my memory of yesterday&rsquo;s lunch is accurate?&rdquo; It&rsquo;s a part of philosophy, which is like a big tree with many branches, and it&rsquo;s been studied by thinkers from all over the world for thousands of years. It&rsquo;s all about exploring and understanding the mystery of knowledge.</p>
@@ -898,8 +965,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-epistemology">Understanding Epistemology <a href="#understanding-epistemology" class="anchor">🔗</a></h1><p>Epistemology is a big word that sounds complicated, but it&rsquo;s actually just about understanding how we know things. It&rsquo;s like being a detective of knowledge! Epistemologists, or people who study epistemology, ask questions like &ldquo;What do people know?&rdquo;, &ldquo;How do people know that they know?&rdquo;, and &ldquo;What makes our beliefs justified?&rdquo; They also look at where our knowledge comes from, whether it&rsquo;s from what we see, what we remember, or what others tell us. They even explore if all our beliefs need to come from a solid foundation of justified beliefs, or if they just need to fit together in a way that makes sense.</p>
@@ -909,8 +977,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-epistemology-a-guide-for-kids">Understanding Epistemology: A Guide for Kids <a href="#understanding-epistemology-a-guide-for-kids" class="anchor">🔗</a></h1><h2 id="what-is-epistemology">What is Epistemology? <a href="#what-is-epistemology" class="anchor">🔗</a></h2><p>Have you ever asked yourself, &ldquo;How do I know what I know?&rdquo; or &ldquo;What does it mean to know something?&rdquo; These are big questions, and they&rsquo;re part of a subject called Epistemology. It&rsquo;s a big word, but don&rsquo;t worry, we&rsquo;ll break it down together!</p>
@@ -932,8 +1001,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Epistemology, a branch of philosophy, is the study of knowledge and belief. It explores the nature, origin, and scope of knowledge, as well as the conditions required for a belief to be considered knowledge. Epistemologists examine potential sources of knowledge like perception, reason, memory, and testimony. They also explore the structure of knowledge and philosophical skepticism, which questions the possibility of knowledge. The term &ldquo;epistemology&rdquo; comes from the Greek word &ldquo;epistēmē,&rdquo; meaning knowledge, and the English suffix &ldquo;-ology,&rdquo; meaning the science or discipline of something. The field has been studied by philosophers throughout history, including ancient Greeks, medieval scholars, and modern thinkers.</p>
@@ -941,8 +1011,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-epistemology-1">Understanding Epistemology <a href="#understanding-epistemology-1" class="anchor">🔗</a></h1><p>Epistemology is a branch of philosophy that studies the nature, origin, and scope of knowledge. It&rsquo;s like the science of knowing, helping us understand what it means to know something, how we justify our beliefs, and how we can be sure that we truly know something. For example, you might think you know that dogs are mammals because you&rsquo;ve seen dogs and they look like other mammals you know. But an epistemologist would ask, &ldquo;How do you know that what you&rsquo;ve seen is truly representative of all dogs? What makes your belief justified?&rdquo; Epistemologists often debate about what constitutes knowledge, the sources of knowledge, the structure of knowledge, and philosophical skepticism, which questions the very possibility of knowledge.</p>
@@ -953,8 +1024,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-epistemology-2">Understanding Epistemology <a href="#understanding-epistemology-2" class="anchor">🔗</a></h1><h2 id="introduction-to-epistemology">Introduction to Epistemology <a href="#introduction-to-epistemology" class="anchor">🔗</a></h2><p>Epistemology, a term derived from the Ancient Greek words &rsquo;epistḗmē&rsquo; meaning &lsquo;knowledge&rsquo;, and &lsquo;-logy&rsquo; meaning &rsquo;the study of&rsquo;, is a branch of philosophy that deals with the theory of knowledge. It is a significant subfield of philosophy, along with other major subfields such as ethics, logic, and metaphysics.</p>
@@ -983,8 +1055,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Epistemology, the theory of knowledge, is a major branch of philosophy that studies the nature, origin, and scope of knowledge. It explores topics such as the rationality of belief, the conditions for a belief to be considered knowledge, potential sources of knowledge, the structure of knowledge, and philosophical skepticism. The term &ldquo;epistemology&rdquo; originated from the ancient Greek word &ldquo;epistēmē,&rdquo; meaning &ldquo;knowledge,&rdquo; and the English suffix &ldquo;-ology,&rdquo; meaning &ldquo;the science or discipline of.&rdquo; The concept has been explored by philosophers throughout history, from Ancient Greek philosophers like Plato and Aristotle to contemporary scholars.</p>
@@ -992,8 +1065,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="epistemology-a-comprehensive-overview">Epistemology: A Comprehensive Overview <a href="#epistemology-a-comprehensive-overview" class="anchor">🔗</a></h1><p>Epistemology, derived from Ancient Greek words &rsquo;epistḗmē&rsquo; meaning &lsquo;knowledge&rsquo; and &lsquo;-logy&rsquo; meaning &rsquo;the science or discipline of&rsquo;, is the branch of philosophy that investigates the nature, origin, and scope of knowledge. It is a major subfield of philosophy, alongside ethics, logic, and metaphysics. Epistemologists focus on four core areas: the philosophical analysis of knowledge and the conditions required for a belief to constitute knowledge, potential sources of knowledge, the structure of a body of knowledge, and philosophical skepticism. Epistemology aims to answer questions such as &ldquo;What do people know?&rdquo;, &ldquo;What does it mean to say that people know something?&rdquo;, &ldquo;What makes justified beliefs justified?&rdquo;, and &ldquo;How do people know that they know?&rdquo;.</p>
@@ -1005,8 +1079,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="an-in-depth-examination-of-epistemology">An In-Depth Examination of Epistemology <a href="#an-in-depth-examination-of-epistemology" class="anchor">🔗</a></h1><p>Epistemology, a term derived from the Ancient Greek words ἐπιστήμη (epistḗmē) meaning &lsquo;knowledge&rsquo;, and -logy, is a significant branch of philosophy that deals with the theory of knowledge. This field of study is concerned with the nature, origin, and scope of knowledge, epistemic justification, the rationality of belief, and various related issues. Epistemology is a major subfield of philosophy, along with other significant subfields such as ethics, logic, and metaphysics.</p>
@@ -1057,8 +1132,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Epistemology, or the theory of knowledge, is a major branch of philosophy that studies the nature, origin, and scope of knowledge and belief. It explores questions like &ldquo;What do people know?&rdquo;, &ldquo;What does it mean to say that people know something?&rdquo;, and &ldquo;What makes justified beliefs justified?&rdquo;. The field has its roots in ancient Greek philosophy, with significant contributions from Plato and Aristotle, and has evolved through the centuries with notable input from philosophers like Thomas Aquinas, Al-Ghazali, and Immanuel Kant. Contemporary epistemology debates often revolve around the concepts of knowledge, belief, truth, and justification.</p>
@@ -1066,8 +1142,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="epistemology-key-concepts">Epistemology: Key Concepts <a href="#epistemology-key-concepts" class="anchor">🔗</a></h1><h2 id="definition-and-core-areas">Definition and Core Areas <a href="#definition-and-core-areas" class="anchor">🔗</a></h2><p>Epistemology, derived from the Ancient Greek words for &lsquo;knowledge&rsquo; and &lsquo;-logy&rsquo;, is a major branch of philosophy that is concerned with the theory of knowledge. Epistemologists focus on understanding the nature, origin, and scope of knowledge, as well as epistemic justification and the rationality of belief. Central debates in epistemology revolve around four core areas: the philosophical analysis of knowledge and the conditions required for belief to constitute knowledge; potential sources of knowledge such as perception, reason, memory, and testimony; the structure of a body of knowledge or justified belief; and philosophical skepticism, which questions the possibility of knowledge.</p>
@@ -1077,8 +1154,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Epistemology-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Epistemology</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="epistemology-an-in-depth-analysis">Epistemology: An In-Depth Analysis <a href="#epistemology-an-in-depth-analysis" class="anchor">🔗</a></h1><p>Epistemology, derived from the Ancient Greek words ἐπιστήμη (epistḗmē) meaning &lsquo;knowledge&rsquo;, and -logy, is a branch of philosophy that studies the nature, origin, and scope of knowledge. It is a major subfield of philosophy, along with other significant subfields such as ethics, logic, and metaphysics.</p>
@@ -1107,8 +1185,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Grand Ethiopian Renaissance Dam (GERD) is a big dam being built on the Blue Nile River in Ethiopia. It&rsquo;s meant to produce electricity for Ethiopia and its neighboring countries, and when it&rsquo;s finished, it will be the biggest hydroelectric power plant in Africa. The dam is being filled with water in phases, and it started producing electricity for the first time in February 2022. However, the dam has caused some arguments, especially with Egypt, which relies heavily on the Nile River for water and is worried that the dam will reduce its water supply.</p>
@@ -1116,8 +1195,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam">The Grand Ethiopian Renaissance Dam <a href="#the-grand-ethiopian-renaissance-dam" class="anchor">🔗</a></h1><p>The Grand Ethiopian Renaissance Dam (GERD) is a big dam being built on the Blue Nile River in Ethiopia. It started being built in 2011 and when it&rsquo;s finished, it will be the biggest power plant in Africa that makes electricity from water, also known as hydroelectric power. The dam is being built to help Ethiopia with its need for more electricity and to sell electricity to neighboring countries. The dam is being filled with water in stages. The first stage began in July 2020 and the third stage was completed in August 2022. The dam started producing electricity for the first time in February 2022.</p>
@@ -1130,8 +1210,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam-1">The Grand Ethiopian Renaissance Dam <a href="#the-grand-ethiopian-renaissance-dam-1" class="anchor">🔗</a></h1><h2 id="what-is-the-grand-ethiopian-renaissance-dam">What is the Grand Ethiopian Renaissance Dam? <a href="#what-is-the-grand-ethiopian-renaissance-dam" class="anchor">🔗</a></h2><p>The Grand Ethiopian Renaissance Dam, also known as GERD, is a big dam being built in Ethiopia. It&rsquo;s so big that when it&rsquo;s finished, it will be the largest hydroelectric power plant in Africa. That means it will be able to make the most electricity out of all the power plants in Africa that use water to make electricity. It&rsquo;s being built on the Blue Nile River, which is one of the main rivers in Africa.</p>
@@ -1153,8 +1234,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Grand Ethiopian Renaissance Dam (GERD) is a gravity dam on the Blue Nile River in Ethiopia. It&rsquo;s being built to produce electricity for Ethiopia and neighboring countries. Once finished, it will be the largest hydroelectric power plant in Africa and among the 20 largest in the world. The dam has been under construction since 2011 and filling its reservoir began in 2020. However, the project has been controversial, with Egypt opposing it due to concerns about reduced water availability from the Nile. The dam&rsquo;s cost is nearly $5 billion, funded by government bonds and private donations.</p>
@@ -1162,8 +1244,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam-gerd">The Grand Ethiopian Renaissance Dam (GERD) <a href="#the-grand-ethiopian-renaissance-dam-gerd" class="anchor">🔗</a></h1><p>The Grand Ethiopian Renaissance Dam (GERD), formerly known as the Millennium Dam, is a gravity dam on the Blue Nile River in Ethiopia. It has been under construction since 2011 and is located in the Benishangul-Gumuz Region of Ethiopia, about 45 km (28 mi) east of the border with Sudan. The primary purpose of the dam is to produce electricity to help Ethiopia&rsquo;s severe energy shortage and to export electricity to neighboring countries. Once completed, the dam will have a planned installed capacity of 5.15 gigawatts, making it the largest hydroelectric power plant in Africa and one of the 20 largest in the world.</p>
@@ -1176,8 +1259,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam-gerd-1">The Grand Ethiopian Renaissance Dam (GERD) <a href="#the-grand-ethiopian-renaissance-dam-gerd-1" class="anchor">🔗</a></h1><p>The Grand Ethiopian Renaissance Dam (GERD), also known as TaIHiGe in Amharic, is a gravity dam in the process of being built on the Blue Nile River in Ethiopia. The dam was previously referred to as the Millennium Dam and sometimes as the Hidase Dam. A gravity dam is a type of dam that uses its own weight to resist the force of water. The dam has been under construction since 2011.</p>
@@ -1202,8 +1286,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Grand Ethiopian Renaissance Dam (GERD), currently under construction, is set to become Africa&rsquo;s largest hydroelectric power plant. The dam, located on the Blue Nile River in Ethiopia, aims to alleviate the country&rsquo;s energy shortage and export electricity to neighboring countries. Despite controversy and opposition from downstream countries like Egypt, the dam has made significant progress, with the reservoir&rsquo;s third filling completed in August 2022. The dam, funded by government bonds and private donations, started producing electricity in February 2022. The project&rsquo;s total cost is estimated at around $5 billion, with China&rsquo;s Exim Bank funding $1 billion for turbines and electrical equipment.</p>
@@ -1211,8 +1296,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam-gerd-2">The Grand Ethiopian Renaissance Dam (GERD) <a href="#the-grand-ethiopian-renaissance-dam-gerd-2" class="anchor">🔗</a></h1><h2 id="overview">Overview <a href="#overview" class="anchor">🔗</a></h2><p>The Grand Ethiopian Renaissance Dam (GERD) is a gravity dam on the Blue Nile River in Ethiopia, under construction since 2011. Located in the Benishangul-Gumuz Region, the dam is approximately 45 km east of the Sudanese border. Its primary purpose is electricity production to alleviate Ethiopia&rsquo;s energy shortage and export electricity to neighboring countries. With a planned installed capacity of 5.15 gigawatts, GERD will be Africa&rsquo;s largest hydroelectric power plant and among the world&rsquo;s top 20 upon completion. The dam&rsquo;s reservoir began filling in July 2020, with subsequent phases completed in 2021 and 2022, reaching a water level of 600 meters. The dam produced electricity for the first time in February 2022.</p>
@@ -1222,8 +1308,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam-a-comprehensive-overview">The Grand Ethiopian Renaissance Dam: A Comprehensive Overview <a href="#the-grand-ethiopian-renaissance-dam-a-comprehensive-overview" class="anchor">🔗</a></h1><h2 id="introduction">Introduction <a href="#introduction" class="anchor">🔗</a></h2><p>The Grand Ethiopian Renaissance Dam (GERD), also known as TaIHiGe in Amharic, is a gravity dam on the Blue Nile River in Ethiopia that has been under construction since 2011. The dam, previously known as the Millennium Dam and sometimes referred to as the Hidase Dam, is situated in the Benishangul-Gumuz Region of Ethiopia, approximately 45 km (28 mi) east of the border with Sudan.</p>
@@ -1258,8 +1345,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>The Grand Ethiopian Renaissance Dam, currently under construction on the Blue Nile River, is set to be Africa&rsquo;s largest hydroelectric power plant. The dam&rsquo;s primary purpose is to alleviate Ethiopia&rsquo;s energy shortage and export electricity to neighboring countries. Despite opposition from Egypt, which relies heavily on the Nile for water, Ethiopia maintains that the dam will not reduce downstream water availability and will actually increase water flows to Egypt. The dam has undergone several design changes, and its current power generation capacity is 5,150 MW. The dam began producing electricity for the first time in February 2022.</p>
@@ -1267,8 +1355,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <p>The Grand Ethiopian Renaissance Dam (GERD), previously known as the Millennium Dam, is a gravity dam on the Blue Nile River in Ethiopia. The dam, which has been under construction since 2011, is located in the Benishangul-Gumuz Region of Ethiopia, approximately 45 km east of the Sudanese border. The primary purpose of the dam is to produce electricity to alleviate Ethiopia&rsquo;s severe energy shortage and to export electricity to neighbouring countries. The dam is set to have a planned installed capacity of 5.15 gigawatts, making it the largest hydroelectric power plant in Africa and one of the 20 largest in the world once completed. The dam&rsquo;s reservoir began filling in July 2020 and is expected to take between 4 and 7 years to fill completely, depending on hydrologic conditions.</p>
@@ -1278,8 +1367,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Grand_Ethiopian_Renaissance_Dam-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Grand Ethiopian Renaissance Dam</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="the-grand-ethiopian-renaissance-dam-an-in-depth-analysis">The Grand Ethiopian Renaissance Dam: An In-depth Analysis <a href="#the-grand-ethiopian-renaissance-dam-an-in-depth-analysis" class="anchor">🔗</a></h1><p>The Grand Ethiopian Renaissance Dam (GERD), also known in Amharic as Tālāqu ye-Ītyōppyā Hidāsē Gidib, is a gravity dam located on the Blue Nile River in Ethiopia. The dam, which has been under construction since 2011, is situated in the Benishangul-Gumuz Region of Ethiopia, approximately 45 km east of the border with Sudan. The primary purpose of the dam is to generate electricity to alleviate Ethiopia&rsquo;s severe energy shortage and to export electricity to neighboring countries.</p>
@@ -1315,8 +1405,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Multiple sclerosis, or MS, is a disease that damages the protective covering of nerves in the brain and spinal cord. This can cause problems like double vision, muscle weakness, and trouble with balance. Doctors aren&rsquo;t sure what causes MS, but it might be due to the body&rsquo;s defense system attacking the nerves or a problem with the cells that make the nerve covering. It&rsquo;s also possible that genes or things in the environment, like viruses, might play a role. There isn&rsquo;t a cure for MS, but treatments can help manage symptoms and slow down the disease. MS is more common in women and usually starts between the ages of 20 and 50.</p>
@@ -1324,8 +1415,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-multiple-sclerosis">Understanding Multiple Sclerosis <a href="#understanding-multiple-sclerosis" class="anchor">🔗</a></h1><p>Multiple Sclerosis, or MS, is a disease that harms the protective covers of nerve cells in your brain and spinal cord. Imagine the wires in your house. They are covered by a plastic layer to protect them. If that layer is damaged, the wires might not work properly. The same thing happens in your body when MS damages the protective layer of your nerves. This can cause problems like double vision, muscle weakness, and trouble with coordination. It&rsquo;s like the body&rsquo;s messaging system gets mixed up.</p>
@@ -1339,8 +1431,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G02-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>2nd Grade Student (age 7)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 2nd Grade Student (age 7)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-multiple-sclerosis-1">Understanding Multiple Sclerosis <a href="#understanding-multiple-sclerosis-1" class="anchor">🔗</a></h1><p>Multiple sclerosis, often shortened to MS, is a disease that affects the brain and spinal cord. It&rsquo;s like the body&rsquo;s electrical wiring system breaking down. The brain sends messages to the body through nerves, like wires. These nerves are covered by a protective layer called myelin, like the plastic coating around a wire. In MS, the myelin gets damaged, which makes it harder for the brain to send messages to the rest of the body. This can cause a lot of different problems, like feeling weak, having trouble moving, or having problems with seeing.</p>
@@ -1392,8 +1485,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Multiple sclerosis (MS) is a disease that damages the protective covering of nerve cells in the brain and spinal cord, disrupting the transmission of signals in the nervous system. This can result in physical, mental, and sometimes psychiatric symptoms such as double vision, muscle weakness, and coordination issues. The cause of MS is unclear, but it&rsquo;s thought to involve the immune system and possibly genetic and environmental factors. There is no known cure for MS, but treatments can help manage symptoms and prevent new attacks. As of 2022, nearly one million people in the U.S. have MS.</p>
@@ -1401,8 +1495,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="multiple-sclerosis-an-overview">Multiple Sclerosis: An Overview <a href="#multiple-sclerosis-an-overview" class="anchor">🔗</a></h1><p>Multiple Sclerosis (MS) is a disease that affects the insulating covers of nerve cells in the brain and spinal cord, disrupting the nervous system&rsquo;s ability to transmit signals. This can result in a variety of symptoms, including physical, mental, and sometimes psychiatric problems. For instance, someone with MS might experience double vision, muscle weakness, or trouble with sensation or coordination. The disease can take several forms, with symptoms either appearing in isolated attacks or gradually building up over time. The exact cause of MS is unclear, but it&rsquo;s thought to be related to the immune system or a failure of the cells that produce myelin, the insulating cover of nerve cells. Factors like genetics and environmental factors, such as viral infections, could also play a role. As of now, there is no known cure for MS, but treatments can help improve function after an attack and prevent new attacks.</p>
@@ -1413,8 +1508,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G08-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>8th Grade Student (age 13)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: 8th Grade Student (age 13)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-multiple-sclerosis-ms">Understanding Multiple Sclerosis (MS) <a href="#understanding-multiple-sclerosis-ms" class="anchor">🔗</a></h1><p>Multiple Sclerosis (MS) is a common disease that damages the protective covers of nerve cells in the brain and spinal cord. This damage interrupts the nervous system&rsquo;s ability to transmit signals, leading to various physical, mental, and sometimes psychiatric problems. The symptoms can include double vision, loss of vision, muscle weakness, and issues with sensation or coordination.</p>
@@ -1439,8 +1535,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Multiple sclerosis (MS) is a disease that damages the insulating covers of nerve cells in the brain and spinal cord, disrupting the nervous system&rsquo;s ability to transmit signals. This can result in physical, mental, and sometimes psychiatric symptoms, such as double vision, muscle weakness, and coordination issues. MS can progress in different ways, with symptoms either occurring in isolated attacks or building up over time. The cause is unclear but is thought to involve the immune system or failure of myelin-producing cells. There is no known cure for MS, but treatments aim to improve function and prevent new attacks. Nearly one million people have MS in the United States in 2022, and about 2.8 million people were affected globally in 2020.</p>
@@ -1448,8 +1545,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="multiple-sclerosis-an-overview-1">Multiple Sclerosis: An Overview <a href="#multiple-sclerosis-an-overview-1" class="anchor">🔗</a></h1><p>Multiple Sclerosis (MS) is a prevalent demyelinating disease that damages the protective covers of nerve cells in the brain and spinal cord, disrupting signal transmission in the nervous system. This disruption leads to various physical, mental, and sometimes psychiatric symptoms, such as double vision, visual loss, muscle weakness, and issues with sensation or coordination. MS manifests in several forms, with symptoms either appearing in isolated attacks (relapsing forms) or progressively building up over time. The cause of MS remains unclear, but it is believed to involve either destruction by the immune system or failure of the myelin-producing cells. Potential causes include genetics and environmental factors like viral infections. Although no cure for MS exists, treatments aim to improve function after an attack and prevent new attacks. As of 2022, nearly one million people in the United States and about 2.8 million people globally have MS.</p>
@@ -1459,8 +1557,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G16-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>College Graduate (age 22)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: College Graduate (age 22)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="understanding-multiple-sclerosis-an-in-depth-analysis">Understanding Multiple Sclerosis: An In-Depth Analysis <a href="#understanding-multiple-sclerosis-an-in-depth-analysis" class="anchor">🔗</a></h1><p>Multiple sclerosis (MS) is a chronic, often disabling disease that affects the central nervous system. It is the most common demyelinating disease, a term that refers to diseases that damage the protective covering of nerve cells in the brain and spinal cord, known as myelin. This damage disrupts the ability of parts of the nervous system to transmit signals, resulting in a range of symptoms that can include physical, mental, and sometimes psychiatric problems.</p>
@@ -1492,8 +1591,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W0100'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>50 words (2 sentences)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 50-100 words</div>
 </div>
 <div class='slide-body'>
 <p>Multiple sclerosis (MS) is a demyelinating disease where the insulating covers of nerve cells in the brain and spinal cord are damaged, disrupting signal transmission and causing physical, mental, and sometimes psychiatric symptoms. The cause is unclear, but it&rsquo;s thought to involve the immune system or failure of myelin-producing cells. No cure exists, but treatments aim to improve function after an attack and prevent new ones. MS affects nearly one million people in the US and about 2.8 million globally. It usually begins between ages 20 and 50 and is twice as common in women.</p>
@@ -1501,8 +1601,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W0500'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>500 words (4 short paragraphs in 2 sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 500-750 words</div>
 </div>
 <div class='slide-body'>
 <h1 id="multiple-sclerosis-key-concepts">Multiple Sclerosis: Key Concepts <a href="#multiple-sclerosis-key-concepts" class="anchor">🔗</a></h1><h2 id="overview-and-symptoms">Overview and Symptoms <a href="#overview-and-symptoms" class="anchor">🔗</a></h2><p>Multiple sclerosis (MS) is a prevalent demyelinating disease that damages the insulating covers of nerve cells in the brain and spinal cord, disrupting signal transmission in the nervous system. This disruption manifests various physical, mental, and sometimes psychiatric symptoms, including double vision, visual loss, muscle weakness, and trouble with sensation or coordination. MS symptoms can either occur in isolated attacks (relapsing forms) or build up over time (progressive forms). The underlying mechanism is thought to be either destruction by the immune system or failure of the myelin-producing cells, possibly due to genetic and environmental factors such as viral infections. As of 2022, nearly one million people in the United States and about 2.8 million people worldwide are affected by MS.</p>
@@ -1512,8 +1613,9 @@ Exploration of the Moon – Missions to the Moon</p>
 </div>
 <div class='slide-pane' id='Multiple_sclerosis-G30-W1000'>
 <div class='slide-param'>
-<div class='slide-param-lev'>Expert in Field (age 40)</div>
-<div class='slide-param-len'>2000 words (full length 5 pages, 20 long paragraphs in 5+ sections)</div>
+<div class='slide-param-art'>Multiple sclerosis</div>
+<div class='slide-param-lev'>Reading Level: Expert in Field (age 40)</div>
+<div class='slide-param-len'>Text Length: 1000+ words</div>
 </div>
 <div class='slide-body'>
 <h1 id="multiple-sclerosis-an-in-depth-analysis">Multiple Sclerosis: An In-depth Analysis <a href="#multiple-sclerosis-an-in-depth-analysis" class="anchor">🔗</a></h1><p>Multiple sclerosis (MS) is a prevalent demyelinating disease that affects the insulating covers of nerve cells in the brain and spinal cord. This disease disrupts the nervous system&rsquo;s ability to transmit signals, leading to a wide range of symptoms, including physical, mental, and sometimes psychiatric problems.</p>
@@ -1540,6 +1642,7 @@ Exploration of the Moon – Missions to the Moon</p>
 <script>
     updateText();
 </script>
+<!--begin-->
     </div>
 
     

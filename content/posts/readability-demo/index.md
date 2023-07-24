@@ -9,9 +9,7 @@ draft: false
 # About this demo
 - Select the article from the dropdown below
 - Set the reading *level* and *length*
-- Read why and how I made this demo using GPT in my [full post here](/posts/readability).
-
-<!--begin-->
+- Read why and how I made this demo using ChatGPT 4 in my [full post here](/posts/readability).
 
 <script>
     function updateText() {
@@ -58,6 +56,7 @@ draft: false
     }
 
     #demo-form select#demo-article {
+        font-size:1.2em;
         width:75%;
         max-width:75%;
     }
@@ -92,23 +91,31 @@ draft: false
     }
 
     .slide-param {
-        border-bottom: 1px solid #0594cb;
-        height:2em;
         padding: 0;
-        margin: 1em 0;
+        margin: 1em 0 3em;
+    }
+
+    .slide-param-art {
+        font-size:1.5em;
+        text-align:center;
+        font-weight:bold;
+        border-bottom: 1px solid #0594cb;
     }
 
     .slide-param-lev {
-        font-size:1.2em;
+        font-size:0.9em;
+        color:#666;
         float:left;
-        font-weight:bold;
     }
 
     .slide-param-len {
-        clear:both;
+        font-size:0.9em;
+        color:#666;
         float:right;
-        margin-top:0.5em;
-        margin-bottom:2em;
+    }
+
+    .slide-show {
+        display: block !important;
     }
 
     .slide-body {
@@ -119,9 +126,43 @@ draft: false
         background: #eee;
     }
 
-    .slide-show {
-        display: block !important;
+    .slide-body h1 {
+        font-size:1.3em;
+        color:#000;
     }
+
+    .slide-body h1:first-child {
+        margin-top:0.2em;
+    }
+
+    .slide-body h2 {
+        font-size:1.15em;
+        font-weight:normal;
+        color:#000;
+    }
+
+    .slide-body h3 {
+        padding-left:1em;
+        font-size:1em;
+        font-weight:bold;
+        color:#000;
+    }
+
+    .slide-body p {
+        padding-left:1em;
+    }
+
+    @media only screen and (max-width: 400px) {
+        .slide-param {
+            margin:1em 0;
+        }
+        .slide-param-lev, .slide-param-len {
+            text-align:center;
+            float:inherit;
+        }
+    }
+
+
 </style>
 
 {{% include "autogen.md" %}}
@@ -129,3 +170,5 @@ draft: false
 <script>
     updateText();
 </script>
+
+<!--begin-->
