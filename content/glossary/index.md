@@ -56,10 +56,6 @@ Although "pretending" to sound coherent and actually being coherent are two vast
 
 For programmers in corporate environment, how great would it be to use a version of [Copilot](https://github.com/features/copilot) that is trained specifically on your codebase and does not leak any data outside your company servers! Local LLMs will eventually make that and a lot more possible, routine, and practically necessary.
 
-## Multimodal Models
-
-**[Multimodal](https://becominghuman.ai/what-is-multimodal-in-ai-1a24a4ea478b)** Models go beyond LLMs. LLMs read and write text (in one or more languages) but multimodal models can digest images, audio, and video too. They can scan an image and describe it in words, or they can listen to a song and write a music-theory essay on it. While multimodal models will continue to get more powerful and likely be better suited to consumer applications in the long-term, LLMs remain my primary interest and the focus of this blog. In 1993, it was all about [multimedia](http://tayvaughan.com/multimedia/). Now in 2023, it's all about multimodal.
-
 # LLM Configuration
 
 ## Prompt Engineering
@@ -117,6 +113,10 @@ So if you have an Nvidia GPU, use GPTQ version of LLMs. Otherwise, use GGML vers
 
 
 # Other AI-tech
+
+## Multimodal Models
+
+**[Multimodal](https://becominghuman.ai/what-is-multimodal-in-ai-1a24a4ea478b)** Models go beyond LLMs. LLMs read and write text (in one or more languages) but multimodal models can digest images, audio, and video too. They can scan an image and describe it in words, or they can listen to a song and write a music-theory essay on it. While multimodal models will continue to get more powerful and likely be better suited to consumer applications in the long-term, LLMs remain my primary interest and the focus of this blog. In 1993, it was all about [multimedia](http://tayvaughan.com/multimedia/). Now in 2023, it's all about multimodal.
 
 ## Stable Diffusion (SD)
 
