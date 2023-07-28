@@ -29,6 +29,7 @@ I wrote a now-archived (and undoubtedly obsolete) [tech blog](https://chir.ag/te
 - [Building god](https://www.strangeloopcanon.com/p/building-god) by Rohit Krishnan
 - [One Useful Things](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) by Prof. Ethan Mollick
 - [Things I’m Learning While Training SuperHOT](https://kaiokendev.github.io/til) by Kaio Ken
+- [AI and the automation of work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai) by Ben Evans
 
 # Disclaimer
 
