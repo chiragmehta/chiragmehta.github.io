@@ -99,7 +99,7 @@ A similar user interface could also be shown when selecting any text. In additio
 
 ## How this could work
 
-At present, [ChatGPT 4](https://openai.com/gpt-4) by OpenAI is the only AI [large language model (LLM)](/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
+At present, OpenAI [GPT-4](https://openai.com/gpt-4) is the only AI [large language model (LLM)](/glossary/#llm) capable of doing an acceptable job at taking a few pages worth of text and rewriting it to a different reading comprehension level at a different length. I tried a few different cloud LLMs, but their results were not good enough. Either way, cloud LLMs are not an acceptable path forward because they can get expensive for longer source texts, do not work without Internet connection, and there are privacy and copyright concerns with sending full text to third parties.
 
 My hope is that [local LLMs](/glossary/#rlocalllama) will continue to improve and in a few years (maybe 5-10), almost all consumer-level devices will have their own version of GPT 4+, capable of re-explaining or rewriting any source content, without the need for an Internet connection. It is already [possible](https://webllm.mlc.ai/) as a proof-of-concept using graphics cards on newer laptops and phones. Give it a few more years of innovation, and we'll wonder how we lived without it, like search engines and smartphones.
 
@@ -111,7 +111,7 @@ There should always be an option to view original source text and any rewritten 
 
 ## Would this actually work and be useful?
 
-I think so. And that is why I spent $50+ on GPT 4 API to rewrite these Wikipedia articles at 4 different levels and 3 different lengths each. Converting all [6.6 million articles](https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia) on English Wikipedia would cost about $10-15 million at this rate, not cheap but also not impossible.
+I think so. And that is why I spent $50+ on GPT-4 API to rewrite these Wikipedia articles at 4 different levels and 3 different lengths each. Converting all [6.6 million articles](https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia) on English Wikipedia would cost about $10-15 million at this rate, not cheap but also not impossible.
 
 Dear OpenAI and Anthropic, please make wiki.openai.com or wiki.anthropic.com happen! Make it work like the demo here: **[Readability Demo](/posts/readability-demo)**
 
@@ -119,7 +119,7 @@ Dear OpenAI and Anthropic, please make wiki.openai.com or wiki.anthropic.com hap
 
 ## Selecting parameters
 
-After I experimented with rewriting text content in a lot of different ways with number of local and cloud LLM APIs for weeks, I settled on using specific grade level and length system prompts for ChatGPT 4 API. I ended up with 4 reading levels and 3 different word lengths. In addition to being expensive, GPT output was not substantially different for every grade level and due to the non-deterministic nature of output, sometimes grade 4-5 would be more complex than grade 6-7, or text limited to 50-100 words would be longer than text for 150-200 words. Here are the final parameters:
+After I experimented with rewriting text content in a lot of different ways with number of local and cloud LLM APIs for weeks, I settled on using specific grade level and length system prompts for OpenAI GPT-4 API. I ended up with 4 reading levels and 3 different word lengths. In addition to being expensive, GPT output was not substantially different for every grade level and due to the non-deterministic nature of output, sometimes grade 4-5 would be more complex than grade 6-7, or text limited to 50-100 words would be longer than text for 150-200 words. Here are the final parameters:
 
 ### Level
 * 2nd Grade Student (age 7)
@@ -134,7 +134,7 @@ After I experimented with rewriting text content in a lot of different ways with
 
 ## Articles
 
-I tried out various combinations of the above parameters with a few different Wikipedia articles until the results matched my expectations and then finalized a variety of articles. I wrote a script that downloads the plain-text version of each article once, and then calls ChatGPT 4 API for every combination of selected level and length (total 12 times) per article. Shorter lengths cost less, longer ones more.
+I tried out various combinations of the above parameters with a few different Wikipedia articles until the results matched my expectations and then finalized a variety of articles. I wrote a script that downloads the plain-text version of each article once, and then calls OpenAI GPT-4 API for every combination of selected level and length (total 12 times) per article. Shorter lengths cost less, longer ones more.
 
 ## System Prompts
 
