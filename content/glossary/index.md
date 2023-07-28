@@ -40,7 +40,7 @@ Although "pretending" to sound coherent and actually being coherent are two vast
 
 ## Alpaca
 
-**[Alpaca LLM](https://crfm.stanford.edu/2023/03/13/alpaca.html)** by Standard team is an LLM based off the LLaMA model, using [https://arxiv.org/abs/2212.10560](self-instruct) method on ChatGPT. In short, they used ChatGPT to teach LLaMA to respond better. Since the model is derivative of ChatGPT and LLaMA model family, commercial use is not permitted.
+**[Alpaca LLM](https://crfm.stanford.edu/2023/03/13/alpaca.html)** by Standard team is an LLM based off the LLaMA model, using [self-instruct](https://arxiv.org/abs/2212.10560) method on ChatGPT. In short, they used ChatGPT to teach LLaMA to respond better. Since the model is derivative of ChatGPT and LLaMA model family, commercial use is not permitted.
 
 ## Guanaco
 
