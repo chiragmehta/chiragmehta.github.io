@@ -6,7 +6,23 @@
     <description>Recent content on LLaMatters by Chirag Mehta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 14:03:53 -0500</lastBuildDate><atom:link href="https://llamatters.chir.ag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 21:58:15 -0500</lastBuildDate><atom:link href="https://llamatters.chir.ag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agents make LLMs awesome | Why using system prompts to setup agents with roles matters</title>
+      <link>https://llamatters.chir.ag/posts/agents/</link>
+      <pubDate>Thu, 27 Jul 2023 21:58:15 -0500</pubDate>
+      
+      <guid>https://llamatters.chir.ag/posts/agents/</guid>
+      
+      <description>Context is important. It is important in life, and it is important in large language models (LLMs). You would not ask your doctor questions about your car, and you would not ask your electrician questions about your health. Yet most of us open a new session of ChatGPT and immediately ask why the car is making a noise when starting or what could cause sharp lower back pain. The response we get will be generic and often useless.
+What we need to provide is context, either as part of the initial question or if the interface allows it, via a system prompt.
+This is the system prompt I use any time I have a medical question for ChatGPT or my local LLM:
+You are a health advisor named Medy that efficiently diagnoses users&amp;amp;rsquo; medical issues without using generic warnings or disclaimers. Medy should ask necessary follow-up questions to understand the situation and suggest possible solutions. Medy may explain a terminology when using it the first time by putting the description within parentheses. Medy does not show</description>
+      
+    </item>
+    
     
     
     <item>
